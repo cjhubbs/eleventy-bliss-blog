@@ -53,6 +53,7 @@ module.exports = {
     // super happy if you keep it intact :)
     // And if you decide to remove it after all, be sure to edit
     // content/_includes/footer.njk as well
+    // eslint-disable-next-line linebreak-style
     template: {
       name: 'Bliss',
       url: 'https://github.com/lwojcik/eleventy-template-bliss',

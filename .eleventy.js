@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 const {
   initialSetup,
   layoutAliases,
@@ -41,6 +42,9 @@ module.exports = function (eleventyConfig) {
 
   Object.values(filters).forEach(({ name, body }) => {
     eleventyConfig.addFilter(name, body);
+  });
+  eleventyConfig.addFilter('log', value => {
+    console.log(value);
   });
 
   // --- Shortcodes

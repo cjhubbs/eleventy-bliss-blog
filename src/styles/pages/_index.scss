@@ -45,6 +45,13 @@
     }
   }
 
+  .excerpt-image {
+    float:right;
+    max-height: 12em;
+    max-width: 12em;
+    overflow-y: hidden;
+  }
+
   a:hover,
   a:focus {
     .post-title {

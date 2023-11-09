@@ -6,7 +6,8 @@
     <header>
       <h2 class="post-title">{{ post.data.title }}</h2>
     </header>
-    <div class="excerpt"> 
+    <div class="excerpt">
+      <div class="excerpt-image"><img src="{{ post.data.image.src }}" alt="{{ imageAlt }}" /></div>
       {% excerpt post %}
     </div>
     <div class="post-meta">

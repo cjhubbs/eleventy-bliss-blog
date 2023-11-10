@@ -38,6 +38,7 @@
 
   .excerpt {
     font-size: 1.125rem;
+    display: flex;
 
     @include mobile {
       font-size: 1rem;
@@ -46,10 +47,20 @@
   }
 
   .excerpt-image {
-    float:right;
+    flex: 1;
     max-height: 12em;
     max-width: 12em;
     overflow-y: hidden;
+    margin-right: 1em;
+  }
+
+  .excerpt-text {
+    flex: 1;
+  }
+
+  .readmore-link {
+    font-style: italic;
+    color:  rgb(66, 66, 248);  
   }
 
   a:hover,

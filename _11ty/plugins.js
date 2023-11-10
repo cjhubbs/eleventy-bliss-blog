@@ -9,6 +9,7 @@ const pluginPWA = require('eleventy-plugin-pwa-v2');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const faviconsPlugin = require('eleventy-plugin-gen-favicons');
 const embedYouTube = require("eleventy-plugin-youtube-embed");
+const embedTwitter = require("eleventy-plugin-embed-twitter");
 
 const productionPlugins = IS_PRODUCTION
   ? [
@@ -62,6 +63,9 @@ const plugins = [
   },
   {
     body: embedYouTube,
+  },
+  {
+    body: embedTwitter,
   },
   {
     body: faviconsPlugin,

@@ -1,6 +1,7 @@
 ---
 title: 'Hope springs eternal...'
 date: 2023-03-30
+tags: ['baseball']
 ---
 
 It's Opening Day for Major League Baseball, which is the one day of the year where I can be guaranteed that the Cubs are at least tied for first place in the NL Central.

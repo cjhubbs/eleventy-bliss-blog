@@ -93,6 +93,10 @@ module.exports = {
   // ---------------------------------------------------------------------------
   metaPages: [
     {
+      url: 'https://books.chrishubbs.com',
+      title: 'My Bookshelf'
+    },
+    {
       url: 'https://bsky.app/cjhubbs',
       title: 'Bluesky',
     },

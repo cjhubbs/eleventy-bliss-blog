@@ -20,12 +20,12 @@ Hi there! Thanks for visiting ChrisHubbs.com! Here’s the two-minute answer to 
 
 **Professional:**
 
-Aviation Certification Specialist: In my day job I am the Director of Avionics Advanced Technology Certification at Collins Aerospace. (disclaimer: all opinions here are my opinions, not theirs.
+Aviation Certification Specialist: In my day job I am the Director of Avionics Advanced Technology Certification at Collins Aerospace. (Disclaimer: all opinions here are my opinions, not theirs.)
 
 **Online:**
 
 - Web design: I do some freelance web design when I have time.
-- Blog consumer: OK, so I’m subscribed to way too many blogs. Feedbin says 493 feeds at the moment. I’m sure I’ve added at least a couple today, and will add a couple more tomorrow. I’m interested in music, the arts, politics, and theology. I’m even more interested if you can get a couple of those to intersect in some cool way.
+- Blog consumer: I still do the RSS thing. Feedbin is one of my every-day startup tabs, with about 500 feeds subscribed at any given time. I’m interested in music, the arts, politics, and theology. I’m even more interested if you can get a couple of those to intersect in some cool way.
 
 **Find me online:**
 
@@ -35,4 +35,4 @@ Aviation Certification Specialist: In my day job I am the Director of Avionics A
 
 **Contact me:**
 
-chris (at) chrishubbs (dot) com
+- chris (at) chrishubbs (dot) com

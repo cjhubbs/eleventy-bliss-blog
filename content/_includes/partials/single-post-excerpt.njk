@@ -7,8 +7,10 @@
       <h2 class="post-title">{{ post.data.title }}</h2>
     </header>
     <div class="excerpt">
+      {% if post.data.image %}
       <div class="excerpt-image"><img src="{{ post.data.image.src }}" alt="{{ imageAlt }}" /></div>
-      {% excerpt post %}
+      {% endif %}
+      <div class="excerpt-text">{% excerpt post %} <br/><span class='readmore-link'>Read more...</span></div>
     </div>
     <div class="post-meta">
         <time>{{ postDate }}</time>

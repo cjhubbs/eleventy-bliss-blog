@@ -1,6 +1,7 @@
 ---
 title: "Waiting for the Lightning"
 date: 2022-05-19T23:56:59.000
+tags: ['music','arcade-fire']
 ---
 
 For a guy who loves music, I’ve never been the guy who finds and falls in love with an artist on their first album. From my youth I have tended to find bands on their second or third album - probably the popular one - then gone back and learned their back catalog.

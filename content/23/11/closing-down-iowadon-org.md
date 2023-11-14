@@ -3,7 +3,7 @@ title: 'Closing down iowadon.org'
 date: 2023-11-07T01:40:24.000
 ---
 
-A year ago [I set up my own Mastodon server](/22/11/10/setting-up-a-mastodon-instance-on-linode/) at iowadon.org. Elon Musk had just bought Twitter and was quite obviously going to ruin it, Bluesky was still a very small beta test, and I thought hey, why not, I would enjoy the project and could try my hand at administrating a social media instance. So I dropped $15 for the domain name and $50 for a year of a cheap VPS and gave it a shot.
+A year ago [I set up my own Mastodon server](/22/11/setting-up-a-mastodon-instance-on-linode/) at iowadon.org. Elon Musk had just bought Twitter and was quite obviously going to ruin it, Bluesky was still a very small beta test, and I thought hey, why not, I would enjoy the project and could try my hand at administrating a social media instance. So I dropped $15 for the domain name and $50 for a year of a cheap VPS and gave it a shot.
 
 It was indeed a fun challenge getting it set up. Once I had it up and functional it was low-maintenance enough - an occasional small version upgrade, a couple moderation requests to resolve. I never promoted the instance much, and as a result I never had more than about half a dozen active users, most of whom I knew personally. And it was fine. But as my domain came up for renewal I asked myself if it was something I wanted to continue, and I decided the answer was no.
 

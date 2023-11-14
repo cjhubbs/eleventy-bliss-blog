@@ -1,11 +1,10 @@
 ---
-title: "Finished Reading: People to Be Loved by Preston Sprinkle"
-date: "2017-06-22T17:38:32.000"
+title: 'Finished Reading: People to Be Loved by Preston Sprinkle'
+date: 2017-06-22T17:38:32.000
+tags: ['theology', 'lgbtq']
 ---
 
 I've honestly been avoiding books on the topic of Christian views on homosexuality because I've become so familiar and fatigued with the arguments over the past decade. But this one by Preston Sprinkle caught my attention and was on sale cheap at the time on Amazon, so I downloaded it to my Kindle app and gave it a go.
-
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0310519659&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=chrishubbs-20)](https://www.amazon.com/People-Be-Loved-Homosexuality-Issue/dp/0310519659/ref=as_li_ss_il?ie=UTF8&qid=1498146632&sr=8-1&keywords=people+to+be+loved+preston+sprinkle&linkCode=li3&tag=chrishubbs-20&linkId=208a8cc31ba67916147e54d4e930f9cf)
 
 Sprinkle sets out to take an evenhanded look through the Bible at the various key texts that have been used to argue for both the Affirming and Non-Affirming positions regarding homosexual practice. I'll give him credit - for the majority of the book he was even enough that I had no real inkling of which side he was going to come down on. Well done!
 

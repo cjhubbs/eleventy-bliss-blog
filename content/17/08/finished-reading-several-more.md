@@ -1,11 +1,10 @@
 ---
-title: "Finished reading: several more"
-date: "2017-08-28T17:10:47.000"
+title: 'Finished reading: several more'
+date: 2017-08-28T17:10:47.000
+tags: ['books', 'reading']
 ---
 
 It's been a while since I've put a post together, but I haven't stopped reading... recent books:
-
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2017/08/51Ou0l4hEPL._SX331_BO1204203200_.jpg)
 
 **[_Movies are Prayers: How Films Voice Our Deepest Longings_](http://amzn.to/2wiTnOY) by Josh Larsen**
 

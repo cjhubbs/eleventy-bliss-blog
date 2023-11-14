@@ -1,8 +1,7 @@
 ---
-title: "Positive politics: a little bit of foundation"
-date: "2017-12-07T22:00:52.000"
-tags: 
-  - "politics"
+title: 'Positive politics: a little bit of foundation'
+date: 2017-12-07T22:00:52.000
+tags: ['politics', 'positive-politics']
 ---
 
 Before I start in on specific political topics, I want to lay out some foundation that will lie under the specifics.
@@ -12,8 +11,6 @@ Before I start in on specific political topics, I want to lay out some foundatio
 **Second**, the Bible provides very little direct instruction on what a government should look like other than some basics like punishing evil, encouraging good, being righteous and just. There has been a lot of teaching and assumption in the American evangelical church over the past 40 years that "Christian values" are closely aligned with Republican party positions. I'm going to challenge that assumption while hopefully not irrationally rebelling against it.
 
 **Third**, politics is the art of the possible, and inherent in good politics is compromise. If all stakeholders are a little bit happy and a little bit unhappy with an outcome, it's probably a good result from a political viewpoint.
-
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2017/12/politics-500x325.jpg)
 
 **Fourth**, I believe that tolerance and freedom are values that should be promoted in our society. While I am a Christian, I do not believe that the best government would promote the Christian faith over other faiths. This includes not compelling uniquely Christian rules or practices simply because they are Christian. The government should foster a society that encourages the flourishing of all its members, regardless of their faith.
 

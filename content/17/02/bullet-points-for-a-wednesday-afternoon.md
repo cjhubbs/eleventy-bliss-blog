@@ -1,6 +1,7 @@
 ---
-title: "Bullet points for a Wednesday afternoon"
-date: "2017-02-08T20:50:09.000"
+title: 'Bullet points for a Wednesday afternoon'
+date: 2017-02-08T20:50:09.000
+tags: ['bullet-points']
 ---
 
 - I'm glad I signed up for the 0530 kickboxing class, but it'd really help if I'd go to bed earlier at night. Short sleep + workouts = ouch.

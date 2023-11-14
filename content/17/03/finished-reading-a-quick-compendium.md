@@ -1,6 +1,7 @@
 ---
-title: "Finished reading: a quick compendium"
-date: "2017-03-15T18:59:06.000"
+title: 'Finished reading: a quick compendium'
+date: 2017-03-15T18:59:06.000
+tags: ['books', 'reading']
 ---
 
 Because I've been lazy and not keeping up:

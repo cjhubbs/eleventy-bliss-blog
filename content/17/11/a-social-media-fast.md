@@ -1,6 +1,7 @@
 ---
-title: "A Social Media Fast"
-date: "2017-11-28T16:05:50.000"
+title: 'A Social Media Fast'
+date: 2017-11-28T16:05:50.000
+tags: ['social-media']
 ---
 
 The holidays aren't typically a time we think of fasting... but it was time. I've been a perpetual user of social media for just about as long as that media has existed. I had an account on Facebook they day they opened it up to more than just college students. I was an early adopter and evangelist of Twitter, and while I don't tweet as much as some people do (maybe 32k tweets in 10 years... which is still 10 a day, I guess) I've had a Tweetdeck window perpetually on my computer desktop and Tweetbot on the front page of my iPhone.

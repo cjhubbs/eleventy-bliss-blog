@@ -1,9 +1,8 @@
 ---
-title: "Finished Reading: The Shadow Land by Elizabeth Kostova"
-date: "2017-05-31T18:24:28.000"
+title: 'Finished Reading: The Shadow Land by Elizabeth Kostova'
+date: 2017-05-31T18:24:28.000
+tags: ['books', 'reading']
 ---
-
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0345527860&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=chrishubbs-20)](https://www.amazon.com/Shadow-Land-Novel-Elizabeth-Kostova/dp/0345527860/ref=as_li_ss_il?ie=UTF8&qid=1496254565&sr=8-1&keywords=the+shadow+land&linkCode=li3&tag=chrishubbs-20&linkId=a561cbcab309ed7af8d5ea1f8254f95c)![](https://ir-na.amazon-adsystem.com/e/ir?t=chrishubbs-20&l=li3&o=1&a=0345527860)
 
 Grabbed this one off the library shelf on a whim. I read Kostova's _The Historian_ a few years back and remember enjoying it, and I was ready for some fiction.
 

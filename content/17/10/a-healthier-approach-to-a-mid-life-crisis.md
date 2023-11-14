@@ -1,6 +1,10 @@
 ---
-title: "A healthier approach to a mid-life crisis..."
-date: "2017-10-11T20:04:14.000"
+title: 'A healthier approach to a mid-life crisis...'
+date: 2017-10-11T20:04:14.000
+tags: ['podcasts', 'andrew-osenga']
+image:
+  src: /images/2017/the-pivot.jpg
+  alt: the pivot podcast
 ---
 
 Andrew Osenga started a new podcast earlier this year called [The Pivot](http://www.andrewosenga.com/podcast/). Episode 3 is his discussion with musician, producer, and composer [Don Chaffer](https://twitter.com/donchaffer). Toward the end of the interview, Don talks about how he's started writing for musical theater, and how it provides an outlet that he needs as a 40-ish father and husband.
@@ -9,4 +13,4 @@ Andrew Osenga started a new podcast earlier this year called [The Pivot](http://
 
 I resonate with that more than I'd like to admit many days. (I bet my wife does, too.)
 
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2017/10/Pivot-1_04_jpg-500x500.jpg)
+![](http://chrishubbs.com/wp-content/uploads/2017/10/Pivot-1_04_jpg-500x500.jpg)

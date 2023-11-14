@@ -1,6 +1,7 @@
 ---
-title: "David Bentley Hart, from The Doors of the Sea"
-date: "2017-07-31T14:39:49.000"
+title: 'David Bentley Hart, from The Doors of the Sea'
+date: 2017-07-31T14:39:49.000
+tags: ['theology', 'david-bentley-hart']
 ---
 
 A lovely passage from the conclusion of [_The Doors of the Sea_](http://amzn.to/2uIPaVP), wherein David Bentley Hart addresses the _how can a good God allow suffering?_ question:

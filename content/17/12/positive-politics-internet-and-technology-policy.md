@@ -1,13 +1,13 @@
 ---
-title: "Positive Politics: Internet and Technology Policy"
-date: "2017-12-15T12:54:57.000"
-tags: 
-  - "politics"
+title: 'Positive Politics: Internet and Technology Policy'
+date: 2017-12-15T12:54:57.000
+tags: ['politics', 'positive-politics', 'tech']
+image:
+  src: /images/2017/technology.jpg
+  alt: technology icon
 ---
 
 Well I'm not ready to jump into one of the big ugly topics yet, so maybe this one will be a little easier. (Maybe.) Let's talk about the internet and overall technology policies.
-
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2017/12/technology-2818664_640-500x281.jpg)
 
 ### Access / Control of Internet
 

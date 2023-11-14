@@ -1,6 +1,7 @@
 ---
-title: "Sabbath is a way of life..."
-date: "2017-06-10T14:28:13.000"
+title: 'Sabbath is a way of life...'
+date: 2017-06-10T14:28:13.000
+tags: ['theology', 'marilynne-robinson']
 ---
 
 More from Marilynne Robinson's [_The Givenness of Things_](http://amzn.to/2rVMPUh), from a chapter titled "Decline":

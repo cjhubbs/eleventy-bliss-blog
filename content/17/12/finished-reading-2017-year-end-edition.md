@@ -1,6 +1,7 @@
 ---
-title: "Finished reading: 2017 year-end edition"
-date: "2017-12-31T14:13:48.000"
+title: 'Finished reading: 2017 year-end edition'
+date: 2017-12-31T14:13:48.000
+tags: ['books', 'reading']
 ---
 
 I’ve gotten seriously slack at listing all the books I’ve been reading. Consider this my year-end catch-up post. (Not to be confused with my year-in-review post which will come next week sometime.)

@@ -1,9 +1,10 @@
 ---
-title: "A little random follow-up"
-date: "2017-08-07T12:17:50.000"
+title: 'A little random follow-up'
+date: 2017-08-07T12:17:50.000
+tags: ['music', 'church']
 ---
 
-Nearly a year ago [I wrote a post dismayed about a church looking for a part-time Director of Music with almost unbelievable qualifications](http://chrishubbs.com/2016/09/27/a-little-plastic-surgery-for-the-body-of-christ/). Just to recap, they were looking for:
+Nearly a year ago [I wrote a post dismayed about a church looking for a part-time Director of Music with almost unbelievable qualifications](/16/09/a-little-plastic-surgery-for-the-body-of-christ/). Just to recap, they were looking for:
 
 > Significant musical experience in performing and directing a contemporary band along with experience in songwriting and production. Must be able to incorporate strings, percussion, and other instruments into contemporary-band driven arrangements Ability to work with and train vocalists in singing of parts Ability to incorporate backing tracks and loops into regular Sunday and special services Minimum of bachelor’s degree in music and/or 5 years’ related church or industry experience. **Possessing an MDiv or MA in theology is ideal.**
 

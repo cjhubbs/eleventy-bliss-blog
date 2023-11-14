@@ -1,13 +1,13 @@
 ---
-title: "Positive Politics: Education"
-date: "2017-12-11T20:00:06.000"
-tags: 
-  - "politics"
+title: 'Positive Politics: Education'
+date: 2017-12-11T20:00:06.000
+tags: ['politics', 'positive-politics', 'education']
+image:
+  src: /images/2017/education.jpg
+  alt: education icon
 ---
 
 None of the topics I've teed up for my Positive Politics discussions are easy ones, but in the interests of easing into things I'll try to take one that's maybe not super-controversial to start. (Of course, as with anything political, I may be surprised by what becomes controversial.) So let's talk about education. For my own organizational purposes, I'm going to break this down into three pieces: early childhood, K-12, and college.
-
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2017/12/education-500x333.jpg)
 
 ### My Background
 
@@ -58,5 +58,3 @@ I'm not sure what all powerful groups need to be challenged in this area, but I 
 \--
 
 _\[As a reminder: while this blog post is cross-posted to Facebook, I'm on a social media fast through the end of 2017, which means if you comment there I won't see it. If you want to interact, comment here on the blog!\]_
-
-_\[Image credit: [The Blue Diamond Gallery](http://www.thebluediamondgallery.com/wooden-tile/images/education.jpg)\]_

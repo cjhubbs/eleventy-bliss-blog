@@ -1,6 +1,7 @@
 ---
-title: "Rands: Assume they have something to teach you"
-date: "2017-05-09T16:57:13.000"
+title: 'Rands: Assume they have something to teach you'
+date: 2017-05-09T16:57:13.000
+tags: ['leadership']
 ---
 
 A [brilliant post from Rands today](http://randsinrepose.com/archives/assume-they-have-something-to-teach-you/) that has broad applicability beyond managing in the tech industry.

@@ -1,6 +1,7 @@
 ---
-title: "Jethani: Blessed Are The Disillusioned"
-date: "2017-04-04T17:55:04.000"
+title: 'Jethani: Blessed Are The Disillusioned'
+date: 2017-04-04T17:55:04.000
+tags: ['theology']
 ---
 
 Skye Jethani articulates in a piece today a lot of the frustrations I have felt and heard in recent months. Just a sample:

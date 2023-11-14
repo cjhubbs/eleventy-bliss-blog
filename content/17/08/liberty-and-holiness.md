@@ -1,6 +1,7 @@
 ---
-title: "Liberty and Holiness"
-date: "2017-08-30T20:15:32.000"
+title: 'Liberty and Holiness'
+date: 2017-08-30T20:15:32.000
+tags: ['politics']
 ---
 
 In a Facebook discussion recently on a mildly contentious topic, a friend brought out a line of argument that has me ruminating. Here's what he said:
@@ -8,8 +9,6 @@ In a Facebook discussion recently on a mildly contentious topic, a friend brough
 > I think there is a lot to be said for the liberty we Christians have to partake of things, but there are certainly things the world has devised that are inherently unpleasing to God in any form. The question is - are we certain enough - do we have enough firm evidence that these \[disputable\] practices discussed above are absolutely _not_ going to offend God that we can participate in them with a clean conscience? I know this - I have been bought with a very high price - the blood of Christ, and all too often, I do not reflect that in my conduct, but I should. I hope that we all are moved by that high price to think not of how far out to the boundaries of God's permission we can roam in our conduct, but how near to Christ we can get.
 
 This is a familiar argument in many ways. (How many times have I heard this as the preferred answer to lusting teens asking "how far is too far?"!) And indeed, it seems almost foolhardy to try to argue against the "how near to Christ can you get?" position. But on this question of liberty and holiness I think we could frame things up a little differently.
-
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2017/08/wpid-holiness-500x188.jpg)
 
 First, liberty and holiness are not two ends of the same spectrum. Here we need to distinguish between liberty in permissible things and freedom to sin. Freedom to sin using the excuse of abundant grace is clearly out of bounds (Romans 6:1). But liberty in matters of conscience is something different. When Paul instructs the Corinthians about meat sacrificed to idols, there is no suggestion that meat is OK, but not eating meat is more holy. There is holiness in exercising liberty.
 

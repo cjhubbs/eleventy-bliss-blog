@@ -1,6 +1,7 @@
 ---
-title: "Andrew Sullivan on the Gay Wedding Cake Case"
-date: "2017-12-08T14:56:11.000"
+title: 'Andrew Sullivan on the Gay Wedding Cake Case'
+date: 2017-12-08T14:56:11.000
+tags: ['politics', 'lgbtq']
 ---
 
 I miss Andrew Sullivan. I'm glad the guy detached a bit - the pace of his daily blogging was incredible, no surprise it wasn't sustainable - but he has a unique and important voice on issues of our time. So it was no surprise to me that his weekly column addressing the Gay Wedding Cake case is a must read.

@@ -1,6 +1,6 @@
 ---
-title: "James: Gotta Trust Somebody"
-date: "2017-05-19T14:02:51.000"
+title: 'James: Gotta Trust Somebody'
+date: 2017-05-19T14:02:51.000
 ---
 
 Samuel James made a couple excellent points yesterday about our intake of the newsmedia [over at Mere Orthodoxy](https://blogs.mereorthodoxy.com/samuel/2017/05/18/gotta-trust-somebody/).

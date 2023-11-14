@@ -1,6 +1,6 @@
 ---
-title: "Finished reading: another compendium"
-date: "2017-05-01T13:15:44.000"
+title: 'Finished reading: more books'
+date: 2017-05-01T13:15:44.000
 ---
 
 Finished reading:
@@ -22,8 +22,6 @@ A portrait of Catholic radical Dorothy Day as written by her granddaughter. Whil
 **[_Boeing Versus Airbus: The Inside Story of the Greatest International Competition in Business_](http://amzn.to/2pAjksa) by John Newhouse**
 
 Interesting to me primarily because I work in the industry. The book is 10 years old - would be interesting to read an update now that Boeing's 787 has made it to the field.
-
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2017/05/41bm7ubSmaL._SY344_BO1204203200_.jpg)
 
 **[_Liturgy of the Ordinary: Sacred Practices in Everyday Life_](http://amzn.to/2pnb4ek) by Tish Harrison Warren**
 

@@ -1,9 +1,8 @@
 ---
-title: "Finished Reading: The Day the Revolution Began by N. T. Wright"
-date: "2017-03-29T21:59:05.000"
+title: 'Finished Reading: The Day the Revolution Began by N. T. Wright'
+date: 2017-03-29T21:59:05.000
+tags: ['books', 'reading', 'n-t-wright']
 ---
-
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0062334387&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=chrishubbs-20)](https://www.amazon.com/Day-Revolution-Began-Reconsidering-Crucifixion/dp/0062334387/ref=as_li_ss_il?ie=UTF8&qid=1490824078&sr=8-1&keywords=the+day+the+revolution+began&linkCode=li3&tag=chrishubbs-20&linkId=8717a4378f418e1cfa3987bda6669b18)![](https://ir-na.amazon-adsystem.com/e/ir?t=chrishubbs-20&l=li3&o=1&a=0062334387)
 
 When the good Bishop N. T. Wright has a new book out it's an automatic purchase for me at this point. And Wright does not disappoint with [_The Day the Revolution Began: Reconsidering the Meaning of Jesus's Crucifixion_](http://amzn.to/2nNjrzx). Wright examines the meaning of Jesus' death in his usual lucid style, with a focus on what understanding the first-century Christians would've had of that death.
 

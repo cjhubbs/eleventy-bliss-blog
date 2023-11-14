@@ -1,6 +1,7 @@
 ---
-title: "We are from the future, embodying that in the here and now"
-date: "2017-03-30T11:50:25.000"
+title: 'We are from the future, embodying that in the here and now'
+date: 2017-03-30T11:50:25.000
+tags: ['theology']
 ---
 
 One of my favorites, Brian Zahnd, talked recently on the [Makers and Mystics podcast](http://www.makersandmystics.com/makersandmystics/2017/3/22/season-2-e-5-beauty-will-save-the-world-part-2). I love this little bit of what he had to say about the church being "from the future":

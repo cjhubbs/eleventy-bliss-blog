@@ -1,6 +1,6 @@
 ---
-title: "Finished reading: some history, some sci-fi, some theology"
-date: "2017-07-30T18:04:49.000"
+title: 'Finished reading: some history, some sci-fi, some theology'
+date: 2017-07-30T18:04:49.000
 ---
 
 ### The history:
@@ -11,11 +11,9 @@ An interesting read about Paris - astonishingly vibrant in the mid-1800s - and t
 
 ### The sci-fi:
 
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0062569406&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=chrishubbs-20)](https://www.amazon.com/Closed-Common-Orbit-Wayfarers/dp/0062569406/ref=as_li_ss_il?s=books&ie=UTF8&qid=1501346199&sr=1-1&keywords=a+closed+and+common+orbit&linkCode=li3&tag=chrishubbs-20&linkId=52b692ce3465ad4c506a88db0437fa9f)![](https://ir-na.amazon-adsystem.com/e/ir?t=chrishubbs-20&l=li3&o=1&a=0062569406)
-
 **[_A Closed and Common Orbit_](http://amzn.to/2hbxIVc) by Becky Chambers**
 
-The follow-up to _The Long Way to a Small, Angry Planet_ which [I reviewed earlier](http://chrishubbs.com/2017/07/19/yep-still-reading/). _A Closed and Common Orbit_ follows a sentient Artificial Intelligence program, designed to inhabit and run a spaceship, as it adapts to being in a body and interacting with the world around it in a more limited way. This is a great little book that I had a very hard time putting down.
+The follow-up to _The Long Way to a Small, Angry Planet_ which [I reviewed earlier](/17/07/yep-still-reading/). _A Closed and Common Orbit_ follows a sentient Artificial Intelligence program, designed to inhabit and run a spaceship, as it adapts to being in a body and interacting with the world around it in a more limited way. This is a great little book that I had a very hard time putting down.
 
 ### The theology:
 

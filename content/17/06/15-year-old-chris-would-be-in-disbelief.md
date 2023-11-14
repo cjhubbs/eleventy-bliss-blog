@@ -1,13 +1,14 @@
 ---
-title: "15-year-old Chris would be in disbelief"
-date: "2017-06-22T12:38:16.000"
+title: '15-year-old Chris would be in disbelief'
+date: 2017-06-22T12:38:16.000
+tags: ['politics', 'evangelicalism']
 ---
 
 File this under "things that would've stunned the 15-year-old Chris".
 
 As a teenager, the evangelical Christian culture we were in lionized people like Jay Sekulow. He founded the American Center for Law and Justice (ACLJ), which was out there fighting against the secular world to protect Christians' rights. He argued and won a 9-0 Supreme Court decision that guaranteed Jews for Jesus could distribute evangelistic pamphlets at Los Angeles International Airport. A sterling example for Christian young people to look up to.
 
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2017/06/About_the_Statue_Header_Resized_826_x_300-500x182.jpg)
+![](/images/2017/statue-of-liberty.jpg)
 
 At the same time, the American Civil Liberties Union (ACLU) was spoken of with disgust. Anti-Christian. There to take away our religious liberty. Thank God we have people like Jay Sekulow to fight them on our behalf.
 

@@ -1,6 +1,7 @@
 ---
-title: "Talking Complementarianism and Egalitarianism with Brent Thomas"
-date: "2017-01-03T01:07:16.000"
+title: 'Talking Complementarianism and Egalitarianism with Brent Thomas'
+date: 2017-01-03T01:07:16.000
+tags: ['theology']
 ---
 
 Brent Thomas is kicking the dust off his blog in the hopes of fostering some charitable discussions on contentious topics. He starts out with a doozy: [complementarianism vs. egalitarianism](http://www.holidayatthesea.com/can-we-talk-complementarianegalitarian-edition/).
@@ -19,7 +20,7 @@ I'd rate it as a matter of middling importance to me. It's not significant enoug
 
 #### Do you hold to either position? Why? What Scriptures or outside books/authors helped you arrive at your position? How do you succinctly explain your position to others, especially those who might disagree? What pushed you in one direction or the other?
 
-I personally hold rather gently to the egalitarian position. (I am a member of a church that is firmly complementarian.) I grew up being taught a complementarian position and held to it up until the past 7 - 8 years. I recall reviewing Scot McKnight's _The Blue Parakeet_ (in which he advocates for the egalitarian position) shortly before it was released and [blogging my disagreement with Dr. McKnight's conclusions](http://chrishubbs.com/2008/09/22/scot-mcknights-the-blue-parakeet-a-review/). He then chided me in the comments for not answering the actual questions he was asking. In retrospect, he had a point.
+I personally hold rather gently to the egalitarian position. (I am a member of a church that is firmly complementarian.) I grew up being taught a complementarian position and held to it up until the past 7 - 8 years. I recall reviewing Scot McKnight's _The Blue Parakeet_ (in which he advocates for the egalitarian position) shortly before it was released and [blogging my disagreement with Dr. McKnight's conclusions](/08/09/scot-mcknights-the-blue-parakeet-a-review/). He then chided me in the comments for not answering the actual questions he was asking. In retrospect, he had a point.
 
 I've considered the Scriptures, read plenty of the online debate on the topic, and have been significantly influenced by female friends who serve in leadership positions at their egalitarian churches. My thoughts have undoubtedly also been influenced, though in ways I can't as easily put my finger on, by having three daughters of my own.
 
@@ -31,6 +32,6 @@ I think this issue causes division because it gets easily lumped in together wit
 
 I believe people can come together on this issue if they are willing to view it as a secondary matter. Clearly the stretching is mostly done by the complementarians, though I really appreciate Richard Beck's testimony of being an egalitarian in a complementarian church and [gracefully maintaining that he will not serve in any role that a women would not also be allowed to serve in](http://experimentaltheology.blogspot.com/2012/08/a-letter-for-highland-on-womens-roles.html). That could be as easy as joining together with other churches from time to time and being respectful when they have women serving in leadership, or finding ways to have women serve and teach in more visible ways.
 
-* * *
+---
 
 Thanks, Brent, for inviting the discussion. I look forward to reading others' opinions as well.

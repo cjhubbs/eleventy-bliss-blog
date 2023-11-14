@@ -1,6 +1,7 @@
 ---
-title: "Bullet points for a Friday morning"
-date: "2017-07-14T12:50:58.000"
+title: 'Bullet points for a Friday morning, July 2017'
+date: 2017-07-14T12:50:58.000
+tags: ['bullet-points']
 ---
 
 Hey, it's Friday.
@@ -15,5 +16,3 @@ Hey, it's Friday.
 - It's been a fairly quiet summer event-wise, but in September Becky and I have tickets for concerts two weekends in a row: U2 in St. Louis, and Andrew Peterson's Rich Mullins tribute concert in Nashville. Now to figure out what we're doing with the kids.
 - I'm leading worship this weekend, but apparently I haven't thought much about it yet because the worship leader disaster dreams haven't started yet. Probably tonight.
 - There's a lot of pain in this world. Be kind.
-
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2017/07/rich-mullins-with-an-ot-prophet-beard-371x500.jpg)

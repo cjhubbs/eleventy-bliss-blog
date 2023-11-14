@@ -1,11 +1,10 @@
 ---
-title: "Books I Read in 2016"
-date: "2017-01-03T14:09:20.000"
+title: 'Books I Read in 2016'
+date: 2017-01-03T14:09:20.000
+tags: ['books', 'reading', 'year-in-review']
 ---
 
 Another year, another book list. I think this year I can at least say that the unread book pile gathering dust by my bed is a little smaller than it has been in previous year.
-
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2017/01/bookshop-2183-500x334.jpg)
 
 My [reading list for 2016 is on Goodreads](https://www.goodreads.com/review/list/80101?order=a&shelf=2016-reads&sort=date_read). To summarize my year in reading:
 
@@ -17,7 +16,7 @@ My [reading list for 2016 is on Goodreads](https://www.goodreads.com/review/list
 
 - [_The Warmth of Other Suns: The Epic Story of America's Great Migration_](http://amzn.to/2j25Wub) by Isabel Wilkerson. This is a wonderfully-told story of the migration of blacks from plantations in the south to cities in the north during the early-to-mid 1900's. Sure, I've heard stories of the mistreatment blacks went through, but to have it brought so recent (some of the people in this book were still living circa 2004!) was sobering.
 - [_Hamilton: The Revolution_](http://amzn.to/2iYvPr2) by Lin-Manuel Miranda. It's Hamilton. What else do I need to say?
-- [_Reading Revelation Responsibly: Uncivil Worship and Witness: Following the Lamb into the New Creation_](http://amzn.to/2iYmZJE) by Michael J. Gorman. I read this as we were wrapping up a sermon series on Revelation at church. I find Gorman's take on that apocalyptic text to be highly compelling. [I blogged about it earlier this year](http://chrishubbs.com/2016/05/13/reading-revelation-responsibly-by-michael-j-gorman/).
+- [_Reading Revelation Responsibly: Uncivil Worship and Witness: Following the Lamb into the New Creation_](http://amzn.to/2iYmZJE) by Michael J. Gorman. I read this as we were wrapping up a sermon series on Revelation at church. I find Gorman's take on that apocalyptic text to be highly compelling. [I blogged about it earlier this year](/16/05/reading-revelation-responsibly-by-michael-j-gorman/).
 
 **My favorite fiction:**
 

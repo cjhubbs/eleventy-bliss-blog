@@ -1,13 +1,11 @@
 ---
-title: "Book Blame, Volume 1"
-date: "2017-08-28T02:54:53.000"
+title: 'Book Blame, Volume 1'
+date: 2017-08-28T02:54:53.000
 ---
 
 I write regularly about the books that I have finished reading. What I don't often do is assign blame credit to those who (often unknowingly) prompted me to buy or borrow the books in the first place.
 
 So with this post I will start assigning, with much appreciation, Book Blame. (Because hey, "Book Credit" doesn't have the same appealing alliterative ring to it.)
-
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2017/08/FaultBlame.jpg)
 
 The most recent book to travel from Amazon's warehouse to my to-read pile is _A History of Modern Palestine_ by Ilan Pappe. For this one I have Chuck Pearson ([@ShorterPearson](https://twitter.com/shorterpearson)) to thank, via this tweet:
 

@@ -1,9 +1,10 @@
 ---
-title: "Where Are The Christian Daddy Blogs?"
-date: "2014-01-21T19:45:39.000"
+title: 'Where Are The Christian Daddy Blogs?'
+date: 2014-01-21T19:45:39.000
+tags: ['theology', 'blogging']
 ---
 
-I had a passing thought in the midst of a blog post a few weeks ago that I want to explore a little more on its own. While [writing about my podcast listening](http://chrishubbs.com/2014/01/06/my-podcast-listening-circa-january-2014/), I wondered this:
+I had a passing thought in the midst of a blog post a few weeks ago that I want to explore a little more on its own. While [writing about my podcast listening](/14/01/my-podcast-listening-circa-january-2014/), I wondered this:
 
 > As an aside: it’s curious to me that while you’d find this kind of parenting discussion going on in the Christian blogosphere on mom blogs, you have to go to the secular arena to hear the dad’s perspective. What’s up with that?
 
@@ -11,7 +12,7 @@ I was sort of hoping that readers (of which I have at least a few) would chime i
 
 I did a little bit of Googling today for Christian dad blogs, and didn't find too many. I came across one post from six months ago where someone on DaddyBlogger.com made a ["definitive guide of Christian Dad Bloggers"](http://daddyblogger.com/faith/christian-dad-bloggers/), but if you follow the links,(and there are only about 20 listed) the blogs are for the most part either very sports oriented or seem to be basic guy blogs rather than focusing on parenting in any substantive way.
 
-[![i <3 You](http://farm3.staticflickr.com/2163/2348222238_f4d1468271.jpg)](http://www.flickr.com/photos/dadooda/2348222238/ "i <3 You by DaDooDa, on Flickr")
+[![i <3 You](http://farm3.staticflickr.com/2163/2348222238_f4d1468271.jpg)](http://www.flickr.com/photos/dadooda/2348222238/ 'i <3 You by DaDooDa, on Flickr')
 
 Sure, there are lots of podcasts and blogs out there targeted at men and fathers, but for the most part they're focused around things like _leadership_, or _legacy_, or _work/life balance_.
 

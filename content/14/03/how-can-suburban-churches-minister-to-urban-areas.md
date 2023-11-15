@@ -1,6 +1,7 @@
 ---
-title: "How can suburban churches minister to urban areas?"
-date: "2014-03-18T15:22:39.000"
+title: 'How can suburban churches minister to urban areas?'
+date: 2014-03-18T15:22:39.000
+tags: ['church']
 ---
 
 [Some challenging thoughts from Christina Cleveland today:](http://www.christenacleveland.com/2014/03/urban-church-plantations/)

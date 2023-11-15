@@ -1,6 +1,7 @@
 ---
-title: "Kirk: The Missional Diagnostic Question"
-date: "2014-08-04T15:37:43.000"
+title: 'Kirk: The Missional Diagnostic Question'
+date: 2014-08-04T15:37:43.000
+tags: ['theology']
 ---
 
 "Missional" is a word that has been used so much in the evangelical church-planting movement over the past decade that it's almost losing meaning. (See also: "Gospel-centered".) But Fuller seminary professor J. R. Daniel Kirk [proposes a 'missional diagnostic question' today](http://www.jrdkirk.com/2014/08/04/missional-diagnostic-question/) that makes a lot of sense to me.

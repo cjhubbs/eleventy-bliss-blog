@@ -1,6 +1,7 @@
 ---
 title: "Why I'm Leaving the Evangelical Theology blog wars"
-date: "2014-04-16T13:30:38.000"
+date: 2014-04-16T13:30:38.000
+tags: ['evangelicalism']
 ---
 
 I've had my adventures growing up in the church. In 35 years of church attendance I've been a part of a C&MA church, a fundie homeschooling church, two independent Bible churches, two Conservative Baptist churches, and now an EFCA congregation. My family has also been highly influenced by Mennonite and Bretheren folks along the way. We're an interesting crew.
@@ -35,7 +36,7 @@ What I didn't see was any acknowledgment that there have historically been vario
 
 **And I'll be honest: it made me angry.**
 
-I've spent too much of the last couple years being worked up about these topics. I've written angry posts about [neo-Reformed Calvinism](http://chrishubbs.com/2013/06/08/is-this-calvinisms-default-position/), [young-earth creationism](http://chrishubbs.com/2014/02/07/in-appreciation-of-both-sides-of-the-creation-debate/), [Biblicism](http://chrishubbs.com/2013/02/12/biblicism-and-the-reformed-evangelical-magisterium/), and [gay marriage](http://chrishubbs.com/2013/08/23/a-few-thoughts-on-the-yuck-factor-discussion/). And what have I learned? Primarily this:
+I've spent too much of the last couple years being worked up about these topics. I've written angry posts about [neo-Reformed Calvinism](/13/06/is-this-calvinisms-default-position/), [young-earth creationism](/14/02/in-appreciation-of-both-sides-of-the-creation-debate/), [Biblicism](/13/02/biblicism-and-the-reformed-evangelical-magisterium/), and [gay marriage](/13/08/a-few-thoughts-on-the-yuck-factor-discussion/). And what have I learned? Primarily this:
 
 **It's not worth it.**
 

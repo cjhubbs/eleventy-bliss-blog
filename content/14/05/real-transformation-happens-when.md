@@ -1,6 +1,7 @@
 ---
-title: "Real Transformation happens when?"
-date: "2014-05-29T21:49:10.000"
+title: 'Real Transformation happens when?'
+date: 2014-05-29T21:49:10.000
+tags: ['theology']
 ---
 
 In light of the whole Tullian Tchividjian / Gospel Coalition dust-up in recent days, Mark Galli has an interesting piece at Christianity Today online titled ["Real Transformation Happens When?"](http://www.christianitytoday.com/ct/2014/may-web-only/real-transformation-happens-when.html). Galli's thesis will make you do a double-take:
@@ -8,8 +9,6 @@ In light of the whole Tullian Tchividjian / Gospel Coalition dust-up in recent d
 > I want to raise one sanctification issue that I don't see discussed much. I do not doubt the biblical call to holy living (1 Pet. 1:15 being the quintessential text). But after living the Christian life for nearly a half century, **I doubt the ability of Christians to make much progress in holiness**.
 
 What the what?
-
-[![Transformation1](http://chrishubbs.com/wordpress/wp-content/uploads/2014/05/Transformation1-300x156.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2014/05/Transformation1.jpg)
 
 But don't stop there, keep reading.
 

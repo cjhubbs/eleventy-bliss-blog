@@ -1,11 +1,14 @@
 ---
-title: "Winnie the Dude"
-date: "2014-11-06T21:04:40.000"
+title: 'Winnie the Dude'
+date: 2014-11-06T21:04:40.000
+tags: ['movies']
 ---
 
-On the topic of [my previous post](http://chrishubbs.com/2014/11/06/o-bother-where-art-thou/), I had this Twitter interaction with Stephen Granade:
+On the topic of [my previous post](/14/11/o-bother-where-art-thou/), I had this Twitter interaction with Stephen Granade:
 
-https://twitter.com/cjhubbs/status/530411427744321536 https://twitter.com/cjhubbs/status/530411855198441472
+https://twitter.com/cjhubbs/status/530411427744321536
+
+https://twitter.com/cjhubbs/status/530411855198441472
 
 But then I started wondering... what about _Lebowski_?
 

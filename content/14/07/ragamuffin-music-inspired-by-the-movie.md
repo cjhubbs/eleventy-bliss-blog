@@ -1,6 +1,7 @@
 ---
-title: "Ragamuffin: Music inspired by the Movie"
-date: "2014-07-22T21:11:04.000"
+title: 'Ragamuffin: Music inspired by the Movie'
+date: 2014-07-22T21:11:04.000
+tags: ['music', 'rich-mullins']
 ---
 
 I haven't watched the Ragamuffin movie yet. Having known and loved Rich Mullins for the last 20+ years exclusively based on his music, I'm not sure I'm ready to have a moviemaker tell me what I should think about him as a person. But along with the movie today came out an album of music "inspired by" the movie - basically an album of Rich Mullins covers, with a couple old Rich demo tracks to round out the record. The artist list (including Andrew Peterson, Andy Gullahorn, and Jill Phillips, among others) pretty much guaranteed that I'd buy it. And I did.
@@ -17,8 +18,6 @@ The track listing includes:
 - "Cry the Name" - Jill Phillips
 - "Peace" - Andy Gullahorn
 - "The Love of God" - Matt Liechty
-
-![ragamuffin-movie](http://chrishubbs.com/wordpress/wp-content/uploads/2014/07/ragamuffin-movie.jpg)
 
 Some preliminary thoughts on the songs:
 

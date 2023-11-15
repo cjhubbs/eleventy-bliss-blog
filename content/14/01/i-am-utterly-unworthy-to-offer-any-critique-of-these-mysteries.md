@@ -1,6 +1,7 @@
 ---
-title: "\"I am utterly unworthy to offer any critique of these mysteries\""
-date: "2014-01-17T14:06:31.000"
+title: '"I am utterly unworthy to offer any critique of these mysteries"'
+date: 2014-01-17T14:06:31.000
+tags: ['theology']
 ---
 
 I love this [confession from Catholic blogger Andrew Sullivan today](http://dish.andrewsullivan.com/2014/01/16/and-so-it-begins/):

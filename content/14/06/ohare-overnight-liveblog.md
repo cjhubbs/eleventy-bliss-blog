@@ -1,13 +1,11 @@
 ---
 title: "O'Hare Overnight Liveblog"
-date: "2014-06-20T01:48:32.000"
+date: '2014-06-20T01:48:32.000'
 ---
 
 American Airlines and a stalled warm front have conspired to have me sleeping overnight in the Chicago O'Hare airport to catch a flight home first thing in the morning. So what's a guy to do? Live blog, why not? Here's the offending weather picture.
 
-  
-  
-[![20140619-204352-74632710.jpg](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140619-204352-74632710.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140619-204352-74632710.jpg)
+![](/images/2014/radar.jpg)
 
 A traditional Liveblog would add posts at the top, but I'm lazy and like to see things in chronological order, so I'll update at the bottom.
 
@@ -15,9 +13,7 @@ A traditional Liveblog would add posts at the top, but I'm lazy and like to see 
 
 **9:04 pm** Some serious lightning outside and rain coming down pretty good. The airport folks have probably 150 cots (complete with airplane pillows and blankets) set up already and have carts full of more cots ready to go.
 
-  
-  
-[![20140619-210422-75862073.jpg](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140619-210422-75862073.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140619-210422-75862073.jpg)
+![](/images/2014/ord-cots.jpg)
 
 That's the stack still waiting to be set up.
 
@@ -31,15 +27,11 @@ Wandered down a ways and found a lonely cot right next to a functioning power ou
 
 Cots full of people off in both ways down the concourse. And people still heading past us to make late-night west coast connections.
 
-  
-  
-[![20140619-225345-82425657.jpg](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140619-225345-82425657.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140619-225345-82425657.jpg)
+![](/images/2014/ord-sleepers.jpg)
 
 Made a quick trip to the bathroom, brushed my teeth, switched to glasses. Time to try to get some sleep.
 
-  
-  
-[![20140619-225517-82517970.jpg](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140619-225517-82517970.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140619-225517-82517970.jpg)
+![](/images/2014/chris-in-glasses.jpg)
 
 There was a second cot down by my feet when I claimed this one; a few minutes later somebody grabbed it and moved it further down the concourse. 30 minutes later the airport folks set another one up in its place. And 2 minutes ago somebody took it, too, to some other location. Maybe I'm scary looking. Of course maybe nobody just wants to sleep next to my feet. I can't blame them.
 
@@ -51,9 +43,7 @@ The hat smells almost as bad as my feet.
 
 **11:38 pm** Not having much luck sleeping. It is quieting down some now, though. Created a Foursquare location. Hope other people will use it!
 
-  
-  
-[![20140619-234119-85279479.jpg](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140619-234119-85279479.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140619-234119-85279479.jpg)
+![](/images/2014/check-in.jpg)
 
 **12:05 am** No luck sleeping so far. Can't even seem to get that good yawn in. It has quieted down quite a bit in here after midnight; all the automated announcements are turned off, as are some of the overhead lights.
 
@@ -67,9 +57,9 @@ Lots of people up, wandering around, getting McDonald's, sitting talking. Guess 
 
 **2:38 am**
 
-Spent the last hour playing a piano I found in the concourse wine bar. Had security come by, identify an unattended bag, then stand around and chat for 15 minutes while waiting for the police to come pick it up.  
-  
-[![20140620-024713-10033287.jpg](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140620-024713-10033287.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140620-024713-10033287.jpg)
+Spent the last hour playing a piano I found in the concourse wine bar. Had security come by, identify an unattended bag, then stand around and chat for 15 minutes while waiting for the police to come pick it up.
+
+![](/images/2014/piano-keyboard.jpg)
 
 The security guy told me that his 17-year-old son was shot 3 times last Friday in a drive-by shooting and is still in the hospital. Meanwhile, dad works the graveyard shift at O'Hare and worries about his son. Taking a minute to pray for the dad and the kid.
 
@@ -91,9 +81,7 @@ I replied to some work email over the last hour, too, including a note telling m
 
 **4:43 am** At my gate. The status board still says those two blessed words: "On Time". Put on my one remaining clean shirt just to make it feel like a new day.
 
-  
-  
-[![20140620-044533-17133284.jpg](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140620-044533-17133284.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/20140620-044533-17133284.jpg)
+![](/images/2014/wired-chris.jpg)
 
 Here goes nothin'!
 

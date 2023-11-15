@@ -1,6 +1,7 @@
 ---
-title: "Which artist had the impact?"
-date: "2014-04-14T14:13:36.000"
+title: 'Which artist had the impact?'
+date: 2014-04-14T14:13:36.000
+tags: ['music', 'rich-mullins']
 ---
 
 [This interview with Rich Mullins' producer Reed Arvin](http://www.christianitytoday.com/ct/2013/october-web-only/legacy-of-rich-mullins-ragamuffin-band.html?paging=off) is months old now, but I thought of it again the other day and wanted to share one revelation in the interview that particularly impacted me.

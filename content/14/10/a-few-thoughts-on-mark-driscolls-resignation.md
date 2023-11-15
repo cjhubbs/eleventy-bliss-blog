@@ -1,6 +1,7 @@
 ---
 title: "A few thoughts on Mark Driscoll's Resignation"
-date: "2014-10-16T02:43:23.000"
+date: 2014-10-16T02:43:23.000
+tags: ['evangelicalism']
 ---
 
 [Mark Driscoll resigned today from the pastorate of Mars Hill Church in Seattle.](http://marshill.com/2014/10/15/pastor-mark-driscolls-resignation) Driscoll has been embattled in several controversies over the past year including allegations of plagiarism, verbal abuse of staff. For the past several weeks he had been on a leave of absence while a small group of Mars Hill leaders investigated a long list of charges brought against him by many former church pastors, elders, members, and staff.

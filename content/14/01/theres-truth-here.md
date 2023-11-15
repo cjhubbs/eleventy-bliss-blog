@@ -1,6 +1,7 @@
 ---
 title: "There's truth here"
-date: "2014-01-20T12:12:14.000"
+date: 2014-01-20T12:12:14.000
+tags: ['comics']
 ---
 
 From [today's XKCD](http://xkcd.com/1319/):

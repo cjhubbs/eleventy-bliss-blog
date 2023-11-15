@@ -1,11 +1,12 @@
 ---
 title: "Spike Jonze' 'Her'"
-date: "2014-01-30T03:37:22.000"
+date: 2014-01-30T03:37:22.000
+tags: ['movies']
 ---
 
 Tonight I went to the theater and saw \*Her\*, the recent movie from Spike Jonze. For those who might not be familiar with the film, here's the trailer:
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/ne6p6MfLBxc" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/dJTU48_yghs
 
 What an amazing film. So much to think about afterwards. How does our relationship with technology affect our relationships with people? Where do we find relational fulfillment? What is "real" in a relationship, anyway? Would a relationship that's exclusively about my happiness really make me happy in the long run?
 

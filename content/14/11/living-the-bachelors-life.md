@@ -1,6 +1,7 @@
 ---
 title: "Living the Bachelor's Life"
-date: "2014-11-06T15:33:54.000"
+date: 2014-11-06T15:33:54.000
+tags: ['personal']
 ---
 
 My wife and kids have been gone for the past two days. They planned a trip to visit Grandma for dates where I had planned to be on a business trip. The business trip got cancelled, but the trip to Grandma's remained. So, for the past two nights I've had the house entirely to myself. As far as I can recall, this is the first time such a thing has happened since we've had kids.

@@ -1,6 +1,7 @@
 ---
 title: "I never think I'm volunteering for too much stuff..."
-date: "2014-06-06T00:43:11.000"
+date: 2014-06-06T00:43:11.000
+tags: ['personal']
 ---
 
 ...and then it all piles up at once and gets _really_ busy.

@@ -1,7 +1,7 @@
 ---
 title: 'Finished Reading: People to Be Loved by Preston Sprinkle'
 date: 2017-06-22T17:38:32.000
-tags: ['theology', 'lgbtq']
+tags: ['theology', 'lgbtqia']
 ---
 
 I've honestly been avoiding books on the topic of Christian views on homosexuality because I've become so familiar and fatigued with the arguments over the past decade. But this one by Preston Sprinkle caught my attention and was on sale cheap at the time on Amazon, so I downloaded it to my Kindle app and gave it a go.

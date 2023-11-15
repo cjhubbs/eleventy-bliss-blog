@@ -1,6 +1,7 @@
 ---
-title: "Bullet Points for a Thursday - French edition!"
-date: "2014-05-15T16:57:09.000"
+title: 'Bullet Points for a Thursday - French edition!'
+date: 2014-05-15T16:57:09.000
+tags: ['bullet-points']
 ---
 
 It's Thursday at nearly 7 pm and I'm on the next-to-last day of a quick business trip to France. This is my first visit to France, so my bullet point format seems useful for sharing a few assorted observations after a few days here.

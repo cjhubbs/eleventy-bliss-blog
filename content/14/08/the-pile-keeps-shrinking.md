@@ -1,11 +1,10 @@
 ---
-title: "The pile keeps shrinking..."
-date: "2014-08-11T14:50:29.000"
+title: 'The pile keeps shrinking...'
+date: 2014-08-11T14:50:29.000
+tags: ['books', 'reading']
 ---
 
 I'm slowly whittling down my bedside book pile, completing Darren Dochuk's [_From Bible Belt to Sun Belt: Plain-Folk Religion, Grassroots Politics, and the Rise of Evangelical Conservatism_](http://www.amazon.com/gp/product/0393339041/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0393339041&linkCode=as2&tag=chrishubbs-20) last week. This was a **fantastic** book. Dochuk traces the history of evangelicalism from the early days of the Depression, as evangelicals migrated west from Oklahoma, Texas, Arkansas, and the like, to California. As a child of evangelicalism in the 80s and 90s, it was very enlightening to read about J. Vernon McGee, Billy Graham, E. V. Hill, Bill Bright, Tim LaHaye, and others. It was a bit slow going through the 1920s and 30s, but from the 1940s onward it was a wonderful, interesting read. I owe Brian Auten bigtime for recommending it.
-
-[![Dochuk](http://chrishubbs.com/wordpress/wp-content/uploads/2014/08/Dochuk.jpg)](http://www.amazon.com/gp/product/0393339041/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0393339041&linkCode=as2&tag=chrishubbs-20)
 
 I'm now a few chapters in to a biography of Thomas Merton which I'm not real excited about yet, but I'll give it some time.
 

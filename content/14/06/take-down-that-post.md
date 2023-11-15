@@ -1,19 +1,14 @@
 ---
-title: "Take down that post?"
-date: "2014-06-13T18:25:47.000"
+title: 'Take down that post?'
+date: 2014-06-13T18:25:47.000
+tags: ['evangelicalism']
 ---
 
 As if it had been too long since the last evangelical church sex abuse scandal, Leadership Journal (an imprint of Christianity Today) posted a long online article this month titled ["My Easy Trip from Youth Minister to Felon"](http://www.christianitytoday.com/le/2014/june-online-only/my-easy-trip-from-youth-minister-to-felon.html?allcomments=true&showall=true). Tagged as an article on topics including "adultery", "failure", "sex", and "temptation", it's a long-ish first-person account of a youth pastor describing his progression into what sounds like an extramarital affair. Then on the last page you find out the "other woman" in question was a teenager in his church. Suddenly a cautionary tale about temptation turns out to be a story about a pastor grooming and abusing an underaged girl in his congregation. Disgusting.
 
 My intent here isn't to provide a full summary or address the article - [RawStory.com reported on it](http://www.rawstory.com/rs/2014/06/13/ex-youth-pastor-describes-felony-sex-crimes-as-extramarital-friendship-in-christian-journal/) and [many](http://redemptionpictures.com/2014/06/13/my-innocence-was-stolen/?utm_content=buffer839ec&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) [Christian](http://defeatingthedragons.wordpress.com/2014/06/12/leadership-journal-christianity-today-and-takedownthatpost/) [bloggers](http://www.elizabethesther.com/2014/06/an-open-letter-to-christianity-today-take-down-the-rape-post-its-not-an-extramarital-relationship-its-rape-ctmagazine.html) [have](http://www.patheos.com/blogs/lovejoyfeminism/2014/06/christianity-todays-good-man-project-moment.html) [chimed](http://hopefullyknown.com/2014/06/12/because-its-time-to-take-down-that-post/) [in](http://www.patheos.com/blogs/friendlyatheist/2014/06/12/why-did-a-journal-for-christian-pastors-give-a-platform-to-a-sexual-predator/#ixzz34TCeBGpg). The Twitter hashtag [#TakeDownThatPost](https://twitter.com/search?q=%23takedownthatpost&src=typd) quickly sprang up, and I found myself sympathetic.
 
-https://twitter.com/cjhubbs/status/477429249154904065
-
-But then my friend Randy chimed in with a slightly different approach:
-
-https://twitter.com/rmcrob/status/477468298733699074
-
-And that led me to a different, more interesting question. Rather than calling for the editors of the publication to reconsider and take down the post, might it be more appropriate to simply raise awareness that the publication has chosen to post such content, and then let people form their own opinions of the publication and its editors?
+But then my friend Randy chimed in with a slightly different approach. And that led me to a different, more interesting question. Rather than calling for the editors of the publication to reconsider and take down the post, might it be more appropriate to simply raise awareness that the publication has chosen to post such content, and then let people form their own opinions of the publication and its editors?
 
 Now that's a conundrum.
 

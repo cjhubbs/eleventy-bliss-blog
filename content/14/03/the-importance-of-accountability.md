@@ -1,6 +1,7 @@
 ---
-title: "The Importance of Accountability"
-date: "2014-03-15T01:21:51.000"
+title: 'The Importance of Accountability'
+date: 2014-03-15T01:21:51.000
+tags: ['theology']
 ---
 
 Carl Trueman, [writing today about Mark Driscoll's problems, and our own:](http://www.firstthings.com/web-exclusives/2014/03/mark-driscolls-problems-and-ours)

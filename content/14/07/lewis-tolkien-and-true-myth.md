@@ -1,6 +1,7 @@
 ---
-title: "Lewis, Tolkien, and True Myth"
-date: "2014-07-08T14:23:39.000"
+title: 'Lewis, Tolkien, and True Myth'
+date: 2014-07-08T14:23:39.000
+tags: ['books']
 ---
 
 There's [a good piece today from Fr. Stephen Freeman](http://glory2godforallthings.com/2014/07/07/the-struggle-to-be-real/) revisiting C. S. Lewis and JRR Tolkien's exploration of myth - not myth in the popular sense of "a story that isn't true", but in the sense of a "primal, shaping story" that is "profoundly and deeply true".

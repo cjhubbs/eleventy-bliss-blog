@@ -1,6 +1,7 @@
 ---
-title: "A couple thoughts about Christian celebrity"
-date: "2014-03-19T12:17:22.000"
+title: 'A couple thoughts about Christian celebrity'
+date: 2014-03-19T12:17:22.000
+tags: ['evangelicalism']
 ---
 
 There's been a lot of talk about Christian celebrity the past several days, but [Richard Beck hits on something important this morning](http://experimentaltheology.blogspot.com/2014/03/on-christian-celebrity.html) by making the distinction between being popular and being a celebrity.
@@ -13,7 +14,7 @@ On the other hand, two years ago [I went to Nashville to a small event where N. 
 
 The discussion also reminds me of this picture which I saw recently in the news:
 
-[![Pope Francis attends retreat with cardinals and bishops outside Rome](http://chrishubbs.com/wordpress/wp-content/uploads/2014/03/pope-francis-retreat-1024x675.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2014/03/pope-francis-retreat.jpg)
+![Pope Francis attends retreat with cardinals and bishops outside Rome](/images/2014/pope-francis-retreat.jpg)
 
 Here's the Pope, on a Lenten retreat, just another priest in a pew. Now, granted, Pope Francis is a celebrity by about any definition; but it seems clear to me that he's trying as hard as he can to _not_ be a celebrity; to be personal, real, accessible, and pastoral even in the most visible religious role in the world.
 

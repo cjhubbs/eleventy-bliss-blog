@@ -1,13 +1,14 @@
 ---
-title: "My Swedish Doppelganger"
-date: "2014-03-20T14:01:11.000"
+title: 'My Swedish Doppelganger'
+date: 2014-03-20T14:01:11.000
+tags: ['personal']
 ---
 
 When my wife's sister and her husband recently visited Chile, they found this picture in a museum somewhere and sent it to my wife, noting that they'd found my doppelganger. I have to admit, I do see the resemblance. _(Click on it to see the big version.)_
 
-[![My Swedish Doppelganger](http://chrishubbs.com/wordpress/wp-content/uploads/2014/03/DSC0552-199x300.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2014/03/DSC0552.jpg)
+![My Swedish Doppelganger](/images/2014/skottsberg-display.jpg)
 
-![3-20-2014 8-59-02 AM](http://chrishubbs.com/wordpress/wp-content/uploads/2014/03/3-20-2014-8-59-02-AM.png)
+![3-20-2014 8-59-02 AM](/images/2014/skottsberg-close.png)
 
 The translation of the text with the photo (thanks, Google translate!):
 
@@ -15,6 +16,6 @@ The translation of the text with the photo (thanks, Google translate!):
 
 It turns out that [Carl Skottsberg](http://en.wikipedia.org/wiki/Carl_Skottsberg) was indeed a Swedish botanist and explorer. It would appear that later in life his appearance and mine diverged a bit. (However, if anybody that's handy with Photoshop wants to mock-up what this guy would look like with a shaved head and goatee... be my guest!)
 
-[![6027_7_032_00000483_0](http://chrishubbs.com/wordpress/wp-content/uploads/2014/03/6027_7_032_00000483_0-217x300.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2014/03/6027_7_032_00000483_0.jpg)
+![6027_7_032_00000483_0](/images/2014/skottsberg-old.jpg)
 
 For a moment in our 20s, though, we might have been brothers.

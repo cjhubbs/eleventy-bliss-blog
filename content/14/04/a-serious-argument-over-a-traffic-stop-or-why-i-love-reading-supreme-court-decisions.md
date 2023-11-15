@@ -1,6 +1,7 @@
 ---
-title: "A Serious Argument over a Traffic Stop, or, Why I Love Reading Supreme Court Decisions"
-date: "2014-04-23T13:49:58.000"
+title: 'A Serious Argument over a Traffic Stop, or, Why I Love Reading Supreme Court Decisions'
+date: 2014-04-23T13:49:58.000
+tags: ['legal']
 ---
 
 One of my secret guilty pleasures (and here you get to plumb the depths of my weird mind) is reading Supreme Court opinions. (I enjoy listening to recordings of the oral arguments, too, but they can get rather dull at times.) I've had a fascination with the legal system and particularly the US Supreme Court since I was in high school. I contemplated taking up law as a career path before studying engineering instead, but law continues to fascinate me.
@@ -21,15 +22,15 @@ So did you get that? We're arguing here over whether the police had a reasonable
 
 In this particular case, an anonymous 911 caller claimed that a truck "ran the \[caller\] off the roadway" and reported the truck's make, model, and license plate number, suggesting that the driver might be drunk. The highway patrol found the truck, followed it for 5 minutes, didn't see any additional erratic driving behavior, but stopped the truck anyway. When they approached the truck, they smelled marijuana, performed a search, found a bunch of it, and made an arrest.
 
-So there's the question. Does the Fourth Amendment require an officer who received information regarding drunken or reckless driving to independently corroborate the behavior before stopping the vehicle? [1](#fn-12215-1)
+So there's the question. Does the Fourth Amendment require an officer who received information regarding drunken or reckless driving to independently corroborate the behavior before stopping the vehicle?
 
 Today the US Supreme Court decided that the answer is yesno. _\[Whoopsie there! Thanks to \_steve in the comment below for correcting me.\]_ Justice Clarence Thomas wrote the majority opinion, which was joined by Chief Justice Roberts and Justices Alito, Kennedy, and Breyer. That opinion runs from page 3 through page 13 of the decision PDF, and it's not incredibly dense. (It's also in a narrow-width column so it's not as long as it sounds.)
 
-![Screenshot-2014-04-22_15.14.14](http://chrishubbs.com/wordpress/wp-content/uploads/2014/04/Screenshot-2014-04-22_15.14.14.png)
+![](/images/2014/scotus-ruling.png)
 
 Here's the summary paragraph of the decision:
 
-> Like _White_, this is a “close case.” 496 U. S., at 332. As in that case, the indicia of the 911 caller’s reliability here are stronger than those in _J. L._ [2](#fn-12215-2), where we held that a bare-bones tip was unreliable. 529 U. S., at 271. Although the indicia present here are different from those we found sufficient in _White_ [3](#fn-12215-3), there is more than one way to demonstrate “a particularized and objective basis for suspecting the particular person stopped of criminal activity.” _Cortez_ [4](#fn-12215-4), 449 U. S., at 417–418. Under the totality of the circumstances, we find the indicia of reliability in this case sufficient to provide the officer with reasonable suspicion that the driver of the reported vehicle had run another vehicle off the road. That made it reasonable under the circumstances for the officer to execute a traffic stop. We accordingly affirm.
+> Like _White_, this is a “close case.” 496 U. S., at 332. As in that case, the indicia of the 911 caller’s reliability here are stronger than those in _J. L._ [2](#fn-12215-2), where we held that a bare-bones tip was unreliable. 529 U. S., at 271. Although the indicia present here are different from those we found sufficient in _White_, there is more than one way to demonstrate “a particularized and objective basis for suspecting the particular person stopped of criminal activity.” _Cortez_, 449 U. S., at 417–418. Under the totality of the circumstances, we find the indicia of reliability in this case sufficient to provide the officer with reasonable suspicion that the driver of the reported vehicle had run another vehicle off the road. That made it reasonable under the circumstances for the officer to execute a traffic stop. We accordingly affirm.
 
 So that's not too awful or confusing, right?
 
@@ -41,7 +42,7 @@ Here's how he starts:
 
 Then he starts busting on the arguments.
 
-> All that has been said up to now assumes that the anonymous caller made, at least in effect, an accusation of drunken driving. But in fact she did not. She said that the petitioners’ truck “‘\[r\]an \[me\] off the roadway.’”.. That neither asserts that the driver was drunk nor even raises the likelihood that the driver was drunk. The most it conveys is that the truck did some apparently nontypical thing that forced the tipster off the roadway, whether partly or fully, temporarily or permanently. Who really knows what (if anything) happened? The truck might have swerved to avoid an animal, a pothole, or a jaywalking pedestrian. But let us assume the worst of the many possibilities: that it was a careless, reckless, or even intentional maneuver that forced the tipster off the road. Lorenzo might have been distracted by his use of a hands-free cell phone... or distracted by an intense sports argument with José...[5](#fn-12215-5) Or, indeed, **he might have intentionally forced the tipster off the road because of some personal animus, or hostility to her “Make Love, Not War” bumper sticker.** I fail to see how reasonable suspicion of a _discrete instance_ of irregular or hazardous driving generates a reasonable suspicion of _ongoing intoxicated driving_. What proportion of the hundreds of thousands—perhaps millions—of careless, reckless, or intentional traffic violations committed each day is attributable to drunken drivers? I say 0.1 percent. I have no basis for that except my own guesswork. But unless the Court has some basis in reality to believe that the proportion is many orders of magnitude above that—say 1 in 10 or at least 1 in 20—it has no grounds for its unsupported assertion that the tipster’s report in this case gave rise to a reasonable suspicion of drunken driving.
+> All that has been said up to now assumes that the anonymous caller made, at least in effect, an accusation of drunken driving. But in fact she did not. She said that the petitioners’ truck “‘\[r\]an \[me\] off the roadway.’”.. That neither asserts that the driver was drunk nor even raises the likelihood that the driver was drunk. The most it conveys is that the truck did some apparently nontypical thing that forced the tipster off the roadway, whether partly or fully, temporarily or permanently. Who really knows what (if anything) happened? The truck might have swerved to avoid an animal, a pothole, or a jaywalking pedestrian. But let us assume the worst of the many possibilities: that it was a careless, reckless, or even intentional maneuver that forced the tipster off the road. Lorenzo might have been distracted by his use of a hands-free cell phone... or distracted by an intense sports argument with José... Or, indeed, **he might have intentionally forced the tipster off the road because of some personal animus, or hostility to her “Make Love, Not War” bumper sticker.** I fail to see how reasonable suspicion of a _discrete instance_ of irregular or hazardous driving generates a reasonable suspicion of _ongoing intoxicated driving_. What proportion of the hundreds of thousands—perhaps millions—of careless, reckless, or intentional traffic violations committed each day is attributable to drunken drivers? I say 0.1 percent. I have no basis for that except my own guesswork. But unless the Court has some basis in reality to believe that the proportion is many orders of magnitude above that—say 1 in 10 or at least 1 in 20—it has no grounds for its unsupported assertion that the tipster’s report in this case gave rise to a reasonable suspicion of drunken driving.
 
 That's the USSC version of a smackdown, right there. But he's not done!
 
@@ -50,15 +51,3 @@ That's the USSC version of a smackdown, right there. But he's not done!
 Thus, says Justice Scalia, "The Court’s opinion serves up a freedom-destroying cocktail consisting of two parts patent falsity."
 
 I don't know about anybody else, but I love this stuff. And there's something great about America when we have some of our greatest legal minds seriously arguing over the legitimacy of a traffic stop.
-
-* * *
-
-2. There's [a nice case and question summary on oyez.org](http://www.oyez.org/cases/2010-2019/2013/2013_12_9490) which I'm quoting here. [↩](#fnref-12215-1)
-
-4. [Florida v. J.L., (2000)](http://supreme.justia.com/cases/federal/us/529/266/), wherein the Court held that an anonymous tip that a person is carrying a gun is not, without more, sufficient to justify a police officer's stop and frisk of that person. [↩](#fnref-12215-2)
-
-6. [Alabama v. White, (1990)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=496&invol=325), wherein the Court held that an anonymous tip plus additional police work was reasonable cause for a stop and search. [↩](#fnref-12215-3)
-
-8. [US v. Cortez, (1981)](http://supreme.justia.com/cases/federal/us/449/411/case.html) wherein the Court decided that certain observations and circumstantial evidence justified stopping a truck that the police then found to be transporting illegal immigrants across the US/Mexico border. [↩](#fnref-12215-4)
-
-10. Scalia actually references online studies documenting the distracted driving effects of cell phones and sports arguments at this point. I've omitted the links, but it's hilarious to me that he goes that far in making the case for his hypothetical. [↩](#fnref-12215-5)

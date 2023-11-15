@@ -1,6 +1,7 @@
 ---
-title: "To be a Christian is to believe that all political ideologies are suspect."
-date: "2014-03-20T00:40:18.000"
+title: 'To be a Christian is to believe that all political ideologies are suspect.'
+date: 2014-03-20T00:40:18.000
+tags: ['theology']
 ---
 
 [Pascal-Emmanuel Gobry nails it:](http://theweek.com/article/index/257983/christian-conservatives-should-be-christians-first-and-conservatives-second)

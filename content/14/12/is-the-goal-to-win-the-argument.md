@@ -1,6 +1,7 @@
 ---
-title: "Is the goal to win the argument?"
-date: "2014-12-18T17:23:04.000"
+title: 'Is the goal to win the argument?'
+date: 2014-12-18T17:23:04.000
+tags: ['theology']
 ---
 
 https://twitter.com/AJWTheology/status/545584244354203648
@@ -12,8 +13,6 @@ These two tweets showed up on my timeline within 10 minutes of each other this m
 Don't get me wrong - I'm not advocating a check-your-brain-at-the-door version of Christianity. But I think Zahnd is right - arguments by themselves don't win people.
 
 I mean, hey, the next time a Jehovah's Witness approaches you at a restaurant or bar you can grab the nearest napkin and [sketch out a little grid](http://www.thegospelcoalition.org/blogs/justintaylor/2014/12/17/how-to-use-the-back-of-a-napkin-to-prove-to-a-jehovahs-witness-that-jesus-is-god/) that will logically completely prove that you're right and they're wrong. But if you think that once you've done that the JW is going to tear up their Watchtower and come to your evangelical church next Sunday, you've got another think coming.
-
-![paper napkin](http://chrishubbs.com/wordpress/wp-content/uploads/2014/12/paper-napkin-500x274.jpg)
 
 When I look over my own spiritual progression of the past two decades, I've never had an intellectual _Eureka!_ moment change my beliefs. (I might almost say that reading NTW's _Surprised by Hope_ was that sort of experience, but that was more putting words and reason to what I knew must be true but hadn't heard expressed before.) What _has_ changed me is a long, persistent interaction with other believers over time.
 

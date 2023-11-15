@@ -1,6 +1,7 @@
 ---
-title: "Technology upgrades and how they snowball, home video edition"
-date: "2014-07-31T18:51:30.000"
+title: 'Technology upgrades and how they snowball, home video edition'
+date: 2014-07-31T18:51:30.000
+tags: ['tech']
 ---
 
 Last week we used some Amazon rewards points and a couple of gifts and upgraded our bedroom TV and bought a Roku. Our old solution, using a monitor and a Mac Mini, was OK,but was getting more and more inconvenient - Plex was great for watching recorded TV, but the Netflix plugin is broken and had to be watched through a browser, Amazon video was even harder to watch, etc, etc.

@@ -1,9 +1,10 @@
 ---
-title: "Practical Worship Leading Ideas"
-date: "2014-03-12T13:46:43.000"
+title: 'Practical Worship Leading Ideas'
+date: 2014-03-12T13:46:43.000
+tags: ['music', 'worship']
 ---
 
-Yesterday I wrote a response to a post wherein someone else argued that church praise bands, by virtue of the type of music they play, speak a special language and have become a worship intermediary for the congregation. [I disagreed to an extent](http://chrishubbs.com/2014/03/11/do-praise-bands-speak-a-secret-language/), but promised some thoughts on principles for leading worship that can make participatory congregational worship more effective. Here are those thoughts:
+Yesterday I wrote a response to a post wherein someone else argued that church praise bands, by virtue of the type of music they play, speak a special language and have become a worship intermediary for the congregation. [I disagreed to an extent](/14/03/do-praise-bands-speak-a-secret-language/), but promised some thoughts on principles for leading worship that can make participatory congregational worship more effective. Here are those thoughts:
 
 ### Planning
 

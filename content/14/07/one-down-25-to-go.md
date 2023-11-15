@@ -1,13 +1,12 @@
 ---
-title: "One down, 25 to go"
-date: "2014-07-27T21:54:19.000"
+title: 'One down, 25 to go'
+date: 2014-07-27T21:54:19.000
+tags: ['books', 'reading']
 ---
 
 I finished up NT Wright's [_Surprised by Scripture_](http://www.amazon.com/gp/product/B00FJ34XZQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FJ34XZQ&linkCode=as2&tag=chrishubbs-20&linkId=DLPIGLRLRGIZPNHL) the other night. A nice short form of several of his arguments, some will be very familiar to those who have read his other popular works. There were a couple chapters, though, on politics and on women leading in the church that were new to me and quite good.
 
-[![41AxZWXdzuL._SY344_BO1,204,203,200_](http://chrishubbs.com/wordpress/wp-content/uploads/2014/07/41AxZWXdzuL._SY344_BO1204203200_.jpg)](http://www.amazon.com/gp/product/B00FJ34XZQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FJ34XZQ&linkCode=as2&tag=chrishubbs-20&linkId=DLPIGLRLRGIZPNHL)
-
-For review, here's the list of books piled next to my bed that [I've yet to read but want to before I buy any more](http://chrishubbs.com/2014/07/21/no-more-buying-until-i-do-some-reading/). I think the next one I'll be reading is _From the Bible Belt to the Sun Belt_ by Darren Dochuk.
+For review, here's the list of books piled next to my bed that [I've yet to read but want to before I buy any more](/14/07/no-more-buying-until-i-do-some-reading/). I think the next one I'll be reading is _From the Bible Belt to the Sun Belt_ by Darren Dochuk.
 
 **The ones I've not read yet:**
 

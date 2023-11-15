@@ -1,6 +1,7 @@
 ---
-title: "MPT: 20 Problems with Progressive Christianity"
-date: "2014-09-10T13:37:01.000"
+title: 'MPT: 20 Problems with Progressive Christianity'
+date: 2014-09-10T13:37:01.000
+tags: ['christianity']
 ---
 
 [Matthew Paul Turner says he's a "progressive Christian", but that he's never really owned the label because he's not entirely sure how to define it.](http://matthewpaulturner.com/2014/09/08/20-problems-progressive-christianity/) He writes an insightful piece, with a title ("20 Problems with Progressive Christianity") that's a bit of a head fake - rather than being a list of 20 items, it's an essay with 20 "problems" identified throughout.

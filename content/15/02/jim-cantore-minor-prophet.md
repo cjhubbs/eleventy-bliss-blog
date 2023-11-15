@@ -1,19 +1,20 @@
 ---
-title: "Jim Cantore, Minor Prophet"
-date: "2015-02-02T01:05:59.000"
+title: 'Jim Cantore, Minor Prophet'
+date: 2015-02-02T01:05:59.000
+tags: ['creative-writing']
 ---
 
 In former days the weather gods spake to us through almanacks and prognosticating rodents, but in these latter days they speak to us through television channels.
 
 In the seventh year of President Obama's reign, the word of the weather gods came to the prophet Cantore, saying:
 
-![cantore](http://chrishubbs.com/wordpress/wp-content/uploads/2015/02/cantore.jpg)
+![cantore](/images/2015/cantore.jpg)
 
 "Behold, Midwesterners, though thine January hast been mild, and thy hopes look tomorrow toward a groundhog's tidings of early spring, yet before the ground thaws and the streams murmur with hopes of warm weather, a storm shall come upon you the likes of which has not been seen in your environs for many months.
 
 And woe unto you, who live near the Great Lakes, the mid-Atlantic, and the Northeast, for neither shall you be spared. Though your earlier drifts may be melting , yet these storms will restore them to their former height and even beyond, if it be possible.
 
-![85A_blizzard-02-l](http://chrishubbs.com/wordpress/wp-content/uploads/2015/02/85A_blizzard-02-l-500x333.jpg)
+![](/images/2015/blizzard.jpg)
 
 Behold, Juno and Kari shall come from the north, and Linus from the northwest, and shall fall upon thee with cold and heavy snow. The sun will be blocked out, and in blizzard conditions the visibility shall be near to nothing.
 

@@ -1,6 +1,6 @@
 ---
-title: "Stopping ISIS"
-date: "2015-02-26T22:00:29.000"
+title: 'Stopping ISIS'
+date: 2015-02-26T22:00:29.000
 ---
 
 https://twitter.com/RickWarren/status/570962834416275456

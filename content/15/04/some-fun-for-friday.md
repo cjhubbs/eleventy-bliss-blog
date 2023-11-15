@@ -1,6 +1,7 @@
 ---
-title: "Some fun for Friday"
-date: "2015-04-10T17:00:33.000"
+title: 'Some fun for Friday'
+date: 2015-04-10T17:00:33.000
+tags: ['youtube']
 ---
 
 I had about five things turn up in my RSS reading today that I want to blog before long. But it's Friday, which merits things entertaining and lighthearted.

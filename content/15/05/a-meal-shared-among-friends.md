@@ -1,6 +1,7 @@
 ---
-title: "A Meal Shared Among Friends"
-date: "2015-05-27T14:59:17.000"
+title: 'A Meal Shared Among Friends'
+date: 2015-05-27T14:59:17.000
+tags: ['theology', 'church', 'podcasts']
 ---
 
 I've had the sacraments (especially the Eucharist) on my mind lately after reading James K. A. Smith's _Desiring the Kingdom_, and then listening to the [On Being podcast](http://onbeing.org/program/father-greg-boyle-on-the-calling-of-delight/5053) this morning I found this bit from Father Greg Boyle, a delightful Jesuit priest who has spent his life working with gang members in Los Angeles:

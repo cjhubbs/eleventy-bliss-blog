@@ -1,6 +1,7 @@
 ---
-title: "Not to deal with sin, but to save..."
-date: "2015-03-18T12:53:06.000"
+title: 'Not to deal with sin, but to save...'
+date: 2015-03-18T12:53:06.000
+tags: ['theology']
 ---
 
 Grace is a difficult pill to swallow. A dangerous doctrine. The fact that the evangelical church has bought into that thought hit me between the eyes at my men's bible study yesterday morning.
@@ -10,8 +11,6 @@ We're in Hebrews 9 at the moment, the most familiar verse of which was a frequen
 > ...it is appointed for man to die once, and after that comes judgment. -- Hebrews 9:27
 
 This verse was frequently packaged in a set of verses designed as what we would've called a Gospel presentation. Inherent message: you're gonna die, you don't know when, and after that you'll be judged. So, if you haven't asked Jesus into your heart, do it today! And if you have, repent of that sin and clean your life up so you won't have to fear judgment for your sins!
-
-![grace](http://chrishubbs.com/wordpress/wp-content/uploads/2015/03/grace-500x318.jpg)
 
 Yesterday we read the verse in context with the rest of the chapter, and here's what we read (emphasis mine):
 

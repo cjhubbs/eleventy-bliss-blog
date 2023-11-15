@@ -1,6 +1,7 @@
 ---
 title: "Don't Ask, Don't Tell Songwriting"
-date: "2015-01-14T01:11:45.000"
+date: 2015-01-14T01:11:45.000
+tags: ['music', 'theology']
 ---
 
 Yesterday my worship pastor sent out a lead sheet and MP3 for a new song we're going to learn and sing this coming weekend at church, and it's causing me some odd internal conflicts. Not because I hate the song, or because I think the content of the song is bad or anything like that. No, it's because I opened up the lead sheet and had a strong reaction to the name of one of the songwriters. In this case, the song is called "Only King Forever" by Elevation Worship, and the songwriter in question is the pastor of Elevation Church, Steven Furtick.

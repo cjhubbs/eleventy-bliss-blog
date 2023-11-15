@@ -1,6 +1,7 @@
 ---
-title: "Worship develops feelings for God, not vice versa"
-date: "2015-01-25T02:03:44.000"
+title: 'Worship develops feelings for God, not vice versa'
+date: 2015-01-25T02:03:44.000
+tags: ['theology', 'worship']
 ---
 
 https://twitter.com/PetersonDaily/status/558958411820576768

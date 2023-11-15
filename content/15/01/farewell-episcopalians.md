@@ -1,6 +1,7 @@
 ---
-title: "Farewell, Episcopalians?"
-date: "2015-01-15T21:02:58.000"
+title: 'Farewell, Episcopalians?'
+date: 2015-01-15T21:02:58.000
+tags: ['evangelicalism']
 ---
 
 There have been some strong reactions across the internet the past couple days to some remarks that Southern Baptist Theological Seminary president Dr. Albert Mohler made on his daily podcast _The Briefing_. The provocative headline: [**"Controversies involving Episcopal leaders affirms liberalism and Christianity two rival religions"**](http://www.albertmohler.com/?p=33672).

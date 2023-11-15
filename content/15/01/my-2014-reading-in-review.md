@@ -1,6 +1,7 @@
 ---
-title: "My 2014 reading in review"
-date: "2015-01-02T02:33:22.000"
+title: 'My 2014 reading in review'
+date: 2015-01-02T02:33:22.000
+tags: ['books', 'reading', 'year-in-review']
 ---
 
 Well, with 2014 in the books it's time for my annual little review of my reading. This was a busy reading year for me - 74 books equals the most I've read in a year since I started logging my reading back in 2007.
@@ -11,19 +12,19 @@ My fiction/non-fiction split was pretty heavily weighted in the non-fiction dire
 
 ### The Best
 
-![51ndsDLf2uL._SY344_BO1,204,203,200_](http://chrishubbs.com/wordpress/wp-content/uploads/2015/01/51ndsDLf2uL._SY344_BO1204203200_.jpg) **[_The Pastor: A Memoir_](http://www.amazon.com/gp/product/0061988219/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0061988219&linkCode=as2&tag=chrishubbs-20&linkId=GMXEX2P7JKT76GD2) by Eugene Peterson**
+**[_The Pastor: A Memoir_](http://www.amazon.com/gp/product/0061988219/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0061988219&linkCode=as2&tag=chrishubbs-20&linkId=GMXEX2P7JKT76GD2) by Eugene Peterson**
 
 This is a beautifully-written memoir by a much beloved pastor and author. Peterson tells stories from his years of ministry, emphasizing the call to a simple, faithful pastoral ministry. (Such a breath of fresh air in the days of celebrity megachurch pastors!) This was the volume I gave away as Christmas gifts this year. Really good.
 
-**[_From Bible Belt to Sunbelt: Plain-Folk Religion, Grassroots Politics, and the Rise of Evangelical Conservatism_](http://www.amazon.com/gp/product/0393339041/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0393339041&linkCode=as2&tag=chrishubbs-20&linkId=4WZRDHDZLGSFA6CN) by Darren Dochuk**![51e9jZtEImL._SY344_BO1,204,203,200_](http://chrishubbs.com/wordpress/wp-content/uploads/2015/01/51e9jZtEImL._SY344_BO1204203200_.jpg)
+**[_From Bible Belt to Sunbelt: Plain-Folk Religion, Grassroots Politics, and the Rise of Evangelical Conservatism_](http://www.amazon.com/gp/product/0393339041/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0393339041&linkCode=as2&tag=chrishubbs-20&linkId=4WZRDHDZLGSFA6CN) by Darren Dochuk**
 
 A detailed history of the roots of American Evangelicalism, from the Oklahoma radio evangelists of the 1930s, through the migration to Southern California, through the rise of Billy Graham, and all the way to the Moral Majority of Jerry Fallwell. Dochuk's history is quite readable and fascinating for a guy like me who grew up in evangelicalism but didn't really know its roots.
 
-![the_anglican_way](http://chrishubbs.com/wordpress/wp-content/uploads/2015/01/the_anglican_way-322x500.jpg) **[_The Anglican Way: A Guidebook_](http://www.amazon.com/gp/product/0996049908/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0996049908&linkCode=as2&tag=chrishubbs-20&linkId=LCDXTXNYMKDWZQLR) by Fr. Thomas Mackenzie**
+**[_The Anglican Way: A Guidebook_](http://www.amazon.com/gp/product/0996049908/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0996049908&linkCode=as2&tag=chrishubbs-20&linkId=LCDXTXNYMKDWZQLR) by Fr. Thomas Mackenzie**
 
 I chipped in on the Kickstarter campaign for this book back in 2013, and boy was it ever worth it. Thomas, pastor at Church of the Redeemer in Nashville, wrote an introduction to Anglicanism for those Christians who may not be familiar with the tradition. Fr. Thomas: almost thou persuadest me to become an Anglican.
 
-![51fhamZLiXL._SY344_BO1,204,203,200_](http://chrishubbs.com/wordpress/wp-content/uploads/2015/01/51fhamZLiXL._SY344_BO1204203200_.jpg) **[_The Rook: A Novel_](http://www.amazon.com/gp/product/0316098809/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316098809&linkCode=as2&tag=chrishubbs-20&linkId=NQ7Y3DELCLLUSBFS) by Daniel O'Malley**
+**[_The Rook: A Novel_](http://www.amazon.com/gp/product/0316098809/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316098809&linkCode=as2&tag=chrishubbs-20&linkId=NQ7Y3DELCLLUSBFS) by Daniel O'Malley**
 
 This was my last book of the year, so hopefully I'm not just biased because it's fresh in my memory. This was a great read, though, if you're into the sort of supernatural spy mystery/thriller sort of thing. Funny, moves quick, keeps things interesting. Looking forward to the second book in the series sometime next year.
 

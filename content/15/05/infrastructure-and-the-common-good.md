@@ -1,6 +1,7 @@
 ---
-title: "Infrastructure and the Common Good"
-date: "2015-05-21T01:15:58.000"
+title: 'Infrastructure and the Common Good'
+date: 2015-05-21T01:15:58.000
+tags: ['politics']
 ---
 
 [Adam Gopnik in The New Yorker](http://www.newyorker.com/news/daily-comment/the-plot-against-trains) last week:

@@ -1,6 +1,7 @@
 ---
-title: "That old, old impulse to tweak and re-write"
-date: "2015-06-16T15:58:24.000"
+title: 'That old, old impulse to tweak and re-write'
+date: '2015-06-16T15:58:24.000'
+tags: ['music', 'worship']
 ---
 
 As a worship leader I confess I grumble from time to time about the current propensity of our songwriters to appropriate and revise classic hymns in ways that just drive me crazy.
@@ -21,7 +22,7 @@ Oh, and don't even get me started about the multiple Christian-ese re-writes of 
 
 This past weekend we had a garage sale, and among 3 big boxes of sheet music my Mom brought to the sale, I found a book that lets me know that this isn't a new problem.
 
-[![IMG_4673](http://chrishubbs.com/wordpress/wp-content/uploads/2015/06/IMG_4673-e1434468650677-375x500.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2015/06/IMG_4673-e1434468650677.jpg)
+![](/images/2015/world-famous-christmas-songs.jpg)
 
 "World Famous Christmas Songs, containing the best and most popular Songs of the Nativity". Compiled and Edited by the Reverend George Rittenhouse. Published in 1929, it's an eclectic assortment of both secular and sacred songs.
 
@@ -29,11 +30,11 @@ What stuck out to me as I paged through was that when it says "edited" by Rev. R
 
 For instance, he rather ambitiously chooses to re-harmonize _Angels We Have Heard on High_ with some extra movement:
 
-[![IMG_4675](http://chrishubbs.com/wordpress/wp-content/uploads/2015/06/IMG_4675-500x375.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2015/06/IMG_4675.jpg)
+![](/images/2015/angels-we-have-heard.jpg)
 
 Another place he appropriates Bizet's _L'Arlessienne_ and some old lyrics to create a rather bombastic tune subtitled "The March of the Kings".
 
-[![IMG_4676](http://chrishubbs.com/wordpress/wp-content/uploads/2015/06/IMG_4676-375x500.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2015/06/IMG_4676.jpg)
+![](/images/2015/one-fair-morn.jpg)
 
 Then there's this gem, wherein he re-writes the lyrics of "O Tannenbaum!" to give them a Christian angle:
 
@@ -41,7 +42,7 @@ Then there's this gem, wherein he re-writes the lyrics of "O Tannenbaum!" to giv
 
 A classic waiting to happen, right there. There are two more verses if you're really interested.
 
-[![IMG_4678](http://chrishubbs.com/wordpress/wp-content/uploads/2015/06/IMG_4678-375x500.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2015/06/IMG_4678.jpg)
+![](/images/2015/o-christmas-tree.jpg)
 
 ### The more things change...
 

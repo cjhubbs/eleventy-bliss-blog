@@ -1,11 +1,12 @@
 ---
-title: "Bullet Points for a Wednesday Morning"
-date: "2015-01-28T16:57:46.000"
+title: 'Bullet Points for a Wednesday Morning, 2015 edition'
+date: 2015-01-28T16:57:46.000
+tags: ['bullet-points']
 ---
 
 I'm in Florida for a work trip this week. It's been a good time so far. Doesn't hurt when the view out your conference room window looks like this:
 
-[![10645090_10152969137642649_7336002394117997668_n](http://chrishubbs.com/wordpress/wp-content/uploads/2015/01/10645090_10152969137642649_7336002394117997668_n-500x375.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2015/01/10645090_10152969137642649_7336002394117997668_n.jpg)
+![](/images/2015/the-beach.jpg)
 
 But without further ado, the bullets:
 

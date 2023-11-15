@@ -1,6 +1,7 @@
 ---
-title: "Too much knowledge about the Bible a bad thing?"
-date: "2015-05-13T03:04:12.000"
+title: 'Too much knowledge about the Bible a bad thing?'
+date: 2015-05-13T03:04:12.000
+tags: ['theology', 'evangelicalism']
 ---
 
 In a recent update of Christianity Today's _Leadership Journal_ they [interviewed Josh McDowell about, among other things, current trends on the belief in the inerrancy of the Bible](http://www.christianitytoday.com/parse/2015/april/truth-for-new-generation.html). Here's how the first bit went:
@@ -8,7 +9,7 @@ In a recent update of Christianity Today's _Leadership Journal_ they [interviewe
 > Q: Trust in the inerrancy of Scripture, even among some evangelicals, has waned in recent years. Why do you think this is? There is no one reason. **I think one of the major reasons is the information glut on the Internet.** The Internet is so gigantic. **It has leveled the playing field.** Atheists and agnostics have such ready access to our kids. It didn’t use to be this way. Now, information—good and bad—is just one click away. **Pastors, youth pastors, professors, and others are being confronted with deep theological, philosophical, and historical challenges to the Scriptures that no one would even hear about until their fourth year at a university.** Believers are being confronted with so many opposing positions on the Scriptures—issues the majority from past generations simply didn’t confront. This has tended to undermine people’s belief system. That is why we need to redouble our efforts to communicate biblical truth.
 
 [![Gutenberg Bible.jpg](http://upload.wikimedia.org/wikipedia/commons/b/b0/Gutenberg_Bible.jpg)](http://commons.wikimedia.org/wiki/File:Gutenberg_Bible.jpg#/media/File:Gutenberg_Bible.jpg)  
-_"[Gutenberg Bible](http://commons.wikimedia.org/wiki/File:Gutenberg_Bible.jpg#/media/File:Gutenberg_Bible.jpg)" by [Raul654](//commons.wikimedia.org/wiki/User:Raul654 "User:Raul654"). Licensed under [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/ "Creative Commons Attribution-Share Alike 3.0") via [Wikimedia Commons](//commons.wikimedia.org/wiki/)._
+_"[Gutenberg Bible](http://commons.wikimedia.org/wiki/File:Gutenberg_Bible.jpg#/media/File:Gutenberg_Bible.jpg)" by [Raul654](//commons.wikimedia.org/wiki/User:Raul654 'User:Raul654'). Licensed under [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/ 'Creative Commons Attribution-Share Alike 3.0') via [Wikimedia Commons](//commons.wikimedia.org/wiki/)._
 
 I think McDowell's point is valid, but I'm a little disturbed about what it seems to imply. If I were to boil the Q&A down, the reasoning might go like this:
 

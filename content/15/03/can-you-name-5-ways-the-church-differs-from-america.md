@@ -1,6 +1,7 @@
 ---
-title: "Can you name 5 ways the church differs from America?"
-date: "2015-03-03T14:42:56.000"
+title: 'Can you name 5 ways the church differs from America?'
+date: 2015-03-03T14:42:56.000
+tags: ['theology']
 ---
 
 There's a [challenging riff from pastor Brian Zahnd over on Missio Alliance](http://www.missioalliance.org/how-does-the-church-differ-from-america/) today.

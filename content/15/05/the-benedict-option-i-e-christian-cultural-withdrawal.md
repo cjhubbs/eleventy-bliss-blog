@@ -1,11 +1,12 @@
 ---
-title: "The Benedict Option (i.e. Christian Cultural Withdrawal)"
-date: "2015-05-04T18:15:24.000"
+title: 'The Benedict Option (i.e. Christian Cultural Withdrawal)'
+date: 2015-05-04T18:15:24.000
+tags: ['christianity', 'culture']
 ---
 
 Rod Dreher has been championing an idea he calls [The Benedict Option](http://www.theamericanconservative.com/dreher-categories/benedict-option/) - as he describes it, "a limited, strategic withdrawal of Christians from the mainstream of American popular culture, for the sake of shoring up our understanding of what the church is, and what we must do to be the church"
 
-[![St. Benedict of Nursia](https://farm2.staticflickr.com/1096/1457824233_6db4d4219d.jpg)](https://www.flickr.com/photos/acullador/1457824233 "St. Benedict of Nursia by Jun Acullador, on Flickr")
+[![St. Benedict of Nursia](https://farm2.staticflickr.com/1096/1457824233_6db4d4219d.jpg)](https://www.flickr.com/photos/acullador/1457824233 'St. Benedict of Nursia by Jun Acullador, on Flickr')
 
 [Alan Jacobs spins things in a slightly different direction](http://blog.ayjay.org/uncategorized/withdrawals-and-commitments/):
 

@@ -1,6 +1,7 @@
 ---
-title: "American Oligarchy"
-date: "2015-04-02T18:48:10.000"
+title: 'American Oligarchy'
+date: 2015-04-02T18:48:10.000
+tags: ['politics']
 ---
 
 The kerfuffle around Indiana's [Religious Freedom Restoration Act](https://en.wikipedia.org/wiki/Indiana_SB_101) this week has been a mess of ugly rhetoric and heat generated without creating a lot of light on the subject. The RFRA was passed by the Indiana legislature and signed by the governor, only to elicit massive outcry from corporate leaders who immediately did reactive things like restricting business travel to Indiana.

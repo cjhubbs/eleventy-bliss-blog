@@ -1,6 +1,7 @@
 ---
-title: "Have Safire write up a speech"
-date: "2015-04-13T12:00:07.000"
+title: 'Have Safire write up a speech'
+date: 2015-04-13T12:00:07.000
+tags: ['comics', 'history']
 ---
 
 I gotta say, this XKCD from last week cracked me up, if only mostly for the alt text (which I've posted below the image here).

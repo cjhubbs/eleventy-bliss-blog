@@ -1,24 +1,22 @@
 ---
-title: "Wherein I rag on Aaron Sorkin, do a little bit of my own research, and brag on my completely awesome friends."
-date: "2014-09-03T01:40:25.000"
+title: 'Wherein I rag on Aaron Sorkin, do a little bit of my own research, and brag on my completely awesome friends.'
+date: 2014-09-03T01:40:25.000
+tags: ['tv']
 ---
 
 Last night I briefly moaned on Facebook about a small inconsistency that bugged me whilst watching [The West Wing Season 4 Episode 18 ("Angel Maintenance")](http://westwingepguide.com/S4/Episodes/86_AM.html). At the end of the episode, Air Force One's pilot announces over the intercom that they are cleared to land on "runway three-niner".
 
 There's just one problem with that announcement: there's never any such thing as a runway 39. [Runways are numbered based on the compass orientation of the runway's direction, with the units digit lopped off.](http://en.wikipedia.org/wiki/Runway) For example, a runway running directly East-West would be marked "09" on one end and "27" on the other end.
 
-> [![Runway 22.svg](http://upload.wikimedia.org/wikipedia/commons/0/09/Runway_22.svg)](http://commons.wikimedia.org/wiki/File:Runway_22.svg#mediaviewer/File:Runway_22.svg)  
-> "[Runway 22](http://commons.wikimedia.org/wiki/File:Runway_22.svg#mediaviewer/File:Runway_22.svg)" by [Orion 8](//commons.wikimedia.org/wiki/User:Orion_8 "User:Orion 8") - Own work. Licensed under [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0 "Creative Commons Attribution-Share Alike 3.0") via [Wikimedia Commons](//commons.wikimedia.org/wiki/).
-
 Having thus been minimally annoyed, I followed up by checking Google Earth to determine what runways Andrews Air Force Base (the intended landing site on the show) _does_ have.
 
 Well, it has two of them that run roughly parallel to each other:
 
-![Screenshot-2014-09-02_20.25.39](http://chrishubbs.com/wordpress/wp-content/uploads/2014/09/Screenshot-2014-09-02_20.25.39.png)
+![](/images/2014/andrews-afb.png)
 
 And when you zoom in on one end of one of them you can see it's marked "01 R":
 
-![Screenshot-2014-09-02_20.25.59](http://chrishubbs.com/wordpress/wp-content/uploads/2014/09/Screenshot-2014-09-02_20.25.59.png)
+![](/images/2014/andrews-afb-runway.png)
 
 From this you can quite easily conclude that the other runway ends (with associated names) are "01 L", "19 R", and "19 L".
 
@@ -40,7 +38,7 @@ Do I have awesome friends or what?
 
 It's fun when somebody has a topic like this right in their wheelhouse. It reminds me of when I was in high school and my friends' dad was a submarine captain. Getting his opinions on _The Hunt for Red October_... hehehe.
 
-Or when I watched an episode of _Human Target_ a few years back and [ripped the whole thing apart when their plot revolved around someone reprogramming avionics software while in the air on board an airplane THAT WAS FLYING UPSIDE DOWN THE WHOLE TIME.](http://chrishubbs.com/2010/01/22/sometimes-knowing-too-much-is-a-bad-thing/)
+Or when I watched an episode of _Human Target_ a few years back and [ripped the whole thing apart when their plot revolved around someone reprogramming avionics software while in the air on board an airplane THAT WAS FLYING UPSIDE DOWN THE WHOLE TIME.](/10/01/sometimes-knowing-too-much-is-a-bad-thing/)
 
 OK, maybe I'm not over that one quite yet.
 

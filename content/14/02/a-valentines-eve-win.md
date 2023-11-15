@@ -1,6 +1,7 @@
 ---
 title: "A Valentine's Eve Win"
-date: "2014-02-14T15:17:32.000"
+date: 2014-02-14T15:17:32.000
+tags: ['concerts', 'music']
 ---
 
 Last night my wife and I went to see Jim Brickman in concert at the Paramount here in Cedar Rapids. This is the second time we've seen this age-defying (the guy is over 50 and looks about 30!) pianist perform, and I have just a few observations:

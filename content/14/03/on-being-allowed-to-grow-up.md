@@ -1,11 +1,10 @@
 ---
-title: "On Being Allowed to Grow Up"
-date: "2014-03-24T18:10:23.000"
+title: 'On Being Allowed to Grow Up'
+date: 2014-03-24T18:10:23.000
+tags: ['parenting']
 ---
 
 There's a fascinating article on The Atlantic site that's been making the rounds recently, and it's well worth a read. Author Hanna Rosin, in her article ["The Overprotected Kid"](http://www.theatlantic.com/features/archive/2014/03/hey-parents-leave-those-kids-alone/358631/), examines how attitudes toward children and risk have changed in the past few decades. Where in the 70s parents would've just turned kids loose, kids are now more frequently monitored, reined in, and protected. She tells about a playground experiment in Britain where they've gone the other direction - removing the rubberized, "safe" equipment in favor of lots of raw material, limited adult intervention, and very few rules. Fascinating stuff.
-
-![small__5144316484](http://chrishubbs.com/wordpress/wp-content/uploads/2014/03/small__5144316484.jpg)
 
 Now, the article is well worth considering from the sociological and parenting angles, but this bit stuck out at me from a faith angle as well:
 

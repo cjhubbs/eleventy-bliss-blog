@@ -1,6 +1,7 @@
 ---
-title: "A couple more knocked off the list"
-date: "2014-08-26T02:07:20.000"
+title: 'A couple more knocked off the list'
+date: 2014-08-26T02:07:20.000
+tags: ['books', 'reading']
 ---
 
 I had a business trip last week which gave me extra reading time, so... two more knocked off the list.

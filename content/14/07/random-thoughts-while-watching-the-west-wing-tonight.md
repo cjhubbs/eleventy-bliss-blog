@@ -1,6 +1,7 @@
 ---
-title: "Random thoughts while watching The West Wing tonight"
-date: "2014-07-14T03:21:21.000"
+title: 'Random thoughts while watching The West Wing tonight'
+date: 2014-07-14T03:21:21.000
+tags: ['tv']
 ---
 
 Tonight we watched ["Dead Irish Writers"](http://www.westwingepguide.com/S3/Episodes/60_DIW.html), from the middle of season three. A couple of thoughts:

@@ -1,13 +1,15 @@
 ---
-title: "Some thoughts on the recent EFCA doctrinal survey"
-date: "2014-06-11T20:54:38.000"
+title: 'Some thoughts on the recent EFCA doctrinal survey'
+date: 2014-06-11T20:54:38.000
+tags: ['evangelicalism', 'efca']
+image:
+  src: /images/2014/efca.png
+  alt: efca logo
 ---
 
 I was fascinated to last week stumble upon the results of [a 2013 doctrinal survey of more than 1000 credentialed Evangelical Free Church of America (EFCA) pastors](http://go.efca.org/resources/document/efca-doctrinal-survey). I've been a member of an EFCA church for just more than 5 years, and while I have a reasonable feel for where my own congregation stands on many doctrinal issues, it's very interesting to get a feel for where the denomination is as a greater whole.
 
 ## Some thoughts on various survey topics:
-
-![Screenshot-2014-06-11_15.45.48](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/Screenshot-2014-06-11_15.45.48.png)
 
 ### Creation / Evolution
 
@@ -16,8 +18,6 @@ I was fascinated to last week stumble upon the results of [a 2013 doctrinal surv
 I was a little bit surprised that almost 60% of respondents held the "six literal days" view. (I would've expected that view to be predominant, but maybe not quite so high.) Another 20% opted for some older-earth view, with the remaining 20% responding 'unsettled' or 'other'.
 
 The results of Q9, then, come as no surprise: **"How important is your view of the age of the earth to your theological framework?"** 65% answered either very or somewhat important. My guess is that the overlap between the "six literal days" folks and the very or somewhat important folks is very great, and that they also largely overlap with the 57% who either disagreed or strongly disagreed with the Q10 proposition that **"some forms of theistic evolution are compatible with biblical teaching"**.
-
-![biology](http://chrishubbs.com/wordpress/wp-content/uploads/2014/06/biology.jpg)
 
 ### Science
 

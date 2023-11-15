@@ -1,12 +1,12 @@
 ---
-title: "A Holistic Digital Person"
-date: "2014-01-30T21:12:19.000"
+title: 'A Holistic Digital Person'
+date: 2014-01-30T21:12:19.000
+tags: ['personal', 'social-media']
 ---
 
 Yesterday morning I was tweeting from the beginning of an industry committee meeting I'm attending this week in Florida. I was griping a little bit about a presenter who was reading every line from his slides. This inspired a response from a friend of mine:
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p><a href="https://twitter.com/cjhubbs">@cjhubbs</a> I've come up with the wording of your next business card Christopher J Hubbs Sr Systems Engineer Please don't follow me on Twitter</p>— Jason Kamphaugh (@jjkamp) <a href="https://twitter.com/jjkamp/statuses/428181926122242048">January 28, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+> @cjhubbs: I've come up with the wording of your next business card Christopher J Hubbs Sr Systems Engineer Please don't follow me on Twitter
 
 I understand what Jason's getting at. Do I really want work people seeing my tweets about work, and for that matter connecting my work persona with my tweets about the rest of life?
 

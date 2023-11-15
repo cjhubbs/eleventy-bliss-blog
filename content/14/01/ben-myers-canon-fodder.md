@@ -1,6 +1,7 @@
 ---
 title: "Ben Myers' Canon Fodder"
-date: "2014-01-16T12:45:19.000"
+date: 2014-01-16T12:45:19.000
+tags: ['theology']
 ---
 
 Australian theology professor Ben Myers ([@FaithTheology](http://twitter.com/faiththeology)) has been tweeting a fantastic series of 140-character commentaries on each book of the Bible, one tweet per book, delightfully tagged "Canon Fodder".

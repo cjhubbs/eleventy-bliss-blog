@@ -1,6 +1,7 @@
 ---
 title: "Paul counting his privilege as rubbish - Alistair Roberts' take on Philippians 3"
-date: "2014-10-08T12:09:43.000"
+date: 2014-10-08T12:09:43.000
+tags: ['theology']
 ---
 
 There's [an interesting piece from Alistair Roberts over on Political Theology today](http://www.politicaltheology.com/blog/the-politics-of-privilege-philippians-34a-14/). Roberts thinks through Philippians 3:4-14 and has a slightly different perspective than most I've read before.

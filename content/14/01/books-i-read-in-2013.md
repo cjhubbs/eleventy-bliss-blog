@@ -1,6 +1,7 @@
 ---
-title: "Books I read in 2013"
-date: "2014-01-02T15:16:05.000"
+title: 'Books I read in 2013'
+date: 2014-01-02T15:16:05.000
+tags: ['books', 'reading', 'year-in-review']
 ---
 
 Here's my one year-end post: a little summary of what I read this year. I'm not gonna list 'em all - you can go check out [the list on Goodreads](https://www.goodreads.com/review/list/80101?shelf=2013-reads) if you're really interested - but I'll include some highlights.
@@ -30,7 +31,7 @@ It feels like a cheat to list Robinson's book here, since she uses the fictional
 **The worst** I've gotten better at just putting books down if they seem like clunkers, so I have just a single one-star reviewed book on my list this year: _The Panther_ by Nelson DeMille. Here's what I wrote on Goodreads:
 
 > Plot is thinner than thin. Hundreds of pages and nothing happens except we get a tour of Yemen and page after page of insufferable narrative. It's as if Mr DeMille had a quota of smart-ass internal dialog per page that he had to fill. If you cut out half of it, the book would shorten by 20% and still be just as boring.
-> 
+>
 > I'm ashamed I wasted as much time on this one as I did. Avoid.
 
 **Plans for 2014** I'm likely to always be a theology, politics, and sci-fi geek, but I really would like to read some more history, some classic literature, and maybe even a little poetry. Hit me up if you have recommendations!

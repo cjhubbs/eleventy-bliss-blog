@@ -1,6 +1,7 @@
 ---
-title: "My Fourth of July:"
-date: "2014-07-04T23:40:32.000"
+title: 'My Fourth of July:'
+date: 2014-07-04T23:40:32.000
+tags: ['personal', 'bullet-points']
 ---
 
 - Ran [the local 8k](http://www.fifthseasonrace.com/races/8k-run/). Didn't set any time records.

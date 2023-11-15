@@ -1,13 +1,8 @@
 ---
-title: "My Podcast Listening circa January 2014"
-date: "2014-01-06T19:32:44.000"
+title: 'My Podcast Listening circa January 2014'
+date: 2014-01-06T19:32:44.000
+tags: ['podcasts']
 ---
-
-<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/cjhubbs">@cjhubbs</a> I would love to hear about some of these podcasts. I'm moving some of mine out of rotation and need some new ones...</p>— D.S. Deboer (@ddeboer) <a href="https://twitter.com/ddeboer/statuses/419177515278553088">January 3, 2014</a></blockquote>
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-OK, so we'll agree to blame Dan for this post, shan't we?
 
 At the moment I'm subscribed to 14 podcasts. I do all my podcast listening on my phone - mostly in the car or (during the summer months) while running or doing lawn work. (This has a nasty side-effect where I get a really backed-up queue in the winter months, but oh well.)
 

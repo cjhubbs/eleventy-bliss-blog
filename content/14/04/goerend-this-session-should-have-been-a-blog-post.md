@@ -1,17 +1,12 @@
 ---
-title: "Goerend: This Session Should Have Been A Blog Post"
-date: "2014-04-21T18:44:00.000"
+title: 'Goerend: This Session Should Have Been A Blog Post'
+date: 2014-04-21T18:44:00.000
+tags: ['meetings']
 ---
 
 Russ Goerend is a teacher, relative of a friend, and [self-admitted sneaky reader of this blog](http://thoughts.russgoerend.com/post/83370455369/bullet-points). He sent me a nice email the other day to introduce himself and say he was a reader, and as a matter of course I went to check out his blog, which I'm going to follow. And right there, just three posts deep, was a post that nailed something that had been bugging me for the past week.
 
-Last week I attended an industry conference in Kansas City. Attendance at this conference was evenly split between industry members and government representatives who regulate us. The goal of the conference was to address regulations as they relate to product approval and flight testing.
-
-My twitter stream indicated my frustration during the conference:
-
-[Conference Rant](https://twitter.com/cjhubbs/timelines/458311392542457857) 
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+Last week I attended an industry conference in Kansas City. Attendance at this conference was evenly split between industry members and government representatives who regulate us. The goal of the conference was to address regulations as they relate to product approval and flight testing. My twitter stream indicated my frustration during the conference.
 
 Russ nailed a more productive take on a similar problem in his recent post titled "[This session should have been a blog post](http://thoughts.russgoerend.com/post/83367886294/this-session-should-have-been-a-blog-post)". Attending a recent education conference session that was designed as lots of quick informational hits, he noted these thoughts:
 

@@ -1,6 +1,7 @@
 ---
-title: "Not everything that calls itself a church is really a church."
-date: "2014-03-21T15:00:14.000"
+title: 'Not everything that calls itself a church is really a church.'
+date: 2014-03-21T15:00:14.000
+tags: ['quotes', 'church']
 ---
 
 My friend Randy posted [a nice little bit of self-observation today](http://biblestudygeek.com/archives/8262) that resonates with me:

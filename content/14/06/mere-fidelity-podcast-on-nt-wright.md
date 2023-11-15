@@ -1,6 +1,7 @@
 ---
-title: "Mere Fidelity Podcast on NT Wright"
-date: "2014-06-25T01:08:22.000"
+title: 'Mere Fidelity Podcast on NT Wright'
+date: 2014-06-25T01:08:22.000
+tags: ['theology', 'podcasts']
 ---
 
 I've recently started listening to the [Mere Fidelity podcast](https://itunes.apple.com/us/podcast/mere-fidelity/id885758537?mt=2), a theological conversation between Americans [Derek Rishmawy](https://twitter.com/DZRishmawy) and [Matthew Lee Anderson](https://twitter.com/mattleeanderson), and Brits [Alistair Roberts](http://www.twitter.com/zugzwanged) and [Andrew Wilson](https://twitter.com/AJWTheology). On [a recent episode](http://mereorthodoxy.com/mere-fidelity-surprised-nt-wright/) they took up the topic of Anglican theologian NT Wright.

@@ -1,11 +1,12 @@
 ---
-title: "Notes from the Creation Debate"
-date: "2014-02-06T00:17:59.000"
+title: 'Notes from the Creation Debate'
+date: 2014-02-06T00:17:59.000
+tags: ['theology']
 ---
 
 There was a well-publicized debate last night on this question: "is creation a viable model of origins in today's modern scientific era"? On the pro side was Ken Ham, the head of Answers in Genesis; on the con side was Bill Nye, popular TV 'science guy'. Hosted at Ham's Creation Museum in Kentucky, the two men debated for two-and-a-half hours in front of a large audience, with a CNN reporter serving as moderator.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/z6kgvhG3AkI" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/z6kgvhG3AkI
 
 The debate format included short opening statements, 30 minute presentations from each man, a series of short rebuttals, and then questions from the audience. For those of you who can't or don't want to watch the whole thing, I'll summarize the debate briefly and then share some thoughts.
 

@@ -1,6 +1,7 @@
 ---
-title: "Bullet Points for a Wednesday Afternoon: San Diego Edition"
-date: "2014-08-20T22:51:00.000"
+title: 'Bullet Points for a Wednesday Afternoon: San Diego Edition'
+date: 2014-08-20T22:51:00.000
+tags: ['bullet-points']
 ---
 
 I'm on business travel this week to San Diego and with so many thoughts rattling around in my head, bullet points might be as good as it gets for now.

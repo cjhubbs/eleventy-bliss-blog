@@ -1,6 +1,7 @@
 ---
-title: "Humility"
-date: "2014-04-07T00:37:13.000"
+title: 'Humility'
+date: 2014-04-07T00:37:13.000
+tags: ['personal', 'self-reflection']
 ---
 
 There are days I foolishly think I'm fairly well-read and have thought through good chunks of doctrine and theology; and then there are the days where I'm reminded that I'm a rank amateur.

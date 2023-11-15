@@ -1,6 +1,7 @@
 ---
-title: "Using HDHomeRun Plus to record H.264 video with Windows Media Center"
-date: "2014-08-05T13:47:51.000"
+title: 'Using HDHomeRun Plus to record H.264 video with Windows Media Center'
+date: 2014-08-05T13:47:51.000
+tags: ['tech']
 ---
 
 Yeah, this is a nerdy post. I'm not expecting it's of huge interest for my usual readers but might be helpful to others searching for more information on this configuration.
@@ -13,7 +14,7 @@ The HDHomeRun Plus has integrated hardware to do H.264 video transcoding, so if 
 
 This is the easy part. The HDHomeRun has three plugs on the back, and you simply plug in each of them as the QuickStart instructions show you.
 
-![Screenshot-2014-08-05_08.29.55](http://chrishubbs.com/wordpress/wp-content/uploads/2014/08/Screenshot-2014-08-05_08.29.55.png)
+![](/images/2014/hdhr.png)
 
 The coaxial cable coming from the antenna in my attic connects to the antenna port; the ethernet jack connects to my router, and the power plug, well, you can figure that out. The power adapter is different than the original HDHomeRun (the Plus takes 12 volts; the original takes 5). A nice improvement here is that even though it's a dual tuner, it only requires one antenna input. The original model required splitting the antenna signal and plugging it in twice. Getting the extra cable and splitter out of the signal path improved my signal strength on a couple of channels.
 

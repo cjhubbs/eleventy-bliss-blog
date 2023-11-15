@@ -1,6 +1,7 @@
 ---
-title: "Paul Tripp on the inadequacy of external accountability"
-date: "2014-08-12T16:37:53.000"
+title: 'Paul Tripp on the inadequacy of external accountability'
+date: 2014-08-12T16:37:53.000
+tags: ['evangelicalism']
 ---
 
 Pastor, author, and counselor Paul Tripp [recently resigned from the Mars Hill Church (Seattle) Board of Advisors & Accountability](http://www.patheos.com/blogs/warrenthrockmorton/2014/08/02/james-macdonald-resigns-from-mars-hill-board-update-on-paul-tripps-resignation/). There was a lot of speculation at that time as to why Tripp was resigning, and in what capacity he might stick around as a consultant and counselor. Tripp cleared that up today with [a statement on his website](http://paultripp.com/articles/posts/mars-hill-boaa-statement) wherein he describes the inadequacy of that sort of external accountability.

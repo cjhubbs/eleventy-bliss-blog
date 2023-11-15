@@ -1,6 +1,7 @@
 ---
-title: "We need more neighbors"
-date: "2014-04-04T02:14:50.000"
+title: 'We need more neighbors'
+date: 2014-04-04T02:14:50.000
+tags: ['evangelicalism']
 ---
 
 There's been a lot of virtual ink spilled in the Christian blogosphere on the gay marriage topic the past couple of weeks after the World Vision U-turn. One of the benefits of not saying anything about it myself is that eventually someone comes along who says things a lot better than I would. Today that person is [Jen Hatmaker](http://jenhatmaker.com/blog/2014/04/02/where-i-stand). (All the emphasis in the quotes below is hers.)

@@ -1,6 +1,7 @@
 ---
-title: "The Lost World of Genesis One"
-date: "2014-02-25T05:08:17.000"
+title: 'The Lost World of Genesis One'
+date: 2014-02-25T05:08:17.000
+tags: ['books', 'reading', 'theology']
 ---
 
 Last week I finally got the chance to read [_The Lost World of Genesis One: Ancient Cosmology and the Origins Debate_](http://www.amazon.com/gp/product/B003VM8QK0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003VM8QK0&linkCode=as2&tag=chrishubbs-20) by John H. Walton. Dr. Walton is a professor of Old Testament at Wheaton College. His PhD is from the Hebrew Union College - Jewish Institute of Religion, which is, curiously enough (per Wikipedia), the primary seminary for training rabbis in Reform Judaism. All that to say the guy has a better-than-average understanding of the Old Testament, Jewish culture, and the Hebrew language.
@@ -18,7 +19,7 @@ Walton compares the creation stories of several different ancient cultures and n
 What's up with God resting? Day seven, says Walton, is the climax of the story. Key, he says is
 
 > the piece of information that everyone knew in the ancient world and to which most modern readers are totally oblivious: Deity rests in a temple, and only in a temple. This is what temples were built for. We might even say that this is what a temple is— a place for divine rest. Perhaps even more significant, in some texts the construction of a temple is associated with cosmic creation...
-> 
+>
 > ...in the ancient world rest is what results when a crisis has been resolved or when stability has been achieved , when things have “settled down.” Consequently normal routines can be established and enjoyed. For deity this means that the normal operations of the cosmos can be undertaken. This is more a matter of engagement without obstacles rather than disengagement without responsibilities.
 
 ### The Seven days of Genesis 1 Do Not Concern Material Origins

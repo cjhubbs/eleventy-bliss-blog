@@ -1,9 +1,10 @@
 ---
-title: "Looking back at my thoughts on the Acts 29 Leadership Change"
-date: "2014-08-11T21:25:19.000"
+title: 'Looking back at my thoughts on the Acts 29 Leadership Change'
+date: 2014-08-11T21:25:19.000
+tags: ['evangelicalism']
 ---
 
-[My post from March 2012 about Matt Chandler taking over the reins of Acts 29](http://chrishubbs.com/2012/03/28/some-thoughts-on-matt-chandlers-move-to-lead-acts-29/) has seen some renewed activity this past week with the news that Acts 29 booted Mark Driscoll and Mars Hill Church from membership in the church planting network.
+[My post from March 2012 about Matt Chandler taking over the reins of Acts 29](/12/03/some-thoughts-on-matt-chandlers-move-to-lead-acts-29/) has seen some renewed activity this past week with the news that Acts 29 booted Mark Driscoll and Mars Hill Church from membership in the church planting network.
 
 Last week's move is a significant one, seeing (as [Wenatchee the Hatchet has documented](http://wenatcheethehatchet.blogspot.com/2014/08/in-consideration-of-recent-events-blast.html)) that for most of its existence, Acts 29 was, both by leadership and funding, nearly indistinguishable from Mars Hill.
 

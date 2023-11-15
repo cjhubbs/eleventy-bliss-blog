@@ -1,6 +1,7 @@
 ---
-title: "The War of Christmas"
-date: "2014-12-03T16:08:54.000"
+title: 'The War of Christmas'
+date: 2014-12-03T16:08:54.000
+tags: ['theology']
 ---
 
 [@pegobry with a great post about the subversive and challenging nature of Christ's advent:](http://www.patheos.com/blogs/inebriateme/2014/12/its-not-the-war-on-christmas-its-the-war-of-christmas/)

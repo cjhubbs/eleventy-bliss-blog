@@ -1,11 +1,10 @@
 ---
 title: "That's not me!"
-date: "2014-04-15T20:30:35.000"
+date: 2014-04-15T20:30:35.000
+tags: ['personal']
 ---
 
 OK, I've heard stories before about people having their email addresses added to unsavory mailing lists by pranking friends or malicious enemies, but what about the times when someone is apparently unintentionally using your email address for their legitimate purposes? Such is the odd frustration I've been dealing with lately.
-
-![headache](http://chrishubbs.com/wordpress/wp-content/uploads/2014/04/headache.jpeg)
 
 I've had a Gmail account with a username in the format of firstname.lastname@gmail.com ever since Gmail was invite-only. (Remember those days?) It's worked great for me, though eventually I've semi-retired it for email in favor of using Fastmail and an email address based on my personal domain. For the past six months, though, I've been getting a string of non-spam emails that appear to be intended for somebody else.
 

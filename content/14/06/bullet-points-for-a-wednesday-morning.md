@@ -1,6 +1,7 @@
 ---
-title: "Bullet Points for a Wednesday Morning"
-date: "2014-06-25T15:59:16.000"
+title: 'Bullet Points for a Wednesday Morning'
+date: 2014-06-25T15:59:16.000
+tags: ['bullet-points']
 ---
 
 Just a few random observations...

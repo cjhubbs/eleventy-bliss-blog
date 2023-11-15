@@ -1,11 +1,12 @@
 ---
-title: "In which I gripe about my home media center travails"
-date: "2014-04-05T13:47:30.000"
+title: 'In which I gripe about my home media center travails'
+date: 2014-04-05T13:47:30.000
+tags: ['tech', 'tv']
 ---
 
 You regular readers (all three of you) know that this blog bounces back and forth between theology and nerd stuff with frightening regularity. This is going to be a nerdy post. You have been warned.
 
-Nearly 5 years ago [we got rid of our Dish Network satellite TV service](http://chrishubbs.com/2009/08/14/getting-rid-of-the-dish-the-nerd-post/) and just went to watching what we could get over the air. We've evolved the setup slightly over the last 5 years, primarily by adding Netflix as a video source (our kids were 4, 3, and newborn back then, and have slightly more demands as 9, 8, and 5 now) and by adding a 27" iMac in our living room that gets used as a video-watching device on a regular basis.
+Nearly 5 years ago [we got rid of our Dish Network satellite TV service](/09/08/getting-rid-of-the-dish-the-nerd-post/) and just went to watching what we could get over the air. We've evolved the setup slightly over the last 5 years, primarily by adding Netflix as a video source (our kids were 4, 3, and newborn back then, and have slightly more demands as 9, 8, and 5 now) and by adding a 27" iMac in our living room that gets used as a video-watching device on a regular basis.
 
 ### The Basic Setup
 

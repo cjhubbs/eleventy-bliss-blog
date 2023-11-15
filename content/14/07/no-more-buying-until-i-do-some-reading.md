@@ -1,6 +1,7 @@
 ---
-title: "No More Buying Until I Do Some Reading"
-date: "2014-07-21T14:42:59.000"
+title: 'No More Buying Until I Do Some Reading'
+date: 2014-07-21T14:42:59.000
+tags: ['books', 'reading']
 ---
 
 ...that's the promise I'm making myself. The book pile next to my bed is just too high, and I keep accumulating without making much progress. So, it's time to whittle down the pile.
@@ -22,8 +23,6 @@ In no particular order, here's what I've got piled up.
 - _Confessions of a Guilty Bystander_, Thomas Merton
 - _The Wounded Healer_, Henri J. M. Nouwen
 - _The Monster in the Hollows_, Andrew Peterson
-
-![96803174_Books_259155c](http://chrishubbs.com/wordpress/wp-content/uploads/2014/07/96803174_Books_259155c.jpg)
 
 ### Books I've started but not yet finished:
 

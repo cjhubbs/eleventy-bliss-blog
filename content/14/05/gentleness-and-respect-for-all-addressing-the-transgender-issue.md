@@ -1,6 +1,7 @@
 ---
 title: "Gentleness and Respect for all - addressing 'the transgender issue'"
-date: "2014-05-30T13:03:14.000"
+date: 2014-05-30T13:03:14.000
+tags: ['theology', 'lgbtqia']
 ---
 
 > But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect, keeping a clear conscience, so that those who speak maliciously against your good behavior in Christ may be ashamed of their slander. For it is better, if it is God’s will, to suffer for doing good than for doing evil. _\-- 1 Pet 3:15-17, NIV_
@@ -21,11 +22,7 @@ Dr. Moore is President of the Southern Baptist Convention's Ethics & Religious L
 
 But I'm bothered by the approach. "Are you prepared for what's next?" implies a significant level of us-against-them, fight-the-culture-war-to-win-it mentality that disrespects transgender people and doesn't seem to recognize that they are cherished divine image-bearers just as much as we are.
 
-I thought I was reading a little too much into it - afraid of my own biases, as it were - but then I read the stream of replies to Moore's tweet:
-
-![Screenshot-2014-05-30_07.38.50](http://chrishubbs.com/wordpress/wp-content/uploads/2014/05/Screenshot-2014-05-30_07.38.50.png) ![Screenshot-2014-05-30_07.15.13](http://chrishubbs.com/wordpress/wp-content/uploads/2014/05/Screenshot-2014-05-30_07.15.13.png)
-
-Those replies are even more disturbing. Referring to the actress as "it", as a "fake 'woman'". Expressions of disgust ("...permanently lost my appetite.", "want to go into a bubble"). When one person refers to the actress as "her", another one replies to 'correct' the first with "\*his".
+I thought I was reading a little too much into it - afraid of my own biases, as it were - but then I read the stream of replies to Moore's tweet. Those replies are even more disturbing. Referring to the actress as "it", as a "fake 'woman'". Expressions of disgust ("...permanently lost my appetite.", "want to go into a bubble"). When one person refers to the actress as "her", another one replies to 'correct' the first with "\*his".
 
 To his credit, Dr. Moore's follow-up tweet linked to [a more nuanced position](http://www.faithstreet.com/onfaith/2013/08/15/conservative-christianity-and-the-transgender-question/10610) on 'the transgender issue', as he puts it, which includes the declaration that "As conservative Christians, we do not see transgendered persons as “freaks” to be despised or ridiculed." Later on he says that "...this also means that we will love and be patient with those who feel alienated from their created identities."
 

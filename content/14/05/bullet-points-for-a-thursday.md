@@ -1,6 +1,7 @@
 ---
-title: "Bullet Points for a Thursday"
-date: "2014-05-01T15:39:08.000"
+title: 'Bullet Points for a Thursday'
+date: 2014-05-01T15:39:08.000
+tags: ['bullet-points']
 ---
 
 Because hey, I haven't done one of these on a Thursday for a while.

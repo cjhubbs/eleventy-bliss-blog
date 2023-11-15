@@ -1,19 +1,14 @@
 ---
-title: "Yeah, I only gave Augustine's \"Confessions\" 4 stars"
-date: "2014-10-29T22:44:14.000"
+title: 'Yeah, I only gave Augustine''s "Confessions" 4 stars'
+date: 2014-10-29T22:44:14.000
+tags: ['books', 'reading']
 ---
 
 I went on a quick business trip this week which gave me several hours of airplane time to do some reading. I finished up both [_Confessions_ by St. Augustine](http://www.amazon.com/gp/product/B00AAW5EDG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00AAW5EDG&linkCode=as2&tag=chrishubbs-20&linkId=FVXJLIQDNX6RC7RE) (a foundational bit of Christian theology from a millenium ago) and [_The God Who Risks: A Theology of Divine Providence_ by John Sanders](http://www.amazon.com/gp/product/B003ZSIS6W/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003ZSIS6W&linkCode=as2&tag=chrishubbs-20&linkId=DZRRXRLDGNYT3CEU) (a rather dense defense of open theism from not too many years ago).
 
 I read a lot, and being the nerd that I am, [I keep a log of my reading over on Goodreads](https://www.goodreads.com/user/show/80101-chris-hubbs). And when you add a book to your shelves on Goodreads, it prompts you to rate the book, using a 1 - 5 star rating system. Being the nerd that I am, I can't _not_ rate them. And so as I add the books to my "read" shelf and to the shelf for the current year, I also give them a star rating, and those star ratings are automatically tweeted on [my Twitter account](http://twitter.com/cjhubbs).
 
-So, back to this week. Not only did I finish both _Confessions_ and _The God Who Risks_, but I gave them both 4 stars. Having the temerity to even assign a star rating to St. Augustine got me a bit of good-natured flack on Twitter:
-
-https://twitter.com/petergaultney/status/526862092381728769
-
-https://twitter.com/japrice/status/527103112402960384
-
-So I figured it was time (for my own sake, at least) to explain how I assign star ratings. (To the 3 of you who want to continue reading past this point: seek professional help.)
+So, back to this week. Not only did I finish both _Confessions_ and _The God Who Risks_, but I gave them both 4 stars. Having the temerity to even assign a star rating to St. Augustine got me a bit of good-natured flack on Twitter. So I figured it was time (for my own sake, at least) to explain how I assign star ratings. (To the 3 of you who want to continue reading past this point: seek professional help.)
 
 Whether I'm rating fiction or non-fiction, I tend to value similar traits in a book: well-written prose; an engaging topic; a coherent plot or argument; an appropriate length. I've gotten choosier over the years and more willing to give up on lame books. (It's getting harder and harder to find fiction that's worth my time.) When I'm reading non-fiction, and particularly theology, my rating isn't based at all on the relative importance of the work in history (I'm actually not well-qualified to judge that) or whether I agree with the position being argued. I _will_ base my rating, though, on how even-handed the author was in argument, how well I felt like the case was made, and how well the book kept my interest. I also like to reserve 5-star ratings for books that are really top-notch, can't-beat-em volumes. The ones that make a significant impact on me, that I want to read again or buy copies for other people.
 

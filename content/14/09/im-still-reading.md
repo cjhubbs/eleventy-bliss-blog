@@ -1,6 +1,7 @@
 ---
 title: "I'm still reading..."
-date: "2014-09-18T16:07:40.000"
+date: 2014-09-18T16:07:40.000
+tags: ['books', 'reading']
 ---
 
 So, what have I been up to reading-wise? I don't know that any of you were actually asking yourselves that, but I'm going to answer anyway.

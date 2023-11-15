@@ -1,6 +1,7 @@
 ---
-title: "Fun for Friday: Star Wars without the Music"
-date: "2014-09-12T14:18:08.000"
+title: 'Fun for Friday: Star Wars without the Music'
+date: 2014-09-12T14:18:08.000
+tags: ['movies', 'youtube']
 ---
 
 How awkward would the final scene of Star Wars Episode IV be without John Williams' awesome score?

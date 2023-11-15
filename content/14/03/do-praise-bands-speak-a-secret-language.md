@@ -1,6 +1,7 @@
 ---
-title: "Do Praise Bands speak a Secret Language?"
-date: "2014-03-11T14:50:18.000"
+title: 'Do Praise Bands speak a Secret Language?'
+date: 2014-03-11T14:50:18.000
+tags: ['music', 'worship']
 ---
 
 Yesterday I ran across a recent post from Lutheran pastor Erik Parker provocatively titled ["Praise Bands are the new Medieval Priests"](http://millennialpastor.net/2014/03/03/praise-bands-are-the-new-medieval-priests/). In it Rev. Parker says that praise bands are alienating him from worship.

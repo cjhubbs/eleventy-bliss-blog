@@ -1,6 +1,7 @@
 ---
-title: "Assorted recommended reading"
-date: "2014-09-25T05:09:00.000"
+title: 'Assorted recommended reading'
+date: 2014-09-25T05:09:00.000
+tags: ['books', 'reading']
 ---
 
 I haven't had a lot of original thoughts to share in long-form here on the blog lately, but I can pass along some links that are good recommended reading:
@@ -11,6 +12,4 @@ I haven't had a lot of original thoughts to share in long-form here on the blog 
 - [**College Girls: Education, Imago Dei, and the Gospel**](http://www.sometimesalight.com/1/post/2014/09/college-girls-education-imago-dei-gospel.html) - Hannah Anderson bringing truth on why we educate both boys and girls: "We educate girls and women for the same reason we educate boys and men. We educate our daughters because they are made in God’s image. Full. Stop." Bravo.
 - [**How does the iOS 8 Time-lapse feature work?**](http://www.studioneat.com/blogs/main/15467765-how-does-the-ios-8-time-lapse-feature-work) - Just so I'm not linking to all political and theological heaviness, here's some nerdiness to go along with it. Apple came up with a fiendishly clever and simple way to do the time-lapse video thing. Really neat.
 
-So yeah, there's some recommended reading. Enough for now, I'm going to bed. Here's a random tweet as a deep thought for the night:
-
-https://twitter.com/bryanlilly/status/510774629195980800
+So yeah, there's some recommended reading. Enough for now, I'm going to bed.

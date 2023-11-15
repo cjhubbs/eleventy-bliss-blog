@@ -1,6 +1,7 @@
 ---
-title: "On Selling Books"
-date: "2014-01-03T16:41:09.000"
+title: 'On Selling Books'
+date: 2014-01-03T16:41:09.000
+tags: ['books']
 ---
 
 Yesterday I did something I've never done before: I took a stack of books and sold them at the local used book store. This was a major step for me. I've accumulated books for a long time - pretty sure I still have books on my shelves that I got in elementary school - and rarely let any of them go. My rationalization has been that someday maybe my kids will want to read them, or I'll strategically want to loan them out or give them away to friends.

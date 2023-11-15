@@ -1,6 +1,7 @@
 ---
-title: "Do what he puts before you. Strive to do it well. Pass on what you learned. That’s it."
-date: "2014-08-11T17:18:38.000"
+title: 'Do what he puts before you. Strive to do it well. Pass on what you learned. That’s it.'
+date: 2014-08-11T17:18:38.000
+tags: ['theology']
 ---
 
 Over on CT, Ed Stetzer is starting a blog series titled "Act Like Men". (First article: ["What It Means To Fight"](http://www.christianitytoday.com/edstetzer/2014/august/act-like-men-what-it-means-to-fight.html)). This has predictably caused a bit of feedback from the egalitarian evangelical set, with Scot McKnight posting [a response piece from Wheaton New Testament professor Lynn Cohick](http://www.patheos.com/blogs/jesuscreed/2014/08/11/lynn-cohick-responds-to-stetzers-piece-on-masculinity/) making the case that Paul's appeal to "act like a man" (1 Cor 16:13) was directed to both men _and women_ and "reveals the limitations of the Greek language" rather than "making a particular point about masculinity".

@@ -1,6 +1,7 @@
 ---
-title: "OK, so I bailed on Octopress"
-date: "2014-03-14T12:41:15.000"
+title: 'OK, so I bailed on Octopress'
+date: 2014-03-14T12:41:15.000
+tags: ['blogging']
 ---
 
 A few months back I tried a great blog migration - moving from Wordpress to Octopress, a Ruby-based static site generator. Octopress had the virtue of being static, of having posts in Markdown files instead of HTML in a database, and of generally being slimmer than Wordpress.
@@ -8,7 +9,7 @@ A few months back I tried a great blog migration - moving from Wordpress to Octo
 What I found after a few months of use is that the friction to use Octopress was just higher than I was willing to accept:
 
 - Write post content.
-- rake generate new\_post
+- rake generate new_post
 - Paste in the new post.
 - rake generate
 - rake preview - make sure the post looks OK

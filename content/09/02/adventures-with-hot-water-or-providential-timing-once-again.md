@@ -1,0 +1,16 @@
+---
+title: "Adventures with Hot Water, or, Providential Timing Once Again"
+date: "2009-02-13T02:41:16.000"
+tags: 
+  - "life"
+---
+
+Last night after Wednesday night church, as we were just about to settle down for the night, Becky called out to me from downstairs. It wasn't her usual voice, asking me for something - this was her oh-no-this-is-trouble voice. "Chris I need you downstairs." When I got downstairs, I got part two of the announcement. "We've got water all over the floor." Now, the words "water on the floor" bring back instant connotations of the flood last summer. Fortunately, though, what we found wasn't anything near so troubling. Which is not to say that we were very happy about it, since there were puddles of warm water all around the floor near the water heater.
+
+![water heater](http://www.whirlpoolwaterheaters.com/products/photos/FG1J5040T3NV_188427.jpg)I pulled out a flashlight and confirmed my suspicions: the water heater had developed a leak and was dripping the last of its contents out onto the floor. I turned off the water and gas feeds to the heater and Becky got out the towels. (One nice side-benefit of the flood: we now have a large supply of towels that are good for nothing but wiping up the floor.) We wiped up the remaining mess and then, rather than settling down to watch a little bit of TV, pulled out the computer to do some online water heater research. My [posts to](http://twitter.com/cjhubbs/status/1201449277) [Twitter](http://twitter.com/cjhubbs/status/1201626689) and Facebook evoked sympathy, advice, and at least one offer to help with an install. But having neither the time nor really the know-how to do the install, I decided to head for Lowe's this morning, based on their proximity to our place and a good recommendation from a friend.
+
+I had a one-hour window this morning to leave work, purchase the water heater and arrange for install, and get back to work before my meeting started. It was a quick trip to Lowe's, and I found that at 8:00 in the morning there are plenty of employees there and ready to help. I selected my heater of choice, ponied up for installation and the city permit, and headed back to work. The woman at Lowe's figured there was no way we'd get it installed today, hopefully tomorrow, otherwise it'd be Monday. I offered a quick prayer for an installer with some free time and headed back to work. Thirty minutes later I got the phone call back from the installer. Would I be available today at 11:00? So providential timing number one: we were able to get the heater installed the same morning.
+
+It's a nice water heater, too - high efficiency, 50-gallon, eligible for a rebate from the gas company, 12-year warranty, etc. And, so far as I can tell, it heats water nicely. (My shower tonight was quite pleasant.) Oh, so on to providential timing number two: our income tax refund got deposited to our bank account yesterday. It's not how we'd planned to use the money, but it is sure a blessing to have it there for the need.
+
+Thus concludes this chapter of the Mundane Adventures of Chris in Iowa. Tune in this weekend to find out about Chris's first time on the Stonebridge worship team. Good night.

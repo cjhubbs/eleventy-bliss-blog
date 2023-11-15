@@ -1,0 +1,26 @@
+---
+title: "Nashville"
+date: "2006-12-23T21:32:12.000"
+categories: 
+  - "random"
+tags: 
+  - "christmas-2006"
+---
+
+Day 2 of our Christmas trip landed us in Nashville. Becky's brother Bob and his wife Holly and daughter Taylor live just south of town. Holly works for Gaylord Entertainment, which operates the massive [Opryland Resort](http://www.gaylordhotels.com/gaylordopryland/) there in northeast Nashville. As such, she gets a phenomenal discount rate for rooms in the hotel, and we took full advantage of that to stay there for two nights.
+
+[![img_4283.JPG](http://www.chrishubbs.com/wordpress/wp-content/uploads/2006/12/img_4283.thumbnail.JPG)](http://www.chrishubbs.com/wordpress/wp-content/uploads/2006/12/img_4283.JPG "img_4283.JPG")We slept in (a necessity after staying up 'til midnight) and then went with Bobby and Taylor to a local Cracker Barrel for breakfast. Then it was back to the resort and we started walking around. The place is amazing. They have two domed areas with multiple levels of attractions, shows, shops, and gardens. One has an indoor river with boat tours! Bob had lined up a boat tour for us and off we went. This picture does little justice to the size of just one of the domes.
+
+[![img_4315.JPG](http://www.chrishubbs.com/wordpress/wp-content/uploads/2006/12/img_4315.thumbnail.JPG)](http://www.chrishubbs.com/wordpress/wp-content/uploads/2006/12/img_4315.JPG "img_4315.JPG")
+
+At lunchtime I was able to get together with [Andy Osenga](http://www.andrewosenga.com) to grab lunch. He was getting ready to record some background vocals for another guy that afternoon, and they were heading out for lunch first. I joined them for lunch at a local Irish pub-type establishment (I call it that knowing that Ryan would be happy to tell me how different a _true_ Irish pub is from that place!), then went back to the studio and hung out for a while while Andy recorded. Mitch Dean (who has worked on albums for Jars of Clay, among others) was doing the recording, and it was an education for me to see just how the process works. It was difficult, if not impossible, to resist the geek appeal of all that sound recording and editing gear, and that doesn't even begin to address the enjoyment I had as a musician seeing how songs get sculpted into a finished product.
+
+I headed back to the resort mid-afternoon and we walked around and saw more of the sights. The place is just designed to soak your money out of you. They have a Chick-Fil-A inside one of the domes. The price for a basic CFA sandwich? $6. At a normal CFA, it costs about $2.50. Add on the $10/day to park, the add-ons for the extras in your room, and I know I couldn't afford to stay there at normal prices. Oh, a word about the room we stayed in. It was actually a three-room suite, two bedrooms, each with two double beds, and then a connecting sitting room that was huge; perhaps 20 x 30 feet. Each room had windows that opened out to the dome with the river, so you could hear rushing water all night. Amazing. Bob said it usually runs about $550/night. He got it for just a tiny percentage of that price, I'm sure.
+
+That night after Holly got off work we went and saw the "Ice" show right next door; it was a big building full of ice sculptures, and included two big ice slides! They issued you large coats at the door; the single-degree temps inside were in stark contrast to the 60-degree temps outside. Laura was a bit scared, but went down one of the slides. Unfortunately, the picture didn't come out. There was an amazing ice nativity scene, of course an igloo, a bear ice fishing, a train... very cool stuff. (Pun intended.)
+
+Finally, we went over to the massive shopping mall next to the resort to grab dinner. We ate at the Rain Forest Cafe, which has a waterfall, massive aquariums, animatronic elephants and apes, simulated thunderstorms, the whole bit. The food was pretty decent, too. We finally made it back to our room and collapsed into bed. Well, I guess I collapsed; Becky went down with Bob to hang out for a while and listen to a band.
+
+I'll just add the rest of the pictures here at the end; the descriptions on Flickr will fill in any info you need.
+
+[![IMG_4351](http://farm1.static.flickr.com/140/331196879_e436449d8e_t.jpg)](http://www.flickr.com/photos/chrishubbs/331196879/ "Photo Sharing")[![IMG_4350](http://farm1.static.flickr.com/148/331196838_38207d1121_t.jpg)](http://www.flickr.com/photos/chrishubbs/331196838/ "Photo Sharing")[![IMG_4345](http://farm1.static.flickr.com/162/331196795_1eea265dd2_t.jpg)](http://www.flickr.com/photos/chrishubbs/331196795/ "Photo Sharing")[![IMG_4295](http://farm1.static.flickr.com/125/331196747_ee6b86b200_t.jpg)](http://www.flickr.com/photos/chrishubbs/331196747/ "Photo Sharing")[![IMG_4285](http://farm1.static.flickr.com/140/331196690_3da70c2548_t.jpg)](http://www.flickr.com/photos/chrishubbs/331196690/ "Photo Sharing")[![IMG_4281](http://farm1.static.flickr.com/148/331196630_d131790822_t.jpg)](http://www.flickr.com/photos/chrishubbs/331196630/ "Photo Sharing")

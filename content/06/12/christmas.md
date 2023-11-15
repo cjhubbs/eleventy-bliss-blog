@@ -1,0 +1,16 @@
+---
+title: "Christmas!"
+date: "2006-12-27T17:28:57.000"
+categories: 
+  - "random"
+tags: 
+  - "christmas-2006"
+---
+
+Christmas morning dawned and we packed up four adults, two small children, and lots of presents and luggage into the folks' Suburban and headed up to Faith and Ernie's home in Conover, NC. It was just about a 2-hour drive from Waxhaw - not bad at all. This gave Laura the first chance to meet her cousin Brandi, and oh, did they ever have fun. Brandi is almost 5. Faith and Ernie adopted her from China 3 years ago. She is a sweetie.
+
+We opened presents and presents and more presents. Every time it seemed like we might be done, Ernie would find some more presents under the tree and we'd keep opening them. I can't begin to keep track of what all I received; Becky is actually sitting right now documenting it all as I write this blog post... at least that way I'll be able to write thank-yous! The one memorable thing I'll mention here is a refrigerator magnet from Becky's sister Cynthia; it has a cartoon of the Mona Lisa holding a fish in one hand, with the title "The DaVinci Cod". Hehehe. \[Edit: Becky corrects me that this magnet was given to her folks, not to me. :-( Still, it is pretty cool.\]
+
+After that came Christmas dinner, and Faith had prepared enough for an army. We ate leftovers again on Tuesday and there was still far too much left over. But it was sure tasty. The rest of Christmas day was just a crash day; we watched some football, took naps, and enjoyed watching the girls play. God has certainly blessed us richly with family, friends, and material goods. I, for one, need to step back more often and realize how blessed I am.
+
+[![IMG_4371](http://farm1.static.flickr.com/161/335269216_3368869610_t.jpg)](http://www.flickr.com/photos/chrishubbs/335269216/ "Photo Sharing")[![IMG_4372](http://farm1.static.flickr.com/156/335269220_8c0da360f1_t.jpg)](http://www.flickr.com/photos/chrishubbs/335269220/ "Photo Sharing")[![IMG_4390](http://farm1.static.flickr.com/138/335269222_4aa91aacab_t.jpg)](http://www.flickr.com/photos/chrishubbs/335269222/ "Photo Sharing")[![IMG_4393](http://farm1.static.flickr.com/123/335269223_439e5f518b_t.jpg)](http://www.flickr.com/photos/chrishubbs/335269223/ "Photo Sharing")[![IMG_4412](http://farm1.static.flickr.com/166/335269224_82388fa3a3_t.jpg)](http://www.flickr.com/photos/chrishubbs/335269224/ "Photo Sharing")[![IMG_4438](http://farm1.static.flickr.com/123/335269226_d103e52678_t.jpg)](http://www.flickr.com/photos/chrishubbs/335269226/ "Photo Sharing")[![IMG_4441](http://farm1.static.flickr.com/137/335269882_706214413f_t.jpg)](http://www.flickr.com/photos/chrishubbs/335269882/ "Photo Sharing")[![IMG_4447](http://farm1.static.flickr.com/128/335269886_fdd4c8f8ca_t.jpg)](http://www.flickr.com/photos/chrishubbs/335269886/ "Photo Sharing")[![IMG_4484](http://farm1.static.flickr.com/159/335269890_9b909079c0_t.jpg)](http://www.flickr.com/photos/chrishubbs/335269890/ "Photo Sharing")[![IMG_4491](http://farm1.static.flickr.com/155/335269892_c0509a0110_t.jpg)](http://www.flickr.com/photos/chrishubbs/335269892/ "Photo Sharing")[![IMG_4511](http://farm1.static.flickr.com/135/335269893_8fa164138a_t.jpg)](http://www.flickr.com/photos/chrishubbs/335269893/ "Photo Sharing")

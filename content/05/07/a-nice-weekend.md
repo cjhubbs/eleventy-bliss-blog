@@ -1,0 +1,16 @@
+---
+title: "A nice weekend"
+date: "2005-07-05T13:53:03.000"
+categories: 
+  - "personal"
+---
+
+Normally I don't do a lot of "here's what I did with my weekend"-type posts, but it was a nice weekend, so since I need to update the blog I figured I'd just have to. Oh, first things first: [my brother Ryan](http://www.xanga.com/StAndrean) has decided to start a blog. Don't know how much he'll maintain it, but I've added it to the list of links on the right.
+
+Anyhow, to the weekend. Friday night we got a babysitter and went out on a date. Nice to have some time to just be with the two of us after a busy week. We went to [Chili's](http://www.chilis.com) and had ribs for supper, then went to [Barnes & Noble](http://www.bn.com) to browse for a while. I bought a 2-disk CD album of [Thelonious Monk](http://www.monkzone.com) and his quartet, _[Live at the "It" Club](http://www.amazon.com/exec/obidos/tg/detail/-/B0000062F9/qid=1120589683/sr=8-1/ref=pd_bbs_ur_1/103-5584203-4239818?v=glance&s=music&n=507846)_. I'd not listened to any Monk before, but a friend recommended him because of my love for [Harry Connick, Jr](http://www.harryconnickjr.com). I was not disappointed. 2 1/2 hours of live club performance from 1964, digitally remastered so that it sounds great. I've been listening to it for the past couple evenings and it's excellent. Forgot to bring it to work today so I guess it won't make its way onto my [iPod](http://www.apple.com/ipod/) until tomorrow. So, after [B&N](http://www.bn.com), we went down to our [favorite little coffeeshop](http://www.brewedawakeningscr.com) and each had a cappucino smoothie. I sat and improvised on the piano for a while and Becky sat and read a book. What a nice way to spend a Friday evening!
+
+Saturday we got up early and worked on an outdoor construction project. Becky has been planning on building some planters back behind the garage for the past several months; the landscape timbers to build said planters have been sitting on our patio for the past 6 weeks or so. Finally we had a free weekend to build. Finished those up by early afternoon. They will be really nice to have.
+
+With the long weekend we got to enjoy Monday off as well. We did a bunch of cleanup in the morning, in preparation for having several friends over in the afternoon. It rained non-stop from 9:00 until 1:30 or so; we were afraid it might be too wet to spend time outside, but no, it dried out nicely and was beautiful. We invited Steve & Amanda and their kids, Ginger came as well (Daniel's off to Amsterdam today flying freight), and then a new couple that just moved up here, Jeremiah and Rebecca. We had a great time getting to know them - they seem like a lot of fun, hope we can get to know them better. What I wouldn't give to have them end up making [Noelridge](http://www.noelridgebaptistchurch.org) their church home... but they're looking for a home in Monticello (30 minutes away) to shorten Jeremiah's commute, so I wouldn't place good odds on them coming to CR for church... oh well.
+
+Now it's Tuesday and I'm back at work. I've got a project certification plan document to update today. Fun fun. But it was a great, refreshing weekend. Thank the Lord for these times to kick back a bit and relax.

@@ -1,0 +1,18 @@
+---
+title: "Don't know much about...  anything!"
+date: "2006-09-19T12:56:44.000"
+categories: 
+  - "random"
+tags: 
+  - "thoughts"
+---
+
+Last night I took the opportunity to visit [Conversation Cafe](http://cafe.recminusa.org), a discussion group at [a local coffeehouse](http://www.brewedawakeningscr.com) that is led by my pastor. The guest speaker for the night was Rick, the minister from the local Unitarian Universalist (UU) church. It was, to say the least, an interesting night.
+
+Rick is an older single man who has a fascinating life story. He has at various times in his life been a New York City taxicab driver, a journalist, a lawyer, and a teacher, in addition to being a minister for the past 15 years. He shared some of his beliefs and perspectives on spirituality, and it was quite a grab bag. He is an agnostic, but chooses to believe that God exists. He is happy with belief in things that he can see, feel, touch, and quantify, but is really unwilling to make truth judgements outside of that experience.
+
+Rick told us that UUs are "sin shy"; they would acknowledge that there is some human behavior that just seems "evil" and that we can't explain any other way, but that for most human actions that seem to be "sin" there is some other more useful explanation for their behavior, be it conditioning, circumstance, or something similar. He told us that the UU church has no creed, which is "actually harder than having a creed", because you have to figure things out for yourself. Each person at that church can define God to be whatever they want God to be.
+
+There was a decent bit of discussion throughout the night, but I felt like on the key questions he either didn't understand quite what we were asking, or was quite skilled at dodging them. I tried to ask about one major conflict I saw in his thinking; maybe I didn't phrase the question well. But I was trying to ask this: in one breath you say that God is whatever you make him to be, that your observations and reason are the definers of truth and reality for you. But in the next breath you admit that you are human, with a finite understanding, uncertainty, and weakness. Isn't there a conflict there? Doesn't that make your "truth" weak and uncertain? Doesn't that make God weak and uncertain? I'm not sure he really understood the question; basically he just agreed that yes, he is human, and uncertainty is part of the human condition.
+
+My heart breaks for this man who is so close to understanding some things, but still so far away. He spoke very candidly about having, in years past, a drinking problem. And it frustrated him greatly, because he saw it as a "moral failure", and couldn't figure out how to get past it. Thinking of it as a moral failure "wasn't useful" and "didn't take you anywhere". So he associated with some folks who encouraged him to see the drinking problem as a sickness rather than a moral failure, and he decided to accept that "truth" since it was useful, and allowed him a path to move on. Rick is so close; if only his eyes were opened to see that he is right, that sin (aka "moral failure") _is_ a dead end, and that we as humans are stuck. If only he could understand that the reason Jesus came, died, and rose again was to solve that sin problem. My prayer for Rick will be that he can come to faith in a God larger than his understanding, and know the grace that is greater than all our sins.

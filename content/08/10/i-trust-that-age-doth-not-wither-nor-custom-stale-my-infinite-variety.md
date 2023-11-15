@@ -1,0 +1,19 @@
+---
+title: "\"I trust that age doth not wither nor custom stale my infinite variety.\""
+date: "2008-10-02T14:17:09.000"
+tags: 
+  - "books"
+  - "sherlock-holmes"
+---
+
+I sent an email this morning which sent me thinking about a familiar quote, which in turn sent me thinking about one of my favorite sets of stories: the various adventures of Sherlock Holmes. Sir Arthur Conan Doyle wrote a multitude of mysteries featuring the odd detective between 1887 and 1927, and Holmes has been studied, quoted, parodied, and dramatized ever since.
+
+I was first introduced to the Homes stories by [Lydia](http://lrpresley.wordpress.com) back in, oh, 1989 or so. (I was probably 12 years old.) After borrowing her volume (I'm thinking it was _A Study in Scarlet_ and _The Hound of the Baskervilles_) and devouring it no time, I proceeded to borrow whatever I could from the library, and eventually bought ["The Annotated Sherlock Holmes"](http://www.amazon.com/Annotated-Sherlock-Holmes-Vols-One/dp/0517481022%3FSubscriptionId%3D02E5W5871AJF7PMMMS82%26tag%3Dscifirev-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0517481022), a ridiculously large book containing not only all the stories, but also illustrations, explanations of some of the period references, and, most amusingly, studies as to the "actual" dates of the mysteries, piecing these together from descriptions of cultural events, weather, and moon phases in the stories. This book was equal in size to my father's _Strong's_ concordance, but I lugged it around anyway, reading in the car, reading while my brother Ryan took his piano lesson, reading pretty much anywhere I could get away with it. I was that sort of kid.
+
+I recall distinctly driving my mom a bit batty with that annotated Holmes. One of the readings in my literature book somewhere in early high school (recall I was home-schooled) was a Holmes story, so, rather than read it from my lit book, I read it from the Annotated Holmes. Afterwards, Mom got out the discussion questions, and question number one was "when did this adventure occur?". It's supposed to be a straightforward question; after all, the story told the supposed month and year right in the first paragraph. But no, I wasn't going to pay attention to that. I quickly gave her the supposed "actual" date that the editor of the Annotated had surmised. She gave me a quite baffled look, and then, well, I had some explaining to do.
+
+Holmes is one of those characters who, once you know, you start seeing references and allusions to all over the place. One such reference several years ago gave me the opportunity to email long-time _New York Times_ columnist (and favorite of mine) William Safire to correct him. (In retrospect, I must have been one of dozens, if not hundreds, to do so.) He had quoted Holmes' line about "the curious incident of the dog in the night-time", correctly attributed it to the story "Silver Blaze", but then slipped up by saying that "Silver Blaze" was the name of the dog in the story. Oops. (Silver Blaze was a racehorse.) I got an automated reply email from the NYT, but was more excited to receive a two-line email response later that day which, by all appearances, was from the columnist himself.
+
+I go back to Holmes every once and again to enjoy an old friend. The Annotated still occupies a rather large chunk of bookshelf in my basement, not too much the worse for wear after having been dragged around for nigh on twenty years of my life. Many years and many readings have not "withered" or "staled" the stories quite yet. I look forward to the day when I can pass on the adventures (and the giant volume) to one of my little readers at home.
+
+\[The title of this post is a quote from _The Adventure of the Empty House_, wherein Holmes slightly modifies the line from Shakespeare's _Antony and Cleopatra_.\]

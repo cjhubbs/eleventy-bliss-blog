@@ -1,0 +1,17 @@
+---
+title: "Moody Observations, Day 2"
+date: "2005-05-24T19:17:17.000"
+categories: 
+  - "moody-pastors-conference"
+  - "personal"
+---
+
+_[Amber](http://www.xanga.com/home.aspx?user=amburgler7) liked my attempt at a descriptive writing post yesterday so I thought I'd give it another go. Just more observations from the Moody conference._
+
+The stupid wifi still doesn't work. All I want to do is just sit here and write directly to my blog, but it doesn't work. Arrgh. I'm back in the student center at [Moody](http://www.moody.edu), at another one of those square tables that host mid-day meals, conversations between old friends, and students with backpacks full of homework. At the table behind me is an Army chaplain with oak leaves on his lapels, that makes him what, a captain? It warms my heart to know that he's taking the time to minister to our servicemen.
+
+Across the room to my left is the Moody sales table. Either they stocked up on Conference polo shirts this year, or grey isn't a popular color - Richard assured me the shirts are usually sold out by Monday afternoon; it's Tuesday afternoon and they still have quite a pile left. Maybe their color choices aren't always the greatest; they have t-shirts for sale left over from last year that are a not-quite-so-nice shade of brown... but they're only $3 so I might just pick one up anyway. You can also buy coffee mugs, baseball caps, and some various books and literature. Sadly, for their sales prospects, I don't drink coffee and it'll take something more special than a pastor's conference to supplant the Cubs on my baseball cap brim. Maybe the t-shirt is the right call.
+
+Display booths on my right advertise products attractive to those in ministry: graduate school, online bible courses, bible study software, a publishing house. The representatives at these sales booths are worth a closer study. I don't think I'd find it a fun assignment to have to man a booth like that. There are two across the room from me. Both are men in their late thirties or early forties; both are somewhat overweight and dressed in their best professional oxford shirts and sweater vests. Both are browsing on their laptops, eating lunch. Maybe I should see if either of them have gotten wifi to work... When a customer approaches, you can see them go into this "Christian sales" mode. It's somewhat weird to me, because I typically think of salesmen as pushy, annoying, caring little about you and what you want, and more about how they can manipulate you into buying their product. But with these guys, they're restrained, trying to be helpful, obviously in sales mode with their product, but at the same time remaining mindful that the men they're selling to are their brothers in Christ who need enhanced ministries, not just a cool (expensive) software program. I wish there were more salesmen like them. I'd love to buy a car from a guy who had my best interests in mind rather than his own... but that's a totally different subject. :-)
+
+It's quieting down now that the next general session has started. There's a round table with five guys around it and the remnants of their lunch still on it; apparently they're skipping the session to continue the discussion - a good idea if you ask me. There are several guys sitting around singly, like me, taking time to read, write, think. There are still some t-shirts for sale... I think I'll go buy one. At $3, they're a steal, even if they are brown.

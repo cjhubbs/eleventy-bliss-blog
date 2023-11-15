@@ -1,0 +1,8 @@
+{
+  "layout": "post",
+  "description": "{{ content|truncate(160) }}",
+  "tags": ["post"],
+  "language": "en",
+  "published": true,
+  "ogType": "article"
+}

@@ -36,7 +36,7 @@ The second half of the concert brought each of those artists back out in turn to
 
 To my critical ear they were indeed almost exactly note-for-note and lick-for-lick. Gabe Scott had his hammered dulcimer skills tested and found awesome. My specific criteria for this evaluation was the little turn from the second verse into the pre-chorus of "Peace" - there's a drum fill, a bass slide, and a little guitar riff that come together in a sublime little moment that I'm probably the only person in the world who cares about. They nailed it. The only place they diverged was I think they gave Andy Osenga an extra couple choruses to play a smoking guitar solo on the end of "How To Grow Up Big and Strong"... but ain't nobody gonna complain about that.
 
-![](/iamges/2017/concert-3.jpg)
+![](/images/2017/concert-3.jpg)
 
 The second half setlist:
 

@@ -1,9 +1,7 @@
 ---
-title: "coffeehouse time"
-date: "2006-02-10T02:26:07.000"
-categories: 
-  - "music"
-  - "random"
+title: 'coffeehouse time'
+date: 2006-02-10T02:26:07.000
+tags: ['music']
 ---
 
 Tomorrow night I'm providing two hours of musical entertainment at my favorite coffeeshop. I'll admit to being a little bit nervous, but I imagine it'll turn out OK. I'm planning on doing about half instrumental stuff and half vocal stuff.

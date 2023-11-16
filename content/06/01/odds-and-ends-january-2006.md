@@ -1,8 +1,7 @@
 ---
 title: 'odds and ends January 2006'
-date: '2006-01-30T18:16:43.000'
-categories:
-  - 'random'
+date: 2006-01-30T18:16:43.000
+tags: ['personal', 'work', 'music']
 ---
 
 I've been a bit haphazard in my posting habits lately, so I'll just dump a bunch of stuff in here in lieu of a real post. I've been reading lots of stuff lately, just not posting. I'll have to make that change.

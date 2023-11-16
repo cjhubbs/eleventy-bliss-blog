@@ -1,8 +1,7 @@
 ---
-title: "time for a facelift"
-date: "2006-02-27T19:15:13.000"
-categories: 
-  - "random"
+title: 'time for a facelift'
+date: 2006-02-27T19:15:13.000
+tags: ['blogging']
 ---
 
 Well, I at least switched up graphics and a bit of the color scheme. It'll do for now.

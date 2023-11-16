@@ -1,8 +1,7 @@
 ---
-title: "iTunes meme"
-date: "2006-01-16T19:59:50.000"
-categories: 
-  - "memes"
+title: 'iTunes meme'
+date: 2006-01-16T19:59:50.000
+tags: ['music', 'memes']
 ---
 
 [Geof did this](http://ijsm.org/archives/2006/01/16/itunes-meme/), and it looked like fun.
@@ -30,7 +29,16 @@ Sort by album:
 
 Top 10 Most Played Songs:
 
-1\. “The Far Country”, 20 plays, Andrew Peterson, _The Far Country_ 2. “The Havens Grey”, 18 plays, _ibid._ T3. “Canaan Bound”, 17 plays, Andrew Peterson, _Love and Thunder_ T3. “Don't Think Twice, It's Alright”, 17 plays, Bob Dylan, _The Essential Bob Dylan_ T3. “Say”, 17 plays, Sleeping At Last, _Ghosts_ 6. “Lay Me Down”, 16 plays, Andrew Peterson, _The Far Country_ 7. “The Queen of Iowa”, 14 plays, _ibid._ 8. “Fields Of Gold”, 13 plays, Eva Cassidy, _Live at Blues Alley_ T8. “I Get a Kick out of You”, 13 plays, Jamie Cullum, _Twentysomething._ T8. “Lonely People”, 13 plays, Jars Of Clay, _Who We Are Instead._
+1. “The Far Country”, 20 plays, Andrew Peterson, _The Far Country_
+2. “The Havens Grey”, 18 plays, _ibid._
+   T3. “Canaan Bound”, 17 plays, Andrew Peterson, _Love and Thunder_
+   T3. “Don't Think Twice, It's Alright”, 17 plays, Bob Dylan, _The Essential Bob Dylan_
+   T3. “Say”, 17 plays, Sleeping At Last, _Ghosts_
+3. “Lay Me Down”, 16 plays, Andrew Peterson, _The Far Country_
+4. “The Queen of Iowa”, 14 plays, _ibid._
+   T8. “Fields Of Gold”, 13 plays, Eva Cassidy, _Live at Blues Alley_
+   T8. “I Get a Kick out of You”, 13 plays, Jamie Cullum, _Twentysomething._
+   T8. “Lonely People”, 13 plays, Jars Of Clay, _Who We Are Instead._
 
 First five songs that come up on Party Shuffle:
 

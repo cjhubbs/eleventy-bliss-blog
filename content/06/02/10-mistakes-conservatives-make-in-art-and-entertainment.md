@@ -1,8 +1,7 @@
 ---
-title: "10 mistakes conservatives make in art and entertainment"
-date: "2006-02-08T17:19:41.000"
-categories: 
-  - "may-i-refer-you-to"
+title: '10 mistakes conservatives make in art and entertainment'
+date: 2006-02-08T17:19:41.000
+tags: ['music', 'culture']
 ---
 
 Erik Lokkesmoe has a good article on Townhall.com where he lists [10 mistakes conservatives make in art and entertainment](http://www.townhall.com/opinion/books_entertainment/be_columns/ErikLokkesmoe/2006/02/07/185351.html). It's worthwhile reading and thinking it over. Some excerpts:

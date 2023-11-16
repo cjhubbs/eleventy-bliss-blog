@@ -1,9 +1,7 @@
 ---
-title: "too much new music?"
-date: "2006-02-22T14:19:23.000"
-categories: 
-  - "music"
-  - "random"
+title: 'too much new music?'
+date: 2006-02-22T14:19:23.000
+tags: ['music']
 ---
 
 I didn't think it would ever be possible, but at the moment, I feel like I have too much new music to handle.

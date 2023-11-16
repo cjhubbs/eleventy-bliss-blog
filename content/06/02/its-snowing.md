@@ -1,8 +1,7 @@
 ---
 title: "it's snowing!"
-date: "2006-02-16T15:24:44.000"
-categories: 
-  - "random"
+date: 2006-02-16T15:24:44.000
+tags: ['weather']
 ---
 
 And it's about time. We haven't had any snow since December 16th... that's a full two months. But this morning it started about 6 AM, we even had some thunder and lightning! Becky measured 2 inches of snow by 8:30, and there's more to come. Woohoo! A chance to use the new snowblower, and it'll look like winter again! I just wasn't ready for spring yet in February.

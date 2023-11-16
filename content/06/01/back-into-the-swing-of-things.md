@@ -1,8 +1,7 @@
 ---
-title: "back into the swing of things"
-date: "2006-01-03T20:29:52.000"
-categories: 
-  - "random"
+title: 'back into the swing of things'
+date: 2006-01-03T20:29:52.000
+tags: ['music']
 ---
 
 Today I'm back at work after 11 days of holiday. I was just about ready to come back... I can only spend so much time away from routines before it starts to drive me crazy.

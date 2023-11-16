@@ -1,9 +1,7 @@
 ---
-title: "In The Company of Angels: The World Will Sing"
-date: "2006-02-21T19:04:16.000"
-categories: 
-  - "music"
-  - "reviews"
+title: 'In The Company of Angels: The World Will Sing'
+date: 2006-02-21T19:04:16.000
+tags: ['music']
 ---
 
 _[In The Company of Angels: The World Will Sing](http://www.inthecompanyofangels2.com/index.php)_ is the soon-to-be-released latest album from my favorite musical group, Caedmon's Call. It's a follow-up to their previous release _In The Company of Angels_, which was one of the best "worship albums" when the whole worship album craze hit a few years ago. (Has it ever really died down?) While the album doesn't release until March 7th, [Caedmon's is offering a free copy of the pre-release album](http://www.inthecompanyofangels2.com/feedback/) to worship pastors who are willing to give them some feedback on how the music might be usable for congregational singing. Happily, I am the worship leader at [Noelridge](http://www.noelridge.org), so I requested and received my free copy last week and have been listening to it quite a bit since then. I'll go ahead and post my thoughts here.

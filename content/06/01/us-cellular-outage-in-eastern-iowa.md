@@ -1,9 +1,7 @@
 ---
-title: "US Cellular outage in Eastern Iowa"
-date: "2006-01-16T19:26:17.000"
-categories: 
-  - "nerdy"
-  - "random"
+title: 'US Cellular outage in Eastern Iowa'
+date: 2006-01-16T19:26:17.000
+tags: ['rants']
 ---
 
 I woke up this morning to find that I had very limited, analog cellular service. US Cellular has usually been reliable, so I was a bit suprised. I checked with a few coworkers and found that they had the same problem.

@@ -1,9 +1,7 @@
 ---
-title: "making things"
-date: "2006-01-11T17:27:01.000"
-categories: 
-  - "personal"
-  - "random"
+title: 'making things'
+date: 2006-01-11T17:27:01.000
+tags: ['personal']
 ---
 
 Occasionally when I walk through our building here at work to get to the cafeteria, I walk past some work areas where we have people making things. They probably have a fancy word for it, _fabrication_ or some such. But it is cool. This one little work area I walk past, they have 4 or 5 pegboards full of some sort of little tool bits. I don't know what they are - they may be cutting bits or burning bits or something I've never seen before. But there's hundreds of them, all hanging there neatly organized and ready to use. And there on the benches are pieces of plastic and metal that people are working on. Cutting, shaping, joining.

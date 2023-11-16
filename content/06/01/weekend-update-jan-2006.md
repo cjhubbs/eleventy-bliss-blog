@@ -1,8 +1,7 @@
 ---
 title: 'Weekend update Jan 2006'
-date: '2006-01-16T13:22:49.000'
-categories:
-  - 'random'
+date: 2006-01-16T13:22:49.000
+tags: ['personal']
 ---
 
 Well I've been a slacker lately as far as meaningful posts go... don't know how this one will rate.
@@ -13,6 +12,6 @@ Played church league basketball Saturday and won in double overtime. We were pla
 
 Got a new washing machine delivered on Saturday, too. Our old one was starting to die, and we have intermittent problems with water backup on the drain pipe for the washer. We got a new front-loader that uses only half the water that the old one did. It's also amazingly quiet. I think it'll prove to be a good investment.
 
-Sunday we had a pleasant suprise - my mom stopped by on her way home from Omaha. She had been there on sad business (her step-brother is dying), but it was good to get to see her anyway. We took her out for a late lunch and had some yummy mexican food that I had been craving for a while... I know, now I sound like the pregnant one. ;-) After mom took off, we crashed, watched the Bears get beat in the playoffs, and audited giving receipts so I can get them sent out this week.
+Sunday we had a pleasant surprise - my mom stopped by on her way home from Omaha. She had been there on sad business (her step-brother is dying), but it was good to get to see her anyway. We took her out for a late lunch and had some yummy mexican food that I had been craving for a while... I know, now I sound like the pregnant one. ;-) After mom took off, we crashed, watched the Bears get beat in the playoffs, and audited giving receipts so I can get them sent out this week.
 
 Now it's Monday and I'm back at work, reviewing TSO deviations and waiting for the [FeedLounge](http://feedlounge.com) beta to go public so I can sign up. That'll probably be worth another blog post in itself. :-)

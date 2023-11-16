@@ -1,8 +1,7 @@
 ---
-title: "home again, home again..."
-date: "2006-02-02T18:40:05.000"
-categories: 
-  - "random"
+title: 'home again, home again...'
+date: 2006-02-02T18:40:05.000
+tags: ['work', 'travel', 'books', 'reading']
 ---
 
 I got back last night about 10:30 from another quick trip to Wichita, this time for DER Orientation. I can now officially function as a DER Candidate, which is, essentially... well, nothing from an official standpoint. I just get to review lots of stuff with the hope that as I learn and become more proficient, I can be appointed a full DER. It'll likely be at least a year.

@@ -1,11 +1,10 @@
 ---
-title: "I still feel the same...  a follow-up."
-date: "2006-02-28T15:29:21.000"
-categories: 
-  - "personal"
+title: 'I still feel the same...  a follow-up.'
+date: 2006-02-28T15:29:21.000
+tags: ['personal']
 ---
 
-In [a previous post](http://www.chrishubbs.com/2006/01/26/i-still-feel-the-same/), I wrestled with the ideas of being 10 years removed from my teens, but still feeling many of the same feelings that I did back in those years. It's been interesting to see the reaction from my siblings. [It caused Ryan to reflect on his life](http://thehubbs.net/ryan/2006/01/31/ruminations-which-have-nothing-to-do-with-what-i-ate/), which is good... wait, not that he needs to do more reflecting... it was just interesting to hear his thoughts. :-) I think [Rebecca](http://thehubbs.net/rebecca/)'s comment was just that my post scared her. I take that to mean that she was hoping that things would get better as you get older...
+In [a previous post](/06/01/i-still-feel-the-same/), I wrestled with the ideas of being 10 years removed from my teens, but still feeling many of the same feelings that I did back in those years. It's been interesting to see the reaction from my siblings. [It caused Ryan to reflect on his life](http://thehubbs.net/ryan/2006/01/31/ruminations-which-have-nothing-to-do-with-what-i-ate/), which is good... wait, not that he needs to do more reflecting... it was just interesting to hear his thoughts. :-) I think [Rebecca](http://thehubbs.net/rebecca/)'s comment was just that my post scared her. I take that to mean that she was hoping that things would get better as you get older...
 
 Now that I've had a while to chew on it, let me give my siblings (and anybody else who is still reading this) some more thoughts that might encourage you a bit.
 

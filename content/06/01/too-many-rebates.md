@@ -1,8 +1,7 @@
 ---
-title: "too many rebates"
-date: "2006-01-16T15:10:10.000"
-categories: 
-  - "random"
+title: 'too many rebates'
+date: 2006-01-16T15:10:10.000
+tags: ['rants']
 ---
 
 I've probably sent in more rebate forms in the last two months than I had in my entire previous 28 years of life. It's starting to drive me nuts.

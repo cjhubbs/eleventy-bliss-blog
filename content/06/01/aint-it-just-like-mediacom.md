@@ -1,8 +1,7 @@
 ---
 title: "ain't it just like Mediacom..."
-date: "2006-01-31T13:43:38.000"
-categories: 
-  - "random"
+date: 2006-01-31T13:43:38.000
+tags: ['tv']
 ---
 
 It's not unusual, in my experience, to receive calendars as gifts around Christmas-time from companies you do business with. We always get a desk calendar from our insurance agent which fits nicely on the desk downstairs. We receive a pretty one with Bible verses and inspirational sayings from a missions agency that we support. We got one from the Christian radio station this year that had pictures taken by listeners. Kinda cool. I'm sure we got a couple of others as well, I know we gave a Norman Rockwell one away to my Dad.

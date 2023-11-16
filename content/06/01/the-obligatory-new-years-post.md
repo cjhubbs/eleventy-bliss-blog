@@ -1,8 +1,7 @@
 ---
 title: "the obligatory new year's post"
-date: "2006-01-03T02:21:53.000"
-categories: 
-  - "personal"
+date: 2006-01-03T02:21:53.000
+tags: ['personal']
 ---
 
 I'm already a day late on this - it's January 2nd, not the first. I'll probably come up a (metaphorical) dollar short, too... you won't find any deep New Year's resolutions here. Somehow I've never been much for New Year's resolutions. Not that I'm against them - I just never put too much effort into them. This year is no different.

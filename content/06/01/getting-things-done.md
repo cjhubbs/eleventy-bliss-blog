@@ -1,8 +1,7 @@
 ---
-title: "getting things done"
-date: "2006-01-11T15:51:48.000"
-categories: 
-  - "personal"
+title: 'getting things done'
+date: 2006-01-11T15:51:48.000
+tags: ['personal']
 ---
 
 No, [Geof](http://ijsm.org/archives/category/geekery/gtd/), I haven't read [the book](http://www.amazon.com/exec/obidos/ASIN/0142000280/), and this isn't about the book. However, it has been nice lately to get some things done.

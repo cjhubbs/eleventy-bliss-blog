@@ -1,8 +1,7 @@
 ---
-title: "being productive"
-date: "2006-01-18T20:12:45.000"
-categories: 
-  - "random"
+title: 'being productive'
+date: 2006-01-18T20:12:45.000
+tags: ['personal', 'tv']
 ---
 
 Last night Becky was gone to a baby shower at the church, and so after I put Laura to bed around 7 I had a couple of hours to myself. As tempting as it was to sit down and watch _Month Python & the Holy Grail_ (which Becky hates and I haven't watched in a long time), I decided to get some useful stuff done.

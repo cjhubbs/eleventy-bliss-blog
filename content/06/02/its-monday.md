@@ -1,8 +1,7 @@
 ---
 title: "it's Monday..."
-date: "2006-02-20T15:29:28.000"
-categories: 
-  - "random"
+date: 2006-02-20T15:29:28.000
+tags: ['movies', 'personal']
 ---
 
 ...and I haven't posted since last Wednesday, which means I'm a real slacker. I fall into this basic pattern of blogging where I show up on Monday, realize I'm a slacker, then because I have nothing more thoughtful to post, post a weekend update. Yawn. But since I've already fooled you into reading this far, here was my weekend:

@@ -1,8 +1,7 @@
 ---
-title: "making music, family style"
-date: "2005-05-04T17:39:49.000"
-categories: 
-  - "personal"
+title: 'making music, family style'
+date: 2005-05-04T17:39:49.000
+tags: ['personal', 'family']
 ---
 
 OK, I'm excited. I just finished talking to my brother [Andrew](http://www.xanga.com/home.aspx?user=hubbs86). He is almost 19, has been playing on the worship team at his church (Richland Center Fellowship, Richland Center, Wisconsin) for a while now, and has the opportunity to lead the worship service in a couple weeks... on the Sunday that the rest of the family is going to be visiting!

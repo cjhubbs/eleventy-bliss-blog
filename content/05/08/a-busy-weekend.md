@@ -1,9 +1,7 @@
 ---
-title: "a busy weekend"
-date: "2005-08-12T15:16:22.000"
-categories: 
-  - "personal"
-  - "random"
+title: 'a busy weekend'
+date: 2005-08-12T15:16:22.000
+tags: ['personal']
 ---
 
 I haven't posted much this week... it's been just a bit on the busy side. There's been plenty to do at work, which means little boredom or free time, and the evenings have been just crazy.

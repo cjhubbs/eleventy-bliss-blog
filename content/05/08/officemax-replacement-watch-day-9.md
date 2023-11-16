@@ -1,8 +1,7 @@
 ---
-title: "OfficeMax MaxAssurance Replacement Watch, Day 9"
-date: "2005-08-15T13:33:55.000"
-categories: 
-  - "officemax"
+title: 'OfficeMax MaxAssurance Replacement Watch, Day 9'
+date: 2005-08-15T13:33:55.000
+tags: ['rants', 'tech']
 ---
 
 _Note from Chris: I'm not usually this bitter... but I'm taking no small pleasure in the fact that this blog is the first Google hit on the search for "OfficeMax Replacement Plan". Don't know that my complaints will result in anything, but I'm going to document the arduous process._
@@ -11,21 +10,30 @@ Today is the ninth day since I started the process rolling to try to get my dead
 
 A few choice quotes from the OfficeMax website:
 
-> **Electronics MaxAssurance Extended Warranty**
-> 
-> With the Electronics MaxAssurance Plan brought to you by OfficeMax, you can enhance the manufacturer's warranty on your purchases of electronics.
-> 
-> Electronics MaxAssurance features include:
-> 
-> \* One-year service plan beginning as soon as the manufacturer's labor warranty expires \* Coverage on parts and labor \* Renewable and transferable coverage \* Power surge protection \* Replacement program for all products under $400 \* Repair program--products over $400 will be repaired by an authorized service provider
-> 
-> Protecting your purchase is a worry-free way to enjoy your electronics for just pennies a day.
-> 
-> Electronics MaxAssurance benefits also include:
-> 
-> \* No deductible--no unexpected future costs \* Toll-free, 24-hour product helpline--referrals to qualified service providers \* Normal wear and tear coverage is included \* "No-Lemon" Policy--if your product requires more than three repairs, it will be replaced
-> 
-> Best Service With the MaxAssurance Plan, a nationwide network of service providers, as well as dedicated customer service representatives, are at your service. Product experts are ready to provide instant troubleshooting, information and reliable service when you need it most.
+> **Electronics MaxAssurance Extended Warranty**  
+> <br/>
+> With the Electronics MaxAssurance Plan brought to you by OfficeMax, you can enhance the manufacturer's warranty on your purchases of electronics.  
+> <br/>
+> Electronics MaxAssurance features include:  
+> <br/>
+>
+> - One-year service plan beginning as soon as the manufacturer's labor warranty expires
+> - Coverage on parts and labor
+> - Renewable and transferable coverage
+> - Power surge protection
+> - Replacement program for all products under $400
+> - Repair program--products over $400 will be repaired by an authorized service provider
+>   <br/>
+>   Protecting your purchase is a worry-free way to enjoy your electronics for just pennies a day.  
+>   <br/>
+>   Electronics MaxAssurance benefits also include:  
+>   <br/>
+> - No deductible--no unexpected future costs
+> - Toll-free, 24-hour product helpline--referrals to qualified service providers
+> - Normal wear and tear coverage is included
+> - "No-Lemon" Policy--if your product requires more than three repairs, it will be replaced  
+>   <br/>
+>   Best Service With the MaxAssurance Plan, a nationwide network of service providers, as well as dedicated customer service representatives, are at your service. Product experts are ready to provide instant troubleshooting, information and reliable service when you need it most.
 
 The parts that crack me up the most are "No deductible--no unexpected future costs" and "Product experts are ready to provide instant troubleshooting, information and reliable service when you need it most."
 

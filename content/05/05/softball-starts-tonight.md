@@ -1,8 +1,7 @@
 ---
-title: "softball starts tonight!"
-date: "2005-05-02T19:48:30.000"
-categories: 
-  - "personal"
+title: 'softball starts tonight!'
+date: 2005-05-02T19:48:30.000
+tags: ['personal']
 ---
 
 Our first softball game of the season is tonight. I'm soooo much looking forward to it. It'll be nasty conditions for playing - probably 50 degrees and a 20 mph wind. But that's not the point - it's just great to be out playing.

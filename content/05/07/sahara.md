@@ -1,9 +1,7 @@
 ---
 title: "Sahara"
-date: "2005-07-08T14:11:38.000"
-categories: 
-  - "random"
-  - "reviews"
+date: 2005-07-08T14:11:38.000
+tags: ['movies']
 ---
 
 Last night we had a babysitter available and so we went to the [cheap seats theater in town](http://www.collinsroadtheatres.com/) and watched [Sahara](http://us.imdb.com/title/tt0318649/). It is loosely based on the novel of the same name by Clive Cussler. Becky and I are both huge fans of Cussler's Dirk Pitt series, so we were looking forward to seeing what they'd do with his novel in the movie.

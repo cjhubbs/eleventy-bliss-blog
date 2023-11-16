@@ -1,9 +1,7 @@
 ---
-title: "Ben Shive, Harmony, and the Blood of Jesus"
-date: "2005-12-15T14:25:17.000"
-categories: 
-  - "music"
-  - "random"
+title: 'Ben Shive, Harmony, and the Blood of Jesus'
+date: 2005-12-15T14:25:17.000
+tags: ['music']
 ---
 
 [All the recent posts](http://thedirtroad.net/jeff/journal/2005/12/14/andrew-peterson-and-friends-at-the-ryman/) [about the AP Christmas concert](http://rmfo-blogs.com/katie/2005/12/15/mandatory-nashville-post/) [at the Ryman last weekend](http://imperfectmirror.org/2005/12/13/christmas-traditions/) reminded me of one little amusing thing that I had heretofore failed to relate. It happened during the AP Christmas concert in Cedar Rapids a few weeks ago, which I have written several posts about already.

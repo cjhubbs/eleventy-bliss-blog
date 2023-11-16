@@ -1,13 +1,11 @@
 ---
-title: "I met the Queen of Iowa"
-date: "2005-12-07T14:19:17.000"
-categories: 
-  - "music"
-  - "personal"
+title: 'I met the Queen of Iowa'
+date: 2005-12-07T14:19:17.000
+tags: ['personal', 'andrew-peterson']
 ---
 
-> I met the Queen of Iowa, She was dying on a couch in the suburbs. And of all the things she was dying of, She was more alive than the others...
-> 
+> I met the Queen of Iowa, She was dying on a couch in the suburbs. And of all the things she was dying of, She was more alive than the others...  
+> <br/>
 > \-- Andrew Peterson, _The Queen of Iowa_
 
 The Queen of Iowa is a real person. I met her this past Saturday. Her name is Jody. Her story is tragic; she contracted HIV after being assaulted fifteen years ago. Her story is also beautiful; knowing full well that she had HIV, her high school sweetheart decided to marry her anyway. That was eleven years ago. Jody is now in what appears to me to be the last stage of her life. She can't move. She can't talk. She can just barely communicate single letters at a time. Her husband cares for her at their home here in the Cedar Rapids area.
@@ -27,5 +25,5 @@ There were a few times during the visit where Jody began to cough, and her body 
 Saturday's visit was a moving experience; one that will stick with me for a long, long time. We insulate ourselves too much from pain and death here in America. Last Saturday's visit was a vivid reminder of that to which I assent but often forget: that life is short, that death will reach us all, but death is not the end.
 
 > Parting is the price, it is the price that I must pay To harbor far beyond the Havens Grey.
-> 
+>
 > \-- Andrew Peterson, _[The Havens Grey](http://www.andrew-peterson.com/lyrics.php?id=58)_

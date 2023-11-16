@@ -1,8 +1,7 @@
 ---
-title: "Christmas shopping...  check."
-date: "2005-12-17T03:31:14.000"
-categories: 
-  - "random"
+title: 'Christmas shopping...  check.'
+date: 2005-12-17T03:31:14.000
+tags: ['personal']
 ---
 
 My today didn't go as planned. But that's OK - it's turned out just fine anyhow. Becky showed up on IM at 7:30 this morning (waaaay early for her) and said she was feeling poorly. It ends up she's got this one-day stomach bug that a bunch of folks around here have had; throwing up and the whole works. So I left work about 8 to come home and take care of Laura.

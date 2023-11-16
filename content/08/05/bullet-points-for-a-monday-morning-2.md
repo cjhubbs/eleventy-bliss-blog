@@ -1,12 +1,12 @@
 ---
-title: "Bullet Points for a Monday Morning"
-date: "2008-05-05T12:38:52.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "softball"
-  - "truly-random"
+title: 'Bullet Points for a Monday Morning #2'
+date: '2008-05-05T12:38:52.000'
+categories:
+  - 'random'
+tags:
+  - 'life'
+  - 'softball'
+  - 'truly-random'
 ---
 
 - It was an amazingly beautiful weekend. Fortunately the beautiful weather is sticking around for today so we can play softball.

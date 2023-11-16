@@ -1,9 +1,7 @@
 ---
-title: "bleary eyed"
-date: "2005-04-27T13:44:33.000"
-categories: 
-  - "personal"
-  - "random"
+title: 'bleary eyed'
+date: 2005-04-27T13:44:33.000
+tags: ['personal']
 ---
 
 I know I owe everybody a blog post (it's been a couple days... time to keep writing) but it's been pretty slow around here lately. My latest task at work has been to manually compare two 200-ish-page documents and mark all the changes. (At this point, the geeks reading this are asking "why manually diff it when you could use a tool?" The answer is, I'm looking for functional differences, not trivial wording differences. Ugh.) I finally finished that up this morning but my eyes are a little bleary now and I know more about this next new airplane than I really wanted to.

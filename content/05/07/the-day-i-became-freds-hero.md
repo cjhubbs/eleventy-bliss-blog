@@ -1,8 +1,7 @@
 ---
 title: "The day I became Fred's hero"
-date: "2005-07-11T19:37:02.000"
-categories: 
-  - "tales-from-the-past"
+date: 2005-07-11T19:37:02.000
+tags: ['personal', 'memories']
 ---
 
 _I don't know what triggered this memory today... but I might as well tell the story while I'm thinking about it._

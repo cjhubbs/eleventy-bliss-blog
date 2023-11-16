@@ -1,8 +1,7 @@
 ---
 title: "she's graduated!"
-date: "2005-05-16T20:16:48.000"
-categories: 
-  - "personal"
+date: 2005-05-16T20:16:48.000
+tags: ['family']
 ---
 
 This weekend was my sister Rebecca's high school graduation. She's the youngest of us 5 kids, and the only girl, which means she's spoiled just a little. :-) She graduated in a class of 8 students from her christian school, and I'd be a liar if I said I wasn't quite proud of her. Anyway, here's Rebecca the graduate.

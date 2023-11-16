@@ -1,9 +1,7 @@
 ---
-title: "OfficeMax MaxAssurance Replacement Watch, Day 11"
-date: "2005-08-17T16:31:50.000"
-categories: 
-  - "officemax"
-  - "random"
+title: 'OfficeMax MaxAssurance Replacement Watch, Day 11'
+date: 2005-08-17T16:31:50.000
+tags: ['rants']
 ---
 
 Sent the package off yesterday afternoon... it's headed to Dallas. I'm guessing the good ol' US Postal Service should have it there no later than Saturday.

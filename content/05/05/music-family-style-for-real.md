@@ -1,9 +1,7 @@
 ---
-title: "Music, family style...  for real."
-date: "2005-05-16T18:23:15.000"
-categories: 
-  - "music"
-  - "personal"
+title: 'Music, family style...  for real.'
+date: 2005-05-16T18:23:15.000
+tags: ['personal', 'family', 'music']
 ---
 
 Well, the [long-awaited Sunday](http://rmfo-blogs.com/cakeboy/2005/05/04/making-music-family-style/) finally got here and I got to play keyboards in the worship team at my family's church with my brother [Andrew](http://www.xanga.com/home.aspx?user=hubbs86) leading. It was _awesome._ It was his first time leading a worship band but he did a very good job. The set list was something like this:

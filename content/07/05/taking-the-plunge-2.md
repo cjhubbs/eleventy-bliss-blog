@@ -1,8 +1,8 @@
 ---
-title: "Taking the Plunge"
-date: "2007-05-30T12:12:56.000"
-categories: 
-  - "random"
+title: 'Taking the Plunge to Dish'
+date: '2007-05-30T12:12:56.000'
+categories:
+  - 'random'
 ---
 
 It's been a couple of months since I did the math and realized that Mediacom was no longer a good deal for our household. Let's review. Mediacom provides us digital cable and high-speed internet. They have repeatedly raised prices over the last two years (including a $10/month upper over the past 3 months). They had a real pain-in-the-backside dispute with Sinclair that caused us to lose one of our local channels for a month. We chose to go to Mediacom two years ago now when we dropped our home landline and went to cell phones-only; at that point, Qwest didn't have the option of getting DSL without having a land line, which priced their service out of our range.

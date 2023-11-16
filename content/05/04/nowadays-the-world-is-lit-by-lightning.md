@@ -1,8 +1,7 @@
 ---
-title: "nowadays the world is lit by lightning"
-date: "2005-04-14T16:33:08.000"
-categories: 
-  - "spiritualtheological"
+title: 'nowadays the world is lit by lightning'
+date: 2005-04-14T16:33:08.000
+tags: ['theology']
 ---
 
 [Peggy Noonan](http://www.opinionjournal.com/columnists/pnoonan/) (one of my long-time favorite columnists, and a devout Roman Catholic) has [a column today on OpinionJournal](http://www.opinionjournal.com/columnists/pnoonan/?id=110006553) in which she crafts a tale of a group of Cardinals discussing and thinking over the qualifications for the next man who would be pope. I think she manages to hit on some of the characteristics that really mark a great leader.

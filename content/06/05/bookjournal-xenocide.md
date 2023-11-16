@@ -1,10 +1,8 @@
 ---
-title: "BookJournal: Xenocide"
-date: "2006-05-03T02:00:28.000"
-categories: 
-  - "book-journal"
-tags: 
-  - "books"
+title: 'BookJournal: Xenocide'
+date: '2006-05-03T02:00:28.000'
+tags:
+  - 'books'
 ---
 
 I haven't been a fan of everything Orson Scott Card has ever written (sorry, [Keith](http://rmfo-blogs.com/theophileo/)), but [my love for _Ender's Game_](http://www.chrishubbs.com/2005/11/11/enders-game/) and [even greater affection for _Speaker for the Dead_](http://www.chrishubbs.com/2006/02/02/home-again-home-again/) drew me to read the next book in the series, _Xenocide_.

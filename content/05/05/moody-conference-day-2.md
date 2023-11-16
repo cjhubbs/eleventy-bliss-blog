@@ -1,8 +1,7 @@
 ---
-title: "Moody Conference Day 2"
-date: "2005-05-24T19:12:53.000"
-categories: 
-  - "moody-pastors-conference"
+title: 'Moody Conference Day 2'
+date: 2005-05-24T19:12:53.000
+tags: ['personal']
 ---
 
 It's 1:10 PM and I'm skipping a general session to sit and write. Richard described this conference as "trying to get a drink of water from a firehose", and he's not much wrong. So far today we've had general sessions with D.A. Carson and Gene Getz, and I went to a workshop also with Dr. Getz. And that was all before lunch! This afternoon there's another general session and then a workshop before dinner. As I already said, I'm skipping the general session to do some writing, mostly because if I don't take the time to write things down, I'll start forgetting... and I don't want to forget. It'll be much more valuable for me to cement some things in my mind rather than just go soak up some more things that I won't have time to remember.

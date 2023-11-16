@@ -1,10 +1,10 @@
 ---
-title: "Random Thought"
-date: "2007-04-26T14:10:15.000"
-categories: 
-  - "random"
-tags: 
-  - "truly-random"
+title: 'Random Thought #2'
+date: '2007-04-26T14:10:15.000'
+categories:
+  - 'random'
+tags:
+  - 'truly-random'
 ---
 
 I'm sitting on my PC waiting for the Microsoft Visual C++ .NET development suite to install. And on one of the little information boxes that it brings up while I'm waiting, it highlights one of the benefits of MSVC++.NET:

@@ -1,9 +1,9 @@
 ---
-title: "Bullet points for a Tuesday Morning"
-date: "2009-02-24T14:19:22.000"
-tags: 
-  - "bullet-points"
-  - "life"
+title: 'Bullet points for a Tuesday Morning #2'
+date: '2009-02-24T14:19:22.000'
+tags:
+  - 'bullet-points'
+  - 'life'
 ---
 
 Laziness, and no big topics to contemplate. Put those two together and you end up with my blog as of late. Sorry folks. So, a make-up post of sorts.

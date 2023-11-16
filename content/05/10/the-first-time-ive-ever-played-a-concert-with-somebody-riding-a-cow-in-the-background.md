@@ -1,9 +1,7 @@
 ---
 title: "The first time I've ever played a concert with somebody riding a cow in the background..."
-date: "2005-10-03T13:05:21.000"
-categories: 
-  - "music"
-  - "reviews"
+date: 2005-10-03T13:05:21.000
+tags: ['music', 'concerts', 'andrew-peterson', 'andy-osenga']
 ---
 
 ![The guys in concert](http://static.flickr.com/32/48853017_fd4f45a2eb_m.jpg)Last Saturday afternoon I got to see [Andrew Peterson](http://www.andrew-peterson.com) and [Andy Osenga](http://www.andrewosenga.com) in concert at "Cornfest" in Clermont, IA. Clermont is a little bitty farm town, and this "Cornfest" thing was pretty much a start-up festival, I think... they had some small Christian music acts going for most of the afternoon, and then their headliner was the aforementined Andys. I'll note here that it's a good thing that they booked those guys - probably 70% of the folks that were there for the concert came specifically to hear Andy P.

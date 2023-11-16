@@ -1,8 +1,7 @@
 ---
-title: "longest...  day...  ever..."
-date: "2005-05-20T15:30:59.000"
-categories: 
-  - "random"
+title: 'longest...  day...  ever...'
+date: 2005-05-20T15:30:59.000
+tags: ['personal']
 ---
 
 Wow, the day is getting long and it's not even 1030 yet. I'm in a wrap-up mode at work; I'm taking vacation next week, and when I get back I'm transitioning to a new project, so I don't really want to start on anything new. I had some prototype stuff to work on, but whenever I try to code-generate for it, the program blows up. (The code generator, not my program...) So, that's going nowhere fast. I am sooooo not motivated to get stuff done. If I wasn't burning a week of vacation next week, I'd take this afternoon off. But I can't just keep burning vacation willy-nilly or I won't have any left...

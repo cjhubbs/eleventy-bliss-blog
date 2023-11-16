@@ -1,9 +1,7 @@
 ---
-title: "a general arrrrrgh...  and then woohoo!"
-date: "2005-09-28T19:58:15.000"
-categories: 
-  - "nerdy"
-  - "random"
+title: 'a general arrrrrgh...  and then woohoo!'
+date: 2005-09-28T19:58:15.000
+tags: ['personal']
 ---
 
 I'll come up with a more thoughtful post one of these days, I promise. But for now, more boring information! :-)

@@ -1,8 +1,7 @@
 ---
 title: "it's a blog..."
-date: "2005-04-12T03:28:40.000"
-categories: 
-  - "random"
+date: 2005-04-12T03:28:40.000
+tags: ['blogging']
 ---
 
 I've made the switch today from my old blogger.com blog to my new rmfo-blogs.com blog. Don't get too confused; this blog hasn't really been here since back in December. I just copied some of my old blogger entries over here to give this one a nice "lived-in" feel. :-)

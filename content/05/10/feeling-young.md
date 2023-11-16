@@ -1,8 +1,7 @@
 ---
-title: "feeling young"
-date: "2005-10-31T18:26:52.000"
-categories: 
-  - "random"
+title: 'feeling young'
+date: 2005-10-31T18:26:52.000
+tags: ['personal']
 ---
 
 Last night we had a neighborhood potluck dinner, organized by our next-door neighbors. It was a bit chilly outside, but fun to go to something like this where you only have to walk five houses down to get there.

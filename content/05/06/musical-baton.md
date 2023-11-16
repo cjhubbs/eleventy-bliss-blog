@@ -1,8 +1,7 @@
 ---
-title: "Musical Baton"
-date: "2005-06-01T16:01:51.000"
-categories: 
-  - "music"
+title: 'Musical Baton'
+date: 2005-06-01T16:01:51.000
+tags: ['music']
 ---
 
 And so today the [musical baton was passed to me](http://thedirtroad.net/jeff/journal/2005/06/01/musical-baton/) by [Jeff Holland](http://thedirtroad.net/jeff). It seems like a fun idea, but it will be agonizing to have to make some of these choices...

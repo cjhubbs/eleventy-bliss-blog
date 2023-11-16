@@ -1,9 +1,7 @@
 ---
-title: "OfficeMax Replacement Watch, Day 16"
-date: "2005-08-23T13:24:43.000"
-categories: 
-  - "nerdy"
-  - "officemax"
+title: 'OfficeMax Replacement Watch, Day 16'
+date: 2005-08-23T13:24:43.000
+tags: ['rants']
 ---
 
 Nothing to report. I have meetings all morning this morning and would love to have the PDA for note-taking and boredom-reduction. Oh well...

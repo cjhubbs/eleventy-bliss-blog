@@ -1,8 +1,7 @@
 ---
-title: "lots of travel, 30 minute interview"
-date: "2005-12-14T17:50:42.000"
-categories: 
-  - "der"
+title: 'lots of travel, 30 minute interview'
+date: 2005-12-14T17:50:42.000
+tags: ['work']
 ---
 
 Monday afternoon found me traveling to Wichita, KS, for my DER interview with the FAA. The wisdom that is American Airlines decided that the best way for me to get from Cedar Rapids to Wichita was via Dallas-Fort Worth. Hey, at least it gave me lots of time to cram on the plane. None the less, I made it to Wichita around 7 PM, got my rental car, and found my way around.

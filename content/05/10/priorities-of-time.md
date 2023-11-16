@@ -1,11 +1,10 @@
 ---
-title: "priorities of time"
-date: "2005-10-19T14:21:14.000"
-categories: 
-  - "personal"
+title: 'priorities of time'
+date: 2005-10-19T14:21:14.000
+tags: ['personal']
 ---
 
-I wrestled in an [earlier post](http://rmfo-blogs.com/cakeboy/2005/09/20/the-present-future-and-associated-thoughts/) with issues of time and busyness. I'm still wrestling with it. I think I'm making progress this time... maybe. Becky and I have talked about things quite a lot. She's supportive (no suprise there) of my desires to get the schedule cleaned off and getting my time priorities changed, and she'll help keep reminding me so that I don't just forget about it after a while and drift back to the same old way of doing things.
+I wrestled in an [earlier post](/05/09/the-present-future-and-associated-thoughts/) with issues of time and busyness. I'm still wrestling with it. I think I'm making progress this time... maybe. Becky and I have talked about things quite a lot. She's supportive (no suprise there) of my desires to get the schedule cleaned off and getting my time priorities changed, and she'll help keep reminding me so that I don't just forget about it after a while and drift back to the same old way of doing things.
 
 My "ideal situation" right now is still what I mentioned before: I'd like to just dump _everything_ church-related for a while and see how my schedule settles out. Then I could slowly put it back together the right way, and see how much time I have to do church-related things.
 

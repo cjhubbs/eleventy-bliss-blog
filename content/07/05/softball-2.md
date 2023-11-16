@@ -1,8 +1,8 @@
 ---
-title: "Softball"
-date: "2007-05-01T12:17:48.000"
-categories: 
-  - "random"
+title: 'Softball 2007'
+date: '2007-05-01T12:17:48.000'
+categories:
+  - 'random'
 ---
 
 One of my [very first posts](http://www.chrishubbs.com/2005/04/13/softball/) on my blog was about softball; hard to believe that's been two years ago. But yesterday night we started up the church softball season for another year. It was a beautiful night; the day was hot (at least, hot for April in Iowa) - it got close to 90 degrees in the afternoon. But by evening the breeze was blowing and the temps had cooled; what a great night for softball!

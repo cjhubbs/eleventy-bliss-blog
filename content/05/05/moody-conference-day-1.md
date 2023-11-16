@@ -1,9 +1,7 @@
 ---
-title: "Moody Conference Day 1"
-date: "2005-05-23T23:10:33.000"
-categories: 
-  - "moody-pastors-conference"
-  - "random"
+title: 'Moody Conference Day 1'
+date: 2005-05-23T23:10:33.000
+tags: ['personal']
 ---
 
 Monday, May 23rd 3:30 PM

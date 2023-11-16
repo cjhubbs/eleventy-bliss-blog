@@ -1,8 +1,7 @@
 ---
-title: "elder = older?"
-date: "2005-03-29T17:15:50.000"
-categories: 
-  - "spiritualtheological"
+title: 'elder = older?'
+date: 2005-03-29T17:15:50.000
+tags: ['church']
 ---
 
 I've had several conversations lately regarding the qualifications for being an elder in the church, specifically in regard to how much a man's age should play into that qualification. I'm still wrestling with the answers myself.

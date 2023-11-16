@@ -1,9 +1,7 @@
 ---
-title: "DER Conference, Day 3"
-date: "2005-07-29T03:16:53.000"
-categories: 
-  - "der"
-  - "personal"
+title: 'DER Conference, Day 3'
+date: 2005-07-29T03:16:53.000
+tags: ['work']
 ---
 
 Today was the third and final day of the conference here in Norfolk. The conference itself was uneventful; heard a few presentations on the committees that are meeting to develop new guidelines for software certification. I'm sure I'd bore every single one of my readers if I actually described the details of the presentations, so I'll stop. :-)

@@ -1,8 +1,7 @@
 ---
 title: "It's cold and grey outside..."
-date: "2005-11-12T19:32:11.000"
-categories: 
-  - "random"
+date: 2005-11-12T19:32:11.000
+tags: ['personal']
 ---
 
 ...and I had been planning on doing yard work. I did a little bit this morning (ran the mower on the front yard and filled up five and a half yard bags with leaves and such) but then it got nasty outside and Becky had a church event so I got to watch the kiddo for a while.

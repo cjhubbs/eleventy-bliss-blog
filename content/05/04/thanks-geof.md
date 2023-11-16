@@ -1,8 +1,7 @@
 ---
-title: "Thanks Geof!"
-date: "2005-04-11T19:55:07.000"
-categories: 
-  - "random"
+title: 'Thanks Geof!'
+date: 2005-04-11T19:55:07.000
+tags: ['blogging']
 ---
 
 Well it's better than the old "hello world" message... :-)

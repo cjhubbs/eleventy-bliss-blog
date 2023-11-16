@@ -1,8 +1,7 @@
 ---
-title: "sticking to our guns"
-date: "2005-04-25T16:46:30.000"
-categories: 
-  - "spiritualtheological"
+title: 'sticking to our guns'
+date: 2005-04-25T16:46:30.000
+tags: ['theology']
 ---
 
 Ned Rice has a [great column](http://www.nationalreview.com/comment/rice200504250753.asp) today on NRO where he makes a strong argument that the folks whining about the lack of liberalism in the new pope should suck it up, think about what they're saying, take their beliefs (and the church's beliefs) seriously, and then pack it up and leave if they're really that unhappy. The column deals specifically with the Roman Catholic church, but I think the ideas are applicable to any person complaining about their church's beliefs.

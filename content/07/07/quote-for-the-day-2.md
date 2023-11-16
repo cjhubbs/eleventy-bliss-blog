@@ -1,10 +1,10 @@
 ---
-title: "Quote for the day"
-date: "2007-07-06T14:18:49.000"
-categories: 
-  - "random"
-tags: 
-  - "quotes"
+title: 'Quote for the day #2'
+date: '2007-07-06T14:18:49.000'
+categories:
+  - 'random'
+tags:
+  - 'quotes'
 ---
 
 From Charles Spurgeon:

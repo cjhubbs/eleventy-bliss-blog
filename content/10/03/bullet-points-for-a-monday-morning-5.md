@@ -1,9 +1,9 @@
 ---
-title: "Bullet Points for a Monday Morning"
-date: "2010-03-08T15:55:50.000"
-tags: 
-  - "bullet-points"
-  - "life"
+title: 'Bullet Points for a Monday Morning #5'
+date: '2010-03-08T15:55:50.000'
+tags:
+  - 'bullet-points'
+  - 'life'
 ---
 
 - We have high temperatures in the 50's forecast for this week. Incredibly thankful for spring to be making an appearance.

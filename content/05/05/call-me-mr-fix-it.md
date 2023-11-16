@@ -1,8 +1,7 @@
 ---
-title: "Call me Mr. Fix-it"
-date: "2005-05-12T12:38:19.000"
-categories: 
-  - "personal"
+title: 'Call me Mr. Fix-it'
+date: 2005-05-12T12:38:19.000
+tags: ['personal']
 ---
 
 No, this isn't a home-improvement post... It's more of a dealing-with-being-a-man-and-an-engineer post. :-)

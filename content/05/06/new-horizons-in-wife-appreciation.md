@@ -1,8 +1,7 @@
 ---
-title: "new horizons in wife appreciation"
-date: "2005-06-13T13:09:44.000"
-categories: 
-  - "personal"
+title: 'new horizons in wife appreciation'
+date: 2005-06-13T13:09:44.000
+tags: ['personal']
 ---
 
 Becky went to a women's retreat this weekend. She left Friday afternoon and didn't get back until Saturday night. It was my first real extended time of getting to "kid wrangle", as Steve puts it. (Of course, he's got three kids, so my one probably doesn't really count...) I have gained an entirely new appreciation for the things my wife deals with on a daily basis.

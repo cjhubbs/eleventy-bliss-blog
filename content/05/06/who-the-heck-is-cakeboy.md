@@ -1,13 +1,13 @@
 ---
-title: "Cakeboy?  Who the heck is Cakeboy?"
-date: "2005-06-21T14:46:35.000"
-categories: 
-  - "personal"
+title: 'Cakeboy?  Who the heck is Cakeboy?'
+date: 2005-06-21T14:46:35.000
+categories:
+  - 'personal'
 ---
 
 In a comment sometime back, [Amber](http://www.xanga.com/home.aspx?user=amburgler7) asked about the whole House of Cakeboy title. While I may rename this blog at some time in the future, it's still worth telling a bit of the cakeboy story by way of explanation.
 
-It all goes back to a choir tour back in college. I was the primary accompianist for the [LeTourneau](http://www.letu.edu) Singers, who toured during spring and fall breaks with about 18 members, including accompianists and sound guys. We toured to Colorado during spring break during my freshman year, and, as it usually did, my birthday (March 14th) fell during the tour. We were out for dinner at a Mexican restaurant that night for my birthday, and after eating, they brought out a cake that somebody had bought, and sang Happy Birthday, and everything. It really was sweet of them.
+It all goes back to a choir tour back in college. I was the primary accompanist for the [LeTourneau](http://www.letu.edu) Singers, who toured during spring and fall breaks with about 18 members, including accompanists and sound guys. We toured to Colorado during spring break during my freshman year, and, as it usually did, my birthday (March 14th) fell during the tour. We were out for dinner at a Mexican restaurant that night for my birthday, and after eating, they brought out a cake that somebody had bought, and sang Happy Birthday, and everything. It really was sweet of them.
 
 Anyhow, after several pieces of cake had been cut and I had started eating mine, one of the girls (one of the semi-obnoxious ones) grabbed a bunch of the frosting from the cake plate, snuck up behind me, and proceeded to smear the frosting all over my face, in my hair, the whole nine yards. I was a mess, and none to happy about it, either. But I maintained my good humor, and cleaned up as well as a handful of napkins would allow. She then proceeded to call me "cake boy" the whole rest of the evening... which grew into the whole rest of the tour. Several other group members picked it up and it became my de facto nickname for the rest of the tour. When we went skiing later in the week, I had a tag to mark my skis, and marked it "cake boy". I still have it laying around the house somewhere... a memory of good times. But that skiing trip is a whole different story.
 

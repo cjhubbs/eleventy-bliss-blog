@@ -1,8 +1,7 @@
 ---
-title: "OfficeMax MaxAssurance Replacement Watch, Day 9 (part 2)"
-date: "2005-08-15T19:58:08.000"
-categories: 
-  - "officemax"
+title: 'OfficeMax MaxAssurance Replacement Watch, Day 9 (part 2)'
+date: 2005-08-15T19:58:08.000
+tags: ['rants']
 ---
 
 My dear wife informs me that the mailing label came today.

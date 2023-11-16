@@ -1,8 +1,7 @@
 ---
-title: "Just for the record..."
-date: "2005-12-16T13:42:36.000"
-categories: 
-  - "random"
+title: 'Just for the record...'
+date: 2005-12-16T13:42:36.000
+tags: ['personal']
 ---
 
 ...the new snowblower kicks butt.

@@ -1,8 +1,7 @@
 ---
-title: "Odds and Ends"
-date: "2005-08-25T18:21:06.000"
-categories: 
-  - "nerdy"
+title: 'Odds and Ends'
+date: 2005-08-25T18:21:06.000
+tags: ['tech']
 ---
 
 Just miscellaneous stuff from my life today. I got my DSL modem hooked up last night so the Casa de Cakeboy is now surfing the web at high speed and wirelessly! I'm sure it'll take me a while to fully comprehend the different things this will allow me to do online... fun fun!

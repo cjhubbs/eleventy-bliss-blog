@@ -1,8 +1,7 @@
 ---
 title: "ok, so I'm a little bit excited..."
-date: "2005-12-02T14:20:52.000"
-categories: 
-  - "random"
+date: 2005-12-02T14:20:52.000
+tags: ['personal', 'music', 'andrew-peterson']
 ---
 
 Tomorrow the Andrew Peterson Behold the Lamb Christmas tour is hitting Cedar Rapids! I couldn't believe it when I first heard about it months ago, and I'm still a bit in awe of the fact that Andrew Peterson, Derek Webb, Sandra McCracken, Andrew Osenga, Jill Phillips, and some others will all be in concert on stage less than 3 miles from my house. (Only 1 block away from the previous place we lived!)

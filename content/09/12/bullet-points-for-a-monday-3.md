@@ -1,6 +1,6 @@
 ---
-title: "Bullet points for a Monday"
-date: "2009-12-07T18:00:05.000"
+title: 'Bullet points for a Monday #3'
+date: '2009-12-07T18:00:05.000'
 ---
 
 There is a more substantive post or two in here, I promise. But for now - bullet points.

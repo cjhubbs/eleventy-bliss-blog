@@ -1,9 +1,7 @@
 ---
-title: "the blessings of a holiday"
-date: "2005-11-25T15:35:36.000"
-categories: 
-  - "personal"
-  - "random"
+title: 'the blessings of a holiday'
+date: 2005-11-25T15:35:36.000
+tags: ['personal', 'family']
 ---
 
 This holiday weekend we have left Iowa and headed to Wisconsin to visit my family. Thanksgiving with family is a great time; we have all of our traditional things to eat, games that we play, stories that get (re)told, time spent together. It is a blessing.

@@ -1,8 +1,7 @@
 ---
 title: "I've moved..."
-date: "2005-11-19T14:21:29.000"
-categories: 
-  - "random"
+date: 2005-11-19T14:21:29.000
+tags: ['blogging']
 ---
 
 If you are reading this post, you're reading it from my new web address: [www.thehubbs.net/chris/](http://www.thehubbs.net/chris/). This is the beginning of an effort to pull all of my siblings' blogs together into one family site. Hopefully one day soon there will be not only a /chris, but a [/ryan](http://thehubbs.net/ryan), /aaron, /andrew, and [/rebecca](http://thehubbs.net/rebecca) as well.

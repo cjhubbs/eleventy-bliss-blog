@@ -1,12 +1,12 @@
 ---
-title: "Bullet points for a Monday Morning"
-date: "2008-08-11T12:59:44.000"
-categories: 
-  - "random"
-tags: 
-  - "bullet-points"
-  - "life"
-  - "truly-random"
+title: 'Bullet points for a Monday Morning #3'
+date: '2008-08-11T12:59:44.000'
+categories:
+  - 'random'
+tags:
+  - 'bullet-points'
+  - 'life'
+  - 'truly-random'
 ---
 
 A week without a blog update + lack of creativity = desperate measures. Hence, the bullet points.

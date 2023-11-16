@@ -1,8 +1,7 @@
 ---
-title: "Noelridge Park Church"
-date: "2005-10-04T17:56:42.000"
-categories: 
-  - "random"
+title: 'Noelridge Park Church'
+date: 2005-10-04T17:56:42.000
+tags: ['church']
 ---
 
 So, after months of planning, debating, and voting, we finally have a new name for our church. Formerly Noelridge Baptist Church, we are now Noelridge Park Church. We will be implementing the change as quickly as possible.

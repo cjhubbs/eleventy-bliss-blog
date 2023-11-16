@@ -1,9 +1,7 @@
 ---
-title: "fun with guitars"
-date: "2005-09-15T16:49:44.000"
-categories: 
-  - "music"
-  - "random"
+title: 'fun with guitars'
+date: 2005-09-15T16:49:44.000
+tags: ['music']
 ---
 
 So yesterday I took my guitar in to see about getting the pickup fixed.

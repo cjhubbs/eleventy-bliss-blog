@@ -1,8 +1,7 @@
 ---
-title: "Worship Team changes..."
-date: "2005-08-25T18:23:42.000"
-categories: 
-  - "music"
+title: 'Worship Team changes...'
+date: 2005-08-25T18:23:42.000
+tags: ['music', 'worship', 'church']
 ---
 
 We had our first worship team practice using individual microphones last night.

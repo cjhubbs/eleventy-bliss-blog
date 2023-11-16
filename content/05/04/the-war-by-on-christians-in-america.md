@@ -1,8 +1,7 @@
 ---
-title: "The war by? on? Christians in America..."
-date: "2005-04-28T16:51:29.000"
-categories: 
-  - "may-i-refer-you-to"
+title: 'The war by? on? Christians in America...'
+date: 2005-04-28T16:51:29.000
+tags: ['evangelicalism']
 ---
 
 Stanley Kurtz has [an excellent (if a bit long) column today](http://www.nationalreview.com/kurtz/kurtz200504280758.asp) discussing the current edition of _[Harper's Magazine](http://www.harpers.org/index.html)_ - cover story: "The Christian Right's War on America".

@@ -1,13 +1,13 @@
 ---
-title: "Random Thoughts on...   Classical Music"
-date: "2007-01-12T20:11:21.000"
-categories: 
-  - "random"
-tags: 
-  - "music"
+title: 'Random Thoughts on...   Classical Music, Second Edition'
+date: '2007-01-12T20:11:21.000'
+categories:
+  - 'random'
+tags:
+  - 'music'
 ---
 
-Classical music has had a big influence in my life. My parents are both lovers of classical music. (Probably my dad more than my mom, but I'm not too sure there.) It was pretty much all we had on at home growing up. Lots of ::wikipedia("Bach"):: and ::wikipedia("Beethoven"):: all the way through ::wikipedia("Rimsky\_Korsakov","Rimsky-Korsakov"):: and ::wikipedia("Igor\_Stravinsky","Stravinsky")::. I started playing the piano at age 7 and thus entered a bunch more classical music. I played lots of Bach, [Chopin](http://en.wikipedia.org/wiki/Frederic_Chopin), Beethoven, [Debussy](http://en.wikipedia.org/wiki/Claude_Debussy), and [Grieg](http://en.wikipedia.org/wiki/Edvard_Grieg). I really enjoyed it. I was the nerdy kid who at age 12 listened to a NPR program where they compared two new recordings of [Rachmaninoff's](http://en.wikipedia.org/wiki/Sergei_Rachmaninoff) _[Vespers](http://en.wikipedia.org/wiki/All-Night_Vigil)_, and enjoyed it. But I digress.
+Classical music has had a big influence in my life. My parents are both lovers of classical music. (Probably my dad more than my mom, but I'm not too sure there.) It was pretty much all we had on at home growing up. Lots of ::wikipedia("Bach"):: and ::wikipedia("Beethoven"):: all the way through ::wikipedia("Rimsky_Korsakov","Rimsky-Korsakov"):: and ::wikipedia("Igor_Stravinsky","Stravinsky")::. I started playing the piano at age 7 and thus entered a bunch more classical music. I played lots of Bach, [Chopin](http://en.wikipedia.org/wiki/Frederic_Chopin), Beethoven, [Debussy](http://en.wikipedia.org/wiki/Claude_Debussy), and [Grieg](http://en.wikipedia.org/wiki/Edvard_Grieg). I really enjoyed it. I was the nerdy kid who at age 12 listened to a NPR program where they compared two new recordings of [Rachmaninoff's](http://en.wikipedia.org/wiki/Sergei_Rachmaninoff) _[Vespers](http://en.wikipedia.org/wiki/All-Night_Vigil)_, and enjoyed it. But I digress.
 
 It's hard to say which composer or era is my favorite. I love the Baroque for Bach (_Das Wohltemperierte Klavier_) and [Handel](http://en.wikipedia.org/wiki/George_Handel) (_The Messiah, Water Music_). I dig the classical and romantic periods: the beauty of [Mozart](http://en.wikipedia.org/wiki/Mozart), the intensity of Beethoven, the breadth of the piano works of Chopin. I about wore out a tape of Haydn Cello Concertos whilst growing up, and [Dennis Brain's](http://en.wikipedia.org/wiki/Dennis_Brain) legendary recording of Mozart Horn Concertos is never far from my iPod's playlist. But then you get to Rachmaninoff. Of all the composers, I adore Rachmaninoff. I fell in love with his second Piano Concerto in my teens, managed to learn enough to hack my way through the easier bits of it, then in college reacquainted myself with _Vespers_ and more of his solo piano works. They're ridiculously difficult to play, but remain my favorites. And don't let me forget the French guys like [Debussy](http://en.wikipedia.org/wiki/Claude_Debussy) and [Poulenc](http://en.wikipedia.org/wiki/Poulenc).
 

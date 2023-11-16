@@ -1,10 +1,7 @@
 ---
-title: "are you trying to teach me something?"
-date: "2005-06-02T15:50:00.000"
-categories: 
-  - "moody-pastors-conference"
-  - "personal"
-  - "spiritualtheological"
+title: 'are you trying to teach me something?'
+date: 2005-06-02T15:50:00.000
+tags: ['personal']
 ---
 
 Within the last 7 days I've heard three separate sermons from the same passage. This doesn't happen all the time. Well, for starters, usually I don't even hear three sermons in a week. But the Moody conference last week gave me 12 general session messages to choose from. And when I get three in the same week, I think it's time that I sit up and listen a little more closely.
@@ -13,8 +10,8 @@ The third sermon of the bunch was from a guest speaker at our church on Sunday. 
 
 The passage in question is Ephesians 3:14-21:
 
-> For this reason I bow my knees before the Father, from whom every family in heaven and on earth is named, that according to the riches of his glory he may grant you to be strengthened with power through his Spirit in your inner being, so that Christ may dwell in your hearts through faith--that you, being rooted and grounded in love, may have strength to comprehend with all the saints what is the breadth and length and height and depth, and to know the love of Christ that surpasses knowledge, that you may be filled with all the fullness of God.
-> 
+> For this reason I bow my knees before the Father, from whom every family in heaven and on earth is named, that according to the riches of his glory he may grant you to be strengthened with power through his Spirit in your inner being, so that Christ may dwell in your hearts through faith--that you, being rooted and grounded in love, may have strength to comprehend with all the saints what is the breadth and length and height and depth, and to know the love of Christ that surpasses knowledge, that you may be filled with all the fullness of God.  
+> <br/>
 > Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us, to him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.
 
 Tony Evans laid it out this way: Paul is praying for us to have more intimacy with Christ. Intimacy provides capacity, and the capacity provides power - God's power. In other words, if we are lacking intimacy with Christ, our capacity for God to work in our lives is diminished. On the other hand, if we pursue intimacy with Christ, our capacity for God to work in our lives is increased, "more abundantly than all we ask or think".

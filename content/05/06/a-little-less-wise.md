@@ -1,8 +1,7 @@
 ---
-title: "A little less wise"
-date: "2005-06-25T16:03:11.000"
-categories: 
-  - "random"
+title: 'A little less wise'
+date: 2005-06-25T16:03:11.000
+tags: ['personal']
 ---
 
 Thursday morning I had the delightful experience of having 4 wisdom teeth removed. It's the first real dental work I've ever had to have done, so I wasn't really looking forward to it. But they needed to be removed, so I dutifully reported to the oral surgeon's office at 8 AM, prepared for a weekend of pain and pills.

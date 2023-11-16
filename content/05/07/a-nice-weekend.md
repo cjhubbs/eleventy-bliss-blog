@@ -1,8 +1,7 @@
 ---
-title: "A nice weekend"
-date: "2005-07-05T13:53:03.000"
-categories: 
-  - "personal"
+title: 'A nice weekend'
+date: 2005-07-05T13:53:03.000
+tags: ['personal', 'family']
 ---
 
 Normally I don't do a lot of "here's what I did with my weekend"-type posts, but it was a nice weekend, so since I need to update the blog I figured I'd just have to. Oh, first things first: [my brother Ryan](http://www.xanga.com/StAndrean) has decided to start a blog. Don't know how much he'll maintain it, but I've added it to the list of links on the right.

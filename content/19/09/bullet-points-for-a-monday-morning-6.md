@@ -1,5 +1,5 @@
 ---
-title: "Bullet Points for a Monday Morning"
+title: 'Bullet Points for a Monday Morning #6'
 date: 2019-09-09T13:57:43.000
 tags: ['bullet-points', 'books']
 ---

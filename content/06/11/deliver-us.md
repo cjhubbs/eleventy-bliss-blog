@@ -1,10 +1,10 @@
 ---
-title: "Deliver Us"
-date: "2006-11-20T15:13:00.000"
-categories: 
-  - "random"
-tags: 
-  - "music"
+title: 'Song: Deliver Us'
+date: '2006-11-20T15:13:00.000'
+categories:
+  - 'random'
+tags:
+  - 'music'
 ---
 
 Our enemy, our captor is no Pharoah on the Nile Our toil is neither mud, nor brick, nor sand. Our ankles bear no callouses from chains, yet, Lord, we're bound Imprisoned here we dwell in our own land

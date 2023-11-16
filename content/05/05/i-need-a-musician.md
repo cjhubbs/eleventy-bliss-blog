@@ -1,8 +1,7 @@
 ---
-title: "I need a musician..."
-date: "2005-05-10T15:08:39.000"
-categories: 
-  - "music"
+title: 'I need a musician...'
+date: 2005-05-10T15:08:39.000
+tags: ['music', 'worship', 'church']
 ---
 
 ...any musician. One of the downsides of being the music leader at a small church is that it's hard to find a replacement when you're going to be gone. I have a couple people who are on the usual list to back me up... one guitarist and one pianist. Usually at least one of them will be available. Well, I'm out of town this weekend for my sister's graduation. The guitarist is also out of town this weekend. The pianist is watching 4 of her grandkids all weekend and doesn't have the time she needs to practice. Our bass player who might be able to fill in on guitar in a pinch is also out of town. I'm not quite sure what I'm going to do... they may be singing _a capella_ on Sunday.

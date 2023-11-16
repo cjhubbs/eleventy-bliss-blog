@@ -1,9 +1,7 @@
 ---
-title: "slowly getting more out of touch..."
-date: "2005-04-25T15:38:13.000"
-categories: 
-  - "personal"
-  - "random"
+title: 'slowly getting more out of touch...'
+date: 2005-04-25T15:38:13.000
+tags: ['personal', 'movies']
 ---
 
 I have this "movies I've watched recently" link section on the side of the blog. I intended to list movies that I saw in the theater or on DVD. If you're a regular reader, you will have noted that it hasn't changed in quite some time.

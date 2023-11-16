@@ -1,8 +1,7 @@
 ---
 title: "Ender's Game"
-date: "2005-11-11T14:55:47.000"
-categories: 
-  - "reviews"
+date: 2005-11-11T14:55:47.000
+tags: ['books', 'reading']
 ---
 
 I am a voracious reader of fiction. I read a good bit of non-fiction, too, but fictional thrillers and sci-fi are my chance to escape for a while, so on any of my regular trips to the library you will find my stack of books weighted towards those genres. I was really in the mood for some sci-fi on this last trip, and while browsing the sci-fi shelves at the local library, I remembered [a mention that Andy Osenga had made](http://www.andrewosenga.com/blog/2005/10/18/walking-in-salem/) a while back about Orson Scott Card's _Ender's Game_. I figured it was worth a try, and so I picked up the (paperback!) book and added it to my stack. When I got home, I didn't start it first; I had one book that was a 10-day reserve that I wanted to get out of the way. (Thomas Friedman's _The World is Flat_, if you really care.) But before long it was getting dry and so I turned to Card.

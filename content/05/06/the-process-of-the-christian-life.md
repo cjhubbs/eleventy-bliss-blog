@@ -1,9 +1,7 @@
 ---
-title: "The process of the Christian life..."
-date: "2005-06-09T18:48:02.000"
-categories: 
-  - "personal"
-  - "spiritualtheological"
+title: 'The process of the Christian life...'
+date: 2005-06-09T18:48:02.000
+tags: ['theology']
 ---
 
 Was reading today and found this wonderful quote from Martin Luther describing the process of the Christian life. It challenges and encourages me...

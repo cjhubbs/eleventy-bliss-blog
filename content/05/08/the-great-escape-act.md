@@ -1,9 +1,7 @@
 ---
-title: "the great escape act"
-date: "2005-08-07T00:43:48.000"
-categories: 
-  - "personal"
-  - "random"
+title: 'the great escape act'
+date: 2005-08-07T00:43:48.000
+tags: ['personal']
 ---
 
 I haven't written many (any?) posts on my first year's worth of experience as a parent... not sure why. But there was one little episode tonight that was too funny.

@@ -1,8 +1,7 @@
 ---
-title: "Randall Goodgame, where have you been all my life?"
-date: "2005-07-21T15:24:49.000"
-categories: 
-  - "music"
+title: 'Randall Goodgame, where have you been all my life?'
+date: 2005-07-21T15:24:49.000
+tags: ['music']
 ---
 
 Tuesday I found a bootleg concert recording of [Randall Goodgame](http://www.randallgoodgame.com) opening for [Caedmon's Call](http://www.caedmonscall.com) in Minot, ND. I'd never heard his music before; I knew that he's written some good stuff for Caedmon's, and that [Andy Osenga](http://www.caedmonscall.net/osenga/) speaks highly of him, but that was about it. So, I downloaded the songs and decided to give him a listen. Wow, what I have been missing!

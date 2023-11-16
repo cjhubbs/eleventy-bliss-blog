@@ -1,9 +1,7 @@
 ---
 title: "here goes nothin'"
-date: "2005-05-18T17:21:05.000"
-categories: 
-  - "nerdy"
-  - "personal"
+date: 2005-05-18T17:21:05.000
+tags: ['work', 'personal']
 ---
 
 Yesterday afternoon my manager walked in and asked me if I'd like to become a software lead for an upcoming project. It's a move up, of sorts, though probably without a pay increase.

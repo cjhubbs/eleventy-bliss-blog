@@ -1,8 +1,7 @@
 ---
-title: "Christmas time is here..."
-date: "2005-12-27T15:38:42.000"
-categories: 
-  - "random"
+title: 'Christmas time is here...'
+date: 2005-12-27T15:38:42.000
+tags: ['personal']
 ---
 
 OK, so Christmas was actually two days ago. Now the family has all left for their respective homes and our house is quiet. It was a very nice Christmas. Laura is old enough this year to understand about opening presents and to really enjoy the toys she got. She could've just stopped with the first one... after 7 or 8 she was overwhelmed. We ended up leaving the last few of hers for her to open later.

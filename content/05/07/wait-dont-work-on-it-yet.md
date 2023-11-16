@@ -1,9 +1,7 @@
 ---
 title: "wait, don't work on it yet..."
-date: "2005-07-21T15:44:10.000"
-categories: 
-  - "business"
-  - "random"
+date: 2005-07-21T15:44:10.000
+tags: ['work']
 ---
 
 It never fails. I start working on a not-approved-yet-but-probably-OK change request today, and after about an hour of code modification the requirements guy sticks his head into my cubicle.

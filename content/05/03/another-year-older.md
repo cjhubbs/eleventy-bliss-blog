@@ -1,8 +1,7 @@
 ---
-title: "another year older..."
-date: "2005-03-15T14:25:29.000"
-categories: 
-  - "personal"
+title: 'another year older...'
+date: 2005-03-15T14:25:29.000
+tags: ['personal']
 ---
 
 Has it really been 3 weeks since I've posted? Good grief! No wonder nobody reads my blog...

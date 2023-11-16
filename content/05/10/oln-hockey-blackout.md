@@ -1,8 +1,7 @@
 ---
-title: "OLN Hockey Blackout"
-date: "2005-10-12T15:46:28.000"
-categories: 
-  - "random"
+title: 'OLN Hockey Blackout'
+date: 2005-10-12T15:46:28.000
+tags: ['tv', 'sports', 'rants']
 ---
 
 Yesterday night I sat down in front of the TV, looking forward to watching a hockey game. The Dallas Stars were playing the Phoenix Coyotes, and according to the TV schedule, it was slated to be broadcast on [OLN](http://www.olntv.com) (cable channel 69 in our area) at 7:30 PM central time. I was bewildered to find that rather than the NHL, OLN was showing some cheesy show about the "25 scariest animals" or the "10 worst jobs" or something like that. Where was my hockey?

@@ -1,9 +1,7 @@
 ---
 title: "not all that amusing: a review of Chris Rice's new CD"
-date: "2005-08-22T19:29:07.000"
-categories: 
-  - "music"
-  - "reviews"
+date: 2005-08-22T19:29:07.000
+tags: ['music', 'reviews']
 ---
 
 I pre-ordered Chris Rice's new album, _amusing_, back a couple of months ago when it was advertised by [eb+flo](http://www.ebflo.com). This is Chris's first album with his new record label, [INO](http://www.inorecords.com/home/main.html), so I was looking forward to hearing what the effort would sound like. The album doesn't hit the stores until tomorrow (Tuesday August 23rd), but I received my copy in the mail last Friday. Having now had the chance to listen to it a couple times, I'll hazard an opinion or two.

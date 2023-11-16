@@ -1,8 +1,7 @@
 ---
-title: "Upgrading the Tivo Hard Drive"
-date: "2005-12-29T03:28:06.000"
-categories: 
-  - "nerdy"
+title: 'Upgrading the Tivo Hard Drive'
+date: 2005-12-29T03:28:06.000
+tags: ['tech']
 ---
 
 OK, so when we bought our 40-hour Tivo, it was small-ish for storage space, but it worked. Now that we've got subscriptions going for kids programming like Sesame Street and Zooboomafoo, I've been wishing for some more storage space. Having been assured by [Mark](http://www.virtualsmiley.net) that the upgrade was fairly easy, I decided to take it on myself.

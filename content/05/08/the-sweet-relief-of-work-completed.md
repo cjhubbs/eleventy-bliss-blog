@@ -1,11 +1,10 @@
 ---
-title: "the sweet relief of work completed"
-date: "2005-08-15T15:33:01.000"
-categories: 
-  - "random"
+title: 'the sweet relief of work completed'
+date: 2005-08-15T15:33:01.000
+tags: ['personal']
 ---
 
-Last week was killer. I had soooo much to do. [I've talked about this already](http://rmfo-blogs.com/cakeboy/2005/08/12/a-busy-weekend/) so I won't go on and on again.
+Last week was killer. I had soooo much to do. [I've talked about this already](/05/08/a-busy-weekend/) so I won't go on and on again.
 
 It all went really well. The wedding was beautiful. The music worked out just fine, and the song that I was singing (and had never sung before) was right in my comfortable singing range. All good.
 

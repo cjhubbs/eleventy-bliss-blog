@@ -1,8 +1,7 @@
 ---
-title: "a busy month..."
-date: "2005-05-09T19:42:37.000"
-categories: 
-  - "normal-life-stuff"
+title: 'a busy month...'
+date: 2005-05-09T19:42:37.000
+tags: ['personal']
 ---
 
 Well that personality thing was kinda boring, wasn't it? You, reader, deserve a real, human-written post, and I am now here to give it to you.

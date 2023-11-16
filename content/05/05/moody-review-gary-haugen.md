@@ -1,8 +1,7 @@
 ---
-title: "Moody Review: Gary Haugen"
-date: "2005-05-31T17:31:34.000"
-categories: 
-  - "moody-pastors-conference"
+title: 'Moody Review: Gary Haugen'
+date: 2005-05-31T17:31:34.000
+tags: ['personal']
 ---
 
 Gary Haugen spoke to us last Tuesday afternoon at the pastor's conference at Moody. Gary is the president of the [International Justice Mission](http://www.ijm.org), a Christian organization dedicated to providing "investigation strategies, legal expertise, and cutting-edge technology to rescue individual victims of injustice and abuse around the world." His topic: God's priority for justice, and how his organization is working in that area.

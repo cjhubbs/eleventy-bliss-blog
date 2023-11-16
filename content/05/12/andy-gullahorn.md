@@ -1,8 +1,7 @@
 ---
-title: "Andy Gullahorn"
-date: "2005-12-07T21:20:16.000"
-categories: 
-  - "music"
+title: 'Andy Gullahorn'
+date: 2005-12-07T21:20:16.000
+tags: ['music', 'concerts']
 ---
 
 [Geof Morris](http://www.gfmorris.net) once referred to him as "Andy 'It's really sad that the only thing that the only song of mine that the .net knows is that silly _Roast Beef_ song I did' Gullahorn". And up until Saturday, that was pretty much all I knew of him.

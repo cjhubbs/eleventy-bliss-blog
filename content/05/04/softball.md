@@ -1,8 +1,7 @@
 ---
-title: "softball..."
-date: "2005-04-13T19:55:14.000"
-categories: 
-  - "personal"
+title: 'softball...'
+date: 2005-04-13T19:55:14.000
+tags: ['personal']
 ---
 
 I starting reading some of the other [rmfo blogs](http://rmfo-blogs.com/about) and found [David's post](http://rmfo-blogs.com/david/archives/2005/04/13/this-week-in-softball/) on softball. I'm quite jealous that his season has already started; mine doesn't start for a couple weeks yet. I'm looking forward to it hugely. Actually, I should call it "our" season... Becky and I play on a co-ed church league team. She's the die-hard softball player (played in high school), I'm the recreational player.

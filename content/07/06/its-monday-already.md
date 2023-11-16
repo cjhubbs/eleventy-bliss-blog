@@ -1,10 +1,10 @@
 ---
-title: "It's Monday already?!?"
-date: "2007-06-18T12:45:49.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+title: "Sheesh, It's Monday already?!?"
+date: '2007-06-18T12:45:49.000'
+categories:
+  - 'random'
+tags:
+  - 'life'
 ---
 
 So for it being a weekend, it was a busy one. A synopsis:

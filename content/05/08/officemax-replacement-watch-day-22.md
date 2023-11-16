@@ -1,8 +1,7 @@
 ---
-title: "OfficeMax Replacement Watch, Day 22"
-date: "2005-08-29T14:09:08.000"
-categories: 
-  - "officemax"
+title: 'OfficeMax Replacement Watch, Day 22'
+date: 2005-08-29T14:09:08.000
+tags: ['rants']
 ---
 
 Date I started the process: August 6. Days since I called to start the process: 22. Days since I sent the dead PDA in: 11.

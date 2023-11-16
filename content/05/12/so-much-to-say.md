@@ -1,9 +1,7 @@
 ---
-title: "So much to say..."
-date: "2005-12-05T15:54:13.000"
-categories: 
-  - "music"
-  - "random"
+title: 'So much to say...'
+date: 2005-12-05T15:54:13.000
+tags: ['music', 'concerts']
 ---
 
 So Saturday night was the Behold the Lamb concert in Cedar Rapids. As you know if you read my previous post, I was the runner for the day. And what a day it was. There are so many aspects I want to write about that they'd make for one absurdly long and multi-faceted blog post. So, I'll try to split it up a bit.

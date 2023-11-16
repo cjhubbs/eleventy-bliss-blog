@@ -1,13 +1,12 @@
 ---
-title: "Mr. Murphy works on Sundays"
-date: "2005-06-06T13:20:13.000"
-categories: 
-  - "random"
+title: 'Mr. Murphy works on Sundays'
+date: 2005-06-06T13:20:13.000
+tags: ['tech', 'church']
 ---
 
 Mr. Murphy and his dang-blasted [law](http://en.wikipedia.org/wiki/Murphy%27s_law) were working busily yesterday. It was certainly one of those mornings.
 
-It started off innocently enough, just another Sunday morning, with its usual hassles. It didn't really start to go downhill until about 10:15, when I was trying to fit the pastor with the new [earpiece microphone](http://www.countryman.com/html_data_sheets/e6data.html). It's supposed to bend to fit to your ear. It bent just a little, and then... \*snap\*. It just broke in two. We're talking a $400 microphone here. It's still under warranty, so I'm hopefuly they'll replace it. It shouldn't just snap like that. We switched the pastor to the regular lapel mic and that went OK.
+It started off innocently enough, just another Sunday morning, with its usual hassles. It didn't really start to go downhill until about 10:15, when I was trying to fit the pastor with the new [earpiece microphone](http://www.countryman.com/html_data_sheets/e6data.html). It's supposed to bend to fit to your ear. It bent just a little, and then... \*snap\*. It just broke in two. We're talking a $400 microphone here. It's still under warranty, so I'm hopefully they'll replace it. It shouldn't just snap like that. We switched the pastor to the regular lapel mic and that went OK.
 
 So then I ran back into the sanctuary to hook up the laptop to the new projector (which we used for the first time last week) to show some announcements before the service started and then to run the slides for our song lyrics. First, I couldn't turn on the projector until Sunday School (which meets in the sanctuary during the summer) was over... and it ran late, didn't end until 10:28 for a 10:30 service. So finally I turn it on, only to read with with horrified eyes, "NO VIDEO SIGNAL DETECTED". Arrrgh. No time to debug, gotta switch to plan B. Fortunately the old overhead projector was still sitting in the back of the room, under the coat rack.
 

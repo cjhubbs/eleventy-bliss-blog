@@ -1,9 +1,7 @@
 ---
-title: "and he lifts up his arms in a blessing for being born again..."
-date: "2005-10-24T18:10:18.000"
-categories: 
-  - "personal"
-  - "random"
+title: 'and he lifts up his arms in a blessing for being born again...'
+date: 2005-10-24T18:10:18.000
+tags: ['personal', 'travel']
 ---
 
 Last week Becky and I were able to leave Laura with my folks and take a couple days of vacation up to Door County, Wisconsin. We'd never been there before, but had heard that the scenery was terrific. We weren't disappointed. We knew it was going to be dicey as to whether the leaves would still be on the trees at that date, (hey, we're cheap, we didn't want to pay peak-season rates for the hotel) but we figured it was worth a try.

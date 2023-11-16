@@ -1,11 +1,11 @@
 ---
-title: "Carols for Christmas"
-date: "2013-12-07T01:17:53.000"
+title: 'Carols for Christmas (reprise)'
+date: '2013-12-07T01:17:53.000'
 ---
 
 Last year I recorded some piano arrangements of familiar Christmas songs. I called it, originally enough, [_Carols for Christmas_](https://www.dropbox.com/sh/udiadekdc99akc6/AADzppw1KdFczRFiZaEZoU5Ea?dl=0).
 
-\[caption id="attachment\_11477" align="aligncenter" width="571"\][![Carols for Christmas - photo credit to bterryhampton on Flickr.](http://chrishubbs.com/wordpress/wp-content/uploads/2012/12/Cover.jpg)](https://www.dropbox.com/sh/udiadekdc99akc6/AADzppw1KdFczRFiZaEZoU5Ea?dl=0) Carols for Christmas - photo credit to bterryhampton on Flickr.\[/caption\]
+\[caption id="attachment_11477" align="aligncenter" width="571"\][![Carols for Christmas - photo credit to bterryhampton on Flickr.](http://chrishubbs.com/wordpress/wp-content/uploads/2012/12/Cover.jpg)](https://www.dropbox.com/sh/udiadekdc99akc6/AADzppw1KdFczRFiZaEZoU5Ea?dl=0) Carols for Christmas - photo credit to bterryhampton on Flickr.\[/caption\]
 
 As I explained it last year:
 

@@ -1,9 +1,7 @@
 ---
-title: "Moody Observations, Day 2"
-date: "2005-05-24T19:17:17.000"
-categories: 
-  - "moody-pastors-conference"
-  - "personal"
+title: 'Moody Observations, Day 2'
+date: 2005-05-24T19:17:17.000
+tags: ['personal']
 ---
 
 _[Amber](http://www.xanga.com/home.aspx?user=amburgler7) liked my attempt at a descriptive writing post yesterday so I thought I'd give it another go. Just more observations from the Moody conference._

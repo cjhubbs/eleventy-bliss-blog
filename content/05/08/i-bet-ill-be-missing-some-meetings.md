@@ -1,10 +1,7 @@
 ---
 title: "I bet I'll be missing some meetings..."
-date: "2005-08-07T01:01:48.000"
-categories: 
-  - "nerdy"
-  - "officemax"
-  - "personal"
+date: 2005-08-07T01:01:48.000
+tags: ['tech']
 ---
 
 My Palm Pilot died yesterday. OK, so they don't call it a Palm Pilot anymore; mine is actually the Palm Tungsten E. It has served me faithfully for the last 18 months, keeping me apprised of impending meetings at work, storing the orders of worship from 2 years' worth of church services, keeping a running list of books that I want to read, and giving me hours of diversion with games when I'm bored.

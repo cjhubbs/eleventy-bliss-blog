@@ -1,6 +1,7 @@
 ---
 title: "What I wrote to 16,000 people"
-date: "2012-05-09T02:16:34.000"
+date: 2012-05-09T02:16:34.000
+tags: ['personal']
 ---
 
 _This email went out on The Listserve this afternoon._

@@ -1,27 +1,14 @@
 ---
 title: "Why I'm ditching my Android and getting an iPhone"
-date: "2012-07-27T17:29:13.000"
-tags: 
-  - "android"
-  - "iphone"
-  - "rants"
+date: 2012-07-27T17:29:13.000
+tags: ['tech','rants']
 ---
 
 19 months ago I purchased my first smartphone - well, two of them, one for me and one for my wife. At the time, I already owned two iPod Touches and liked them a lot. However, the service package cost on a carrier that had an iPhone (Verizon or AT&T at the time) was significantly higher than what I could get on US Cellular. So, with boundless optimism in my heart, I marched into the US Cellular store and bought a Samsung Mesmerize (aka Samsung Galaxy S). I paid $199 for each phone, along with a 2-year contract.
 
-\[caption id="attachment\_2603" align="aligncenter" width="300"\]![](http://chrishubbs.com/wordpress/wp-content/uploads/2012/07/Samsung-Mesmerize-SHowcase-Android-4-0-4-ICS-AOKP-ROM-300x258.jpg "Samsung-Mesmerize") The Samsung Mesmerize\[/caption\]
+![Samsung Mesmerize](/images/2012/samsung-mezmerize.jpeg)
 
-19 months later I am counting down the days until my contract is up and I can switch to an iPhone. I was amused the other day when US Cellular's twitter folks pinged me on the topic. I can't find my original post, but here was my first reply:
-
-https://twitter.com/cjhubbs/status/225319333918806017
-
-https://twitter.com/USCellularCares/status/225614801907351552
-
-https://twitter.com/cjhubbs/status/225615025543450624
-
-https://twitter.com/USCellularCares/status/225704424448880640
-
-So it's clear at least that the US Cellular party line is "the new Android phones are awesome, forget about that iPhone thing". And gotta love their optimism: "don't let your experience with the Mesmerize scare you off". Really? Why not? I spent a bunch of money 19 months ago to buy your top-of-the-line phone, and it's turned out to be craptastic at best. Why should I **not** be scared off?
+19 months later I am counting down the days until my contract is up and I can switch to an iPhone. I was amused the other day when US Cellular's twitter folks pinged me on the topic. It's clear at least that the US Cellular party line is "the new Android phones are awesome, forget about that iPhone thing". And gotta love their optimism: "don't let your experience with the Mesmerize scare you off". Really? Why not? I spent a bunch of money 19 months ago to buy your top-of-the-line phone, and it's turned out to be craptastic at best. Why should I **not** be scared off?
 
 So, in the spirit of a Shawn Blanc or John Siracusa review, here are the reasons I'm dropping my Android phone like a hot potato and moving to the iPhone.
 
@@ -39,8 +26,6 @@ When I bought the phone in December 2010 it was running Android OS 2.2 (aka Froy
 
 ([Android's full version history on Wikipedia](http://en.wikipedia.org/wiki/Android_version_history).)
 
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2012/07/android-2-3-gingerbread-logo.jpg "android-2-3-gingerbread-logo")
-
 By comparison, if I'd bought the current iPhone at the time (the iPhone 4, or, heck, even the lower-tier iPhone 3GS), I would've had immediate download/upgrade of each new iOS release when it happened, including the [upcoming iOS 6](http://www.apple.com/ios/ios6/). Given that the big stability and feature advances come in the operating systems, always being behind is just unacceptable.
 
 Now yeah, there are custom ROMs. I tried a bunch of them. Their stability was always tenuous at best, and complete crap at worst. In the end, I went back to using the stock US Cellular-provided ROM, though I did then root it. More about that later.
@@ -55,13 +40,13 @@ And don't even get me started about **backups**. The only way to fully backup th
 
 US Cellular actually realized how much of a nightmare this situation is, or at least would be for them if angry customers suddenly realized their phones had crashed and they'd lost all of their contacts. So, they wrote some craptastic software "My Contacts Backup" that gets bundled with your phone and will backup your contacts to some unknown server somewhere. If you run it. Manually.
 
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2012/07/9dec596451d4fd8e2f23693798dc5681-200x300.jpg "My Contacts Backup!")
+![](/images/2012/contacts-backup.jpeg)
 
 **Applications**
 
 Application support for the Android has actually improved as time has gone on - more and more of the apps I liked on the iPhone have migrated over to Android, albeit in editions that were typically uglier, missing features, and running more unreliably than their iOS counterparts. I'm getting to the point now, though, where new apps that come out won't run on the phone because I need a newer version of the OS. After only 19 months, my device is going obsolete. Grrrr.
 
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2012/07/Screenshot-2012-07-27_12.24.46-300x289.png "Device is incompatible")
+![](/images/2012/app-incompatible.png)
 
 **System Stability**
 

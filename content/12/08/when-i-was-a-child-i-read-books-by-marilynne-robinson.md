@@ -1,13 +1,12 @@
 ---
 title: "\"When I Was A Child I Read Books\" by Marilynne Robinson"
-date: "2012-08-15T16:39:14.000"
+date: 2012-08-15T16:39:14.000
+tags: ['books','marilynne-robinson']
 ---
 
 I've gotten to the point where, unless I'm looking for a specific book, I don't even visit the main stacks of the library any more. Instead, I head right for the "new books" section, and pick up a recent novel or biography.
 
 While perusing the new book shelf during my last visit, I picked up Marilynne Robinson's book of essays on a whim. It's not the type of book I usually pick up, but it looked interesting enough, and short enough that I had a chance to get through it without getting majorly bogged down.
-
-[![](http://chrishubbs.com/wordpress/wp-content/uploads/2012/08/628x471.jpg "628x471")](http://www.amazon.com/gp/product/0374298785/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=0374298785&linkCode=as2&tag=chrishubbs-20)
 
 Marilynne Robinson teaches at the Iowa Writers' Workshop at the U of I. She's probably best known for her novel _Gilead_, which won the Pulitzer Prize for Literature in 2005. It ends up, though, that she's published more essays than she has novels, and, if her latest volume is any indication, her essays are really good.
 

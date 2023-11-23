@@ -1,6 +1,7 @@
 ---
 title: "Church and Community"
-date: "2012-08-21T17:51:18.000"
+date: 2012-08-21T17:51:18.000
+tags: ['church']
 ---
 
 Yesterday on Twitter I had a bit of a conversation with some friends about the relationship of our churches and the related need for community. ([Randy](https://twitter.com/rmcrob) [archived the conversation on Storify](http://storify.com/rmcrob/launching-a-church) if you're interested.) In the midst of a discussion about a church "launching", this exchange occurred:

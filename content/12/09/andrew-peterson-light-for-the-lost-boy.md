@@ -1,11 +1,10 @@
 ---
 title: "Andrew Peterson - Light for the Lost Boy"
-date: "2012-09-04T00:58:18.000"
+date: 2012-09-04T00:58:18.000
+tags: ['music','andrew-peterson']
 ---
 
 [Andrew Peterson](http://www.andrew-peterson.com)'s new record, _Light for the Lost Boy_, came out last week, but a business trip and a busy weekend conspired against me. So, my first listen to the record didn't come until this morning. There is so much I could say about this record that I don't even really know where to begin.
-
-![Light for the Lost Boy](http://chrishubbs.com/wordpress/wp-content/uploads/2012/09/3154-andrew-peterson.jpg "3154-andrew-peterson")
 
 Great records seem to come out of pain. Much as I love Peterson's earlier records, they've succeeded due to their beautiful melodies and tightly-crafted lyrics. The truth is present in his word-art, but it hasn't as often fully resonated with the deep soul ache of a man wrestling with the fallenness of the world and the goodness of God.
 

@@ -1,6 +1,7 @@
 ---
 title: "Some Android / iPhone follow-up"
-date: "2012-08-09T15:28:24.000"
+date: 2012-08-09T15:28:24.000
+tags: ['tech']
 ---
 
 So the same day I published my previous post on ditching my Android, a customer service guy from US Cellular named Tom pinged me on Twitter and asked for my email address so he could respond. I sent it to him, and he responded with a 1000-word treatise trying to address some of my points.
@@ -11,8 +12,8 @@ Highlights from his side of the story:
 
 OK, so it's not US Cellular's fault, or Google's fault - it's Samsung's fault. Still, his comparison to Apple/iPhone is misguided. As I pointed out in my original post, if I'd bought even the older iPhone (3GS) available back in December 2010, it would still be able to pick up the IOS 6 upgrade later this year. Advantage: iPhone.
 
-> **Backup**
-> 
+> **Backup**  
+> <br/>
 > Backing up an Android device is a different story. If you are looking for ways to back up specific application data, then there isn't much I have found out there to do this...
 
 To be fair, he notes that you can use Google to keep your calendar, contacts, and mail in sync w/ your Google account. But still, otherwise, he concedes the point. Android's backup solutions all suck, and to do a full apps/settings backup requires you to root your phone and void the warranty.
@@ -33,8 +34,8 @@ I emailed him back with a short rebuttal, thanking him for his time. Yeah, US Ce
 
 I sent one last email to Tom at the end of last week, with my final summary, and an offer:
 
-> I appreciate your desire to keep me as a customer, but at this point I don't have the time/inclination to continue a debate on the merits of Android/iPhone. I'm sure that Samsung has improved things significantly now with the Galaxy S3; however, I'm not willing right now to spend $300, mess around with a rebate, and commit to another 2 years of service to take a chance on the new Android after my previous experience, especially when I know my alternative (once my contract runs out in December) is to purchase a phone that has uniformly brilliant reviews from friends and family members.
-> 
+> I appreciate your desire to keep me as a customer, but at this point I don't have the time/inclination to continue a debate on the merits of Android/iPhone. I'm sure that Samsung has improved things significantly now with the Galaxy S3; however, I'm not willing right now to spend $300, mess around with a rebate, and commit to another 2 years of service to take a chance on the new Android after my previous experience, especially when I know my alternative (once my contract runs out in December) is to purchase a phone that has uniformly brilliant reviews from friends and family members.  
+> <br/>
 > If US Cellular wanted to provide me with an S3 at a much-reduced price, and without requiring me to re-up my contract, I'd be happy to give it a fair evaluation, a review on my blog, and return it if I still decide that I want an iPhone. (I'm not expecting that from USCC, but that's about what it'd take at this point to get me to consider the S3.)
 
 To this point, I haven't heard back from Tom. I don't really expect them to take me up on my offer.

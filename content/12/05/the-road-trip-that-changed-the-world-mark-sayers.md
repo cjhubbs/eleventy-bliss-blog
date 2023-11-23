@@ -1,11 +1,10 @@
 ---
 title: "The Road Trip that Changed the World - Mark Sayers"
-date: "2012-05-25T16:23:24.000"
+date: 2012-05-25T16:23:24.000
+tags: ['books','reviews']
 ---
 
 Australian pastor and author Mark Sayers put out a request for reviews of his new book, _The Road Trip that Changed the World_ a few weeks ago, and I'm happy today to take him up on it. I had previously read his book _Vertical Self_ and enjoyed it quite a bit, so I was looking forward to his newest offering.
-
-[![](http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL160_&ASIN=0802409318&MarketPlace=US&ID=AsinImage&WS=1&tag=chrishubbs-20&ServiceVersion=20070822)](http://www.amazon.com/gp/product/0802409318/ref=as_li_ss_il?ie=UTF8&tag=chrishubbs-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0802409318)
 
 _[The Road Trip that Changed the World](http://www.amazon.com/gp/product/0802409318/ref=as_li_ss_il?ie=UTF8&tag=chrishubbs-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0802409318)_ draws its title and chief topic from the classic American novel _On The Road_ by Jack Kerouac. Sayers examines how Kerouac's novel incited a generation to leave the ideals of home, family, and place and instead to chase the dream of the road, the hope of whatever lays just beyond the horizon.
 

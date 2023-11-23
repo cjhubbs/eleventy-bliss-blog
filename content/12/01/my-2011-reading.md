@@ -1,6 +1,7 @@
 ---
 title: "My 2011 Reading"
-date: "2012-01-02T02:26:21.000"
+date: 2012-01-02T02:26:21.000
+tags: ['reading','books','year-in-review']
 ---
 
 The end of the year means it's time for a summary of my last year's reading. Thankfully Goodreads keeps it easy for me to track things; I don't have to remember to do much more than log my books when I'm done with them (on the handy Android app) and at the end of the year I have this nifty list.
@@ -24,10 +25,10 @@ There are two books that deserve mentions here.
 
 There was only one book that I gave just one star to this year, and I won't even give it the honor of linking to it on Amazon: _Abyss_ by Paul Hagberg. I can do no better than to quote my review from goodreads:
 
-> I should've known just from the cover and flyleaf that this particular bit if genre fiction was going to be a train wreck. And yet, like a train wreck, once I started I couldn't look away.
-> 
-> Ridiculous plot premise, unbelievable protagonist (former CIA director turned bodyguard?!?), uninspired prose and underdeveloped characters fill the 400+ pages of this tome. The author seems contractually obligated to describe each female character in terms of breast size, but mishandles the interpersonal scenes so badly that you wonder if he's actually ever had an interpersonal relationship.
-> 
+> I should've known just from the cover and flyleaf that this particular bit if genre fiction was going to be a train wreck. And yet, like a train wreck, once I started I couldn't look away.  
+> <br/>
+> Ridiculous plot premise, unbelievable protagonist (former CIA director turned bodyguard?!?), uninspired prose and underdeveloped characters fill the 400+ pages of this tome. The author seems contractually obligated to describe each female character in terms of breast size, but mishandles the interpersonal scenes so badly that you wonder if he's actually ever had an interpersonal relationship.  
+> <br/>
 > The cover of the book proclaims it to be "A Kirk McGarvey Novel", leading me to believe that there are more books out there starring this ridiculous character. My advice: avoid them. Avoid this one, too.
 
 So that's my 2011. Here's hoping that 2012 finds me reading the best of books new and old. (Leave any recommendations in the comments below!)

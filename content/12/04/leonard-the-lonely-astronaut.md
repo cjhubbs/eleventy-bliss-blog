@@ -1,6 +1,7 @@
 ---
 title: "Leonard the Lonely Astronaut"
-date: "2012-04-17T19:34:54.000"
+date: 2012-04-17T19:34:54.000
+tags: ['music','andrew-osenga']
 ---
 
 My friend Andy Osenga has a [new record available to purchase (download or physical CD) today over on the Rabbit Room store](https://store.rabbitroom.com/index.php?/product/leonard-the-lonely-astronaut).

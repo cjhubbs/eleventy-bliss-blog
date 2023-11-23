@@ -1,8 +1,7 @@
 ---
 title: "Three careers I could've pursued but didn't"
-date: "2012-08-30T01:49:42.000"
-tags: 
-  - "about-me"
+date: 2012-08-30T01:49:42.000
+tags: ['personal']
 ---
 
 I'm sitting in a hotel room in Florida tonight, bored and needing blogging inspiration. So I hit up twitter. Two minutes later my buddy Geof primes the pump: http://twitter.com/gfmorris/status/240979495488716801

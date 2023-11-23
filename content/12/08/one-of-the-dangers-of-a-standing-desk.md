@@ -1,8 +1,7 @@
 ---
 title: "One of the dangers of a standing desk..."
-date: "2012-08-17T13:42:35.000"
-tags: 
-  - "music"
+date: 2012-08-17T13:42:35.000
+tags: ['work','music']
 ---
 
 ...is that when I've got my headphones on and I'm grooving to some music, I'm not just in danger of air drumming, but now it's possible to be working on my white boy dance moves as well.

@@ -1,8 +1,7 @@
 ---
 title: "L'audace, or, he killed a lion in a pit on a snowy day"
-date: "2012-07-01T19:37:44.000"
-tags: 
-  - "courage"
+date: 2012-07-01T19:37:44.000
+tags: ["courage"]
 ---
 
 I don't often stop to read obituaries any more - lack of a newspaper subscription puts a crimp in that - but there was one this past week that caught my eye, and quickly my attention: the British newspaper [The Telegraph's obituary of Count Robert de La Rochefoucauld of France](http://www.telegraph.co.uk/news/obituaries/9365640/Count-Robert-de-La-Rochefoucauld.html). Here's the lede:

@@ -1,9 +1,7 @@
 ---
 title: "India Trip, days 5 and 6"
-date: "2012-09-27T16:18:31.000"
-tags: 
-  - "india"
-  - "travel"
+date: 2012-09-27T16:18:31.000
+tags: ['travel','india']
 ---
 
 I think it's a fair guess that I've never spent 4 days talking non-stop for 8 hours each day before. My throat is feeling the effects of it. Amazingly, I still have a voice.
@@ -16,4 +14,4 @@ Tonight I have the joy of packing my bags in preparation for heading home. Tomor
 
 Just for the record, here's me after completing my fourth day of teaching.
 
-\[caption id="attachment\_2683" align="aligncenter" width="225"\][![](http://chrishubbs.com/wordpress/wp-content/uploads/2012/09/CIMG1748-225x300.jpg "Tired Chris.")](http://chrishubbs.com/wordpress/wp-content/uploads/2012/09/CIMG1748.jpg) It ain't pretty. Hey, you were warned.\[/caption\]
+![Tired Chris](/images/2012/tired-chris.jpeg)

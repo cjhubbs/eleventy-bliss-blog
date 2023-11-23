@@ -1,9 +1,7 @@
 ---
 title: "Single Payer"
-date: "2012-08-31T01:35:39.000"
-tags: 
-  - "health-care"
-  - "politics"
+date: 2012-08-31T01:35:39.000
+tags: ['politics']
 ---
 
 I was stuck in a hotel last night watching Paul Ryan's speech, and after he ripped on Obamacare, I had to comment on twitter:

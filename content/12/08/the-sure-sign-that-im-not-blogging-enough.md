@@ -1,6 +1,7 @@
 ---
 title: "The sure sign that I'm not blogging enough..."
-date: "2012-08-15T15:59:22.000"
+date: 2012-08-15T15:59:22.000
+tags: ['self-reflection','blogging']
 ---
 
 ...is that I start blogging _about_ blogging, and I start thinking more about how I'm going to modify my blog layout/structure/etc than what I'm going to write about next.

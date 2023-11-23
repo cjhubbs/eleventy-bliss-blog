@@ -1,13 +1,12 @@
 ---
 title: "Standing Desk Update"
-date: "2012-09-17T17:52:33.000"
-tags: 
-  - "standing-desk"
+date: 2012-09-17T17:52:33.000
+tags: ['work']
 ---
 
-It's been a little over a month since [I began using a standing desk at work](http://chrishubbs.com/2012/08/16/standing-up-at-my-desk/).
+It's been a little over a month since [I began using a standing desk at work](/12/08/standing-up-at-my-desk/).
 
-[![](http://chrishubbs.com/wordpress/wp-content/uploads/2012/08/2012-08-16-08.19.42-225x300.jpg "Standing desk")](http://chrishubbs.com/wordpress/wp-content/uploads/2012/08/2012-08-16-08.19.42.jpg)
+![](/images/2012/standing-desk.jpg)
 
 So how's it going after a month? Pretty well, actually. Some observations:
 

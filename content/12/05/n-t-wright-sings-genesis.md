@@ -1,6 +1,7 @@
 ---
 title: "N. T. Wright sings \"Genesis\""
-date: "2012-05-09T17:43:04.000"
+date: 2012-05-09T17:43:04.000
+tags: ['music','n-t-wright']
 ---
 
 Monday night I had the privilege of meeting Bishop N. T. Wright and hearing him speak in Nashville, TN. I've written about it for 800 words over at the BHT, so I won't repeat that here.

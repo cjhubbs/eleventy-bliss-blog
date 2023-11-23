@@ -1,11 +1,12 @@
 ---
 title: "My trip to India, Day 1/2"
-date: "2012-09-23T12:39:14.000"
+date: 2012-09-23T12:39:14.000
+tags: ['travel']
 ---
 
 I'm in Hyderabad, India this week for work. (I'll be teaching a training class all week for the employees of our Indian office.) Rather than post this as a series of tweets that nobody is going to read because I'm 12 hours ahead of them, I'll scatter my thoughts on the blog.
 
-\[caption id="attachment\_2675" align="aligncenter" width="300"\][![](http://chrishubbs.com/wordpress/wp-content/uploads/2012/09/532101_10151164822002649_851824500_n-300x225.jpg "The View out my window")](http://chrishubbs.com/wordpress/wp-content/uploads/2012/09/532101_10151164822002649_851824500_n.jpg) The view out my hotel window.\[/caption\]
+![The view out my hot4l window](/images/2012/india-out-the-hotel-window.jpeg)
 
 I left Cedar Rapids at 1pm Iowa time on Friday afternoon. From there I went through Detroit and Amsterdam to get to Mumbai. Overnighted in Mumbai, then caught an early flight to Hyderabad. Got to the hotel about 10:00 AM India time on Sunday, which is about midnight Saturday night/Sunday morning back home. 36 hours of travel. Oof. Business class is great, but it doesn't make the flights any shorter.
 

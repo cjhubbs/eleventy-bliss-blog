@@ -1,15 +1,10 @@
 ---
 title: "William Stringfellow: \"An Ethic for Christians & Other Aliens In A Strange Land"
-date: "2012-01-04T13:57:12.000"
-tags: 
-  - "books"
-  - "theology"
-  - "william-stringfellow"
+date: 2012-01-04T13:57:12.000
+tags: ['theology','william-stringfellow','books']
 ---
 
 Among the many Christmas gifts I received this year, I was quite pleased to get a book which had been sitting on my Amazon wishlist for several months: William Stringfellow's _[An Ethic for Christians & Other Aliens in a Strange Land](http://www.amazon.com/gp/product/1592448747/ref=as_li_ss_tl?ie=UTF8&tag=chrishubbs-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1592448747)_. I will confess to having been completely ignorant of Stringfellow prior to someone online (I forget who) recommending this book, but he seems to have been a fascinating fellow; an Anglican layman who graduated Harvard Law only to move to Harlem and doing _pro bono_ legal work for racial minorities and sex offenders.
-
-[![](http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL160_&ASIN=1592448747&MarketPlace=US&ID=AsinImage&WS=1&tag=chrishubbs-20&ServiceVersion=20070822)](http://www.amazon.com/gp/product/1592448747/ref=as_li_ss_il?ie=UTF8&tag=chrishubbs-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1592448747)
 
 To quote [Ben Myers excellent summary](http://www.faith-theology.com/2009/03/william-stringfellow-special-offer.html) of Stringfellow's emphasis:
 

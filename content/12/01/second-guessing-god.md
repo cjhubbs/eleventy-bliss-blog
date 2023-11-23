@@ -1,10 +1,7 @@
 ---
 title: "Second-guessing God"
-date: "2012-01-09T21:20:01.000"
-tags: 
-  - "ethics"
-  - "quotes"
-  - "william-stringfellow"
+date: 2012-01-09T21:20:01.000
+tags: ['ethics','quotes','william-stringfellow','books']
 ---
 
 Stringfellow is just full of good stuff. Still in Chapter Two of _[An Ethic for Christians an Other Aliens in a Strange Land](http://www.amazon.com/gp/product/1592448747/ref=as_li_ss_tl?ie=UTF8&tag=chrishubbs-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1592448747)_, he says this about trying to understand God:

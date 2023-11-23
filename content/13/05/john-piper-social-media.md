@@ -1,6 +1,7 @@
 ---
 title: "A plea to John Piper on the use of social media"
-date: "2013-05-23T01:05:18.000"
+date: 2013-05-23T01:05:18.000
+tags: ['evangelicalism','social-media']
 ---
 
 There's been [a lot of blogospheric noise](http://rachelheldevans.com/blog/abusive-theology-piper-mahaney) today around a tweet that Pastor John Piper made yesterday in the aftermath of the Oklahoma tornado. Piper quoted two verses from Job. After a lot of furor around those tweets, Piper first deleted those tweets, then tweeted something more clearly comforting. Finally, this afternoon the Desiring God website posted [a clarification article](http://www.desiringgod.org/blog/posts/those-deleted-tweets), explaining that Pastor John's motivation for his original tweet and his following actions.

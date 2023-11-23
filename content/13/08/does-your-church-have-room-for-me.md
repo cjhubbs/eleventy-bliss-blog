@@ -1,6 +1,7 @@
 ---
 title: "Does your church have room for me?"
 date: "2013-08-20T01:33:10.000"
+tags: ['church','theology','personal']
 ---
 
 What if I don't have 100% agreement with your doctrinal statement, but still want to be a part of your church?
@@ -11,7 +12,7 @@ What if I'm perfectly willing to accept that you're not going to change your chu
 
 _Does your church have room for me?_
 
-![divider_maincontent](http://chrishubbs.com/wordpress/wp-content/uploads/2013/08/divider_maincontent-300x31.png)
+---
 
 What if I don't know that I want to be at your church for the rest of my life, but that it's just the right place for right now?
 
@@ -25,7 +26,7 @@ What if I think disagreement doesn't automatically mean disunity?
 
 _Does your church have room for me?_
 
-![divider_maincontent](http://chrishubbs.com/wordpress/wp-content/uploads/2013/08/divider_maincontent-300x31.png)
+---
 
 What if I'd like to publicly acknowledge that I don't always (or even usually) vote Republican?
 
@@ -47,7 +48,7 @@ What if I believe that there is real faith to be found in churches that are very
 
 _Does your church have room for me?_
 
-![divider_maincontent](http://chrishubbs.com/wordpress/wp-content/uploads/2013/08/divider_maincontent-300x31.png)
+---
 
 What if, after all this, I'd like to use my leadership gifts? What if I'm willing to not push for my own position in the 5% where I disagree, but not willing to deny the disagreement?
 

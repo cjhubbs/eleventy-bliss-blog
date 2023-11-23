@@ -1,6 +1,7 @@
 ---
 title: "Tonight's chain of musical thoughts"
-date: "2013-06-01T01:34:24.000"
+date: 2013-06-01T01:34:24.000
+tags: ['music','youtube']
 ---
 
 Playing this in the van while headed home:

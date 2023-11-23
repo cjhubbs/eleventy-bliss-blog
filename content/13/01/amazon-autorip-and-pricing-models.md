@@ -1,8 +1,7 @@
 ---
 title: "Amazon AutoRip and Pricing Models"
-date: "2013-01-14T18:54:06.000"
-tags: 
-  - "amazon"
+date: 2013-01-14T18:54:06.000
+tags: ['amazon','music']
 ---
 
 Last week Amazon introduced something called [AutoRip](http://www.amazon.com/b/ref=amb_link_368903402_2?ie=UTF8&node=5946775011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=ilm&pf_rd_r=1XXWYXGHV3R3BXYB6VZ1&pf_rd_t=101&pf_rd_p=1465599902&pf_rd_i=163856011). Basic premise: you buy a physical CD from Amazon, and if it's AutoRip eligible, Amazon will give you a digital copy of the CD in your Amazon Cloud Drive, _gratis_. I presume this is Amazon's way of trying to push some physical-only CD folks into the cloud, and hey, it doesn't seem bad for any of us.
@@ -13,7 +12,7 @@ Last night my wife headed over to Amazon looking to purchase an older CD of Jim 
 
 But wait, what's this?
 
-![Screenshot-2013-01-14_12.39.56](http://chrishubbs.com/wordpress/wp-content/uploads/2013/01/Screenshot-2013-01-14_12.39.56.png)
+![screenshot](/images/2013/amazon-screenshot.png)
 
 That's right, this album is also available with [a physical CD and AutoRip](http://www.amazon.com/gp/product/B002HMHSC2/ref=as_li_ss_tl?ie=UTF8&tag=chrishubbs-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002HMHSC2). **For $8.57.** And that CD happens to have free shipping with our Amazon Prime membership.
 

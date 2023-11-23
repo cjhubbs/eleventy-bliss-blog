@@ -1,6 +1,7 @@
 ---
 title: "Telling the Tales of the Scarring War with Sin"
-date: "2013-05-02T14:36:07.000"
+date: 2013-05-02T14:36:07.000
+tags: ['theology']
 ---
 
 Songwriter and singer Jennifer Knapp [answered questions over on Rachel Held Evans' blog this week](http://rachelheldevans.com/blog/ask-jennifer-knapp-response), and in the midst of it all she offered up a devastatingly spot-on critique of Christian Contemporary Music (CCM) and how it reflects the attitude of the evangelical church:

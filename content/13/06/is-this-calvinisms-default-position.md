@@ -1,22 +1,23 @@
 ---
 title: "Is this Calvinism's Default Position?"
-date: "2013-06-08T05:03:22.000"
+date: 2013-06-08T05:03:22.000
+tags: ['theology','evangelicalism']
 ---
 
 I'm sitting in a hotel room tonight enjoying a family weekend and catching up on twitter while trying to get the kids to go to sleep, and in doing so I run across this from Pastor Steve McCoy this afternoon:
 
-> "I'm not clear on most things about God, but Calvinists anger me."
-> 
-> \- An Absurd Number of People
-> 
+> "I'm not clear on most things about God, but Calvinists anger me."  
+> <br/>
+> \- An Absurd Number of People  
+> <br/>
 > ([@SteveKMcCoy](https://twitter.com/stevekmccoy/status/343089114112999424), June 7, 2013, at 2:36 PM)
 
 Steve (pastor of an SBC church in the Chicago area) and [Bill Kinnon](http://Kinnon.tv) went back and forth a bit on Twitter after that tweet, Bill suggesting that it was a bit judgmental to suggest that people who aren't Calvinists "aren't clear on most things about God", and Steve saying that he didn't mean that everyone who hates Calvinism is unclear, but that "an absurd number" are. Their conversation trailed off before they came to any resolution.
 
 Then there was this stunning quote from the [Founders.org website](http://founders.org/library/quiet/quiet3.html), for which SBC pastor Tom Ascol is a primary leader:
 
-> In the first place, **Calvinistic Christianity is nothing more and nothing less than biblical Christianity**. It follows, then, that the future of Christianity itself is bound up in the fortunes of Calvinism....
-> 
+> In the first place, **Calvinistic Christianity is nothing more and nothing less than biblical Christianity**. It follows, then, that the future of Christianity itself is bound up in the fortunes of Calvinism....  
+> <br/>
 > ...For whoever believes in God’s redemption through Christ and recognizes his own utter dependence on God, **whoever recognizes that salvation is of the Lord, whoever seeks to glorify God in his worship and life, that person is already implicitly a Calvinist, no matter what he calls himself.** In such circumstances, to make the person an explicit Calvinist, all we are required to do (humanly speaking) is to show the believer the natural implications of these already-held fundamental principles, which underlie all true Christianity, and trust God to do his work, that is, trust God to reveal these implications to the person.
 
 Did you get that? Calvinism is "nothing more and nothing less than biblical Christianity". And if anyone recognizes salvation from the Lord, and seeks to glorify God, then that person is implicitly a Calvinist! And all the Calvinists need to do is explain it in a way that the unknowing Calvinist might understand.

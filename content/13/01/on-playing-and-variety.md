@@ -1,10 +1,7 @@
 ---
 title: "On Playing and Variety"
-date: "2013-01-07T19:16:14.000"
-tags: 
-  - "music"
-  - "piano"
-  - "worship-team"
+date: 2013-01-07T19:16:14.000
+tags: ['music','piano','worship']
 ---
 
 My primary instrument has always been (and likely always will be) keys of some sort. I started piano lessons when I was 7. I started playing for church at age 14. I first started playing with a church worship band in college at age 19. I've led worship while playing the piano hundreds of times. Those fingers on the keys at the top of my blog are my fingers, playing piano at my sister's wedding.

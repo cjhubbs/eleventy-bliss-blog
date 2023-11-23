@@ -1,11 +1,10 @@
 ---
 title: "In which I sing the praises of NewsBlur"
-date: "2013-07-12T16:00:00.000"
+date: 2013-07-12T16:00:00.000
+tags: ['tech','blogging']
 ---
 
 I realize that everyone reading this has already either made a decision on a Google Reader replacement, or just had their eyes glaze over when I said "Google Reader replacement", which means this post is probably unnecessary. But still, I want to take a second to sing the praises of [NewsBlur](http://www.newsblur.com).
-
-![Screenshot-2013-07-12_10.58.16](http://chrishubbs.com/wordpress/wp-content/uploads/2013/07/Screenshot-2013-07-12_10.58.16.png)
 
 NewsBlur is an RSS reader developed and maintained by one guy, [Samuel Clay](http://www.samuelclay.com/). He was working on it long before Google announced that they were killing Reader, and when that announcement came out he managed to scale up his reader from supporting a couple thousand users to, at current count, over 20,000.
 

@@ -1,6 +1,7 @@
 ---
 title: "A few thoughts on the \"yuck factor\" discussion"
-date: "2013-08-23T13:22:36.000"
+date: 2013-08-23T13:22:36.000
+tags: ['theology','lgbtqia']
 ---
 
 In case you're not already caught up: the discussion started with Thabiti Anyabwile's post on TGC, ["The Importance of Your Gag Reflex When Discussing Homosexuality and “Gay Marriage”"](http://thegospelcoalition.org/blogs/thabitianyabwile/2013/08/19/the-importance-of-your-gag-reflex-when-discussing-homosexuality-and-gay-marriage/). One-line summary: "Return the \[gay marriage\] discussion to sexual behavior in all its yuckiest gag-inducing truth."

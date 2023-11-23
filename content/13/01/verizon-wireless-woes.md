@@ -1,10 +1,7 @@
 ---
 title: "Verizon Wireless woes"
-date: "2013-01-02T15:29:43.000"
-tags: 
-  - "cell-phone"
-  - "iphone"
-  - "verizon"
+date: 2013-01-02T15:29:43.000
+tags: ['verizon']
 ---
 
 Back around Thanksgiving my wife and I made the jump from US Cellular to Verizon, for the express purpose of getting iPhones. And I've gotta say, as a first-time iPhone owner: the iPhone 5 is _fantastic_. The hardware is exemplary. Everything happens quickly, the Apple software is (mostly) beautiful and (almost always) consistent, and the battery life... well, the battery life is almost unbelievable after my two years as a Galaxy S owner.

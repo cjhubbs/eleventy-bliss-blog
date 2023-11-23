@@ -1,6 +1,7 @@
 ---
 title: "Bluegrass and Bach: Something Relaxing for the Weekend"
-date: "2013-08-30T13:40:10.000"
+date: 2013-08-30T13:40:10.000
+tags: ['music']
 ---
 
 It's Friday headed in to a holiday weekend and I'm tired of writing about serious topics, so it's time to share this video - a 6-minute PBS feature on mandolin player extraordinaire Chris Thile.

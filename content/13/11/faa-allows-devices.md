@@ -1,6 +1,7 @@
 ---
 title: "Some thoughts on the FAA's decision to allow use of phones/tablets on airplanes from gate to gate"
-date: "2013-11-01T00:14:41.000"
+date: 2013-11-01T00:14:41.000
+tags: ['flying','work']
 ---
 
 The [FAA announced today](http://www.cnn.com/2013/10/31/travel/faa-portable-electronic-devices/) that it is directing airlines to enact policy that will allow passengers to use their mobile devices (smartphones, tablets, etc) from gate to gate - a welcome change for travelers who are used to the "turn everything completely off until we get above 10,000 feet" announcement at the beginning of every flight.
@@ -23,7 +24,7 @@ Every critical piece of equipment that's going on the aircraft has to go through
 
 I've seen the pictures of the test setups, and while I can't show them to you directly, here's the general idea of what they do:
 
-![500px-Turn-Everything-Evil-inator](http://chrishubbs.com/wordpress/wp-content/uploads/2013/10/500px-Turn-Everything-Evil-inator.jpg)
+![500px-Turn-Everything-Evil-inator](/images/2013/500px-Turn-Everything-Evil-inator.jpg)
 
 In this example, Dr. Doofenshmirtz is the tester, and the unit under test (display, autopilot, etc) is sitting on the table, while Agent P sits there monitoring to make sure it continues to run correctly while the Evil-Inator (or some similar sort of radio transmitter) beams radio waves at it.
 

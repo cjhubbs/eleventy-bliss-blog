@@ -1,15 +1,10 @@
 ---
 title: "Biblicism and the Reformed Evangelical magisterium"
-date: "2013-02-12T16:17:40.000"
-tags: 
-  - "evangelicalism"
-  - "reformed"
-  - "theology"
+date: 2013-02-12T16:17:40.000
+tags: ['evangelicalism','theology']
 ---
 
 One of the long-term hallmarks of the American evangelical church has been a congregational independence free from strong denominational ties. Sure, the denominations exist as broad placeholders with certain doctrinal distinctives, but the range of actual beliefs and practices among churches even within a single denomination is often large. In practice, theological interpretations mainly happen at the individual congregation level. This seems reasonable given that the popularly accepted definition of evangelicalism includes "biblicism" as one of its four key characteristics. \[ref\]Per British historian David Bebbington as referenced in [this Wheaton College post](http://www.wheaton.edu/ISAE/Defining-Evangelicalism/Defining-the-Term). The other three characteristics are conversionism, activism, and crucicentrism.\[/ref\]
-
-![medium_184257405](http://chrishubbs.com/wordpress/wp-content/uploads/2013/02/medium_184257405.jpg)
 
 Within less-evangelical denominations that have a well-defined hierarchy, doctrinal disputes and practice are better kept in-house; the Presbyterians are more than willing to govern their doctrine and practice, and the Catholics have their _magisterium_ - the teaching authority of the church which speaks authoritatively on doctrine.
 
@@ -26,9 +21,7 @@ Seeing the organization of this Reformed Evangelical cabal isn't difficult. Ther
 - inquisitors - Tim Challies and Kevin DeYoung being the prime examples
 - councils - we call 'em conferences, though. Desiring God holds a big one every year, T4G is every other year, and so on.
 
-If a member gets too far out of line, this group is quietly self-regulating. See: [Acts29 moving from Driscoll in Seattle to Chandler in Dallas](http://chrishubbs.com/2012/03/28/some-thoughts-on-matt-chandlers-move-to-lead-acts-29/). See also Mahaney leaving his Maryland church of nearly 30 years under a cloud, only to re-emerge as [pastor of a new church in Louisville, KY](http://www.sovereigngraceministries.org/blogs/sgm/post/Church-planter-interview-CJ-Mahaney-(Louisville-KY).aspx), safely in Al Mohler's backyard.
-
-![medium_3245545616](http://chrishubbs.com/wordpress/wp-content/uploads/2013/02/medium_3245545616.jpg)
+If a member gets too far out of line, this group is quietly self-regulating. See: [Acts29 moving from Driscoll in Seattle to Chandler in Dallas](/12/03/some-thoughts-on-matt-chandlers-move-to-lead-acts-29/). See also Mahaney leaving his Maryland church of nearly 30 years under a cloud, only to re-emerge as [pastor of a new church in Louisville, KY](http://www.sovereigngraceministries.org/blogs/sgm/post/Church-planter-interview-CJ-Mahaney-(Louisville-KY).aspx), safely in Al Mohler's backyard.
 
 Among the larger group of individual pastors that follow these leaders, doctrinal alignment is maintained by conferences and publishers. As an aspiring author, your first book likely won't get a look from one of the big names, but if Challies reviews it positively, your second one might. A cover blurb from Driscoll, Keller, or Chandler will help ensure that your book gets accepted at the book sales room at the next conference, and from there you're all set on your track to successful blogging, authoring, and maybe even your own speaking gig at the next conference!
 
@@ -40,8 +33,6 @@ A few of the authors who go where angels fear to tread are given a grudging pass
 
 Academic credentials don't ensure asbestos underwear, though. Pete Enns (a tenured professor) got [run out of Westminster Seminary](http://www.christianitytoday.com/ct/2008/aprilweb-only/114-24.0.html), Philadelphia, back in 2008 after publishing his book [Inspiration and Incarnation](http://www.amazon.com/gp/product/0801027306/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0801027306&linkCode=as2&tag=chrishubbs-20), which argued for a re-evaluation of how we read and interpret the Bible - and especially the early parts of the Old Testament. And if you're a woman without a theology degree, like the aforementioned Evans, well, sorry. You're toast.
 
-[![inspiration-and-incarnation-peter-enns](http://chrishubbs.com/wordpress/wp-content/uploads/2013/02/inspiration-and-incarnation-peter-enns.jpg)](http://www.amazon.com/gp/product/0801027306/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0801027306&linkCode=as2&tag=chrishubbs-20)
-
 Ask any of these guys (or your local adherents to their creed) why they put the big focus on these specific doctrinal issues, and what you'll probably hear is this: "[the gospel is at stake](http://www.albertmohler.com/2011/02/01/creation-vs-evolution-the-new-shape-of-the-debate/)". I think it's clear, though, that what it really means is "our version of the gospel is at stake".
 
 And this is where the idea of a magisterium comes in. In the Catholic tradition, the magisterium is the teaching authority of the church. The church leadership speaks an authoritative interpretation of Scripture, and the matter is settled.
@@ -50,4 +41,3 @@ In the evangelical tradition, however, we don't have the strong denominational a
 
 I don't think one can conclude from all this that a magisterium is a bad thing, nor can one conclude that the solution is to move our evangelical churches into some hierarchical denomination. But what is clear is that no matter how loudly some leaders of evangelicalism may cry that we need to simply "believe what the Bible says", it's never quite that simple.
 
-_bible photo credit: [gwilmore](http://www.flickr.com/photos/gwilmore/184257405/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/) church photo credit: [zilverbat.](http://www.flickr.com/photos/25228175@N08/3245545616/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)_

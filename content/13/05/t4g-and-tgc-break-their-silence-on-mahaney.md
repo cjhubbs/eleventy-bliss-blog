@@ -1,6 +1,7 @@
 ---
 title: "T4G and TGC break their silence on Mahaney"
-date: "2013-05-24T13:03:17.000"
+date: 2013-05-24T13:03:17.000
+tags: ['evangelicalism']
 ---
 
 One of the great frustrations of those trying to bring the allegations of rampant child abuse and cover-up in Sovereign Grace Ministries (SGM) churches to light has been the silence of those who have long been founder CJ Mahaney's greatest supporters - Al Mohler, Mark Dever, and Ligon Duncan of Together For The Gospel (T4G) and Don Carson, Justin Taylor, and the rest at The Gospel Coalition (TGC).

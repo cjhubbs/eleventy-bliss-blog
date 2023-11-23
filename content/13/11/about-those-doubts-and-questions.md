@@ -1,6 +1,7 @@
 ---
 title: "About those doubts and questions"
-date: "2013-11-11T14:23:44.000"
+date: 2013-11-11T14:23:44.000
+tags: ['books','marilynne-robinson']
 ---
 
 From Marilynne Robinson's Pulitzer Prize-winning novel _[Gilead](http://www.amazon.com/gp/product/031242440X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=031242440X&linkCode=as2&tag=chrishubbs-20)_:

@@ -1,13 +1,12 @@
 ---
 title: "God has not given us a Spirit of Fear"
-date: "2013-06-18T02:26:54.000"
+date: 2013-06-18T02:26:54.000
+tags: ['evangelicalism']
 ---
 
 The evangelical blogosphere has been an interesting place lately. There have been voices talking about the [abuse lawsuit against Sovereign Grace Ministries](http://www.abpnews.com/ministry/organizations/item/8515-sovereign-grace-sex-abuse-case-dismissed), the statements supporting CJM from [T4G](http://t4g.org/statement/) and [TGC](http://thegospelcoalition.org/blogs/tgc/2013/05/24/why-we-have-been-silent-about-the-sgm-lawsuit/). [Jamie the VWM](http://www.theveryworstmissionary.com/2013/06/sex-pt-2-why-wait.html) and others have been addressing the evangelical church's "purity culture" and focus on "modesty", both of which have the effect of objectifying women while claiming to try to do the opposite. Zach Hoag has hosted his ["smokin' hot conversations" series](http://www.zhoag.com/2013/06/14/elizabeth-morrow-modesty/), calling the evangelical church (especially the men) to greater responsibility. Bill Kinnon has written a good string of posts on the [celebrity-driven culture of the evangelical church](http://kinnon.tv/2013/06/cracks-in-the-celebrity-driven-church.html) and the opportunities it provides for spiritual leadership abuse. And I think it's also important to pull in [Dan Brennan](http://www.danjbrennan.com/), whose book _Sacred Unions, Sacred Passions_ calls the evangelical church to honor and encourage cross-gender friendships.
 
 There's a common thread that we can find through all of these topics: fear. In some areas it's personal fear; in other areas the personal fear has become institutionalized into a culture of fear. But fear it is. And identifying and understanding fear is the key to defeating it.
-
-![medium_85345158](http://chrishubbs.com/wordpress/wp-content/uploads/2013/06/medium_85345158.jpg)
 
 Now when I start discussing these fears, some of you will object "but the boundaries are there for a reason! There are real sins that we could fall into that we _should_ be afraid of!". And to be fair, you have a point. But let's recall the Pharisees of Jesus' day. They didn't write all their rules just to be mean - they were afraid of committing specific sins that God defined (e.g. "don't work on the Sabbath"), and to make sure they stayed away from those sins, they put fences far outside of them. When Jesus came, he didn't approve those laws; instead he demolished them, saying that God was more concerned with the heart.
 
@@ -15,7 +14,7 @@ Now when I start discussing these fears, some of you will object "but the bounda
 
 ### CJ Mahaney, Sovereign Grace Ministries, T4G, and TGC
 
-[I've written previously](http://chrishubbs.com/2013/05/24/t4g-and-tgc-break-their-silence-on-mahaney/) about the multitude of abuse allegations currently surrounding SGM, including allegations that Mahaney and other leaders conspired to cover things up. I've written about the leaders of Together for the Gospel (T4G) and The Gospel Coalition (TGC) circling the wagons with posts of tenuous veracity and exasperating one-sidedness.
+[I've written previously](/13/05/t4g-and-tgc-break-their-silence-on-mahaney/) about the multitude of abuse allegations currently surrounding SGM, including allegations that Mahaney and other leaders conspired to cover things up. I've written about the leaders of Together for the Gospel (T4G) and The Gospel Coalition (TGC) circling the wagons with posts of tenuous veracity and exasperating one-sidedness.
 
 _What are they afraid of?_
 
@@ -59,12 +58,8 @@ So says Paul in 2 Timothy 1:7. What has He given us instead? A spirit of power, 
 
 With every one of these topics there is a legitimate "yes, but" conversation to be had. But in each of these cases the "yes, but" has been institutionalized to the point that it has instead become a "no". It's my hope that we start demolishing the "no" so we can have room for the "yes, but" conversations.
 
-![medium_3987609005](http://chrishubbs.com/wordpress/wp-content/uploads/2013/06/medium_3987609005.jpg)
-
 ### Finally
 
 The antidote for these fearful attitudes and activities can also be found in the words of the prophet Micah. What does God require of us? Act justly. Love mercy. Walk humbly. And those words spoken over and over by God and His messengers to His people:
 
 **Do not be afraid.**
-
-photo credit: [ValetheKid](http://www.flickr.com/photos/riot_/85345158/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nd/2.0/) photo credit: [crazyluca69](http://www.flickr.com/photos/17123149@N03/3987609005/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

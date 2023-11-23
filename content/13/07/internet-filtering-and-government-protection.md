@@ -1,6 +1,7 @@
 ---
 title: "Internet filtering and government 'protection'"
-date: "2013-07-26T17:44:30.000"
+date: 2013-07-26T17:44:30.000
+tags: ['tech','politics']
 ---
 
 Internet filtering has been a hot topic in the news the past few days. In Britain, prime minister [David Cameron has proposed](http://www.bbc.co.uk/news/uk-23401076) that all British internet service providers must turn on a "family-friendly filter" by default for all users, which would only be turned off at the account holder's specific request. The goal: to keep pornography away from children.

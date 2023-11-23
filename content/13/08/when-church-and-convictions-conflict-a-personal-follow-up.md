@@ -1,6 +1,7 @@
 ---
 title: "When church and convictions conflict - a personal follow-up"
-date: "2013-08-09T14:33:16.000"
+date: 2013-08-09T14:33:16.000
+tags: ['church','personal']
 ---
 
 [Yesterday I recommended Ed Cyzewski's post talking about when church and your personal convictions come into conflict.](http://chrishubbs.com/2013/08/08/when-church-and-convictions-conflict/) Today I'd like to follow up by telling my own story.
@@ -9,7 +10,7 @@ date: "2013-08-09T14:33:16.000"
 
 A little over ago my church decided it was time to promote men's small groups. And the timing seemed great for me. I was coming through a time of spiritual wrangling and frustration, and was convinced that I needed more frequent and better interaction with godly men in my life. Then I found out how it was going to be themed: Band of Brothers.
 
-![bandofbros](http://chrishubbs.com/wordpress/wp-content/uploads/2013/08/bandofbros.jpg)
+![bandofbros](/images/2013/bandofbros.jpg)
 
 (This isn't my church's actual ministry logo, but it's close to what was used.)
 

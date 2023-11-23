@@ -1,6 +1,7 @@
 ---
 title: "My running record for this year..."
-date: "2013-01-10T01:39:47.000"
+date: 2013-01-10T01:39:47.000
+tags: ['running','music']
 ---
 
 ...I think it's gonna by [_Battle Born_ by The Killers](http://www.amazon.com/gp/product/B00973DDN2/ref=as_li_ss_tl?ie=UTF8&tag=chrishubbs-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00973DDN2).

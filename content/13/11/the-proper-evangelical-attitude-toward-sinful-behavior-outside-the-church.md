@@ -1,6 +1,7 @@
 ---
 title: "The proper evangelical attitude toward sinful behavior outside the church"
-date: "2013-11-06T15:05:00.000"
+date: 2013-11-06T15:05:00.000
+tags: ['church','theology']
 ---
 
 Here's one for ya this morning:

@@ -1,7 +1,7 @@
 ---
 title: "BookJournal: Fortunes of War"
 date: 2006-01-17T16:42:14.000
-tags; ['books','reading']
+tags: ['books','reading']
 ---
 
 _Fortunes of War_ is a recent title from [Stephen Coonts](http://www.stephencoonts.com). It is in many respects a standard military adventure novel, but it is based on an interesting premise. What if a newly militarized Japan tried to seize Siberia from a weakened Russia? How would the world respond? What might happen?

@@ -1,6 +1,7 @@
 ---
 title: "Many Happy Returns"
-date: "2013-11-07T15:26:03.000"
+date: 2013-11-07T15:26:03.000
+tags: ['family']
 ---
 
 Just a quick note here today to say Happy Birthday to my dear mother. (I'll call you later on today, Mom!)

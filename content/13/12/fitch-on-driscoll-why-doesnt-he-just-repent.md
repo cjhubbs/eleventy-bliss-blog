@@ -1,6 +1,7 @@
 ---
 title: "Fitch on Driscoll: why doesn't he just repent?"
-date: "2013-12-11T16:26:30.000"
+date: 2013-12-11T16:26:30.000
+tags: ['evangelicalism']
 ---
 
 Professor and pastor [David Fitch has some powerful words on the Driscoll plagiarism topic today](http://www.reclaimingthemission.com/?p=4216), and more broadly on celebrity leadership in evangelical churches.
@@ -13,8 +14,8 @@ Ouch.
 
 Then Fitch expands the discussion to the broader evangelical church.
 
-> My observation is simple. Once Christianity/church devolves into an ideology it ceases being an authentic embodiment of God’s Triune work in the world. It becomes a product. It works off antagonism (or lack) as opposed to being the overflowing of abundance of God’s work into the world...
-> 
+> My observation is simple. Once Christianity/church devolves into an ideology it ceases being an authentic embodiment of God’s Triune work in the world. It becomes a product. It works off antagonism (or lack) as opposed to being the overflowing of abundance of God’s work into the world...  
+> <br/>
 > **Celebrity leadership is the death knell of the evangelical church in America.** It’s killing us. And so I believe it’s of utmost importance that everyone under the age of 35 reject celebrity leadership. Realize that **once beliefs, products, preaching, leadership is extracted from the local life of the local concretely engaged church, it tends to quickly devolve into ideology**. And we then are just a short period away from the death of that church in a swirl of inevitable contradictions, hypocrisy and moral failures that inevitably attend celebrity leadership.
 
-Fitch nails it in that last paragraph. Keep things local and engaged. As I said last week: [we are called to be faithful, not famous](http://chrishubbs.com/2013/12/05/called-to-be-faithful-not-famous/ "Called to be faithful, not famous").
+Fitch nails it in that last paragraph. Keep things local and engaged. As I said last week: [we are called to be faithful, not famous](/13/12/called-to-be-faithful-not-famous/ "Called to be faithful, not famous").

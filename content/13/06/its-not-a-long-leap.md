@@ -1,6 +1,7 @@
 ---
 title: "It's Not a Long Leap"
-date: "2013-06-19T16:17:58.000"
+date: 2013-06-19T16:17:58.000
+tags: ['evangelicalism']
 ---
 
 In my last post I touched just briefly on the evangelical "modesty culture", wherein the church burdens women by telling them that they are responsible, based on how they dress, for causing their Christian brothers to lust. Today I'd like to look at it in a little more detail and the short leap from there to a culture that minimizes and encourages covering-up of abuse, as allegedly existed in Sovereign Grace Ministries churches for many years.
@@ -13,12 +14,12 @@ The post links in an audio excerpt from a sermon, which the blog author says is 
 
 Here's a transcript of the key portions of the audio:
 
-> Listen carefully, ladies. This is not an aberration. This is not an unusual testimony. This is the norm.
-> 
-> “Each and every day on campus is a battle, a battle against my sin, a battle against temptation, a battle against my depraved mind. Every morning I have to cry out for mercy, strength and a renewed conviction to flee youthful lusts. The Spirit is faithful to bring me the renewal I need to prepare me to do war against my sin. Yet the temptation still exists. I am thankful God has created me to be attracted to women. However, campus is a loaded minefield. There are girls everywhere and it is guaranteed that I will pass some attractive girls as I walk in between classes. I either have to be actively engaging my mind and my spirit to praying, quoting Scripture, listening to worship musicor simply looking at the sidewalk to make it through unscathed. Many days it takes all four to be safe.
-> 
-> “The thing that women do not seem to fully grasp is that the temptation towards lust does not stop for us as men. It is continual. It is aggressive. It does all it can to lead men down to death.
-> 
+> Listen carefully, ladies. This is not an aberration. This is not an unusual testimony. This is the norm.  
+> <br/>
+> “Each and every day on campus is a battle, a battle against my sin, a battle against temptation, a battle against my depraved mind. Every morning I have to cry out for mercy, strength and a renewed conviction to flee youthful lusts. The Spirit is faithful to bring me the renewal I need to prepare me to do war against my sin. Yet the temptation still exists. I am thankful God has created me to be attracted to women. However, campus is a loaded minefield. There are girls everywhere and it is guaranteed that I will pass some attractive girls as I walk in between classes. I either have to be actively engaging my mind and my spirit to praying, quoting Scripture, listening to worship musicor simply looking at the sidewalk to make it through unscathed. Many days it takes all four to be safe.  
+>  <br/>
+> “The thing that women do not seem to fully grasp is that the temptation towards lust does not stop for us as men. It is continual. It is aggressive. It does all it can to lead men down to death.  
+> <br/>
 > “They have a choice to help or deter its goal.”
 
 Heavy stuff. The guy who gave this testimony apparently can't walk past an attractive woman without lusting after her unless he is "actively" works to ignore or avoid her. And because of that, this pastor tells the women of his congregation that **their choice of immodest clothing will help "lead men down to death"**. (A booklet with practical modesty tips was reportedly handed out to all the women after the sermon.)

@@ -1,6 +1,7 @@
 ---
 title: "The last word on Mark Driscoll for a while"
-date: "2013-12-18T19:00:49.000"
+date: 2013-12-18T19:00:49.000
+tags: ['evangelicalism']
 ---
 
 I can't imagine anybody saying things much better than [Jared Wilson did today over on The Gospel Coalition](http://thegospelcoalition.org/blogs/gospeldrivenchurch/2013/12/18/re-mark-driscoll/). Bits and pieces:
@@ -9,8 +10,8 @@ I can't imagine anybody saying things much better than [Jared Wilson did today o
 
 I really appreciate Jared's point here. I know several men who have come up admiring and imitating Mark Driscoll, and while their gospel proclamation is great, they need to have other voices telling them that "aggression in the area of reputation, dominance and swagger" is not something desirable to imitate.
 
-> This is not merely about lazing writing... It’s about what this one latest incident in the accumulating evidence of Pastor Mark’s empire-building says to us, his brothers and his customers... This latest episode is just the latest example indicating an evident lack of accountability and personal responsibility. **All along, I’ve trusted that Pastor Mark had the right people around him, speaking the hard truths to him. I assumed those voices were there and authorized by him to keep him honest. I no longer believe this.**
-> 
+> This is not merely about lazing writing... It’s about what this one latest incident in the accumulating evidence of Pastor Mark’s empire-building says to us, his brothers and his customers... This latest episode is just the latest example indicating an evident lack of accountability and personal responsibility. **All along, I’ve trusted that Pastor Mark had the right people around him, speaking the hard truths to him. I assumed those voices were there and authorized by him to keep him honest. I no longer believe this.**  
+> <br/>
 > Pastor Mark, if you’re reading this — **you are losing us**. Forget about the “haters.” We ain’t them. We are the ones who love you, who want to see you succeed and prevail. And we won’t stop, no matter what tribe you’re in or which conference stage you take. But **we want you to take responsibility for your actions and your attitude**. It does not commend grace. We want you to walk in repentance. We want you to seek the way of Christ in more humility, to drop the image and the posturing, and remind us of what drew us to you in the first place: the fame of Christ’s name, not the protection of your own. What would the truth of the gospel have you do? What would adorn the gospel? **What would make Jesus look big?** I believe it would a reversal of the trajectory of pride you have been on. I’m asking you to turn around and show us why we were so drawn to you in the beginning. I’m asking you to show us Jesus. He has become lost in your shadow.
 
 Jared provides a great example and challenge to me and others who appreciate the gospel-centered history of Mark Driscoll's preaching but who are concerned by his recent direction. It's worth reading [the whole thing](http://thegospelcoalition.org/blogs/gospeldrivenchurch/2013/12/18/re-mark-driscoll/).

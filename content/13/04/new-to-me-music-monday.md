@@ -1,8 +1,7 @@
 ---
 title: "New-to-me Music Monday"
-date: "2013-04-22T18:44:48.000"
-tags: 
-  - "music"
+date: 2013-04-22T18:44:48.000
+tags: ['music']
 ---
 
 We made a family trip to the library yesterday, and as usual I came home with a pile of books and media beyond what I am ever to get through in the three weeks I'm allowed to borrow them. I did, however, manage to work my way through the four new (to me) CDs that I borrowed.

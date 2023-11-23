@@ -1,11 +1,12 @@
 ---
 title: "Losing something in the modernization"
-date: "2013-10-21T15:17:45.000"
+date: 2013-10-21T15:17:45.000
+tags: ['music','worship']
 ---
 
 This past Sunday our worship team learned and led a new (old) song - Chris Tomlin's arrangement of (and new chorus for) the old hymn Crown Him With Many Crowns.
 
-https://www.youtube.com/watch?v=OQweT0WtNN8
+https://www.youtube.com/watch?v=hqy-gob13kA
 
 On the whole, I like it. If adding a contemporary chorus is what it takes to get us singing two and a half verses of densely-packed truth in a classic hymn, that's a deal I'm willing to make.
 

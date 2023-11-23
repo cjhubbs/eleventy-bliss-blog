@@ -1,11 +1,12 @@
 ---
 title: "Happily After All"
-date: "2013-05-27T22:35:25.000"
+date: 2013-05-27T22:35:25.000
+tags: ['personal']
 ---
 
 It's Memorial Day here in the States, which means we've been enjoying a day together as a family. I enjoy days when I get to spend time with my girls - it's so fun to see the cool people they're turning into as they get older.
 
-[![puddle_dance](http://chrishubbs.com/wordpress/wp-content/uploads/2013/05/puddle_dance-300x225.jpg)](http://chrishubbs.com/wordpress/wp-content/uploads/2013/05/puddle_dance.jpg)
+![puddle_dance](/images/2013/puddle-dance.jpeg)
 
 A few random parenting "wins" from today:
 

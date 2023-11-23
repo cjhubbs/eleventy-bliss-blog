@@ -1,8 +1,7 @@
 ---
 title: "My India Trip, Days 7 and 8"
-date: "2012-10-10T16:34:53.000"
-tags: 
-  - "travel"
+date: 2012-10-10T16:34:53.000
+tags: ['travel']
 ---
 
 OK, I've been back for almost two weeks now, I should finish up reporting on my India trip. At a minimum, I should describe my trip back home.
@@ -18,8 +17,6 @@ We finally got to Mumbai, where the process for transferring from the domestic t
 The ride to the terminal seemed to take forever. For what is no more than a 1-mile distance, I think the bus took 15 minutes to get there. We must've covered every inch of terminal. And the bus doesn't drop you off any place convenient; it just stops by departure terminal entrance A. I needed to get to entrance D.
 
 I hustled off the bus, grabbed my bags, and was helped out by one of the airport guys who works for tips. He asked my airline, grabbed one of my bags, and had me hustle with him down to entrance D. He got me to the end of the line and then asked for a tip. For $10, he said, he could get me through the lines. It ended up being the best $10 I spent on the trip.
-
-\[caption id="attachment\_2693" align="aligncenter" width="300"\][![](http://chrishubbs.com/wordpress/wp-content/uploads/2012/10/img09-300x225.jpg "Mumbai Airport")](http://chrishubbs.com/wordpress/wp-content/uploads/2012/10/img09.jpg) The Mumbai Airport. During the day. It has a whole different feel at night.\[/caption\]
 
 With my $10 in his hand, he pushed to the front of the initial security line and shoved my passport and itinerary under the nose of the security officer. After getting waved along, we then rushed to the Delta counter. The Delta folks were asking if I was on the Amsterdam flight even before I could get to the counter. I shoved my passport at them, threw my checked bag on the belt, and within seconds they handed me back my boarding passes and passport and told me to run to the next line. Off I ran.
 

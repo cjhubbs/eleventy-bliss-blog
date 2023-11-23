@@ -1,6 +1,7 @@
 ---
 title: "Where are the voices? Boz Tchividjian has strong words on the SGM mess."
-date: "2013-05-25T16:05:21.000"
+date: 2013-05-25T16:05:21.000
+tags: ['evangelicalism']
 ---
 
 Boz Tchividjian (grandson of Billy Graham, law professor at Liberty University, and former state prosecutor in Florida) [weighs in on the SGM abuse allegations](http://netgrace.org/where-are-the-voices-the-continued-culture-of-silence-and-protection-in-american-evangelicalism/) and this week's troubling statements on that topic from The Gospel Coalition and Together for the Gospel.

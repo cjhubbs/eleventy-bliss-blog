@@ -1,9 +1,10 @@
 ---
 title: "A follow-up on our Verizon woes"
-date: "2013-01-16T14:31:43.000"
+date: 2013-01-16T14:31:43.000
+tags: ['tech','verizon']
 ---
 
-A couple weeks ago [I wrote about my frustrations](http://chrishubbs.com/2013/01/02/verizon-wireless-woes/) with Verizon's service when it came to the issues my wife was having with her new iPhone. At the time, they were shipping out a new SIM card, in hopes that would fix the issue.
+A couple weeks ago [I wrote about my frustrations](/13/01/verizon-wireless-woes/) with Verizon's service when it came to the issues my wife was having with her new iPhone. At the time, they were shipping out a new SIM card, in hopes that would fix the issue.
 
 That SIM card showed up on a Friday afternoon, and the rest of that Friday was rather frustrating. When I installed the SIM card, it wouldn't activate. 10-minute call to customer support and that problem was fixed. So then I tried calling the phone, but had the same issue as before - most calls were going straight to voice mail.
 

@@ -1,6 +1,7 @@
 ---
 title: "The proper format for a sermon"
-date: "2013-09-20T02:49:10.000"
+date: 2013-09-20T02:49:10.000
+tags: ['church']
 ---
 
 A good insight here:

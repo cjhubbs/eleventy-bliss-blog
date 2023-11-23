@@ -1,6 +1,7 @@
 ---
 title: "Vatican City is not what you think it is..."
-date: "2013-03-20T19:26:36.000"
+date: 2013-03-20T19:26:36.000
+tags: ['random']
 ---
 
 There's a [fascinating post up on the Strange Maps blog this morning](http://bigthink.com/strange-maps/601-bigger-than-you-think-the-vatican-and-its-annexes) about Vatican City and the Holy See. Vatican City, it seems, is not exactly what you think it is.

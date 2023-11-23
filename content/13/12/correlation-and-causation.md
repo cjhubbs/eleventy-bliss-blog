@@ -1,6 +1,7 @@
 ---
 title: "Correlation and Causation"
-date: "2013-12-06T13:29:10.000"
+date: 2013-12-06T13:29:10.000
+tags: ['comics']
 ---
 
 All the correlation / causation talk around Dave Ramsey this week brings this [classic XKCD cartoon](http://xkcd.com/552/) to mind. Happy Friday!

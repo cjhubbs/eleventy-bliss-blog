@@ -1,11 +1,12 @@
 ---
 title: "My Favorite Elected Official"
-date: "2012-11-06T21:24:42.000"
+date: 2012-11-06T21:24:42.000
+tags: ['politics','family']
 ---
 
 The primary focus this election day is on the race for President, as well it should be. After I leave work I'll head over to my precinct to cast my ballot. (I just can't get into the early voting thing - I like voting in my neighborhood on the day of.) Unfortunately, I won't be able to vote for my favorite elected public official, since he's only on the ballot in one small township in Wisconsin. However, let me take a couple of paragraphs to remind us that elected officials serve in roles both great and small, and we should be thankful for all of them.
 
-[![Dad](http://chrishubbs.com/wordpress/wp-content/uploads/2012/11/DSC_4256-2-256x300.jpg "Dad")](http://chrishubbs.com/wordpress/wp-content/uploads/2012/11/DSC_4256-2.jpg)
+![Dad](/images/2012/don-hubbs.jpeg)
 
 This is my dad. He serves as the town clerk for the tiny [township of Marshall in Richland County, Wisconsin](http://en.wikipedia.org/wiki/Marshall,_Richland_County,_Wisconsin). He was first appointed to this post to fill out the term of the previous clerk. He has since been elected to the post at least once - maybe a couple of times, I can't keep track of their election cycles.
 

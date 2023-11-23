@@ -1,6 +1,6 @@
 ---
 title: "Follow-up thoughts on Mark Driscoll, Plagiarism, and Power"
-date: "2013-12-10T04:10:24.000"
+date: 2013-12-10T04:10:24.000
 ---
 
 I'll start the blog post with a disclaimer, because heck, why not?

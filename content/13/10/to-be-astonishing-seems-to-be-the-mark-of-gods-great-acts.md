@@ -1,11 +1,12 @@
 ---
 title: "\"To be astonishing seems to be the mark of God’s great acts...\""
-date: "2013-10-22T15:21:42.000"
+date: 2013-10-22T15:21:42.000
+tags: ['books','marilynne-robinson']
 ---
 
 I'm sure I heard the name [Marilynne Robinson](http://en.wikipedia.org/wiki/Marilynne_Robinson) several years ago when her novel _Gilead_ won the Pulitzer Prize. She does live just down the road in Iowa City, after all. As I recall I even borrowed the book from the library and got bogged down in it pretty quickly. (Maybe I wasn't ready for it a decade ago.)
 
-Then last year on a whim I borrowed _When I Was A Child I Read Books_ from the library; a slim volume of essays that turned into [one of my favorite reads of the year](http://chrishubbs.com/2012/08/15/when-i-was-a-child-i-read-books-by-marilynne-robinson/). (I need to go back and read it again.)
+Then last year on a whim I borrowed _When I Was A Child I Read Books_ from the library; a slim volume of essays that turned into [one of my favorite reads of the year](/12/08/when-i-was-a-child-i-read-books-by-marilynne-robinson/). (I need to go back and read it again.)
 
 [![Marilynne Robinson](//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Marilynne_Robinson.jpg/256px-Marilynne_Robinson.jpg)](http://commons.wikimedia.org/wiki/File%3AMarilynne_Robinson.jpg "By Christian Scott Heinen Bell (Own work) [CC0], via Wikimedia Commons")
 

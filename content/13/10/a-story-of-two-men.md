@@ -1,6 +1,7 @@
 ---
 title: "A story of two men"
-date: "2013-10-28T15:21:57.000"
+date: 2013-10-28T15:21:57.000
+tags: ['personal']
 ---
 
 Yesterday I attended a church in another town which I have infrequently visited before. Circumstances allowed me to help lead music as a part of their worship team. After the service I was approached by two different older (60-ish) men. This story is about them.

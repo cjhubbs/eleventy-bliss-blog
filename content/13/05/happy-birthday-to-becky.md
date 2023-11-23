@@ -1,6 +1,7 @@
 ---
 title: "Happy Birthday to Becky!"
-date: "2013-05-25T13:47:09.000"
+date: 2013-05-25T13:47:09.000
+tags: ['family']
 ---
 
 Today is my dear wife's birthday. We're probably getting to the point where she doesn't appreciate me listing her age any more, but suffice it to say I'll always be a couple months older than she is.

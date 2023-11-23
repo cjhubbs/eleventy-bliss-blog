@@ -1,6 +1,7 @@
 ---
 title: "A Calvinist at the Pearly Gates"
-date: "2013-11-01T14:02:25.000"
+date: 2013-11-01T14:02:25.000
+tags: ['theology']
 ---
 
 Trevin Wax today [reviews Michael Bird's new book](http://thegospelcoalition.org/blogs/trevinwax/2013/11/01/friday-funny-a-calvinist-at-the-pearly-gates/) _Evangelical Theology_. Outside of the book and review, this humorous aside from Bird's book inspired a chortle, which is why I pass it along. Enjoy!

@@ -1,6 +1,7 @@
 ---
 title: "Recommended Reading: The Journey of Ministry"
-date: "2013-07-15T22:52:38.000"
+date: 2013-07-15T22:52:38.000
+tags: ['books','reading','church']
 ---
 
 Recently I've been reading _[The Journey of Ministry: Insights from a Life of Practice](http://www.amazon.com/gp/product/B0090YCKC8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0090YCKC8&linkCode=as2&tag=chrishubbs-20)_ by Fuller seminary professor [Dr. Eddie Gibbs](http://www.fuller.edu/academics/faculty/edmund-gibbs.aspx). (Thanks go to Gibbs' son-in-law Brian Auten (a fellow [BHT](http://www.boarsheadtavern.com) patron whom I've had the pleasure to meet once, for far too short a conversation) for pointing it out when it was on sale.) While it seemed to start out a bit slowly, the second half of the book is chock full of good insights on the Western church and its needs in the 21st century.

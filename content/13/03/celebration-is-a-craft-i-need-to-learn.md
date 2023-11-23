@@ -1,6 +1,7 @@
 ---
 title: "Celebration is a craft I need to learn"
-date: "2013-03-27T15:24:43.000"
+date: 2013-03-27T15:24:43.000
+tags: ['theology','quotes']
 ---
 
 [Sarah Clarkson](http://www.thoroughlyalive.com/) has a [beautiful post over on The Rabbit Room](http://www.rabbitroom.com/2013/03/jack-quinns-for-joy/) today about, as she says, "the grave importance" of celebrations, and how they remind us that God cares for our joy - not just the joy that we find from spiritual hope in the midst of trouble, but also in the fully-embodied, rollicking joy of song, food, and friendship.

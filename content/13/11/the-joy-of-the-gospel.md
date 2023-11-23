@@ -1,6 +1,7 @@
 ---
 title: "The Joy of the Gospel"
-date: "2013-11-26T18:58:35.000"
+date: 2013-11-26T18:58:35.000
+tags: ['theology']
 ---
 
 Pope Francis published [a new "Apostolic Exhortation" today titled "EVANGELII GAUDIUM"](http://www.vatican.va/holy_father/francesco/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium_en.html), which translated means "The Joy of the Gospel". It's a long read - more a book than a web page, about 50,000 words - and I only got about 10% of the way through it at lunch today. However, there is a ton of good stuff even in that first 10%. A few striking quotes (emphasis mine):

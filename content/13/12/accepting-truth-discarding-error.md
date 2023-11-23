@@ -1,9 +1,10 @@
 ---
 title: "Accepting truth, discarding error"
-date: "2013-12-02T21:58:20.000"
+date: 2013-12-02T21:58:20.000
+tags: ['personal']
 ---
 
-Yesterday [I wrote about the need to be willing to accept truth (and discard error) from wherever we find it](http://chrishubbs.com/2013/12/01/dave-ramsey-sacred-cow/), not just when it's from our favorites (or least-favorites). A friend on Facebook noted in a comment on my post that she has lately been "tuning out" certain bloggers whom she has found repeatedly irritating or unhelpful.
+Yesterday [I wrote about the need to be willing to accept truth (and discard error) from wherever we find it](/13/12/dave-ramsey-sacred-cow/), not just when it's from our favorites (or least-favorites). A friend on Facebook noted in a comment on my post that she has lately been "tuning out" certain bloggers whom she has found repeatedly irritating or unhelpful.
 
 As negative as I first thought it sounded, in truth I resemble that remark. It wasn't that many months ago that I asked some friends for their opinions on whether I should keep certain websites in my regular reading list, even if they were irritants, or whether it was appropriate to just delete them if they were consistently making me crazy.
 

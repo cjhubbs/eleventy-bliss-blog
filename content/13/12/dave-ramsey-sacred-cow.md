@@ -1,6 +1,7 @@
 ---
 title: "Dave Ramsey, Sacred Cow"
-date: "2013-12-01T21:45:39.000"
+date: 2013-12-01T21:45:39.00
+tags: ['evangelicalism']
 ---
 
 Earlier this week I posted a link on my Facebook feed: ["What Dave Ramsey Gets Wrong about Poverty"](http://religion.blogs.cnn.com/2013/11/30/what-dave-ramsey-gets-wrong-about-poverty/) - an opinion column by [Rachel Held Evans](http://www.rachelheldevans.com). Little did I know the intensity of response it would receive.

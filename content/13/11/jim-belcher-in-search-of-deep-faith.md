@@ -1,11 +1,10 @@
 ---
 title: "Jim Belcher, \"In Search of Deep Faith\""
-date: "2013-11-26T02:25:23.000"
+date: 2013-11-26T02:25:23.000
+tags: ['reading','books','theology']
 ---
 
-I first became acquainted with author Jim Belcher back in 2009 when I read _[Deep Church](http://www.amazon.com/gp/product/B002R5AG82/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002R5AG82&linkCode=as2&tag=chrishubbs-20)_. It appears I didn't review it here on the blog, but [my Goodreads review](https://www.goodreads.com/review/show/74128016) gave it four stars: solid but not revolutionary. Now Belcher is back, with _[In Search of Deep Faith](http://www.amazon.com/gp/product/0830837744/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0830837744&linkCode=as2&tag=chrishubbs-20)_.
-
-![deep faith](http://chrishubbs.com/wordpress/wp-content/uploads/2013/11/deep-faith.jpg)
+I first became acquainted with author Jim Belcher back in 2009 when I read _Deep Church_. It appears I didn't review it here on the blog, but [my Goodreads review](https://www.goodreads.com/review/show/74128016) gave it four stars: solid but not revolutionary. Now Belcher is back, with _In Search of Deep Faith_.
 
 I feel like I've seen bits and pieces of this book already, having followed Belcher on Twitter for the past few years. _In Search of Deep Faith_ reads like a travel journal crossed with _Foxe's Book of Martyrs_, as Belcher recounts his family's adventures through several months of "pilgrimage" in Europe. Belcher, his wife and four pre-teen children spent several months in Oxford, England, where he was a visiting scholar at the university there. They then spent time exploring European sites that were notable because of the saints who had lived there.
 

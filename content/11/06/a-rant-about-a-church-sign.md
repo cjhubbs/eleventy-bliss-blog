@@ -1,9 +1,7 @@
 ---
 title: "A Rant about a Church Sign"
-date: "2011-06-28T17:44:33.000"
-tags: 
-  - "church"
-  - "rants"
+date: 2011-06-28T17:44:33.000
+tags: ['church','rants']
 ---
 
 There is a Baptist church in our town that I drive by on my way to church at least a couple of times a week. For the past couple of weeks they've had a message up on their sign that has irritated me to no end. Now, sayings on church signs have a way of being trite and cutesy, but this one has surpassed that and gone on to outright misguided ridiculousness.

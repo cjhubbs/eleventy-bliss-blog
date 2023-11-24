@@ -1,9 +1,7 @@
 ---
 title: "Hard, true words from @tallskinnykiwi"
-date: "2011-08-04T13:22:08.000"
-tags: 
-  - "christianity"
-  - "church"
+date: 2011-08-04T13:22:08.000
+tags: ['christianity','church']
 ---
 
 Andrew Jones (aka "Tall Skinny Kiwi"), "itinerant social entrepreneur", wandering missionary and prolific blogger, has a [hard but true, and dare I say, prophetic post](http://tallskinnykiwi.typepad.com/tallskinnykiwi/2011/08/the-nines-2011-pick-me.html) on his blog today. It's unfortunate that the piece is headlined as an appeal to be chosen to speak on [The Nines](http://thenines.leadnet.org/), because the bulk of the post is about the changes coming for the church and for Christian culture.

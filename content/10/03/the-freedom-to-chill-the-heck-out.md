@@ -1,9 +1,7 @@
 ---
 title: "The freedom to chill the heck out"
-date: "2010-03-27T17:42:22.000"
-tags: 
-  - "quotes"
-  - "spirituality"
+date: 2010-03-27T17:42:22.000
+tags: ['quotes']
 ---
 
 Just found a link to a great thought that [Jared Wilson posted back in January](http://gospeldrivenchurch.blogspot.com/2010/01/gospel-frees-you-from-tyranny-of-hyper.html). Given that it's only a paragraph, and it's a good one, I'll quote it in its entirety.

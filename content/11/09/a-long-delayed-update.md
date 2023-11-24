@@ -1,10 +1,7 @@
 ---
 title: "A long-delayed update"
-date: "2011-09-23T19:04:34.000"
-tags: 
-  - "blogging"
-  - "life"
-  - "truly-random"
+date: 2011-09-23T19:04:34.000
+tags: ['bullet-points','life']
 ---
 
 So, that blogging every day thing didn't last long, did it? A little bit of work craziness and life busyness and all of a sudden it's been six weeks. So what's been going on? Since I last posted, I:

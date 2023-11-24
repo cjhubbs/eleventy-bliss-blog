@@ -1,9 +1,7 @@
 ---
 title: "Books in my reading queue"
-date: "2011-03-09T18:22:56.000"
-tags: 
-  - "books"
-  - "recommended-reading"
+date: 2011-03-09T18:22:56.000
+tags: ['books','reading']
 ---
 
 My reading queue has been backed up for a while now, and I'll admit that I only make things worse by buying books and regularly hitting the library. I've been entertaining myself with some light popular spy thrillers lately, but it's time to put those down and work through some better stuff. Here are a few that are in my pile:

@@ -1,9 +1,7 @@
 ---
 title: "My brain is full: a quick clarification"
-date: "2011-10-28T20:02:45.000"
-tags: 
-  - "christianity"
-  - "community"
+date: 2011-10-28T20:02:45.000
+tags: ['christianity','church']
 ---
 
 I realize after writing these last couple of posts that they may make me sound like I'm deeply unhappy or unsatisfied with my current church. Given that lots of my local church friends read my blog, let me assure you that it's not the case. I'm happy with where we are as a church. I'm encouraged and challenged by the teaching on a regular basis. I enjoy serving as a part of our music team. I've made some good friends in the three years we've been at Stonebridge, and I know those relationships will only deepen as time goes on.

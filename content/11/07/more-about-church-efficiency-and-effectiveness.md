@@ -1,9 +1,10 @@
 ---
 title: "More about church efficiency and effectiveness"
-date: "2011-07-06T19:09:05.000"
+date: 2011-07-06T19:09:05.000
+tags: ['church']
 ---
 
-I've been mulling over [Skye Jethani's question about efficiency and effectiveness](http://www.outofur.com/archives/2011/06/blessed_redunda.html) after my brother Andrew prodded me with [some](http://chrishubbs.com/2011/06/30/who-decided-that-efficiency-and-effectiveness-were-the-highest-values-for-ministry/comment-page-1/#comment-19361) [comments](http://chrishubbs.com/2011/06/30/who-decided-that-efficiency-and-effectiveness-were-the-highest-values-for-ministry/comment-page-1/#comment-19363) on [the original post](http://chrishubbs.com/2011/06/30/who-decided-that-efficiency-and-effectiveness-were-the-highest-values-for-ministry/ "Who decided that efficiency and effectiveness were the highest values for ministry?"). Andrew argues for prioritizing efficiency and effectiveness thusly:
+I've been mulling over [Skye Jethani's question about efficiency and effectiveness](http://www.outofur.com/archives/2011/06/blessed_redunda.html) after my brother Andrew prodded me with some comments. Andrew argues for prioritizing efficiency and effectiveness thusly:
 
 > If reaching people with the Gospel is the ultimate goal, then efficiency (the stewardship of resources towards the greatest gospel advance possible) and effectiveness (the fruit of that stewardship) is essential. We’re asking, ‘what do we have that is being used for missions, and how well is it doing its job?’ If you’re not constantly asking those two questions than you’re not really going to be ‘effective’..
 

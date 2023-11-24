@@ -1,11 +1,7 @@
 ---
 title: "Imagining a different narrator for a favorite song"
-date: "2010-11-18T13:04:09.000"
-tags: 
-  - "humor"
-  - "music"
-  - "veggie-tales"
-  - "william-shatner"
+date: 2010-11-18T13:04:09.000
+tags: ['humor','music']
 ---
 
 A couple of nights ago I had the classic Veggie Tales' Silly Song _Dance of the Cucumber_ pop into my head. (Don't even bother asking why.)

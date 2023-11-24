@@ -1,19 +1,17 @@
 ---
 title: "Doctrine good, stories bad?"
-date: "2010-03-10T18:15:55.000"
-tags: 
-  - "recommended-reading"
-  - "theology"
+date: 2010-03-10T18:15:55.000
+tags: ['reading','theology']
 ---
 
 I have learned much over the past several years from brothers and sisters of the Reformed theological persuasion. I love and respect them deeply. But the good Dr. Daniel J. R. Kirk [today puts his finger on](http://www.jrdkirk.com/?p=375) a point which has provided me some unease in my conversations with my Reformed brethren, saying it, as usual, more succinctly than I could.
 
 Quoth Daniel:
 
-> Doctrine Good. Stories Bad. That’s the mini-theme of this month’s Christianity Today.
-> 
-> I begin with the most egregious offense. There’s a short inset on p. 26, snipped from a book by J. I. Packer and Gary A. Parrett (Grounded in the Gospel; Baker, 2010) entitled, “The Lost Art of Catechesis.” The point? Back in the old days, folks used to have to learn their theology. That waned for a bit, but was revived in all its glory in the Reformation. Doctrine. The church has to learn its doctrine.
-> 
+> Doctrine Good. Stories Bad. That’s the mini-theme of this month’s Christianity Today.  
+> <br/>
+> I begin with the most egregious offense. There’s a short inset on p. 26, snipped from a book by J. I. Packer and Gary A. Parrett (Grounded in the Gospel; Baker, 2010) entitled, “The Lost Art of Catechesis.” The point? Back in the old days, folks used to have to learn their theology. That waned for a bit, but was revived in all its glory in the Reformation. Doctrine. The church has to learn its doctrine.  
+> <br/>
 > When did this all go astray between then and now? When Sunday Schools entrusted instruction to lay people and rather than teaching people theology substituted “instilling of familiarity (or shall we say, perhaps, over-familiarity) with Bible stories” (26).
 
 Daniel, though, strongly disagrees, and he hammers it home here:

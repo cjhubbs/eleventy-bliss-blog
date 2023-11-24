@@ -1,9 +1,7 @@
 ---
 title: "A great response to Bill Keller's social media hand-wringing"
-date: "2011-05-19T14:52:40.000"
-tags: 
-  - "journalism"
-  - "social-media"
+date: 2011-05-19T14:52:40.000
+tags: ['journalism','social-media']
 ---
 
 A wonderful response to NYT editor Bill Keller's hand-wringing post on social media was written today by Mimi Johnson as [a guest post on her husband's blog](http://stevebuttry.wordpress.com/2011/05/19/guest-post-by-mimi-johnson-with-social-media-advice-for-bill-keller/). Ms. Johnson has experienced the social media revolution first-hand as the wife of a newspaperman, and her insight (and writing chops) come through loud and clear:

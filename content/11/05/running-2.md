@@ -1,11 +1,10 @@
 ---
 title: 'Running again'
-date: '2011-05-09T18:42:32.000'
-tags:
-  - 'running'
+date: 2011-05-09T18:42:32.000
+tags: ['running']
 ---
 
-![running shoes](http://chrishubbs.com/wordpress/wp-content/uploads/2011/05/best-asics-running-shoes-reviews-150x150.jpg 'best-asics-running-shoes-reviews')I started my dalliance with running nearly 4 years ago. I was looking for some motivation to get off the couch and lose some weight, and figured that if I signed myself up for a race that the potential embarrassment of walking the whole thing might motivate me into action. I didn't train too hard, but I made it through my first 5k in around 32 minutes.
+I started my dalliance with running nearly 4 years ago. I was looking for some motivation to get off the couch and lose some weight, and figured that if I signed myself up for a race that the potential embarrassment of walking the whole thing might motivate me into action. I didn't train too hard, but I made it through my first 5k in around 32 minutes.
 
 I never devoted too much time to running. I'd hit the gym maybe once or twice a week when the weather was bad and do a couple of miles on a treadmill; maybe run a couple of miles outside if the weather was good. And I didn't notice huge improvements in my times or endurance, but I kept at it, albeit intermittently.
 

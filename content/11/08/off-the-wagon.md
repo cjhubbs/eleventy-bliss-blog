@@ -1,9 +1,7 @@
 ---
 title: "Off the wagon"
-date: "2011-08-17T20:50:51.000"
-tags: 
-  - "caffeine"
-  - "running"
+date: 2011-08-17T20:50:51.000
+tags: ['personal']
 ---
 
 So I had a Lipton diet green tea yesterday. The whole bottle had 30 mg of caffeine. From what I can tell, that's less than half as much caffeine as a cup of coffee. Still, drinking that bottle of tea made me jittery for a couple of hours. Couldn't stop bouncing my legs. Craziness. I am now more motivated than ever to mostly stay away from the stuff.

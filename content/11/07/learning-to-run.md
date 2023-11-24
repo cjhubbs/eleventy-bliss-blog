@@ -1,11 +1,10 @@
 ---
 title: "Learning to run"
-date: "2011-07-07T13:54:17.000"
-tags: 
-  - "running"
+date: 2011-07-07T13:54:17.000
+tags:  ["running"]
 ---
 
-Running isn't exactly a new topic on this blog. I [first decided to lace up my shoes](http://chrishubbs.com/2006/08/21/running/) back in August of 2006 and [ran my first 5k](http://chrishubbs.com/2006/09/18/this-n-that-3/) in September of that year. After the initial 5k I never trained much for the races. I've run the local Hog Wild Days 5k every year since then, but even then never trained much or cranked up the pace much. My race times evidenced that fact: I ran that first 5k in 31 minutes and change, and 4 years later I was still running right about 30 minutes for a 5k.
+Running isn't exactly a new topic on this blog. I [first decided to lace up my shoes](/06/08/running/) back in August of 2006 and [ran my first 5k](/06/09/this-n-that-3/) in September of that year. After the initial 5k I never trained much for the races. I've run the local Hog Wild Days 5k every year since then, but even then never trained much or cranked up the pace much. My race times evidenced that fact: I ran that first 5k in 31 minutes and change, and 4 years later I was still running right about 30 minutes for a 5k.
 
 At some point this spring, though, some switch flipped in my head, and running became enjoyable and something of a compulsion. I started [tracking my runs](http://runkeeper.com/user/cjhubbs/) using runkeeper.com and being more regular with my running. I got in more than 50 miles in April, 47 in May, slacked in June whilst on vacation, and now I'm back at it in July.
 

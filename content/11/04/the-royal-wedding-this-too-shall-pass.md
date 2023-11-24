@@ -1,9 +1,7 @@
 ---
 title: "The Royal Wedding: This, Too, Shall Pass"
-date: "2011-04-29T13:41:06.000"
-tags: 
-  - "cynicism"
-  - "royal-wedding"
+date: 2011-04-29T13:41:06.000
+tags: ['cynicism']
 ---
 
 The interwebs have been going gaga for weeks now about the British royal wedding, and this morning Twitter and Facebook are bursting with comments as this spectacle is broadcast live around the world.

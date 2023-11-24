@@ -1,9 +1,7 @@
 ---
 title: "The Perils of Hipster Christianity"
-date: "2010-08-14T15:39:58.000"
-tags: 
-  - "church"
-  - "recommended-reading"
+date: 2010-08-14T15:39:58.000
+tags: ['church','reading','books']
 ---
 
 [Brett McCracken's column](http://online.wsj.com/article/SB10001424052748704111704575355311122648100.html) that appeared on the Wall Street Journal website yesterday really hit home for me. [McCracken](http://stillsearching.wordpress.com), 27, outlines the increasing efforts that the evangelical church has made to try to attract and keep 20-somethings. Whether it's the obsession with being culturally savvy, or with being technologically cutting-edge, or with using shock tactics ('you've never heard your pastor talk about \*this\* before'), McCracken argues that they are simply gimmicks that may bring people in the door; "But", he asks "what sort of Christianity are they being converted to?"

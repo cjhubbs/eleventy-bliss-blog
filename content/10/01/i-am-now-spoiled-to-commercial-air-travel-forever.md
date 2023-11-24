@@ -1,9 +1,7 @@
 ---
 title: "I am now spoiled to commercial air travel forever"
-date: "2010-01-28T17:49:00.000"
-tags: 
-  - "travel"
-  - "work"
+date: 2010-01-28T17:49:00.000
+tags: ['travel','work']
 ---
 
 Yesterday I traveled with five coworkers from Cedar Rapids, IA to Wichita, KS, to participate in our quarterly update meeting with the FAA.

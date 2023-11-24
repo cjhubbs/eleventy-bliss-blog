@@ -1,8 +1,7 @@
 ---
 title: "Seeing the people instead of the system"
-date: "2011-06-29T13:18:52.000"
-tags: 
-  - "christian-living"
+date: 2011-06-29T13:18:52.000
+tags: ['richard-beck']
 ---
 
 I'm still catching up a bit, but I definitely want to recommend [this piece by Richard Beck](http://experimentaltheology.blogspot.com/2011/06/tales-of-demonic.html) wherein he examines how bureaucratic structures in the world tend to dehumanize us.

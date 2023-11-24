@@ -1,9 +1,7 @@
 ---
 title: "Homeschooling as \"normal\""
-date: "2010-12-17T14:47:33.000"
-tags: 
-  - "homeschooling"
-  - "parenting"
+date: 2010-12-17T14:47:33.000
+tags: ['homeschooling']
 ---
 
 When our oldest daughter turned 6 and we finally _had_ to make a decision about school, we decided we'd try our hand at homeschooling. She was already ahead of the game in many academic areas, our local elementary school is, sadly, near the bottom of the heap for Iowa elementary schools, and, frankly, I didn't see a lot of value that could come from sending her off to school for seven hours a day every day, so it was a fairly easy decision. (I should say it seemed easy for me - my wife may have wrestled with it more, though to my perspective it was more trepidation on her part than resistance.)

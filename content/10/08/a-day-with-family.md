@@ -1,9 +1,7 @@
 ---
 title: "A day with family"
-date: "2010-08-05T00:05:52.000"
-tags: 
-  - "family"
-  - "photos"
+date: 2010-08-05T00:05:52.000
+tags: ['family']
 ---
 
 Today we had the chance to enjoy what is an increasingly rare occurrence: all four of my siblings and my parents were here in Hiawatha to visit, giving us the whole family in one place at one time. (Well, almost the whole family: Andrew's wife Heather had to stay back in Washington and work. We missed her.)
@@ -24,6 +22,6 @@ Groan.
 
 Anyhow, it was a great blessing to have everybody under one roof, if only for a day. God is good.
 
-[![](http://chrishubbs.com/wordpress/wp-content/uploads/2010/08/DSC_4204-300x199.jpg "Family photo")](http://chrishubbs.com/wordpress/wp-content/uploads/2010/08/DSC_4204.jpg)
+![](/images/2010/hubbs-family.jpeg)
 
 _Top row, L-R: Andrew, Rebecca, Ryan Middle row, L-R: Dad, Mom, Chris, Katie (being held), Becky, Aaron, Emily Bottom row: Addison, Laura (click to see a bigger image)_

@@ -1,6 +1,7 @@
 ---
 title: "Sacred Unions, Sacred Passions"
-date: "2011-03-15T18:53:06.000"
+date: 2011-03-15T18:53:06.000
+tags: ['books']
 ---
 
 Have you ever read a book that turned everything you had been taught about a subject upside down? That's where I feel I'm at on the topic of cross-gender friendships after reading Dan Brennan's _[Sacred Unions, Sacred Passions](http://www.amazon.com/Sacred-Unions-Passions-Engaging-Friendship/dp/0982580703%3FSubscriptionId%3DAKIAIPY5W5ZYJHYH2ALQ%26tag%3Dscifirev-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0982580703)_.

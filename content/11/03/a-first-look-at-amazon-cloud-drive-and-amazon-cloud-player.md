@@ -1,11 +1,7 @@
 ---
 title: "A first look at Amazon Cloud Drive and Amazon Cloud Player"
-date: "2011-03-29T12:41:58.000"
-tags: 
-  - "amazon"
-  - "cloud-drive"
-  - "cloud-player"
-  - "music"
+date: 2011-03-29T12:41:58.000
+tags: ['amazon','music']
 ---
 
 Amazon is offering two new services this morning: Amazon Cloud Drive and Amazon Cloud Player. Time to take a quick look at what they're offering. The front page on Amazon.com gives the basic details:
@@ -16,19 +12,11 @@ First, about the pricing: Amazon Cloud Drive is a freemium service - free for th
 
 Setting up the Cloud Drive couldn't be easier; I purchased a $5 album from the MP3 store (Eisley's _The Valley_) and then I had the option to either download via the Amazon MP3 downloader or to store to the cloud drive. With one click it had kicked my tracks over into the Cloud Drive and opened up the player.
 
-[![Amazon Cloud Player](http://chrishubbs.com/wordpress/wp-content/uploads/2011/03/Add_New_Post_‹_chrishubbs.com_—_WordPress_-_Mozilla_Firefox-2011-03-29_07.13.09-300x239.png "Amazon Cloud Player")](http://chrishubbs.com/wordpress/wp-content/uploads/2011/03/Add_New_Post_‹_chrishubbs.com_—_WordPress_-_Mozilla_Firefox-2011-03-29_07.13.09.png)
-
-[![Amazon Cloud Player Album View](http://chrishubbs.com/wordpress/wp-content/uploads/2011/03/Amazon_Cloud_Player_-_Mozilla_Firefox-2011-03-29_07.37.58-300x239.png "Amazon Cloud Player Album View")](http://chrishubbs.com/wordpress/wp-content/uploads/2011/03/Amazon_Cloud_Player_-_Mozilla_Firefox-2011-03-29_07.37.58.png)
-
 Cloud Player (web version) is a fairly basic music player design; there's an Album view where you can select a full album to play; you can also create playlists, download, or delete the tracks. Playback starts quickly and there's a QR code right on the player that you can scan with your phone to download the Android app.
 
 OK, so next you want to upload some music from your existing collection. Click on the "Upload to your Cloud Drive" button and a prompt comes up telling you that you need to download the Amazon MP3 Uploader application (why include MP3 in the title?), which is a (platform neutral) Adobe Air app. Install the app and point it to your music library and it will scan for all the supported types that you could upload.
 
-[![Amazon MP3 Uploader](http://chrishubbs.com/wordpress/wp-content/uploads/2011/03/Amazon_MP3_Uploader_v1.0.1-2011-03-29_07.14.46-300x184.png "Amazon MP3 Uploader")](http://chrishubbs.com/wordpress/wp-content/uploads/2011/03/Amazon_MP3_Uploader_v1.0.1-2011-03-29_07.14.46.png)
-
 Yes, there are some unsupported music types. At the moment, it'll only support MP3 and M4A files, and (obviously) won't support anything you bought from iTMS that's wrapped with DRM. It defaults to assuming you want to upload everything in your library, and it gives you an estimated time to upload. (For my 74 GB of music library, it estimates 42 hours and change.)
-
-[![Amazon Mp3 Uploaer Unsupported types](http://chrishubbs.com/wordpress/wp-content/uploads/2011/03/Amazon_MP3_Uploader_v1.0.1-2011-03-29_07.04.19-300x191.png "Amazon Mp3 Uploaer Unsupported types")](http://chrishubbs.com/wordpress/wp-content/uploads/2011/03/Amazon_MP3_Uploader_v1.0.1-2011-03-29_07.04.19.png)
 
 Minor gripe with the uploader: rather than just showing you the entire directory tree and allowing you to select the pieces you want to upload, it flattens it and shows you an alphabetized list of lowest-level folders. This is a major pain. Now if I want to upload my entire, say, Sufjan Stevens collection, I can't just click on the Sufjan top-level folder; I have to scroll through the list and select The Age of Adz, The BQE, Illinois, Seven Swans, etc. Amazon, fix this in the next version, please?
 

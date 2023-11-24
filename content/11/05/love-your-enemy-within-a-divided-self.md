@@ -1,8 +1,7 @@
 ---
 title: "Love your enemy: within a divided self"
-date: "2011-05-05T02:52:56.000"
-tags: 
-  - "theology"
+date: 2011-05-05T02:52:56.000
+tags: ["theology"]
 ---
 
 It's been at least a week since [John H.](http://www.confessingevangelical.com/) linked [this James Alison essay](http://www.jamesalison.co.uk/texts/eng50.html) on Twitter, so it's high time that I passed it along with my recommendation. It's not light reading, but it's quite an insightful consideration of Jesus' command to love your enemies.

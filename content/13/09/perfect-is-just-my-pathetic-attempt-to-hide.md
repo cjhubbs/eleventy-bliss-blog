@@ -1,7 +1,7 @@
 ---
-title: "\"Perfect\" is just my pathetic attempt to hide"
+title: "'Perfect' is just my pathetic attempt to hide"
 date: 2013-09-05T17:46:08.000
-tag: ['thoughts']
+tags: ['thoughts']
 ---
 
 Comedian [Marc Maron](http://www.wtfpod.com) has a [fantastic recent podcast episode](http://www.wtfpod.com/podcast/episodes/episode_420_-_ben_sidran) where he interviews jazz pianist [Ben Sidran](http://bensidran.com/).

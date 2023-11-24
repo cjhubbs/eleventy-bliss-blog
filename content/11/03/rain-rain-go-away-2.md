@@ -1,9 +1,7 @@
 ---
 title: "Rain, Rain, Go Away"
-date: "2011-03-09T01:07:27.000"
-tags: 
-  - "complaining"
-  - "rain"
+date: 2011-03-09T01:07:27.000
+tags: ['rain']
 ---
 
 I _know_, if you ask me, that we've only gotten water in our basement due to rain twice, and those times were both before we installed a sump pump and after getting 8+ inches of rain inside of a week.

@@ -1,8 +1,7 @@
 ---
 title: "Some resolutions"
-date: "2011-03-07T17:26:34.000"
-tags: 
-  - "meta"
+date: 2011-03-07T17:26:34.000
+tags: ['self-reflection']
 ---
 
 In a week I'll turn 34, and begin my 35th year of life. That seems momentous somehow. For this 35th year, it's time to do a couple of blog-related things.

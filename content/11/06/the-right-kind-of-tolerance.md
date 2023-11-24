@@ -1,11 +1,7 @@
 ---
 title: "The right kind of tolerance"
-date: "2011-06-17T12:27:18.000"
-tags: 
-  - "christianity"
-  - "islam"
-  - "religion"
-  - "tolerance"
+date: 2011-06-17T12:27:18.000
+tags: ['christianity']
 ---
 
 "Tolerance" is a much misunderstood word these days. I remember hearing a barn-burner of a chapel message back in college from Josh McDowell, warning us that the biggest sin in the worlds eyes in upcoming days would be "intolerance", which they would define (roughly) as "saying someone's beliefs are wrong".

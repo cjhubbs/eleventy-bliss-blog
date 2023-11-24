@@ -1,8 +1,7 @@
 ---
 title: "Moving at the speed of love"
-date: "2011-06-21T14:49:20.000"
-tags: 
-  - "theology"
+date: 2011-06-21T14:49:20.000
+tags: ["theology",'richard-beck']
 ---
 
 Richard Beck has [a great piece today](http://experimentaltheology.blogspot.com/2011/06/jesus-stopped-on-interruptibility.html) on interruptibility.

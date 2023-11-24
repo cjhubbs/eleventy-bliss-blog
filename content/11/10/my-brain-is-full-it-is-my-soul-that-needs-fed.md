@@ -1,10 +1,7 @@
 ---
 title: "My brain is full; it is my soul that needs fed."
-date: "2011-10-27T20:16:48.000"
-tags: 
-  - "christianity"
-  - "liturgy"
-  - "scripture"
+date: 2011-10-27T20:16:48.000
+tags: ['christianity']
 ---
 
 [BHT](http://www.boarsheadtavern.com) patron and [Twitter friend](http://twitter.com/johnthelutheran) John H [posted earlier today](http://curlewriver.wordpress.com/2011/10/26/flash-evensong-and-the-crunchiness-of-gods-word/) about the "Flash evensong" he participated in last night in front of St. Paul's Cathedral in London. Since St. Paul's has been closed due to the Occupy London protests happening nearby, there was a "flash" decision to hold a standard Anglican evening prayer service in public outside of the cathedral. (John can be seen in this video, in the back row, wearing a blue, open-collared shirt.)

@@ -1,8 +1,7 @@
 ---
 title: "Thanks, G."
-date: "2011-11-21T14:07:35.000"
-tags: 
-  - "friends"
+date: 2011-11-21T14:07:35.000
+tags: ['friends']
 ---
 
 My friend [Geof](http://gfmorris.com) has been writing a series of "letters" blog posts this month, addressed to family and friends. I'll admit to idly wondering whether I'd rate a letter or not, but when I saw ["Dear Chris"](http://gfmorris.com/2011/11/16/dear-chris/) show up in my RSS reader, and then read his post, I was a little bit challenged to know what to say.

@@ -1,8 +1,7 @@
 ---
 title: "Awesome morning music mix"
-date: "2011-06-06T13:24:11.000"
-tags: 
-  - "music"
+date: 2011-06-06T13:24:11.000
+tags: ["music"]
 ---
 
 My music playlist is full of awesome this morning. (Thanks as usual to Geof for the playlist algorithms.) Here's the proof:

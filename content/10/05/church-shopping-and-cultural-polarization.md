@@ -1,10 +1,7 @@
 ---
 title: "Church shopping and cultural polarization"
-date: "2010-05-25T19:48:31.000"
-tags: 
-  - "conservatism"
-  - "culture"
-  - "religion"
+date: 2010-05-25T19:48:31.000
+tags: ['church','evangelicalism']
 ---
 
 CNN.com has a blog post today exploring "[How Church Shopping is Polarizing the Country](http://religion.blogs.cnn.com/2010/05/24/how-church-shopping-is-polarizing-the-country/)". Written by law professors Naomi Cahn (George Washington University) and June Carbone (University of Missouri Kansas City) who have recently co-authored a book on cultural polarization, the particular focus on church shopping intrigued me. Heck, I was church shopping not all that long ago. I'm helping cause cultural polarization? I must know more.

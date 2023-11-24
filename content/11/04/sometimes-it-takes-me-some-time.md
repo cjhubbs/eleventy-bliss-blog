@@ -1,15 +1,9 @@
 ---
 title: "Sometimes it takes me some time"
-date: "2011-04-05T13:42:58.000"
-tags: 
-  - "music"
+date: 2011-04-05T13:42:58.000
+tags: ['music']
 ---
-
-\[blackbirdpie id=54888494664925184\]
-
-\[blackbirdpie id=54897009068486656\]
-
-This seems to be the story of my music-listening life. Sure, there are a few records that have immediately grabbed me and then stayed at the top of my favorites list for years. But often it takes time for the music or the particular sound to grow on me. For instance:
+This seems to be the story of my music-listening life: catching up with albums years after they are released, and only eventually having them resonate with me  . Sure, there are a few records that have immediately grabbed me and then stayed at the top of my favorites list for years. But often it takes time for the music or the particular sound to grow on me. For instance:
 
 **Coldplay**
 

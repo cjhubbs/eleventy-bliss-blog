@@ -1,6 +1,7 @@
 ---
 title: "Now Playing: Brian Eno <em>Ambient 1: Music for Airports</em>"
-date: "2010-01-05T20:17:16.000"
+date: 2010-01-05T20:17:16.000
+tags: ['music']
 ---
 
 Time to start something new around here - from time to time I'll highlight a record that I've been playing. I'll start with a rather obscure one this afternoon: Brian Eno's [_Ambient 1: Music for Airports_](http://www.amazon.com/Ambient-Music-Airports-Brian-Eno/dp/B0002PZVH0%3FSubscriptionId%3DAKIAIPY5W5ZYJHYH2ALQ%26tag%3Dscifirev-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0002PZVH0).

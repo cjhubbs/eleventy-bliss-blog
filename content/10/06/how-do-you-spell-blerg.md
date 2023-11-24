@@ -1,19 +1,14 @@
 ---
 title: "Learning to spell a new word, or, how do you spell 'blerg'?"
-date: "2010-06-15T18:48:46.000"
-tags: 
-  - "language"
-  - "television"
-  - "words"
+date: 2010-06-15T18:48:46.000
+tags: ['tv']
 ---
 
 It's fascinating to see how a new word evolves, especially in the case where a word is introduced not via written text, but rather via audible means. Twenty-one years ago Homer Simpson's "D'oh!" appeared on the cultural scene, and quickly became a part of the American lexicon. Its addition to the Oxford English Dictionary in 2000 officially marked its transition from a cartoon interjection to an accepted part of the ever-evolving English language.
 
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2010/06/homer_doh1.gif "homer_doh1")
-
 With "D'oh!", a standard written form of the word was quickly propagated by means of episode titles of The Simpsons. The past few years, though, have introduced a new interjection with much less apparent standardization. I'm talking, of course, about Tina Fey's portrayal of the character Liz Lemon on the popular NBC sitcom _30 Rock_, and her exclamation of disgust that Wikipedia appears to have settled on spelling "blerg".
 
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2010/06/liz-lemon.jpg "liz-lemon")
+[](/images/2010/liz-lemon.jpg)
 
 Anyone surfing the web in the past couple of years will have encountered any number of variant spellings, all apparently based around the various authors' ideas of how it should be spelled. Google is of great help in honing in on the popular options.
 

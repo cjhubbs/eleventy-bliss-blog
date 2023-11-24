@@ -1,13 +1,10 @@
 ---
 title: "Another thought on church shopping and polarization"
-date: "2010-05-26T16:18:36.000"
-tags: 
-  - "church-search"
-  - "community"
-  - "religion"
+date: 2010-05-26T16:18:36.000
+tags: ['church']
 ---
 
-[Yesterday's post on church shopping and cultural polarization](http://chrishubbs.com/2010/05/25/church-shopping-and-cultural-polarization/) reminded me of a question I've been cogitating on for the past week or two.
+[Yesterday's post on church shopping and cultural polarization](/10/05/church-shopping-and-cultural-polarization/) reminded me of a question I've been cogitating on for the past week or two.
 
 **What would it look like if we were forced to go back to attending local community churches? How would it affect our view of what was necessary in a church and what things were "essentials"?**
 

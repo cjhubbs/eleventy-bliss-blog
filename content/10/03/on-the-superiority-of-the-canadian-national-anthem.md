@@ -1,14 +1,10 @@
 ---
 title: "On the superiority of the Canadian national anthem"
-date: "2010-03-01T16:11:46.000"
-tags: 
-  - "music"
-  - "rants"
+date: 2010-03-01T16:11:46.000
+tags: ['music','rants']
 ---
 
-Watching the winter Olympics over the past two weeks, I caught at least a few of the medal ceremonies, including at least a couple (including the one after the amazing hockey game yesterday) where the Canadian anthem was played. Each time I was struck with the same thought, which I finally [voiced on Twitter](http://twitter.com/cjhubbs/status/9797731040) yesterday: that the Canadian national anthem is highly superior to ours. One friend [expressed the same thought](http://twitter.com/masterkari/status/9805397238), but another [quickly disagreed](http://twitter.com/birdit/status/9797965642). So, let me offer a few thoughts in defense of my assertion.
-
-\[blackbirdpie id=9797731040\]
+Watching the winter Olympics over the past two weeks, I caught at least a few of the medal ceremonies, including at least a couple (including the one after the amazing hockey game yesterday) where the Canadian anthem was played. Each time I was struck with the same thought, which I finally voiced on Twitter yesterday: that the Canadian national anthem is highly superior to ours. One friend expressed the same thought, but another quickly disagreed. So, let me offer a few thoughts in defense of my assertion.
 
 **Reasons that '[O Canada](http://en.wikipedia.org/wiki/O_Canada)' is superior to '[The Star-Spangled Banner](http://en.wikipedia.org/wiki/The_Star_Spangled_Banner)'**
 

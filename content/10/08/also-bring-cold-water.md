@@ -1,11 +1,7 @@
 ---
 title: "Also Bring Cold Water"
-date: "2010-08-23T00:44:33.000"
-tags: 
-  - "christian-living"
-  - "islam"
-  - "politics"
-  - "religion"
+date: 2010-08-23T00:44:33.000
+tags: ['christianity','politics','religion']
 ---
 
 Responses from right-wingers and evangelical Christians to the so-called "Ground Zero mosque" have been spread broadly throughout the cable news media and online news and opinion sites over the past few weeks. Initial responses were typical God-and-country red meat, [proclaiming Ground Zero to be "hallowed ground"](http://www.politicsdaily.com/2010/08/14/sarah-palin-questions-obamas-support-for-ground-zero-mosque/), and declaring that allowing Muslims to build a mosque on that site would be, (to borrow a tired phrase,) to let the terrorists win.
@@ -16,8 +12,8 @@ Those points may not yet have gained full acceptance, especially among Republica
 
 But yesterday on the Christian group blog Evangel, [a post by Tom Gilson](http://firstthings.com/blogs/evangel/2010/08/islam-in-america-are-we-ready/) (a strategist with Campus Crusade for Christ) brings up what I believe will be the next round of argument against the project: saying that if we look at this strictly as a religious liberty issue, we are making the mistake of believing that Islam is simply another religion.
 
-> \[A friend\] views Islam as a religion that deserves the same rights and privileges as any other. That’s questionable, to say the least....
-> 
+> \[A friend\] views Islam as a religion that deserves the same rights and privileges as any other. That’s questionable, to say the least....  
+> <br/>
 > If you think the Ground Zero mosque comes down to a simple matter of symbolism, or of religious freedom, then you don’t understand the issues deeply enough.
 
 Instead, the author proclaims, Islam is a way of belief whose ultimate goal is domination, and that if we don't watch out, America will simply be Islam's next conquest.

@@ -1,14 +1,10 @@
 ---
 title: "Decaffeinating"
-date: "2011-08-08T13:04:40.000"
-tags: 
-  - "health"
-  - "running"
+date: 2011-08-08T13:04:40.000
+tags: ['health']
 ---
 
 Today marks the beginning of my second week without caffeine.
-
-![](http://chrishubbs.com/wordpress/wp-content/uploads/2011/08/image_dietpepsi_newbottle11.jpg "image_dietpepsi_newbottle11")
 
 I started out the month of August with a few rather stringent goals: drink nothing but water, stay away from sugar, and eat moderately. I was hoping that the combination of those goals and the running I need to do to prepare for the half marathon coming up in September would help me shed some pounds that have been stubbornly sticking around.
 

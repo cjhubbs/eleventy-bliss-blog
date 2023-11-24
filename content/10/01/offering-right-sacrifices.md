@@ -1,9 +1,7 @@
 ---
 title: "Offering right sacrifices"
-date: "2010-01-05T14:15:18.000"
-tags: 
-  - "sacrifice"
-  - "thoughts"
+date: 2010-01-05T14:15:18.000
+tags: ['theology']
 ---
 
 In 2010 I'm undertaking the [Bible reading plan](http://journeyon.net/engage/scripture/reading) put out by [The Journey](http://journeyon.net), and this morning's reading hit an interesting combination of passages - Genesis 4, Psalm 4, and Matthew 4. The theme that links them all: offering right sacrifices to God.
@@ -12,14 +10,14 @@ Genesis 4 gives us the familiar story of Cain and Abel. Abel gives the right sor
 
 Psalm 4:4 - 8 follows up that sobering story with these verses:
 
-> 4 In your anger do not sin; when you are on your beds, search your hearts and be silent.
-> 
-> 5 Offer right sacrifices and trust in the LORD.
-> 
-> 6 Many are asking, "Who can show us any good?" Let the light of your face shine upon us, O LORD.
-> 
-> 7 You have filled my heart with greater joy than when their grain and new wine abound.
-> 
+> 4 In your anger do not sin; when you are on your beds, search your hearts and be silent.  
+> <br/>
+> 5 Offer right sacrifices and trust in the LORD.  
+> <br/>
+> 6 Many are asking, "Who can show us any good?" Let the light of your face shine upon us, O LORD.  
+> <br/>
+> 7 You have filled my heart with greater joy than when their grain and new wine abound.  
+> <br/>
 > 8 I will lie down and sleep in peace, for you alone, O LORD, make me dwell in safety.
 
 David gets in several zingers here that speak directly to me in my daily situation:

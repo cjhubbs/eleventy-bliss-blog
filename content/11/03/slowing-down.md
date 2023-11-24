@@ -1,9 +1,7 @@
 ---
 title: "Slowing Down"
-date: "2011-03-17T16:18:38.000"
-tags: 
-  - "books"
-  - "recommended-reading"
+date: 2011-03-17T16:18:38.000
+tags: ['books','reading']
 ---
 
 I've read a lot of books the past few years. As [my Goodreads account](http://www.goodreads.com/user/show/80101-chris-hubbs) will attest, I've averaged a book every 5 - 6 days for the past four years, and to date in 2011 I'm still on that pace. The book pile next to my bed waxes and wanes with library visits and Amazon shipments. I've always been a quick reader. This can be a beneficial thing at times, but it also means that sometimes I'm still picking up detail on my second and third times through a book. I'm coming to the conclusion now, though, that I need to slow down.

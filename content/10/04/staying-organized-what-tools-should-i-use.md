@@ -1,8 +1,7 @@
 ---
 title: "Staying Organized: What Tools should I Use?"
-date: "2010-04-13T19:55:17.000"
-tags: 
-  - "nerdy"
+date: 2010-04-13T19:55:17.000
+tags: ["nerdy"]
 ---
 
 Some weeks at work are calm, with just a few meetings and only one or two things to keep track of. Then there are weeks like this week, when the meetings are numerous, the to-dos are flying left and right, and the number of things to keep track of increases exponentially. It's about at this point that I start to despair that I will ever actually keep track of it all. I've had a hodge-podge of tools that I've tried to use in the past, with only middling success. I'd love to find the right tool (or toolset) to meet my needs, so I'm throwing it out here to help organize my thoughts, and to open it up for any input my multitude of geeky and resourceful friends might have.

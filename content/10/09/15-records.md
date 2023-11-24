@@ -1,8 +1,7 @@
 ---
 title: "15 Records"
-date: "2010-09-28T13:48:52.000"
-tags: 
-  - "music"
+date: 2010-09-28T13:48:52.000
+tags: ["music"]
 ---
 
 I'm sure I got tagged on this meme somewhere along the way, and then [my buddy Dan did it last week](http://www.rmfo-blogs.com/daniel/2010/09/22/15/), so I figured it'd be an interesting exploration into my music library. 15 records that were influential in my listening history. More or less in chronological order as to when I found them.

@@ -1,8 +1,7 @@
 ---
 title: "Last night I convinced myself..."
-date: "2011-11-28T11:17:16.000"
-tags: 
-  - "random-2"
+date: 2011-11-28T11:17:16.000
+tags: ['life']
 ---
 
 Last night I convinced myself that I wanted to hit the gym this morning. I packed my bag so I could just go from the gym to work, and then psyched myself up for making sure I got up with my alarm.

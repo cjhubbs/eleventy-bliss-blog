@@ -1,9 +1,7 @@
 ---
 title: "My 5K Playlist for Hog Wild Days"
-date: "2011-06-17T20:35:03.000"
-tags: 
-  - "music"
-  - "running"
+date: 2011-06-17T20:35:03.000
+tags: ['music','running']
 ---
 
 It's been a while since I've reworked my 5K playlist. This latest incarnation may be a little heavy on Arcade Fire, but I've been listening to them _a lot_ while I've been running this spring, and the tempos of the songs work really well. Anyway, here's what I've got:

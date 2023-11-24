@@ -1,11 +1,7 @@
 ---
 title: "A short Friday night update"
-date: "2008-06-14T00:50:07.000"
-categories: 
-  - "random"
-tags: 
-  - "2008-flood"
-  - "life"
+date: 2008-06-14T00:50:07.000
+tags: ["2008-flood"]
 ---
 
 What a beautiful day today was. Sunshine, cool temps... such a nice change from the weeks of rain. We're even forecast to get several more sunny days here over the next week. Let's pray that it happens.

@@ -1,8 +1,7 @@
 ---
 title: "Bullet Points for a Tuesday Morning"
-date: "2008-04-15T12:34:25.000"
-categories: 
-  - "random"
+date: 2008-04-15T12:34:25.000
+tags: ['bullet-points']
 ---
 
 - FINALLY with some warmer weather here in Iowa. Softball is supposed to start in two weeks and it's been too cold to get out to practice. Tomorrow, though, we're supposed to hit 70. Hallelujah!

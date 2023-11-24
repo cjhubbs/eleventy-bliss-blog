@@ -1,11 +1,7 @@
 ---
 title: "Bunk beds"
-date: "2008-05-28T13:01:31.000"
-categories: 
-  - "random"
-tags: 
-  - "kids"
-  - "photos"
+date: 2008-05-28T13:01:31.000
+tags: ['family']
 ---
 
 It's been a couple of weeks now but there was great excitement among the little girls in our house because we bought a nice set of bunk beds at a garage sale and set them up in Laura's room. Laura is now the proud owner of a "big bed" - a real twin-sized bed with real sheets and pillow. We've set up the upper bunk as well (the pictures were taken before it got set up) and while we don't have any immediate plans to move Addie in with Laura, I imagine it'll happen eventually.

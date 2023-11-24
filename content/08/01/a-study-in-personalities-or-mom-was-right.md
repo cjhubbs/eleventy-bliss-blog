@@ -1,11 +1,7 @@
 ---
 title: "A study in personalities, or, Mom was right"
-date: "2008-01-17T13:16:58.000"
-categories: 
-  - "random"
-tags: 
-  - "kids"
-  - "life"
+date: 2008-01-17T13:16:58.000
+tags: ['kids']
 ---
 
 My mom has mentioned more than once how she enjoys seeing our girls' personalities as they get bigger and start to really develop. She sees Laura as having more of my personality: quiet, methodical, the classic introverted engineer. (Poor kid!) Addie, on the other hand, is the more ornery outgoing one, much like my brother Ryan. I knew I more or less agreed with Mom, but saw it very clearly last night.

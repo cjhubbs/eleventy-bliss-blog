@@ -1,8 +1,7 @@
 ---
 title: "Four"
-date: "2008-04-08T12:47:43.000"
-categories: 
-  - "random"
+date: 2008-04-08T12:47:43.000
+tags: ['family']
 ---
 
 [![howdy](http://farm3.static.flickr.com/2394/2258871540_bc9f1926a9_m.jpg)](http://www.flickr.com/photos/chrishubbs/2258871540/ "howdy by chrishubbs, on Flickr")There's been a running joke at our house for some time now that goes something like this:

@@ -1,15 +1,10 @@
 ---
 title: "2007 in Books: Chris's Reading in Review"
-date: "2008-01-02T14:08:08.000"
-categories: 
-  - "random"
-tags: 
-  - "books"
+date: 2008-01-02T14:08:08.000
+tags: ['books','reading','year-in-review']
 ---
 
 One year ago I decided that my blog was the must useful place to keep my reading list, and that proved to be a good choice. I've tried keeping reading lists in the past, but was never consistent in recording. This year, though, I managed to record each book and a couple sentences of synopsis and review. I don't do much in the way of Top 10 lists, but this seems like one place where I have enough data at hand to make a year-end summary. So here goes.
-
-[**Full list of books I read in 2007.**](http://thehubbs.net/chris/books-ive-read-in-2007/)
 
 Total books read: 85. Total fiction: 68. Total non-fiction: 17. Total re-reads: 1.
 

@@ -1,11 +1,7 @@
 ---
 title: "Sucking it up"
-date: "2008-06-13T09:50:31.000"
-categories: 
-  - "random"
-tags: 
-  - "2008-flood"
-  - "life"
+date: 2008-06-13T09:50:31.000
+tags: ["2008-flood"]
 ---
 
 No time to post pictures but if you visit any online news site you'll undoubtedly be able to see the pictures of Cedar Rapids, IA. When the river crests tomorrow (God willing), it will be about 12 feet above, not flood stage, but 12 feet above the previously-highest measured flood. Twenty feet above flood stage.

@@ -1,8 +1,7 @@
 ---
 title: "The Strange Story of Easter: Surprised by Hope, Chapter 4"
-date: "2008-04-05T17:19:36.000"
-categories: 
-  - "random"
+date: 2008-04-05T17:19:36.000
+categories: ['books','theology','n-t-wright']
 ---
 
 Having noted in chapter three that _something_ happened to cause the early Christians' belief in resurrection to be vastly different from their former religious or cultural beliefs, in chapter 4 N. T. Wright sets out to make the case for a real, historical Easter. He starts out be listing four "strange features" shared by the accounts in the canonical gospels which, he says, should compel us to take them seriously as early accounts. Those features:
@@ -20,8 +19,8 @@ Finally, Wright concludes,
 
 Wright's other main argument in chapter four is for those who discount a "real" resurrection based on "science". He notes that
 
-> ...there are different types of knowing. Science studies the repeatable; history studies the unrepeatable... historians don't of course see this as a problem and are usually not shy about declaring that these events certainly took place, even though we can't repeat them in the laboratory.
-> 
+> ...there are different types of knowing. Science studies the repeatable; history studies the unrepeatable... historians don't of course see this as a problem and are usually not shy about declaring that these events certainly took place, even though we can't repeat them in the laboratory.  
+> <br/>
 > But when people say "But that can't have happened because we know that _that sort of thing_ doesn't actually happen," then they are appealing to a would-be scientific principle of history, namely, the principle of _analogy_. The problem with analogy is that it never quote gets you far enough. History is full of unlikely things that happened once and once only, with the result that the analogies are often at best partial.
 
 There's a lot more to this chapter but it would be uncharitable to just quote the whole thing. Suffice it to say that Wright very convincingly argues that there is really no good explanation for all that has happened since other than that Jesus was truly resurrected from the dead. "Sometimes," he notes, "human beings - individuals or communities - are confronted with something that they must reject outright or that, if they accept it, will demand the remaking of their worldview." Having thus set out the framework in part one of _Surprised by Hope_, Wright will continue to discuss what that worldview looks like when it comes to future things.

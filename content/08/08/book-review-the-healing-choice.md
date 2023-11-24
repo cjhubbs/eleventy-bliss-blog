@@ -1,11 +1,7 @@
 ---
 title: "Book Review: The Healing Choice"
-date: "2008-08-04T01:44:51.000"
-categories: 
-  - "random"
-tags: 
-  - "books"
-  - "reviews"
+date: 2008-08-04T01:44:51.000
+tags: ['books','reviews']
 ---
 
 This week's book review, thanks to a free copy from WaterBrook Press, is _[The Healing Choice](http://www.amazon.com/Healing-Choice-Move-Beyond-Betrayal/dp/1400074258/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1217010140&sr=1-1 )_ and its associated [Guidebook](http://www.amazon.com/Healing-Choice-Guidebook-Beyond-Betrayal/dp/1400074266/ref=pd_bbs_sr_3?ie=UTF8&s=books&qid=1217010192&sr=1-3), written by Brenda Stoeker and Susan Allen. The authors are aiming here to help women heal from the betrayal of a husband's unfaithfulness. Given the subject matter and the target audience, Becky volunteered to read the books and give us a review.

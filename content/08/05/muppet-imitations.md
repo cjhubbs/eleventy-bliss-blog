@@ -1,12 +1,7 @@
 ---
 title: "Muppet Imitations"
-date: "2008-05-16T14:03:18.000"
-categories: 
-  - "random"
-tags: 
-  - "kids"
-  - "muppets"
-  - "photos"
+date: 2008-05-16T14:03:18.000
+tags: ['family','muppets']
 ---
 
 Apparently this is something that goes by generations, too. I've done Kermit (among others) for a long time... (including on [YouTube](http://www.youtube.com/watch?v=TAa8zmAe2dI)... [twice](http://www.youtube.com/watch?v=ZYsZuNYgxGY)) and now the girls are up to it, too.

@@ -1,10 +1,7 @@
 ---
 title: "The passing of another weekend"
-date: "2008-06-02T13:28:13.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2008-06-02T13:28:13.000
+tags: ['personal']
 ---
 
 I had three things on my to-do list for the weekend as of last Friday afternoon. And though I kept busy all weekend, those three things are still on my to-do list. How did that happen? I suppose I could do like Becky does and add items to my to-do list after I've done them just so I can cross them off. But when you use an on-line list that removes completed items from view, there's not a lot of satisfaction in it.

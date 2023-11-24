@@ -1,12 +1,7 @@
 ---
 title: "Putting my talents to some profit"
-date: "2008-01-24T15:52:28.000"
-categories: 
-  - "random"
-tags: 
-  - "andrews-wedding"
-  - "travel"
-  - "web-design"
+date: 2008-01-24T15:52:28.000
+tags: ['travel','web-design']
 ---
 
 Pretty much ever since my brother Andrew and his fiancee Heather set a date for the wedding this summer Becky has been in full-on planning mode for the trip. It'll be a bit of an adventure and all, taking the girls on their first airplane ride and going cross-country to Washington for a week. We're going to make a week-long vacation out of it; we'll have a few days with the family for the wedding, but we want to get out to see the ocean, too, and will try to take a day to see Seattle and hopefully Matt (my old college roommate) and his wife Abbie.

@@ -1,8 +1,7 @@
 ---
 title: "Early Christian Hope in Its Historical Setting: Surprised by Hope, Chapter 3"
-date: "2008-04-04T12:13:53.000"
-categories: 
-  - "random"
+date: 2008-04-04T12:13:53.000
+tags: ['books','theology','n-t-wright']
 ---
 
 _Let's start at the very beginning,_ says a familiar song from a classic musical, _it's a very good place to start._. And start at the beginning N. T. Wright does in Chapter 3 of _Surprised by Hope_. In fact, Wright is in a supremely-qualified position to start at "the beginning" given his preeminence as a New Testament scholar. Wright's question for chapter three is this: how did the early church talk about the resurrection? What was their view? The answers provide some keen insights into truths about the resurrection of Jesus.
@@ -27,9 +26,9 @@ So, Wright says, there was a definite shift in the religious views as Jews becam
 
 **Also in this series:**
 
-- [Overview](http://www.chrishubbs.com/2008/03/06/wrestling-with-tom-an-american-evangelicals-coming-to-grips-with-n-t-wrights-surprised-by-hope/)
-- [Chapter 1: All Dressed Up and No Place To Go?](http://www.chrishubbs.com/2008/03/30/wrestling-with-tom-surprised-by-hope-chapter-1/)
-- [Chapter 2: Puzzled About Paradise?](http://www.chrishubbs.com/2008/04/01/puzzled-about-paradise-surprised-by-hope-chapter-2/)
+- [Overview](/08/03/wrestling-with-tom-an-american-evangelicals-coming-to-grips-with-n-t-wrights-surprised-by-hope/)
+- [Chapter 1: All Dressed Up and No Place To Go?](/08/03/wrestling-with-tom-surprised-by-hope-chapter-1/)
+- [Chapter 2: Puzzled About Paradise?](/08/04/puzzled-about-paradise-surprised-by-hope-chapter-2/)
 - Chapter 3: Early Christian Hope in Its Historical Setting (this post)
 - Chapter 4: The Strange Story of Easter
 - Chapter 5: Cosmic Future: Progress or Despair?

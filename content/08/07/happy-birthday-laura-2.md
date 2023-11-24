@@ -1,12 +1,7 @@
 ---
 title: 'Happy birthday Laura (2008 edition)!'
-date: '2008-07-27T14:30:35.000'
-categories:
-  - 'random'
-tags:
-  - 'birthdays'
-  - 'kids'
-  - 'photos'
+date: 2008-07-27T14:30:35.000
+tags: ['family']
 ---
 
 Our oldest daughter Laura turns 4 today. So far she's celebrated the morning with a bowl of Rice Krispies and a new Veggie Tales DVD. She's quite excited about it. :-)

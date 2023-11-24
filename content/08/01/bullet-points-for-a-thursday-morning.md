@@ -1,11 +1,7 @@
 ---
 title: "Bullet points for a Thursday Morning"
-date: "2008-01-31T13:50:57.000"
-categories: 
-  - "random"
-tags: 
-  - "bullet-points"
-  - "life"
+date: 2008-01-31T13:50:57.000
+tags: ['bullet-points']
 ---
 
 - Playing basketball three times a week is good for your game and your weight, but sure does make you sore.

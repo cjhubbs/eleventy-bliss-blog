@@ -1,11 +1,7 @@
 ---
 title: "Bullet Points from Montreal"
-date: "2008-05-22T19:51:23.000"
-categories: 
-  - "random"
-tags: 
-  - "bullet-points"
-  - "travel"
+date: 2008-05-22T19:51:23.000
+tags: ['bullet-points','travel']
 ---
 
 I've been in Montreal since Monday night, and it's my first trip here, and for that matter, my first trip out of the country. I don't have any profound essays to write but a bunch of little observations that work most easily as bullet points. So here goes.

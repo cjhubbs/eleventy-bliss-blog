@@ -1,13 +1,7 @@
 ---
 title: "I tried Opera for a day"
-date: "2008-06-18T12:45:17.000"
-categories: 
-  - "random"
-tags: 
-  - "firefox"
-  - "nerdy"
-  - "opera"
-  - "review"
+date: 2008-06-18T12:45:17.000
+tags: ['tech']
 ---
 
 No, Dad, regardless of the title, I'm not talking about Wagner or Puccini or that kind of opera... sorry. But with Firefox 3 coming out yesterday, I figured I'd be the contrarian and give that other browser a try; Opera was promising more features with version 9.5, and I hadn't played with Opera in quite a while. So yesterday was Opera trial day. Mind you, I'm a quite-happy Firefox user, but I figured I should give it a try.

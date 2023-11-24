@@ -1,10 +1,7 @@
 ---
 title: "An apology of sorts"
-date: "2008-07-13T15:03:59.000"
-categories: 
-  - "random"
-tags: 
-  - "washington-vacation-2008"
+date: 2008-07-13T15:03:59.000
+tags: ['travel','family']
 ---
 
 I had really intended to keep the blog up-to-date while on this vacation - after all, during the vacation I have even more to write about than I would otherwise. Sadly, though... well, maybe not so sadly, I've been vacationing rather than blogging. :-) I have been taking lots of pictures, though, so they'll show up eventually, along with some thoughts.

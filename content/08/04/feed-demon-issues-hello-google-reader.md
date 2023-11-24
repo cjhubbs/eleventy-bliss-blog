@@ -1,8 +1,7 @@
 ---
 title: "Feed Demon Issues... Hello Google Reader?"
-date: "2008-04-08T17:01:12.000"
-categories: 
-  - "random"
+date: 2008-04-08T17:01:12.000
+tags: ['tech']
 ---
 
 An original user of Google Reader, some months ago when NewsGator decided to make its products free I decided to switch over and give them a try.  I've been using Feed Demon for a while now and have been more or less happy with it.

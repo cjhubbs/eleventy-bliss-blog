@@ -1,12 +1,7 @@
 ---
 title: "Washington Vacation 2008: The Wedding"
-date: "2008-07-22T12:39:53.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
-  - "photos"
-  - "washington-vacation-2008"
+date: 2008-07-22T12:39:53.000
+tags: ['family','travel']
 ---
 
 After the beach we took a couple of days to travel up from Long Beach to Leavenworth. The stop in Yakima wasn't really anything to write home about - Yakima is quite different from the other places in Washington we visited - dry, dusty, more desert than anything. But it was a good stopping-off point. Becky shot pictures from the moving van like a wild woman. She did get a rather nice one of Mount Rainier:

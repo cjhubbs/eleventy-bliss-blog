@@ -1,12 +1,7 @@
 ---
 title: "Ten"
-date: "2008-06-26T13:27:56.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
-  - "life"
-  - "milestones"
+date: 2008-06-26T13:27:56.000
+tags: ['family']
 ---
 
 Ten years ago today, on a sweltering night in Charlotte, NC, friends and family gathered as Becky and I exchanged our vows and became husband and wife. I don't remember a whole lot about the ceremony itself; the pictures, though, show a geeky boy of 21 looking warm in a basic tuxedo, and a girl looking beautiful if a bit uncomfortable in a white dress and veil. We look so young! Were we really ready to start upon a lifetime together?

@@ -1,11 +1,7 @@
 ---
 title: "...with some frosting..."
-date: "2008-04-28T14:22:05.000"
-categories: 
-  - "random"
-tags: 
-  - "humor"
-  - "kids"
+date: 2008-04-28T14:22:05.000
+tags: ['kids','humor']
 ---
 
 One of the things that just fascinates me is observing the girls' learning - not just _what_ they learn but _how_ they learn. Sure, I'm a nerd, but thinking not just that "hey, she used a funny word" but realizing how that particular word reflects the fact that she's learning about verb tenses (without even knowing it!) just blows me away.

@@ -1,10 +1,7 @@
 ---
 title: "The importance of training others"
-date: "2008-01-28T13:51:03.000"
-tags: 
-  - "2-timothy"
-  - "ministry"
-  - "paul"
+date: 2008-01-28T13:51:03.000
+tags: ['church']
 ---
 
 "...and what you have heard from me in the presence of many witnesses entrust to faithful men who will be able to teach others also." (2 Tim 2:2)

@@ -1,12 +1,7 @@
 ---
 title: "Starting a new tradition (or, a good excuse for ice cream)"
-date: "2008-05-07T12:21:22.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
-  - "photos"
-  - "traditions"
+date: 2008-05-07T12:21:22.000
+tags: ['family']
 ---
 
 Some weeks ago Becky and I were enjoying a date night with a stop at our local Coldstone ice cream shop when we overheard some college students discussing a plan - a plan we liked so much we decided to turn it into a tradition of our own. It's really quite simple: the first day in the spring and summer that the high temperature for the day surpasses the next 10-degree mark, we go for ice cream.

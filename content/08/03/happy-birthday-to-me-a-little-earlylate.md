@@ -1,12 +1,7 @@
 ---
 title: "Happy Birthday to me...  a little early/late"
-date: "2008-03-11T13:24:07.000"
-categories: 
-  - "random"
-tags: 
-  - "andrew-peterson"
-  - "birthdays"
-  - "music"
+date: 2008-03-11T13:24:07.000
+tags: ['andrew-peterson','music']
 ---
 
 Yeah, so my birthday isn't until Friday, but finalized plans yesterday to be able to not just attend the [Andrew Peterson](http://www.andrew-peterson.com) concert here in Cedar Rapids on Saturday, but also to be the runner for the day, which basically means just hanging out there at the church as they set up and then driving AP and company around anyplace they need to go. I was runner a couple years ago when AP and gang came for the Behold the Lamb of God tour, and it was a blast.

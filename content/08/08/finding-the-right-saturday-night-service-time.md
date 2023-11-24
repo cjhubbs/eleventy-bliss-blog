@@ -1,10 +1,7 @@
 ---
 title: "Finding the right Saturday-night service time"
-date: "2008-08-14T12:46:37.000"
-tags: 
-  - "schedule"
-  - "service-times"
-  - "sunday-school"
+date: 2008-08-14T12:46:37.000
+tags: ['church']
 ---
 
 One of our challenges at Imago has been figuring out the right time to hold our Saturday night service. Pick a time to early, and folks find it hard to attend because they're still wanting to finish their Saturday activities. (Especially during the summer.) Pick a time too late, and you're running in to evening plans (which is bad if you're trying to attract college students), dinner schedules, and small children's bedtimes.

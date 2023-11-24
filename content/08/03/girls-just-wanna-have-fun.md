@@ -1,11 +1,7 @@
 ---
 title: "Girls Just Wanna Have Fun"
-date: "2008-03-11T17:39:59.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
-  - "photos"
+date: 2008-03-11T17:39:59.000
+tags: ['family']
 ---
 
 This morning Laura and Addie and a few of their friends participated in a little fashion show for a Christian women's group. They got to pick out dresses to borrow from a local store and then strut their stuff. I'm not sure how much Laura slept last night, she was so excited. Becky managed to get a few pictures of the girls and their friends. Enjoy! (You can click on the pics to see the bigger version on Flickr.)

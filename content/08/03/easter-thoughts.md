@@ -1,11 +1,7 @@
 ---
 title: "Easter Thoughts"
-date: "2008-03-25T15:18:37.000"
-categories: 
-  - "random"
-tags: 
-  - "church"
-  - "easter"
+date: 2008-03-25T15:18:37.000
+tags: ['church']
 ---
 
 I had the opportunity to do the Easter "program" (if you want to call it that) twice this year: once in a slightly-odd (celebrating Easter on Saturday?) Saturday night service at [Imago](http://www.imagochristicp.org); the other on Sunday morning at [Noelridge](http://www.noelridge.org). It was a nice change to not have to plan the service this year; I really enjoy just being the pianist and playing behind someone else. Of course, not planning the service means that you get whatever the leader plans. My only real comment in that regard: I am not a fan of Gaither tour DVDs. In fact, I think pretty much any sort of live person-led activity, even of lower technical quality, is preferable to playing a DVD of a song. Your mileage may vary.

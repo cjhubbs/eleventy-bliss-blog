@@ -1,11 +1,7 @@
 ---
 title: "In belated praise of Once"
-date: "2008-01-28T20:53:57.000"
-categories: 
-  - "random"
-tags: 
-  - "movies"
-  - "review"
+date: 2008-01-28T20:53:57.000
+tags: ['movies','reviews']
 ---
 
 It took me a while to get around to it, but last night Becky and I finally sat down to watch _Once_. I had a hard time finding it at the video store - I think they only stock maybe two copies on DVD. But it was worth the search.

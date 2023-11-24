@@ -1,11 +1,7 @@
 ---
 title: "Christians and Sin in the Movies"
-date: "2008-04-03T13:13:50.000"
-categories: 
-  - "random"
-tags: 
-  - "movies"
-  - "reviews"
+date: 2008-04-03T13:13:50.000
+tags: ['movies','reviews']
 ---
 
 There's been a good discussion going on over at The Rabbit Room regarding how Christians should deal with profanity and other sin portrayed in movies.

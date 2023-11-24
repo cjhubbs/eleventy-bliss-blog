@@ -1,11 +1,7 @@
 ---
 title: "Happy Birthday, Addison Grace!"
-date: "2008-03-13T11:57:38.000"
-categories: 
-  - "random"
-tags: 
-  - "birthdays"
-  - "family"
+date: 2008-03-13T11:57:38.000
+tags: ['family']
 ---
 
 Two years ago today, about this time early in the morning, I was making phone calls to my parents and Becky's parents to let them know they had a new granddaughter. What a blessing Addie has been to us in these past two years. Happy Birthday, young lady... can't wait to celebrate many more with you.

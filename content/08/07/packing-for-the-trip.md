@@ -1,13 +1,7 @@
 ---
 title: "Packing for the trip"
-date: "2008-07-07T01:02:35.000"
-categories: 
-  - "random"
-tags: 
-  - "kids"
-  - "photos"
-  - "travel"
-  - "washington-vacation-2008"
+date: 2008-07-07T01:02:35.000
+tags: ['travel']
 ---
 
 With the expense of airline travel these days, we thought we might consider a method of cost-reduction for this trip.

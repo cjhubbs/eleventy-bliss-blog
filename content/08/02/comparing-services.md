@@ -1,9 +1,7 @@
 ---
 title: "Comparing Services"
-date: "2008-02-04T20:01:34.000"
-tags: 
-  - "church"
-  - "evaluation"
+date: 2008-02-04T20:01:34.000
+tags: ['church']
 ---
 
 This past weekend I had the pleasure of leading music both at [Imago Christi](http://www.imagochristicp.org) on Saturday night and at [Noelridge](http://www.noelridge.org) on Sunday morning. It was the first time in a month that I've been to Noelridge, and with a month of Imago under our belts it was a good chance to draw some comparisons.

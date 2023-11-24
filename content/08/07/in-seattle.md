@@ -1,11 +1,7 @@
 ---
 title: "In Seattle"
-date: "2008-07-08T05:28:26.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
-  - "washington-vacation-2008"
+date: 2008-07-08T05:28:26.000
+tags: ['travel']
 ---
 
 Day 1 of our vacation finally brings us to Seattle. Our flights were only delayed a little - we arrived at SEA maybe 30 minutes after our scheduled arrival time. Our luggage came through intact. (Had we known that the minivan we are renting had built-in child seats, we could've saved ourselves one piece of luggage... but ah well.)

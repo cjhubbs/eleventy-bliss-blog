@@ -1,10 +1,7 @@
 ---
 title: "It's spring...  finally!"
-date: "2008-04-22T12:24:24.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2008-04-22T12:24:24.000
+tags: ['personal']
 ---
 
 Signs that spring is finally here:

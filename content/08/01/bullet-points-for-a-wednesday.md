@@ -1,12 +1,7 @@
 ---
 title: "Bullet points for a Wednesday"
-date: "2008-01-09T13:50:47.000"
-categories: 
-  - "random"
-tags: 
-  - "church-plant"
-  - "life"
-  - "travel"
+date: 2008-01-09T13:50:47.000
+tags: ['church-plant','bullet-points']
 ---
 
 - Just realized I never gave you all any feedback on the first service at Imago Christi. It went pretty well - had 60 in attendance. Music was OK, though I starting singing the wrong verse of one hymn at one point, which threw everybody off. :-(

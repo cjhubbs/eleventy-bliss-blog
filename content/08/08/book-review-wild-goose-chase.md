@@ -1,18 +1,14 @@
 ---
 title: "Book Review: Wild Goose Chase"
-date: "2008-08-28T11:29:43.000"
-categories: 
-  - "random"
-tags: 
-  - "books"
-  - "reviews"
+date: 2008-08-28T11:29:43.000
+tags: ['books','reviews']
 ---
 
 _Wild Goose Chase_, the latest book by pastor Mark Batterson of National Community Church in Washington, DC, sets out its' premise in the introduction:
 
 > The Celtic Christians had a name for the Holy Spirit that has always intrigued me. They called Him _An Geadh-Glas_, or "the Wild Goose". I love the imagery and implications. The name hints at the mysterious nature of the Holy Spirit. Much like a gild goose, the Spirit of God cannot be tracked or tamed. An element of danger and an air of unpredictability surround Him. And while the name may sound a little sacrilegious at first earshot, I cannot think of a better description of what it's like to pursue the Spirit's leading through life than _Wild Goose chase_. I think the Celtic Christians were on to something that institutionalized Christianity has missed out on...
 
-![Wild Goose Chase cover](http://www.chrishubbs.com/wordpress/wp-content/uploads/2008/08/image0021.jpg "image0021")With each chapter in the book, Batterson then calls the reader to "come out of the cage" of one encumbrance or another, sharing anecdotes from his own life and those he's come into contact with in his ministry, and then finishing up each chapter with an example of the principle that he sees in the life of a biblical character.
+With each chapter in the book, Batterson then calls the reader to "come out of the cage" of one encumbrance or another, sharing anecdotes from his own life and those he's come into contact with in his ministry, and then finishing up each chapter with an example of the principle that he sees in the life of a biblical character.
 
 I was unimpressed when the introduction, and indeed, the whole premise of the book, seemed to be based less on some Scriptural principle than on a single phrase from Christian antiquity. And my concerns were deepened when I looked at the chapter titles and subheadings:
 

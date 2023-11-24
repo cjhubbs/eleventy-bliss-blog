@@ -1,10 +1,7 @@
 ---
 title: 'Softball 2008!'
-date: '2008-04-29T12:25:16.000'
-categories:
-  - 'random'
-tags:
-  - 'softball'
+date: 2008-04-29T12:25:16.000
+tags: ['softball']
 ---
 
 Last night was the start to our church league softball season. For most of the day it looked like we might not even play a game; the weather was quite nasty in the morning, with near-freezing temperatures, strong wind, and sleet. But the bitter morning gave way to a merely blustery evening, and so we made our way out to Noelridge Park to another season like the rest, save that this time we were bundled in multiple layers of shirts, sweats, and stocking caps.

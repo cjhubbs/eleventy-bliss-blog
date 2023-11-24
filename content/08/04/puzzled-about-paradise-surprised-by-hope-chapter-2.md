@@ -1,8 +1,7 @@
 ---
 title: "Puzzled About Paradise? Surprised by Hope, Chapter 2"
-date: "2008-04-02T01:32:48.000"
-categories: 
-  - "random"
+date: 2008-04-02T01:32:48.000
+tags: ['books','theology','n-t-wright']
 ---
 
 In Chapter 2 of _Surprised by Hope_, N. T. Wright examines the wide sweep of confusing views that the Church has commonly held about death over the past few centuries. I found them quite familiar. From the stern "death is our enemy" position all the way over to the "death is our friend to take us out of this place" end of things, Wright quotes familiar hymns (most of which you've probably sung in church before) to point out the varied viewpoints. Really, how do you even begin to start to rectify John Donne's "Death be not proud... Death, thou shalt die", with _Abide With Me_'s "heav'n's morning breaks and earth's vain shadows flee"? There's a disconnect there somewhere. Wright reminds us that "God's intention is not to let death have its way with us." Death is an enemy, one that has been and will be defeated.
@@ -13,10 +12,10 @@ Wright goes on to ask a series of questions that he will answer later in the boo
 
 **Also in this series:**
 
-- [Overview](http://www.chrishubbs.com/2008/03/06/wrestling-with-tom-an-american-evangelicals-coming-to-grips-with-n-t-wrights-surprised-by-hope/)
-- [Chapter 1: All Dressed Up and No Place To Go?](http://www.chrishubbs.com/2008/03/30/wrestling-with-tom-surprised-by-hope-chapter-1/)
+- [Overview](/08/03/wrestling-with-tom-an-american-evangelicals-coming-to-grips-with-n-t-wrights-surprised-by-hope/)
+- [Chapter 1: All Dressed Up and No Place To Go?](/08/03/wrestling-with-tom-surprised-by-hope-chapter-1/)
 - Chapter 2: Puzzled About Paradise? (this post)
-- [Chapter 3: Early Christian Hope in Its Historical Setting](http://www.chrishubbs.com/2008/04/04/early-christian-hope-in-its-historical-setting-surprised-by-hope-chapter-3/)
+- [Chapter 3: Early Christian Hope in Its Historical Setting](/08/04/early-christian-hope-in-its-historical-setting-surprised-by-hope-chapter-3/)
 - Chapter 4: The Strange Story of Easter
 - Chapter 5: Cosmic Future: Progress or Despair?
 - Chapter 6: What the Whole World's Waiting For

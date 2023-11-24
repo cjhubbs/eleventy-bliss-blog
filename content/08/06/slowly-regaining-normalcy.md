@@ -1,11 +1,7 @@
 ---
 title: "Slowly regaining normalcy"
-date: "2008-06-16T00:29:31.000"
-categories: 
-  - "random"
-tags: 
-  - "2008-flood"
-  - "life"
+date: 2008-06-16T00:29:31.000
+tags: ["2008-flood"]
 ---
 
 Father's Day 2008 wasn't quite what any of us had been planning, but it's still gone pretty well. After finishing a tasty breakfast that Becky made for me, we spent most of the morning and afternoon cleaning up the basement - washing things down with a bleach solution, sweeping up dirt and grime, repacking boxes that had gotten wet, scraping peeling paint off the walls, and starting to repaint. Slowly it's coming back together.

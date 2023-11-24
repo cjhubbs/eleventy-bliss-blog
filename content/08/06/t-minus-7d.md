@@ -1,11 +1,7 @@
 ---
 title: "T-minus 7d"
-date: "2008-06-30T19:32:01.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "travel"
+date: 2008-06-30T19:32:01.000
+tags: ['travel']
 ---
 
 It's starting to hit home that one week from now we will be on an airplane, with the kiddos, headed for our Washington vacation and Andrew's wedding. We've gotten to the list-making stage. What all do we need to take? What will the weather be like? (It's a lot different on the coast than it is in Leavenworth where the wedding will be!) What suitcases are we taking along? How many bags will we have to check? Do we have seats assigned on all the flights? And on and on and on.

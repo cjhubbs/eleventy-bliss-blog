@@ -1,12 +1,7 @@
 ---
 title: "Wrestling with Tom: An American Evangelical's coming-to-grips with N. T. Wright's Surprised By Hope"
-date: "2008-03-07T04:42:47.000"
-categories: 
-  - "random"
-tags: 
-  - "church"
-  - "mission"
-  - "n-t-wright"
+date: 2008-03-07T04:42:47.000
+tags: ['church','theology','n-t-wright']
 ---
 
 Few writers have gained the attention of, and made waves in, the Christian blogosphere in recent memory in quite the way that N. T. Wright has. (The other that immediately comes to mind is Mark Driscoll, but his similarity with Wright probably ends about right there.) A "Lord Bishop" (ach, a hierarchical title!) in the Anglican (aren't they all liberals?) Church, Wright is a brilliant yet down-to-earth scholar of the New Testament. He has written a thick three-volume set on Jesus (one volume of which I received as a Christmas gift and am still wading through), a defense and apologetic of Christian beliefs (_[Simply Christian](http://www.amazon.com/gp/redirect.html%3FASIN=0060507152%26tag=scifirev-20%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/0060507152%253FSubscriptionId=1N9AHEAQ2F6SVD97BE02)_), and a little book that went off like a bomb in the Reformed world called _[What St. Paul Really Said](http://www.amazon.com/gp/redirect.html%3FASIN=0802844456%26tag=scifirev-20%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/0802844456%253FSubscriptionId=1N9AHEAQ2F6SVD97BE02)_. (As a non-Reformed evangelical, I don't really get what the huge deal is about, though I do appreciate the insights that Wright has to Paul.)

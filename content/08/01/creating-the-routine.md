@@ -1,8 +1,7 @@
 ---
 title: "Creating the routine"
-date: "2008-01-08T13:31:36.000"
-tags: 
-  - "planning"
+date: 2008-01-08T13:31:36.000
+tags: ['church','church-plant']
 ---
 
 The biggest adjustment this week in preparing for the Saturday night service is starting to think of it as a weekly routine. We've done other one-time events down there in the past, and it would be quite easy to think of last Saturday's service as just another one-time event. Except that it's not - I need to get music planned, get the worship team lined up and ready to go, get the lyrics prepared for the bulletin, all the usual tasks... again this week.

@@ -1,10 +1,7 @@
 ---
 title: "I feel like such a homebody"
-date: "2008-04-17T16:08:07.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
+date: 2008-04-17T16:08:07.000
+tags: ['travel']
 ---
 
 For a family that didn't travel a whole lot when I was growing up, we have certainly made up for it in the past half-dozen years: Ryan spent a semester at St. Andrews in Scotland, Aaron, Andrew, and Rebecca all spent significant amounts of time with YWAM in Panama, and Mom and Dad (and Ryan, too, come to think of it) took at least one trip down there to visit them. Oh, and Rebecca went to China with YWAM while she was doing her DTS, too. Which leaves one person in the family who has yet to leave the country: little ol' me. The grief I get is multiplied when you realize I'm married to a missionary kid who spent time in Indonesia.

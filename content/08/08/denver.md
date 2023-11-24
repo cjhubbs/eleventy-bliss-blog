@@ -1,10 +1,7 @@
 ---
 title: "Denver"
-date: "2008-08-20T18:41:10.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
+date: 2008-08-20T18:41:10.000
+tags: ['travel','work']
 ---
 
 OK, so bad travel plans notwithstanding, I made it to Denver on-time on Monday evening. Tuesday was spent in an all-day FAA DER Recurrent General Training class (boring), and today and Thursday I'm attending the National Software and Airborne Electronic Hardware Conference. It's sponsored by the FAA and NASA Langley Research Center, and there are some really interesting topics if you're into safety-critical airborne software. Which, I know, none of you reading this are. :-) So enough about the conference.

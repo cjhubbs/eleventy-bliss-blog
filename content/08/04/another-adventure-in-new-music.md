@@ -1,10 +1,7 @@
 ---
 title: "Another adventure in new music"
-date: "2008-04-25T13:46:47.000"
-categories: 
-  - "random"
-tags: 
-  - "music"
+date: 2008-04-25T13:46:47.000
+tags: ["music"]
 ---
 
 So I'm rather a new-music junkie. Granted, it's gotta be in a genre I'm interested in, but hook me up with a new artist and I'll go whole hog. This week, on the recommendation of [Daniel](http://rmfo-blogs.com/daniel/), I've been exploring the music of composer [Philip Glass](http://en.wikipedia.org/wiki/Philip_Glass). I didn't know much about Philip Glass before this week; if you'd asked me I would have remembered that he was very into minimalism and possibly 12-tone music, but that's about it. I would've guessed that he's not my cup of tea whatsoever. But, having been promised that his newer works were more accessible, I decided to give it a shot.
@@ -16,5 +13,3 @@ My next stop: the local library. I currently have checked out to me nearly every
 I still want to get my hands on _Symphony #1_, which Daniel highly recommended; the little samples on Amazonmp3.com sound good. Other than that, I feel like I've at least given Glass a good shot this week.
 
 My conclusions: The soundtrack from _The Hours_ is a keeper and will get regular play time. The piano etudes probably will as well. Symphonies 1 and 4 are probably worth having and will get played semi-regularly. The older, more esoteric stuff is somewhat interesting, but probably not something that I'd listen to much. But hey, it's a new musical discovery, and one that found me some good new music, at that. Thanks, Daniel!
-
-\[tags\]music\[/tags\]

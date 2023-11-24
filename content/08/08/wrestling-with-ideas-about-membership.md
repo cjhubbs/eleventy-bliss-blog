@@ -1,9 +1,7 @@
 ---
 title: "Wrestling with ideas about church membership"
-date: "2008-08-12T14:49:07.000"
-tags: 
-  - "membership"
-  - "organization"
+date: 2008-08-12T14:49:07.000
+tags: ['church']
 ---
 
 One of the things we've been wrestling with as elders at Imago is the concept of church membership. Now, we all agree that membership is important, both for accountability for folks who are a part of the fellowship, and to provide accountability for the church leadership. But most of us come from Baptist churches where "membership" is too often considered a ticket to gripe and cause trouble at business meetings.

@@ -1,12 +1,7 @@
 ---
 title: "Tuesday morning this'n'that"
-date: "2008-05-13T13:56:04.000"
-categories: 
-  - "random"
-tags: 
-  - "softball"
-  - "travel"
-  - "truly-random"
+date: 2008-05-13T13:56:04.000
+tags: ['bullet-points']
 ---
 
 I have a couple other posts floating around in my head, but need to gather some thoughts (and pictures) before writing them. So... a little this'n'that, aka bullet points for a Tuesday morning.

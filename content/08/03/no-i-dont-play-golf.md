@@ -1,12 +1,7 @@
 ---
 title: "No, I don't play golf..."
-date: "2008-03-05T13:22:30.000"
-categories: 
-  - "random"
-tags: 
-  - "hockey"
-  - "travel"
-  - "work"
+date: 2008-03-05T13:22:30.000
+tags: ['travel','work']
 ---
 
 This week has brought me to Augusta, GA for the quarterly [SC-213](http://rtca.org/comm/Committee.cfm?id=68) meeting. The inevitable first question/comment I've gotten from friends when I say Augusta is "did you take your golf clubs along?" So as a preemptive strike: no, I don't play golf. I've never hit a ball in my life. Yes, I know they have some fancy course here where they play some tournament every spring. I even know that a guy from Cedar Rapids happened to win that tournament last year. But it doesn't mean I'm gonna be playing it in my spare time. :-) I will probably drive by it at some point just to have done so.

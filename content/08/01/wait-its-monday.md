@@ -1,11 +1,7 @@
 ---
 title: "Wait, it's Monday?"
-date: "2008-01-14T13:47:25.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
-  - "life"
+date: 2008-01-14T13:47:25.000
+tags: ['family']
 ---
 
 Weekends are going to look a little bit different now that we're having church on Saturday night. Something to get used to. This weekend was actually pretty great; a phone call from my sister saying "hey, we're bored, can we come visit this afternoon?" changed our direction pretty quickly. So the folks and Rebecca came down in time for church on Saturday night and then hung around on Sunday until late afternoon. It was great to see them and hang out.

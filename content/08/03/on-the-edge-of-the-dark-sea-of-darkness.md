@@ -1,12 +1,7 @@
 ---
 title: "On The Edge of the Dark Sea of Darkness"
-date: "2008-03-18T13:33:34.000"
-categories: 
-  - "random"
-tags: 
-  - "books"
-  - "music"
-  - "review"
+date: 2008-03-18T13:33:34.000
+tags: ['books','andrew-peterson']
 ---
 
 _Read to the end of the blog post - I'm giving away a copy of the book!_
@@ -15,7 +10,7 @@ Just when you think you're familiar with a guy's talents... then _this_ happens.
 
 I've been an Andrew Peterson fan for a few years now. He is an amazingly-talented songwriter; albums to his credit include my all-time favorite Christmas album, _Behold the Lamb of God_. He's shown himself to be a bit of a thinker and writer, too; he launched [The Rabbit Room](http://www.rabbitroom.com) a few months ago and it is now a must-read site with book and music reviews and essays on the arts and faith.
 
-![image001.jpg](http://www.chrishubbs.com/wordpress/wp-content/uploads/2008/03/image001.jpg)Then I hear the latest news: AP's writing a book. I actually think I got wind of it about 18 months ago from a friend who knows Andy, but had kinda forgotten about it. Now it's for real: [_On The Edge of the Dark Sea of Darkness_](http://www.amazon.com/exec/obidos/ASIN/1400073847).
+Then I hear the latest news: AP's writing a book. I actually think I got wind of it about 18 months ago from a friend who knows Andy, but had kinda forgotten about it. Now it's for real: [_On The Edge of the Dark Sea of Darkness_](http://www.amazon.com/exec/obidos/ASIN/1400073847).
 
 _OTEOTSDOD_ focuses on the quiet land of Skree, the Igiby children Janner, his younger brother Tink, and their crippled sister Leeli. Oh, and their ex-pirate (are you ever really an "ex"- pirate?) grandfather. There's something about lost jewels, and a dude whose name is Gnag the Nameless. (How is he nameless, again?) Oh, and there's this thing about toothy cows. Amazing.
 

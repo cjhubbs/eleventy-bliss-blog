@@ -1,11 +1,7 @@
 ---
 title: "Counting down the days..."
-date: "2008-06-25T15:40:35.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "travel"
+date: 2008-06-25T15:40:35.000
+tags: ['travel']
 ---
 
 Once today is complete I will have only 6 more working days until vacation... and oh my, am I ever looking forward to it. My brother Andrew is getting married on July 12 and we are using that as an excuse to take a week's vacation to Washington. (The state, not the district.) We have several days of sightseeing and relaxation scheduled around the wedding, and it should be a great time. We'll hit Seattle, the Pacific coast, the mountains, and back to Seattle before heading home.

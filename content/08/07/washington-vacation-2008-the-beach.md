@@ -1,16 +1,10 @@
 ---
 title: "Washington Vacation 2008: The Beach"
-date: "2008-07-14T05:25:01.000"
-categories: 
-  - "random"
-tags: 
-  - "food"
-  - "photos"
-  - "travel"
-  - "washington-vacation-2008"
+date: 2008-07-14T05:25:01.000
+tags: ['travel']
 ---
 
-After [arriving late on Monday](http://www.chrishubbs.com/2008/07/08/in-seattle/) and [having vehicle difficulty](http://www.chrishubbs.com/2008/07/09/the-flat-tire/), we took the new minivan out to the Washington coast to spend a couple of days at the beach. We encountered several of these signs along the way... not something we typically see back home in Iowa.
+After [arriving late on Monday](/08/07/in-seattle/) and [having vehicle difficulty](/08/07/the-flat-tire/), we took the new minivan out to the Washington coast to spend a couple of days at the beach. We encountered several of these signs along the way... not something we typically see back home in Iowa.
 
 [![DSC_6670](http://farm4.static.flickr.com/3049/2666221785_028e88a7b4.jpg)](http://www.flickr.com/photos/chrishubbs/2666221785/ "DSC_6670 by chrishubbs, on Flickr")
 

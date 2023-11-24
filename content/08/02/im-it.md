@@ -1,10 +1,7 @@
 ---
 title: "I'm it."
-date: "2008-02-11T14:56:26.000"
-categories: 
-  - "random"
-tags: 
-  - "memes"
+date: 2008-02-11T14:56:26.000
+tags: ["memes"]
 ---
 
 Having been [tagged by Jeff](http://thedirtroad.net/jeff/journal/2008/02/07/another-fun-meme-yay-memes/) for the latest interweb meme to filter around to these parts, I suppose I should play along.

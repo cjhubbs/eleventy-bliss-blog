@@ -1,13 +1,7 @@
 ---
 title: "D-Day Timeline"
-date: "2008-01-07T13:33:39.000"
-categories: 
-  - "church"
-tags: 
-  - "administration"
-  - "organization"
-  - "planning"
-  - "worship-team"
+date: 2008-01-07T13:33:39.000
+tags: ['church','church-plant']
 ---
 
 Saturday was the big day - first service at [Imago Christi](http://www.imagochristicp.org)! A timeline of the day:

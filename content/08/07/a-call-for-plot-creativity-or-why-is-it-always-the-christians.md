@@ -1,12 +1,7 @@
 ---
 title: "A call for plot creativity, or, Why is it always the Christians?"
-date: "2008-07-21T15:47:31.000"
-categories: 
-  - "random"
-tags: 
-  - "books"
-  - "reviews"
-  - "thoughts"
+date: 2008-07-21T15:47:31.000
+tags: ['books','reviews']
 ---
 
 This weekend I finished up reading [Rules of Deception](http://www.amazon.com/gp/product/0385524064?ie=UTF8&tag=scifirev-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0385524064)![](http://www.assoc-amazon.com/e/ir?t=scifirev-20&l=as2&o=1&a=0385524064), the latest novel by [Christopher Reich](http://www.christopherreich.com). I have read all of Reich's novels and quite enjoy them; he does the spy/crime/legal thriller genre as well as most anybody out there right now. I had one real disappointment with the book, though (and OK, this is a bit of a spoiler, so be forewarned): the true evil villain, the mastermind who is willing to kill hundreds of people to accomplish his nefarious goals, is a "born-again", "evangelical Christian".

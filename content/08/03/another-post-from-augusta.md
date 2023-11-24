@@ -1,12 +1,7 @@
 ---
 title: "Another post from Augusta"
-date: "2008-03-06T13:33:47.000"
-categories: 
-  - "random"
-tags: 
-  - "books"
-  - "n-t-wright"
-  - "travel"
+date: 2008-03-06T13:33:47.000
+tags: ['books','n-t-wright','travel']
 ---
 
 Yesterday was Day 2 of the RTCA committee meeting here in Augusta. (Why am I posting a day behind, you ask? Because there's free wi-fi in the convention center, but they want $10/day to get it in my room. I don't need it that bad... so I'm only online during the day.) The meetings were rather uneventful.

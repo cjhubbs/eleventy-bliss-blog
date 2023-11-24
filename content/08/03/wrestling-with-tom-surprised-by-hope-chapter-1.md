@@ -1,15 +1,10 @@
 ---
 title: "Wrestling with Tom: Surprised by Hope, Chapter 1"
-date: "2008-03-31T01:34:44.000"
-categories: 
-  - "random"
-tags: 
-  - "books"
-  - "n-t-wright"
-  - "reviews"
+date: 2008-03-31T01:34:44.000
+tags: ['books','reviews','theology','n-t-wright']
 ---
 
-So it's been far too long since I posted [my original review](http://www.chrishubbs.com/2008/03/06/wrestling-with-tom-an-american-evangelicals-coming-to-grips-with-n-t-wrights-surprised-by-hope/) of [Surprised by Hope](http://www.amazon.com/gp/redirect.html%3FASIN=0061551821%26tag=scifirev-20%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/0061551821%253FSubscriptionId=1N9AHEAQ2F6SVD97BE02), the latest book from N. T. Wright. As you may recall from that review, I found myself stunned by the clarity and richness of Wright's exposition of the doctrines of heaven and the resurrection. (As Wright so cleverly puts it, "heaven is important, but it's not the end of the world!") Finally I'm finding some time to come back to it and interact more fully here. _Surprised by Hope_ is split into three broad sections: 'Setting the Scene', 'God's Future Plan', and 'Hope in Practice: Resurrection and the Mission of the Church'. In this post I want to just address the first chapter, titled 'All Dressed Up and No Place to Go'.
+So it's been far too long since I posted [my original review](/08/03/wrestling-with-tom-an-american-evangelicals-coming-to-grips-with-n-t-wrights-surprised-by-hope/) of [Surprised by Hope](http://www.amazon.com/gp/redirect.html%3FASIN=0061551821%26tag=scifirev-20%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/0061551821%253FSubscriptionId=1N9AHEAQ2F6SVD97BE02), the latest book from N. T. Wright. As you may recall from that review, I found myself stunned by the clarity and richness of Wright's exposition of the doctrines of heaven and the resurrection. (As Wright so cleverly puts it, "heaven is important, but it's not the end of the world!") Finally I'm finding some time to come back to it and interact more fully here. _Surprised by Hope_ is split into three broad sections: 'Setting the Scene', 'God's Future Plan', and 'Hope in Practice: Resurrection and the Mission of the Church'. In this post I want to just address the first chapter, titled 'All Dressed Up and No Place to Go'.
 
 Wright opens _Surprised by Hope_ by positing two questions which he says are often dealt with quite separately but that should really be tied together.
 
@@ -21,10 +16,10 @@ It's hard to do much commentary on this first introductory chapter, but it certa
 
 **Also in this series:**
 
-- [Overview](http://www.chrishubbs.com/2008/03/06/wrestling-with-tom-an-american-evangelicals-coming-to-grips-with-n-t-wrights-surprised-by-hope/)
+- [Overview](/08/03/wrestling-with-tom-an-american-evangelicals-coming-to-grips-with-n-t-wrights-surprised-by-hope/)
 - Chapter 1: All Dressed Up and No Place To Go? (this post)
-- [Chapter 2: Puzzled About Paradise?](http://www.chrishubbs.com/2008/04/01/puzzled-about-paradise-surprised-by-hope-chapter-2/)
-- [Chapter 3: Early Christian Hope in Its Historical Setting](http://www.chrishubbs.com/2008/04/04/early-christian-hope-in-its-historical-setting-surprised-by-hope-chapter-3/)
+- [Chapter 2: Puzzled About Paradise?](/08/04/puzzled-about-paradise-surprised-by-hope-chapter-2/)
+- [Chapter 3: Early Christian Hope in Its Historical Setting](/08/04/early-christian-hope-in-its-historical-setting-surprised-by-hope-chapter-3/)
 - Chapter 4: The Strange Story of Easter
 - Chapter 5: Cosmic Future: Progress or Despair?
 - Chapter 6: What the Whole World's Waiting For

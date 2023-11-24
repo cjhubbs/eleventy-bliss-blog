@@ -1,11 +1,7 @@
 ---
 title: "Tim Keller's The Reason For God - a review"
-date: "2008-02-25T14:22:40.000"
-categories: 
-  - "random"
-tags: 
-  - "books"
-  - "review"
+date: 2008-02-25T14:22:40.000
+tags: ['books','reviews','theology']
 ---
 
 Tim Keller has been a favorite speaker of mine for some time now. As pastor of [Redeemer Presbyterian Church](http://www.redeemer.com/) in New York City, he reaches thousands each week. He has also become a fixture at pastor's conferences including John Piper's conference in Minneapolis (where I saw Keller in person a couple years ago) and Mark Driscoll's Acts 29 conferences. His dry wit and humor coupled with great insight on ministering to the city make him a must-listen for me.

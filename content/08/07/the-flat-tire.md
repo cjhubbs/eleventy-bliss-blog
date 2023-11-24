@@ -1,11 +1,7 @@
 ---
 title: "The Flat Tire"
-date: "2008-07-09T19:11:13.000"
-categories: 
-  - "random"
-tags: 
-  - "photos"
-  - "washington-vacation-2008"
+date: 2008-07-09T19:11:13.000
+tags: ['travel']
 ---
 
 A couple of pics of our minivan's flat tire the other night. Less dramatic because the guys already had the van jacked up. The thing was totally flat.

@@ -1,10 +1,7 @@
 ---
 title: "Another Half a Foot"
-date: "2008-02-18T14:57:40.000"
-categories: 
-  - "random"
-tags: 
-  - "rants"
+date: 2008-02-18T14:57:40.000
+tags: ['rants']
 ---
 
 Rest easy, friends, I'm not growing some fractional appendage. But I am pretty much tired of winter. Whatever the steps are in dealing with issues, well, I've moved past frustration and anger on to acceptance. It's just more snow. Half an inch of ice to start it off? Well sure, why not? We can use the variety. I _am_ glad this year, though, for the snowblower.

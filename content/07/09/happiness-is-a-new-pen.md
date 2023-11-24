@@ -1,11 +1,7 @@
 ---
 title: "Happiness is...  a new pen."
-date: "2007-09-18T15:08:28.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "travel"
+date: 2007-09-18T15:08:28.000
+tags: ['travel']
 ---
 
 Back in February I bought my first-ever fountain pen. I knew nothing about them, but had always thought they would be cool, so when I encountered a pen shop in a mall in Washington, DC, I was a goner. I ended up with [a cheap Retro 51 pen](http://www.fahrneyspens.com/item--i-182511-BLK-B--m-2_315_316.html) with a nib that was really too wide and that didn't lay down ink very well at all. But I was hooked.

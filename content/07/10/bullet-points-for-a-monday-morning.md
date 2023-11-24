@@ -1,10 +1,7 @@
 ---
 title: "Bullet Points for a Monday Morning"
-date: "2007-10-08T13:35:38.000"
-categories: 
-  - "random"
-tags: 
-  - "truly-random"
+date: 2007-10-08T13:35:38.000
+tags: ['bullet-points']
 ---
 
 - Had a productive weekend; got the lawn mowed, some concrete patching done, led music at church.

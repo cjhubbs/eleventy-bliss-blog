@@ -1,11 +1,7 @@
 ---
 title: "Caedmon's Call - Overdressed"
-date: "2007-08-29T18:28:08.000"
-categories: 
-  - "random"
-tags: 
-  - "music"
-  - "osenga"
+date: 2007-08-29T18:28:08.000
+tags: ['music','caedmons-call']
 ---
 
 Well at least half of you who read this blog are already listening to this album, but I should still note that [Caedmon's Call](http://caedmonscall.com) released their 15th album yesterday, entitled _Overdressed_. It marks the return of Derek Webb as a contributor to Caedmon's, though whether he's actually considered a "member" of the band is fuzzy to me at the moment... the word "contributor" has been used more, I think.

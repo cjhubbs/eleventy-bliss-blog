@@ -1,11 +1,7 @@
 ---
 title: "Becoming a Caring Church"
-date: "2007-12-28T04:42:45.000"
-categories: 
-  - "church"
-tags: 
-  - "caring"
-  - "compassion"
+date: 2007-12-28T04:42:45.000
+tags: ['church']
 ---
 
 Alex Strauch provides some practical guidance for becoming a church that truly cares for people (from the Summer 2007 edition of [Emmaus Bible College's](http://www.emmaus.edu) _Journey_ magazine):

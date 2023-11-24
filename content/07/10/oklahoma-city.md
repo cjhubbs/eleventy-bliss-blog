@@ -1,10 +1,7 @@
 ---
 title: "Oklahoma City"
-date: "2007-10-11T02:45:55.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
+date: 2007-10-11T02:45:55.000
+tags: ['travel','work']
 ---
 
 Business has brought me this week to Oklahoma City, square in the middle of the Sooner state. I've been to the Tulsa area many times (my grandparents having lived in Collinsville for twenty years), but while I've driven through OKC on I-35 a multitude of times, I don't recall ever having stopped; certainly I've never stayed here overnight. So it's like visiting a new place, which I really enjoy - a chance for observations, to learn a new city.

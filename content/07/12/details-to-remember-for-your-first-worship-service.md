@@ -1,11 +1,7 @@
 ---
 title: "Details to remember for your first worship service"
-date: "2007-12-27T03:13:51.000"
-categories: 
-  - "church"
-tags: 
-  - "church"
-  - "planning"
+date: 2007-12-27T03:13:51.000
+tags: ['church','church-plant']
 ---
 
 Yes, the title is overly-long Google linkbait. But one thing I have been astonished with is just how many details there are that need remembered to plan for the first (or for that matter, any) worship service at a church plant. So, without any further ado, here's my running list. I'll update it as I remember more things.

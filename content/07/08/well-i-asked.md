@@ -1,10 +1,7 @@
 ---
 title: "Well, I asked."
-date: "2007-08-30T17:51:36.000"
-categories: 
-  - "random"
-tags: 
-  - "from-the-mouths-of-babes"
+date: 2007-08-30T17:51:36.000
+tags: ['family']
 ---
 
 Becky and the girls stopped by my workplace for a few minutes this morning to drop off some lunch for me. As I sat in the van with them chatting for a few minutes, this conversation with Laura (3 years old) ensued:

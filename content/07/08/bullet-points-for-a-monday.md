@@ -1,12 +1,7 @@
 ---
 title: "Bullet Points for a Monday"
-date: "2007-08-27T12:55:11.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "music"
-  - "travel"
+date: 2007-08-27T12:55:11.000
+tags: ['bullet-points','music','travel']
 ---
 
 How can it have been a week since I last posted? Well, it _has_ been busy. So in the spirit of "short updates are better than none", here we go.

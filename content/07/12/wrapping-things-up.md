@@ -1,12 +1,7 @@
 ---
 title: "Wrapping things up"
-date: "2007-12-20T17:35:38.000"
-categories: 
-  - "random"
-tags: 
-  - "christmas"
-  - "family"
-  - "life"
+date: 2007-12-20T17:35:38.000
+tags: ['personal']
 ---
 
 Today is my last work day for the year. Thanks to a day of vacation tomorrow and a generous holiday schedule from my employer, I will be able to enjoy the better part of two weeks away from the office. Not that it'll be slow during that time... we leave Saturday to visit my family in Wisconsin. It will be so good to have everyone back together... Rebecca gets back from Panama on Saturday. Oh, and I'm also very ready to be allowed to dig into the massive pile of cookies that Becky has been making over the past couple of weeks. I think her goal this year was to make so many cookies that she could take them up to my family's place and still have cookies left at the end of the visit. I'll bet she achieved it.

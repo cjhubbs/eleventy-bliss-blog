@@ -1,18 +1,13 @@
 ---
 title: "Should this really be our fight?"
-date: "2007-09-28T12:48:04.000"
-categories: 
-  - "random"
-tags: 
-  - "church"
-  - "rants"
-  - "religion"
+date: 2007-09-28T12:48:04.000
+tags: ['church','theology','rants']
 ---
 
 **"Clergy fight same sex marriage"**. This headline stared out at me from this morning's copy of the [Cedar Rapids _Gazette_](http://gazetteonline.com). The sub-heading (which was used as the title of [the online version of the story](http://gazetteonline.com/apps/pbcs.dll/article?AID=/20070927/NEWS/70927010/1006/NEWS)) gives more detail: "Iowa church leaders planning rally 'defending marriage'".
 
-> A coalition of church leaders today announced plans for an Oct. 28 prayer rally and other actions to defend traditional marriage in the face of a district judge's ruling striking down a same-sex marriage ban -- a development they warned could convert Iowa into the nation's "Rainbow Vegas."
-> 
+> A coalition of church leaders today announced plans for an Oct. 28 prayer rally and other actions to defend traditional marriage in the face of a district judge's ruling striking down a same-sex marriage ban -- a development they warned could convert Iowa into the nation's "Rainbow Vegas."  
+> <br/>
 > "This is a call to arms," said Dan Berry of Cornerstone Family Church. "The sleeping giant is being awakened."
 
 Later in the story, the Rev. Keith Ratliff of Maple Street Missionary Baptist Church in Des Moines said the "...campaign is not geared toward hate or fear of homosexuals, but rather seeks to preserve the longstanding, family-based and Bible-backed tradition of marriage as being a union between a man and a woman."

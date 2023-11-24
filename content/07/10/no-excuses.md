@@ -1,10 +1,7 @@
 ---
 title: "No Excuses"
-date: "2007-10-24T12:58:34.000"
-categories: 
-  - "random"
-tags: 
-  - "exercise"
+date: 2007-10-24T12:58:34.000
+tags: ['personal']
 ---
 
 I hit the scale last Saturday after a fairly physically strenuous day of outdoor work (OK, strenuous for me at least), a time when usually the scale is nice to me (hey, I know how to work the system), and I was not happy at what I saw. It wasn't Garfield's "one at a time, please", but it _was_ a few pounds higher than I thought it would be, and a solid 7 or so pounds higher than it was when I was at my low point back in February or so. Eesh. I haven't been just totally letting myself go, I guess, but I have been snacking too much lately and well, we do all enjoy dessert.

@@ -1,11 +1,7 @@
 ---
 title: "New Orleans: Music and all that Jazz"
-date: "2007-08-09T12:32:43.000"
-categories: 
-  - "random"
-tags: 
-  - "music"
-  - "travel"
+date: 2007-08-09T12:32:43.000
+tags: ['music','travel']
 ---
 
 One of the things that was high on my list of things to do while in New Orleans a few weeks ago was to find someplace with live music. New Orleans is all about jazz and blues, after all. It was pretty wild to walk through the French Quarter and think that guys who are jazz heroes of mine like Harry Connick, Jr. and the Marsalis family spent time playing in the clubs on those streets. So very cool.

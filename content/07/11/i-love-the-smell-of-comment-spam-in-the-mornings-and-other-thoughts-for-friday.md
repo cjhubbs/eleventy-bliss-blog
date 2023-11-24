@@ -1,10 +1,7 @@
 ---
 title: "I love the smell of comment spam in the mornings... and other thoughts for Friday"
-date: "2007-11-09T13:27:19.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2007-11-09T13:27:19.000
+tags: ['bullet-points']
 ---
 
 Yep, 105 comments held in moderation. All of 'em spam. I guess I should tighten up Spam Karma 2 a little bit. But still, not hard to bulk-moderate 'em all into oblivion.

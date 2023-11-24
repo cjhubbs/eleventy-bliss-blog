@@ -1,10 +1,7 @@
 ---
 title: "Most any update is better than none..."
-date: "2007-10-19T14:38:51.000"
-categories: 
-  - "random"
-tags: 
-  - "truly-random"
+date: 2007-10-19T14:38:51.000
+tags: ['bullet-points']
 ---
 
 Bullet points for the weekend:

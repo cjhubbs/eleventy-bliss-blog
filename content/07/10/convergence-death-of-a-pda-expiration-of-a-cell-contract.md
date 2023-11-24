@@ -1,13 +1,10 @@
 ---
 title: "Convergence: Death of a PDA, Expiration of a Cell Contract"
-date: "2007-10-11T03:55:36.000"
-categories: 
-  - "random"
-tags: 
-  - "nerdy"
+date: 2007-10-11T03:55:36.000
+tags: ['tech']
 ---
 
-I've carried a PDA pretty much everywhere with me for the past several years; I think I've been through three different Palm models. My current one is a Palm Tungsten E2. I don't use too many features on it, really; my primary uses are the calendar and a few games. The calendar is the biggie for me - I need something to keep all my work meetings and outside meetings lined up. The past few weeks my PDA has had trouble holding a charge. It doesn't matter whether I charge it via USB or from the wall charger; within 10 minutes or so it complains about the battery being low and starts disabling functions. I'm assuming it's nearing the end of its life - [I've had it just over two years now](http://www.chrishubbs.com/2005/09/02/officemax-replacement-watch-day-26/).
+I've carried a PDA pretty much everywhere with me for the past several years; I think I've been through three different Palm models. My current one is a Palm Tungsten E2. I don't use too many features on it, really; my primary uses are the calendar and a few games. The calendar is the biggie for me - I need something to keep all my work meetings and outside meetings lined up. The past few weeks my PDA has had trouble holding a charge. It doesn't matter whether I charge it via USB or from the wall charger; within 10 minutes or so it complains about the battery being low and starts disabling functions. I'm assuming it's nearing the end of its life - [I've had it just over two years now](/05/09/officemax-replacement-watch-day-26/).
 
 Second upcoming event: our cell phone contract is just about up. I haven't completely decided yet, but I'm thinking we'll abandon US Cellular in favor of Verizon, for a number of reasons. With the new contract comes the opportunity to purchase a new phone at a reduced price. So I have a convergence here which might allow me to start consolidating electronic gadgetry. So I want to explore my options.
 

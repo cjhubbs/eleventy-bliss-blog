@@ -1,12 +1,7 @@
 ---
 title: "Making the switch"
-date: "2007-11-06T13:49:14.000"
-categories: 
-  - "random"
-tags: 
-  - "cell-phone"
-  - "customer-service"
-  - "life"
+date: 2007-11-06T13:49:14.000
+tags: ['tech']
 ---
 
 After running the numbers and looking at likely use scenarios over the upcoming year or two, we finally decided to switch our cell phone service from US Cellular, our provider of the past seven years, to Verizon. Their plans are fairly similar, but when it came down to it, the employer discount that Verizon offers was enough to sway the balance in their direction.

@@ -1,10 +1,7 @@
 ---
 title: "An update of sorts"
-date: "2007-09-16T16:07:46.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2007-09-16T16:07:46.000
+tags: ['personal']
 ---
 
 It's been slow around these parts lately, which likely just means that life has been pretty busy. Even online there have been a bunch of other projects that have been taking my time. I guess I could discuss a few of them and you might not get too bored. :-)

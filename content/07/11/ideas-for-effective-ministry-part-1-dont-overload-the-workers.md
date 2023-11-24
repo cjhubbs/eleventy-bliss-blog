@@ -1,11 +1,7 @@
 ---
 title: "Ideas for Effective Ministry, Part 1: Don't Overload the Workers"
-date: "2007-11-15T13:27:35.000"
-categories: 
-  - "random"
-tags: 
-  - "church"
-  - "leadership"
+date: 2007-11-15T13:27:35.000
+tags: ['church']
 ---
 
 This seems like such a no-brainer that it shouldn't even need to be mentioned, but based on my experience, it does. Sundays aren't even the best view of this. Look at it through the week. Are the same people that are teaching Sunday School the same people that are hosting a Bible study at their home on Monday, leading kids' clubs on Wednesday, volunteering in the church office on Friday, and showing up on Saturday to help with the work project and get things prepared for Sunday again?
@@ -20,6 +16,6 @@ From their website again \[emphasis mine\]: "...we want to try very hard to limi
 
 _Also in this series:_
 
-- [Introduction](http://www.chrishubbs.com/2007/11/14/ideas-for-effective-ministry-introduction/)
+- [Introduction](/07/11/ideas-for-effective-ministry-introduction/)
 - Part 1: Don't Overload the Workers (this post)
-- Part 2: [Active Oversight](http://www.chrishubbs.com/2007/11/16/ideas-for-effective-ministry-part-2-active-oversight/)
+- Part 2: [Active Oversight](/07/11/ideas-for-effective-ministry-part-2-active-oversight/)

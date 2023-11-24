@@ -1,10 +1,7 @@
 ---
 title: "On the road again..."
-date: "2007-11-26T22:55:39.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
+date: 2007-11-26T22:55:39.000
+tags: ['travel']
 ---
 
 So it's been a nice weekend. Ryan decided at the last minute to come visit for the holiday, so we've enjoyed his company over the long weekend. Watched a lot of football, ate a bunch of tasty food, and now the weekend is over. Still, only a month until Christmas. :-)

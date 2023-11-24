@@ -1,11 +1,7 @@
 ---
 title: "Ideas for Effective Ministry, Part 2: Active Oversight"
-date: "2007-11-16T13:59:01.000"
-categories: 
-  - "random"
-tags: 
-  - "church"
-  - "leadership"
+date: 2007-11-16T13:59:01.000
+tags: ['church']
 ---
 
 I was going to make this part 3, but this all really ties together too much, so let's just talk about it now. What about oversight? Too often I think of "oversight" with a negative flavor; the person overseeing is the one who either a) gets to be the disciplinarian when things go poorly or b) has to take the blame when things go poorly. No fun either way. But if oversight doesn't kick in until things go poorly then we are failing.
@@ -41,6 +37,6 @@ It is not the responsibility of the pastor to talk to all the volunteers every w
 
 The rest of this series:
 
-- [Introduction](http://www.chrishubbs.com/2007/11/14/ideas-for-effective-ministry-introduction/)
-- Part 1: [Don't Overload the Workers](http://www.chrishubbs.com/2007/11/15/ideas-for-effective-ministry-part-1-dont-overload-the-workers/)
+- [Introduction](/07/11/ideas-for-effective-ministry-introduction/)
+- Part 1: [Don't Overload the Workers](/07/11/ideas-for-effective-ministry-part-1-dont-overload-the-workers/)
 - Part 2: Active Oversight (this post)

@@ -1,11 +1,7 @@
 ---
 title: "Bullet Points for a Friday Morning"
-date: "2007-12-07T14:33:52.000"
-categories: 
-  - "random"
-tags: 
-  - "church"
-  - "life"
+date: 2007-12-07T14:33:52.000
+tags: ['bullet-points','church']
 ---
 
 - I've stuck you, my blog readers, with far too many links this week and not enough other stuff. Now, that being said, they are all good links. You'll find good stuff if you visit them.

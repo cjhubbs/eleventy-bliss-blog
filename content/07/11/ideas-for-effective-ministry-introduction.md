@@ -1,11 +1,7 @@
 ---
 title: "Ideas for Effective Ministry - Introduction"
-date: "2007-11-14T14:05:55.000"
-categories: 
-  - "random"
-tags: 
-  - "church"
-  - "leadership"
+date: 2007-11-14T14:05:55.000
+tags: ['church']
 ---
 
 Last week Richard (my pastor for the past 8 years who is also leading our [church plant](http://www.icatcp.org) effort) asked me this question: What do we need to do to have more effective ministries at the church? He shared with me that in the past 15 years when he has had the opportunity to conduct "exit interviews" of folks who have left the church for one reason or another, the predominant theme he gets is that the Sunday morning service is good, but that the ministries that go on through the week leave something to be desired.
@@ -19,6 +15,6 @@ As a note to my Noelridge readers: please don't read any of this and feel that i
 _Also in this series:_
 
 - Introduction (this post)
-- [Part 1: Don't Overload the Workers](http://www.chrishubbs.com/2007/11/15/ideas-for-effective-ministry-part-1-dont-overload-the-workers/)
+- [Part 1: Don't Overload the Workers](/07/11/ideas-for-effective-ministry-part-1-dont-overload-the-workers/)
 - Part 2: coming soon
 - Part 3: coming soon

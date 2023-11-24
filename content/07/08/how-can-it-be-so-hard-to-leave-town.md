@@ -1,10 +1,7 @@
 ---
 title: "How can it be so hard to leave town?"
-date: "2007-08-20T19:50:32.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
+date: 2007-08-20T19:50:32.000
+tags: ['travel']
 ---
 
 Instead of sitting here writing this blog post, I should be on a Boeing 757 just taking off from Minneapolis _en route_ to Seattle.  But you're reading this, which means I'm writing it, which means yeah, I'm not on the plane.  I don't know if it's weather or just general incompetence, but Northwest Airlines decided to cancel my 12:45 flight from Cedar Rapids to MSP.   I found this out around 10 AM, contacted travel, and got a rebooked flight on Alaska Airlines, leaving Cedar Rapids at 1:30.

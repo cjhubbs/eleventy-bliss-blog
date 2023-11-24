@@ -1,11 +1,7 @@
 ---
 title: "The Doctor says: Don't Blink"
-date: "2007-10-01T03:03:21.000"
-categories: 
-  - "random"
-tags: 
-  - "nerdy"
-  - "tv"
+date: 2007-10-01T03:03:21.000
+tags: ['tv']
 ---
 
 I haven't enjoyed a single episode of TV quite so much in a while. I'm a couple weeks behind on Dr. Who, but finally watched the episode called "[Blink](http://www.scifi.com/doctorwho/episodes/episodes.php?seas=3&ep=0310&act=1)" tonight. A very, very good episode. \[Spoilers ahead, so if you're going to watch it and want to be surprised, don't read on.\]

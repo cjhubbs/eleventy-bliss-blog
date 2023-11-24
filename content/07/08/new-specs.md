@@ -1,10 +1,7 @@
 ---
 title: "New Specs"
-date: "2007-08-17T17:10:58.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2007-08-17T17:10:58.000
+tags: ['personal']
 ---
 
 I got my most recent pair of glasses about 6 years ago.  Now, I don't wear them all that often; my Focus Night and Day 30-day contact lenses have been my friends.  But still, there are times when I need or want to wear the glasses.  My existing pair is half-rim, and while they seemed at the time I bought them to be really small lenses, in reality they are still pretty big.  I've been thinking of getting a new pair for a while now, but the opportunity hadn't presented itself.

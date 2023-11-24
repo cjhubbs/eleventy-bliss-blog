@@ -1,10 +1,7 @@
 ---
 title: "It's not Monday, it just feels like it."
-date: "2007-09-04T12:44:23.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2007-09-04T12:44:23.000
+tags: ['personal']
 ---
 
 The joys of having a Monday holiday: a 4-day work week, and a Tuesday that feels like Monday. Oh, and a Tuesday jammed full of meetings since they couldn't schedule 'em on Monday. (And [Geof](http://gfmorris.net), don't give me grief about "jammed full" - 4 meetings today is waaay more than my average has been for the past several months. :-) )

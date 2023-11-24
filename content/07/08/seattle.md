@@ -1,10 +1,7 @@
 ---
 title: "Seattle"
-date: "2007-08-13T15:03:42.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
+date: 2007-08-13T15:03:42.000
+tags: ['travel','work']
 ---
 
 It's 8 AM in Seattle and this hotel restaurant is a pretty comfortable place to sit and write.  The in-room web access doesn't seem to be working, but the wi-fi in the lobby works just fine, so I can sit here and catch up on news and email whilst eating from the voluminous breakfast buffet.    It's fairly cloudy and cool this morning, but there's the threat of sunshine this afternoon, which would be nice.

@@ -1,10 +1,7 @@
 ---
 title: 'Bullet points for a Monday #2'
-date: '2007-10-29T12:51:55.000'
-categories:
-  - 'random'
-tags:
-  - 'truly-random'
+date: 2007-10-29T12:51:55.000
+tags: ['bullet-points']
 ---
 
 \[As always, I am grateful to [Daniel](http://rmfo-blogs.com/daniel/) for this very useful format.\]

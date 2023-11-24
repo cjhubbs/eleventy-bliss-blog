@@ -1,11 +1,7 @@
 ---
 title: "Building a worship team"
-date: "2007-12-18T14:51:08.000"
-categories: 
-  - "church"
-tags: 
-  - "music"
-  - "worship-team"
+date: 2007-12-18T14:51:08.000
+tags: ['church','worship,'church-plant']
 ---
 
 One of my big initial tasks for Imago Christi is to figure out the worship team situation. Music is going to be an important part of our church "feel". I had to select a word carefully there. Music won't be the most important part of the church, not by a long shot. Nor will it be the most important part of the worship service. But music sets the tone, the "feel", for the service and the congregation. Our music at Imago needs to draw from both ancient and modern, to be current musically while capturing the richness of two millenia of church tradition, wisdom, and teaching.

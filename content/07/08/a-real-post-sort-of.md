@@ -1,11 +1,7 @@
 ---
 title: "A real post - sort of"
-date: "2007-08-07T15:08:46.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "truly-random"
+date: 2007-08-07T15:08:46.000
+tags: ['personal']
 ---
 
 So most of the recent posts here have been just links to other stuff. Sorry about that. Have been doing lots of reading lately, not so much writing. Most of my writing posts here have been of merely the logistical bullet-list variety. Today I have a random assortment that isn't entirely logistical, but is in a bullet-list; maybe there's something you'll want to comment on, though.

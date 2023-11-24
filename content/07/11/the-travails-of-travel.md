@@ -1,10 +1,7 @@
 ---
 title: "The travails of travel"
-date: "2007-11-27T19:42:36.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
+date: 2007-11-27T19:42:36.000
+tags: ['travel']
 ---
 
 Dear Delta Airlines,

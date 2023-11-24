@@ -1,13 +1,7 @@
 ---
 title: "Recognizing the civil-religious disconnect, or, \"what to do about 'gay marriage'\""
-date: "2008-11-20T18:55:05.000"
-tags: 
-  - "freedom"
-  - "gay-marriage"
-  - "homosexuality"
-  - "marriage"
-  - "recommended-reading"
-  - "religion"
+date: 2008-11-20T18:55:05.000
+tags: ['lgbtqia']
 ---
 
 I've been working through the whole 'gay marriage' issue in my head for a while now, driven in good part by [the discussion over on rmfo.net](http://rocksmyfaceoff.net/forum/index.php/topic,65377.0.html) (you've gotta be a member to read it, sorry) surrounding [California's Proposition 8](http://en.wikipedia.org/wiki/California_Proposition_8_(2008)). The evangelically-popular, Dobsonian position is familiar to me, but has always seemed (like most Dobsonian political positions) to be harmful to the Kingdom; focusing on divisive politics rather than loving everyone and focusing on the heart issues. Today, though, [Andrew Sullivan's piece on TheAtlantic.com](http://andrewsullivan.theatlantic.com/the_daily_dish/2008/11/modernity-faith.html) really solidified things for me; in other words, he said what I've been thinking - only much more clearly and concisely.

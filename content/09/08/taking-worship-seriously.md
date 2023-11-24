@@ -1,9 +1,7 @@
 ---
 title: "Taking Worship Seriously"
-date: "2009-08-09T19:26:54.000"
-tags: 
-  - "church"
-  - "rants"
+date: 2009-08-09T19:26:54.000
+tags: ['church','rants']
 ---
 
 OK, so it's entirely possible that at the ripe age of 32 I've just become an old curmudgeon, but in the past few weeks I've had a couple of experiences at church that cause me to wonder just how seriously we take this thing we call Sunday morning worship.

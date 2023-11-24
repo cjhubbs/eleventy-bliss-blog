@@ -1,10 +1,7 @@
 ---
 title: "Book Review: <em>Ring</em> by Stephen Baxter"
-date: "2009-01-11T01:28:58.000"
-tags: 
-  - "2009-reading"
-  - "books"
-  - "reviews"
+date: 2009-01-11T01:28:58.000
+tags: ['books']
 ---
 
 I was browsing the sci-fi section in the local library and came across an old paperback with a familiar name on the spine: Stephen Baxter. I'm most familiar with Baxter's collaboration with the late Arthur C. Clarke on the _Manifold_ trilogy, but have enjoyed a few of his solo works as well. This one looked to be a bit older (there was a quote on the cover from Clarke hailing Baxter as "a major new talent"), but I figured it was worth a try.

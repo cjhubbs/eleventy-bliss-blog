@@ -1,13 +1,10 @@
 ---
 title: "The Church Search, Week 1"
-date: "2008-10-13T13:12:00.000"
-categories: 
-  - "reviews"
-tags: 
-  - "church-search"
+date: 2008-10-13T13:12:00.000
+tags: ["church-search"]
 ---
 
-Yesterday morning we did something we haven't done in a couple of months now: set our alarm on a Sunday morning, got up, and got to a morning church service. (Yes, we have been to church in the past two months... but [Imago](http://www.imagochristicp.org) meets on Saturday nights.) As [I noted on Saturday](http://www.chrishubbs.com/2008/10/11/the-church-search-week-1-preview/), our first stop was [Stonebridge Church](http://www.stonebridgesite.com). Stonebridge is an Evangelical Free church with an average attendance of just over 600, which, by our standards, is a large-ish church. Stonebridge just finished building a new facility; yesterday was their second Sunday in the new building. They hold two services each week, and we attended the earlier one (9:00) on Sunday.
+Yesterday morning we did something we haven't done in a couple of months now: set our alarm on a Sunday morning, got up, and got to a morning church service. (Yes, we have been to church in the past two months... but [Imago](http://www.imagochristicp.org) meets on Saturday nights.) As [I noted on Saturday](/08/10/the-church-search-week-1-preview/), our first stop was [Stonebridge Church](http://www.stonebridgesite.com). Stonebridge is an Evangelical Free church with an average attendance of just over 600, which, by our standards, is a large-ish church. Stonebridge just finished building a new facility; yesterday was their second Sunday in the new building. They hold two services each week, and we attended the earlier one (9:00) on Sunday.
 
 **First Impressions**
 

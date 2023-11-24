@@ -1,11 +1,10 @@
 ---
 title: "Getting rid of the Dish: the Philosophical Post"
-date: "2009-08-27T12:43:23.000"
-tags: 
-  - "tv"
+date: 2009-08-27T12:43:23.000
+tags: ['tv']
 ---
 
-So a couple of weeks ago [I talked about the nerd side of getting rid of the dish](http://chrishubbs.com/2009/08/14/getting-rid-of-the-dish-the-nerd-post/). I'm still playing around with the configuration some, but I think I'm getting close to having a good usable solution. Becky keeps telling me "just teach me how to use it once it's all working", so I guess I should try to get to that point sooner rather than later.
+So a couple of weeks ago [I talked about the nerd side of getting rid of the dish](/09/08/getting-rid-of-the-dish-the-nerd-post/). I'm still playing around with the configuration some, but I think I'm getting close to having a good usable solution. Becky keeps telling me "just teach me how to use it once it's all working", so I guess I should try to get to that point sooner rather than later.
 
 But the other side of this is the why - why get rid of the Dish? Was it really just the $60/month we were spending? (We bought enough new hardware it'll take us several months to break even.) Or is there more to it?
 

@@ -1,9 +1,7 @@
 ---
 title: "Election 2008: I voted"
-date: "2008-11-04T18:28:34.000"
-tags: 
-  - "basketball"
-  - "election-2008"
+date: 2008-11-04T18:28:34.000
+tags: ['personal']
 ---
 
 Reports of long lines at many polling places had me wondering if I would be in for a wait to vote this morning. But, at least at my polling place at the neighborhood church in Hiawatha, there was very little line. I signed the register, then signed the book next to my name, then filled in our lovely two-sided scantron form.

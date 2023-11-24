@@ -1,6 +1,7 @@
 ---
 title: "It's the SNOWPOCALYPSE!"
-date: "2009-12-08T14:52:02.000"
+date: 2009-12-08T14:52:02.000
+tags: ['rants']
 ---
 
 Cower in your homes, everyone - IT'S THE SNOWPOCALYPSE!

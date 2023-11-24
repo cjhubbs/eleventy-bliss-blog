@@ -1,9 +1,7 @@
 ---
 title: "Shaun Inman's \"Fever\" a day later"
-date: "2009-06-19T18:58:04.000"
-tags: 
-  - "feedafever"
-  - "nerdy"
+date: 2009-06-19T18:58:04.000
+tags: ['tech']
 ---
 
 I've had a [Fever](http://feedafever.com) install up and running for 24 hours now, and I've gotta compliment Shaun for working through the emailed bug reports - he responded back twice, once to acknowledge my email, and a second to ask if I had any tips on reproducing one of the errors I reported. ( I couldn't reproduce it either.)

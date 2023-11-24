@@ -1,15 +1,12 @@
 ---
 title: "Fox News, knee-jerk reactions, and out-of-context statements"
-date: "2009-05-28T12:36:28.000"
-tags: 
-  - "conservatism"
-  - "media"
-  - "politics"
+date: 2009-05-28T12:36:28.000
+tags: ['politics','media']
 ---
 
 If my previous posts in which I declared my support for Obama and for civilly-recognized gay marriage weren't enough to convince my church friends that I have become a heathen leftist Commie pinko, I'll probably do it with this post. Why? Because I'm going to be mildly critical of Fox News and of those who blindly follow it.
 
-Yesterday [I linked to](http://www.chrishubbs.com/2009/05/27/links-for-2009-05-27/) a [Rod Dreher column entitled "I was wrong about Sotomayor speech"](http://blog.beliefnet.com/crunchycon/2009/05/i-was-wrong-about-sotomayor-sp.html). (Yeah, there's an article missing somewhere in that sentence, but live with it.) To catch anyone up who hasn't heard about it, the controversial statement from Supreme Court nominee Sonia Sotomayor was made in [a 2002 speech](http://www.nytimes.com/2009/05/15/us/politics/15judge.text.html?pagewanted=all) at Cal Berkeley, where she said this:
+Yesterday I linked to a [Rod Dreher column entitled "I was wrong about Sotomayor speech"](http://blog.beliefnet.com/crunchycon/2009/05/i-was-wrong-about-sotomayor-sp.html). (Yeah, there's an article missing somewhere in that sentence, but live with it.) To catch anyone up who hasn't heard about it, the controversial statement from Supreme Court nominee Sonia Sotomayor was made in [a 2002 speech](http://www.nytimes.com/2009/05/15/us/politics/15judge.text.html?pagewanted=all) at Cal Berkeley, where she said this:
 
 > I would hope that a wise Latina woman with the richness of her experience would more often than not reach a better conclusion than a white male who hasn’t lived that life.
 
@@ -25,7 +22,7 @@ And then he quotes _another_ passage from Sotomayor's speech, one that didn't ev
 
 Now, that puts a whole different spin on things, doesn't it? All of a sudden Judge Sotomayor sounds a lot less like a radical legislate-from-the-bench sort of judge and more like an idealist who nonetheless understands the role of the judge in the three-branch governmental system.
 
-At this point I have to put a disclaimer in, because just as [my support of civilly recognizing gay marriage](http://www.chrishubbs.com/2008/11/20/recognizing-the-civil-religious-disconnect-or-what-to-do-about-gay-marriage/) [caused friends to think that I no longer believe homosexual behavior is sin](http://www.chrishubbs.com/2008/11/20/recognizing-the-civil-religious-disconnect-or-what-to-do-about-gay-marriage/comment-page-1/#comment-12544), this post suggesting that Judge Sotomayor isn't quite as radical as Fox News suggests will cause some friends to think that I'm soft on abortion. So here's the disclaimer. Judge Sotomayor does not appear to be the type of judge I'd prefer to see picked for the Supreme Court. I much prefer the staunch conservative views of Justices Roberts and Scalia, and the late Chief Justice Rehnquist. And abortion remains a heinous sin. OK? Are we cool? So let's proceed.
+At this point I have to put a disclaimer in, because just as [my support of civilly recognizing gay marriage](/08/11/recognizing-the-civil-religious-disconnect-or-what-to-do-about-gay-marriage/) caused friends to think that I no longer believe homosexual behavior is sin, this post suggesting that Judge Sotomayor isn't quite as radical as Fox News suggests will cause some friends to think that I'm soft on abortion. So here's the disclaimer. Judge Sotomayor does not appear to be the type of judge I'd prefer to see picked for the Supreme Court. I much prefer the staunch conservative views of Justices Roberts and Scalia, and the late Chief Justice Rehnquist. And abortion remains a heinous sin. OK? Are we cool? So let's proceed.
 
 Here's the thing I want to get to in regard to Fox News: if you watch it and for a minute think that you're really getting a "fair and balanced" view of the news, think again. Is it truly "fair and balanced" to hammer on Sotomayor for the one line that sounds bad, without bringing in the other line from _the same speech_ that balances things out?
 

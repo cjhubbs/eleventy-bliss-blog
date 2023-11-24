@@ -1,11 +1,7 @@
 ---
 title: "Getting rid of the Dish: The Nerd Post"
-date: "2009-08-14T17:45:07.000"
-tags: 
-  - "computer"
-  - "dvr"
-  - "nerdy"
-  - "tv"
+date: 2009-08-14T17:45:07.000
+tags: ['tv','tech']
 ---
 
 So we're getting rid of our Dish. We've had cable or satellite TV pretty much ever since we moved into town seven years ago, but now we're cutting the cable. Now, we're not giving up television altogether; we're just switching to a setup that will let us record and playback over-the-air TV, and giving up the paid stuff. There are a couple of sides to this, so I'll make it a couple of posts. This is the nerd post. You have been forewarned.

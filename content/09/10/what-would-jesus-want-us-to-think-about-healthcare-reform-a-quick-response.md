@@ -1,6 +1,7 @@
 ---
 title: "What Would Jesus Want Us To Think about Healthcare Reform? a Quick 	Response"
-date: "2009-10-28T20:28:38.000"
+date: 2009-10-28T20:28:38.000
+tags: ['politics']
 ---
 
 What would Jesus want us to think about health care reform?
@@ -20,4 +21,3 @@ Second, and far more greviously, Professor Green, by virtue of his first two poi
 
 If the evangelical political Right in America wants to oppose increased federal involvement in the health care system, there are reasonable arguments that can be made.  Shoddy reasoning, though, as demonstrated in this article, only makes them look silly.
 
-[Posted via email](http://posterous.com) from [Chris's posterous](http://chrishubbs.posterous.com/what-would-jesus-want-us-to-think-about-healt)

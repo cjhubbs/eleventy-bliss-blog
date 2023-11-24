@@ -1,12 +1,10 @@
 ---
 title: "Just Us at Christmas"
-date: "2008-12-20T22:40:27.000"
-tags: 
-  - "christmas"
-  - "life"
+date: 2008-12-20T22:40:27.000
+tags: ['christmas','family']
 ---
 
-![christmas-snoopy-lights-tree](http://www.chrishubbs.com/wordpress/wp-content/uploads/2008/12/christmas-snoopy-lights-tree.jpg "christmas-snoopy-lights-tree")In the 11 or 12 Christmases Becky and I have spent together, each has been celebrated with one set of parents or the other; most of them with my family, which has always lived closer, but a few Christmases we've made the drive to North Carolina to celebrate with Becky's family. This year, though, a convergence of plans and events has set things up so that we will be spending Christmas day at home, just us and the girls. We'll get to see my family the following week (for a wedding, no less!) but this week it'll just be us.
+In the 11 or 12 Christmases Becky and I have spent together, each has been celebrated with one set of parents or the other; most of them with my family, which has always lived closer, but a few Christmases we've made the drive to North Carolina to celebrate with Becky's family. This year, though, a convergence of plans and events has set things up so that we will be spending Christmas day at home, just us and the girls. We'll get to see my family the following week (for a wedding, no less!) but this week it'll just be us.
 
 Becky and I now get to start to decide what our family Christmases will look like. There's a huge amount of latitude, given that there are no expectations from anyone. If we want to make changes, now is the time. If you think about it too long, it becomes a little bit overwhelming. Becky touched on it yesterday when we were discussing our Christmas dinner menu. She said she didn't plan on making all the usual side dishes to go with the ham, but when I noted this was her chance to start a new tradition, she said she didn't really know where to start.
 

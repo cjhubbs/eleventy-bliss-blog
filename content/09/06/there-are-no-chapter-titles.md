@@ -1,9 +1,7 @@
 ---
 title: "There are no chapter titles"
-date: "2009-06-17T12:18:01.000"
-tags: 
-  - "friends"
-  - "life"
+date: 2009-06-17T12:18:01.000
+tags: ['friends','life']
 ---
 
 I think it really hit me when I saw the dirt bike. I hadn't seen that dirt bike in years, but I remembered the story behind it. It had been bought cheap, fixed up in a garage, and when finally complete, was brought to a party at a friends' house in the country. The owner rode it first, then handed the helmet to my wife. She proceeded to take it on a loop of the property, then lost control and ended up riding the thing directly into the corner of a limestone barn. Becky recovered within a couple of weeks from her spill, but when I saw the dirt bike sitting out waiting to be loaded into a moving trunk on Monday afternoon, I realized it had set for the last seven years with a bent rim waiting to be repaired.

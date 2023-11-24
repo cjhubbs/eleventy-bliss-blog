@@ -1,10 +1,7 @@
 ---
 title: "A fun evening, a late night, and musical kinship"
-date: "2008-12-10T14:52:37.000"
-tags: 
-  - "friends"
-  - "music"
-  - "songwriting"
+date: 2008-12-10T14:52:37.000
+tags: ['friends','music']
 ---
 
 I'll work through that title backwards. How do you know when you have some musical kinship with someone else? How about when they pull out that obscure song that they really like and want you to hear... and it's a song you've been playing on repeat on your iPod for weeks?

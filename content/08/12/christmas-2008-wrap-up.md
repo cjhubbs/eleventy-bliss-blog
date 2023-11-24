@@ -1,10 +1,7 @@
 ---
 title: "Christmas 2008 wrap-up"
-date: "2008-12-30T03:27:12.000"
-tags: 
-  - "christmas"
-  - "family"
-  - "photos"
+date: 2008-12-30T03:27:12.000
+tags: ['family']
 ---
 
 Nothing like a holiday and a week off work to slow down the blog posting.

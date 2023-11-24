@@ -1,9 +1,7 @@
 ---
 title: "\"I trust that age doth not wither nor custom stale my infinite variety.\""
-date: "2008-10-02T14:17:09.000"
-tags: 
-  - "books"
-  - "sherlock-holmes"
+date: 2008-10-02T14:17:09.000
+tags: ['books']
 ---
 
 I sent an email this morning which sent me thinking about a familiar quote, which in turn sent me thinking about one of my favorite sets of stories: the various adventures of Sherlock Holmes. Sir Arthur Conan Doyle wrote a multitude of mysteries featuring the odd detective between 1887 and 1927, and Holmes has been studied, quoted, parodied, and dramatized ever since.

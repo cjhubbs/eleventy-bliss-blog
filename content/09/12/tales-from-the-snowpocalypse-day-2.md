@@ -1,6 +1,7 @@
 ---
 title: "Tales from THE SNOWPOCALYPSE, Day 2"
-date: "2009-12-09T15:59:44.000"
+date: 2009-12-09T15:59:44.000
+tags: ['personal']
 ---
 
 Morning timeline:

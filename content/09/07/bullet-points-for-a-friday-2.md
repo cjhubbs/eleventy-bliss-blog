@@ -1,9 +1,7 @@
 ---
 title: 'Bullet Points for a Friday #2'
-date: '2009-07-24T17:07:58.000'
-tags:
-  - 'bullet-points'
-  - 'life'
+date: 2009-07-24T17:07:58.000
+tags: ['bullet-points']
 ---
 
 - Slow-ish week turns into busy weekend. Lots of family in town, softball tournament, leading worship. Fun, but busy.

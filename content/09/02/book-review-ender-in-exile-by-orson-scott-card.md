@@ -1,10 +1,7 @@
 ---
 title: "Book Review: <em>Ender In Exile</em> by Orson Scott Card"
-date: "2009-02-11T13:39:04.000"
-tags: 
-  - "2009-reading"
-  - "books"
-  - "reviews"
+date: 2009-02-11T13:39:04.000
+tags: ['books']
 ---
 
 I've been a big fan of Orson Scott Card's _Ender_ series since I read it a few years ago. _[Ender's Game](http://www.amazon.com/Special-Anniversary-Exculsive-Author-Recordings/dp/B001R1FXA8%3FSubscriptionId%3D02E5W5871AJF7PMMMS82%26tag%3Dscifirev-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001R1FXA8)_ is just brilliant storytelling, and _Speaker for the Dead_ is equally good, perhaps even better themes and story woven through it. So when I saw _[Ender In Exile](http://www.amazon.com/Ender-Exile-Orson-Scott-Card/dp/0765304961%3FSubscriptionId%3D02E5W5871AJF7PMMMS82%26tag%3Dscifirev-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0765304961)_ on the library shelf, it was a no-brainer to pick it up.

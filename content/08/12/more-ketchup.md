@@ -1,9 +1,7 @@
 ---
 title: "More Ketchup!"
-date: "2008-12-19T13:24:22.000"
-tags: 
-  - "humor"
-  - "kids"
+date: 2008-12-19T13:24:22.000
+tags: ['humor','kids']
 ---
 
 Our little Addison (age two and a half) caught a low-grade stomach bug earlier this week. She wasn't notably ill or uncomfortable, just sleeping more than usual and not wanting to eat much of anything. That it was, in fact, a stomach bug became clear on Wednesday morning when she threw up. Still, she was running around like normal, and talked more and faster than an overcaffeinated chipmunk for the first ten minutes after I got home from work.

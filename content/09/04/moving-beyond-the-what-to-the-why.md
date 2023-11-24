@@ -1,12 +1,10 @@
 ---
 title: "Moving beyond the \"what\" to the \"why\""
-date: "2009-04-18T01:38:55.000"
-tags: 
-  - "engineering"
-  - "software"
+date: 2009-04-18T01:38:55.000
+tags: ['engineering']
 ---
 
-Earlier this afternoon [I posted this thought](http://twitter.com/cjhubbs/status/1544627179) to Twitter:
+Earlier this afternoon I posted this thought to Twitter:
 
 > Scary Thing #1 as an engineer: people who just want the magic words rather than wanting to understand the problem.
 

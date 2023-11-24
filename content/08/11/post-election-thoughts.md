@@ -1,13 +1,8 @@
 ---
 title: "Post-Election Thoughts"
-date: "2008-11-05T15:03:27.000"
-tags: 
-  - "election-2008"
-  - "politics"
+date: 2008-11-05T15:03:27.000
+tags: ['politics']
 ---
-
-![](http://www.chrishubbs.com/wordpress/wp-content/uploads/2008/11/obama_4color_omark.jpg "obama_4color_omark")
-
 So much has been said by so many this morning that I don't really have anything brilliant to add. Still, I'll consolidate a few thoughts here.
 
 - The scene at Grant Park in Chicago last night was amazing. Just amazing.

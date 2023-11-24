@@ -1,6 +1,7 @@
 ---
 title: 'Bullet points for a Monday #3'
-date: '2009-12-07T18:00:05.000'
+date: 2009-12-07T18:00:05.000
+tags: ['bullet-points']
 ---
 
 There is a more substantive post or two in here, I promise. But for now - bullet points.

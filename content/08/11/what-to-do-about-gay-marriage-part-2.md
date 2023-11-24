@@ -1,11 +1,7 @@
 ---
 title: "What to do about \"gay marriage\", part 2"
-date: "2008-11-21T14:03:24.000"
-tags: 
-  - "freedom"
-  - "gay-marriage"
-  - "marriage"
-  - "religion"
+date: 2008-11-21T14:03:24.000
+tags: ['lgbtqia']
 ---
 
 Becky observed last night that my post yesterday on gay marriage was rather wordy and not as simple as she would've liked. So, I'm taking that as a challenge, and today I'm going to try to condense my arguments a bit. Feel free to agree or disagree in the comments.
@@ -42,7 +38,7 @@ Those changes didn't come about because either people said "oh my, our voting ru
 
 And this is where the debate really engages. My position is this: yes, gay marriage is a reasonable freedom to allow, for the following reasons:
 
-- We can embrace [a civil-religious disconnection.](http://www.chrishubbs.com/2008/11/20/recognizing-the-civil-religious-disconnect-or-what-to-do-about-gay-marriage/)
+- We can embrace [a civil-religious disconnection.](/08/11/recognizing-the-civil-religious-disconnect-or-what-to-do-about-gay-marriage/)
 - State-sanctioned marriage is essentially a specific path through contract law. When you get married, you automatically get a LOT of legal advantages, things that would be difficult to attain otherwise. What good reason do we have to say that any two people shouldn't be allowed to enter into a contract that way?
 - Society's views _have_ changed, and we may as well acknowledge the change rather than pretend it didn't happen.
 

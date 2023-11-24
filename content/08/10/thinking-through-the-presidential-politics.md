@@ -1,9 +1,7 @@
 ---
 title: "Thinking through the presidential politics"
-date: "2008-10-03T14:18:18.000"
-tags: 
-  - "election-2008"
-  - "politics"
+date: 2008-10-03T14:18:18.000
+tags: ['politics']
 ---
 
 I've had an easy time deciding who to support for president for pretty much every election cycle since I turned 18. This year, though, the choices are not so easy. I'm a life-long conservative with a distrust for Democrats but a growing distaste for the Republicans. Which makes this next sentence a very difficult one for me to say: unless something drastic changes between now and November 4, I'm voting for Obama.

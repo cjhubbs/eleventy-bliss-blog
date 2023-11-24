@@ -1,8 +1,7 @@
 ---
 title: "I suppose there was a time I thought staying up all night was cool..."
-date: "2009-08-28T06:45:28.000"
-tags: 
-  - "life"
+date: 2009-08-28T06:45:28.000
+tags: ['life']
 ---
 
 ...but right now isn't it. After getting, by Becky's measurement, 11 inches of rain in the past 48 hours, our basement once again began taking on water. Looks like I should've bumped that sump pump higher up the priority list. Once again I am thankful for neighbors on both sides who are willing to loan out their Shop Vacs. I am happy this year to have one shop vac that has a garden hose attachment so I don't have to carry it out to dump it.

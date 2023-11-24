@@ -1,9 +1,7 @@
 ---
 title: "There might be something to this Facebook thing..."
-date: "2009-02-09T12:49:51.000"
-tags: 
-  - "facebook"
-  - "nerdy"
+date: 2009-02-09T12:49:51.000
+tags: ['facebook']
 ---
 
 Yesterday afternoon we went over to a friend's house for her belated 30th birthday party. It was a good time - the carrot cake was tasty; there were friends there we hadn't seen in quite a while; all in all, just about what a birthday open house ought to be. It seemed, though, that I couldn't go more than about two minutes without hearing Facebook pop up in a conversation.

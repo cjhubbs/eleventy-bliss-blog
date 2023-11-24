@@ -1,11 +1,7 @@
 ---
 title: "A first look at Shaun Inman's \"Fever\""
-date: "2009-06-18T02:37:39.000"
-tags: 
-  - "feed-reader"
-  - "feedafever"
-  - "nerdy"
-  - "review"
+date: 2009-06-18T02:37:39.000
+tags: ['tech']
 ---
 
 Twitter and the blogs have been abuzz today over [Shaun Inman](http://www.shauninman.com)'s newest creation, called [Fever](http://www.feedafever.com). Some of you may be familiar with Shaun's previous creation, [Mint](http://haveamint.com/), a really nifty blog stats package that you host yourself. Inman is on familiar ground this time with Fever, creating a spiffy feed reader, full of AJAX-y goodness, suitable for hosting on your own website.
@@ -32,21 +28,15 @@ Next I went over to Google Reader and dumped my OPML file. I'm a heavy user, pro
 
 You have the option of keeping all your categories from the OPML or choosing not to when you import. I did keep my categories, but found a small issue with that choice later on - there is a bug (design choice?) that keeps the category list from scrolling. So, I can only see about half of my lists. Not a fatal issue, but something that needs fixed.
 
-![2009-06-17_205725](http://www.chrishubbs.com/wordpress/wp-content/uploads/2009/06/2009-06-17_205725.png "2009-06-17_205725")
-
 Once the feeds were imported, Fever started kicking off updates of all the feeds. This just takes a little while. If you want to set up a cron job on your server, you can have Fever pull in updates every 15 minutes 'round the clock. If not, Fever will update every 15 minutes when you have it open in a browser. I have yet to set up the cron job - we'll see how it goes.
 
 **General Usage**
 
 Fever is set up with the power user in mind. Keyboard shortcuts are built-in and intuitive; they allow you to do navigation, switch between two-pane and three-pane views (shown below), and the space bar lets you jump one article at a time, or, if it's a long article, one page at a time. Slick.
 
-\[caption id="attachment\_1531" align="alignnone" width="300" caption="Two-Column View"\][![Two-Column View](http://www.chrishubbs.com/wordpress/wp-content/uploads/2009/06/two-column-fever-300x150.png "two-column-fever")](http://www.chrishubbs.com/wordpress/wp-content/uploads/2009/06/two-column-fever.png)\[/caption\] \[caption id="attachment\_1530" align="alignnone" width="300" caption="Three-Column View"\][![Three-Column View](http://www.chrishubbs.com/wordpress/wp-content/uploads/2009/06/three-column-fever-300x150.png "three-column-fever")](http://www.chrishubbs.com/wordpress/wp-content/uploads/2009/06/three-column-fever.png)\[/caption\]
-
 Fever looks great, too. The overall layout feels a lot like Google Reader, even more like its Greasemonkey-enhanced alter ego Helvetireader. Group and feed lists are on the side, and you have the choice of showing or hiding unread counts.
 
 When you go to the Hot category, Fever assigns "temperatures" to the topics and presents the links in grouped form. For example, in the shot below, "Sojurn Community Church" is a hot topic among my feeds, and the half-dozen links discussing it are listed below. Clicking on any of them opens the actual blog article in a new tab. The "temperatures" are the one thing I'm actually a little unsure about. While they are a nice way of showing "hot" topics, having the temperature listed there in a BIG font seems a little big cheesy. We'll have to see how it stands the test of time.
-
-\[caption id="attachment\_1529" align="alignnone" width="331" caption="Hot View"\][!["Hot" View](http://www.chrishubbs.com/wordpress/wp-content/uploads/2009/06/hot-view-1024x514.png "hot-view")](http://www.chrishubbs.com/wordpress/wp-content/uploads/2009/06/hot-view.png)\[/caption\]
 
 **Performance**
 
@@ -56,11 +46,7 @@ I have yet to hear from my webhost and friend Geof complaining that the server's
 
 I do have a few gripes with Fever that I hope will get ironed out in short order. (Note: Fever automatically checks the server for updates to itself! Awesome!) The first is the feed editing dialog. (Click on the image to see it full-sized.) Maybe it's just because I have a lot of groups defined, but when I bring up the feed editing dialog, the bottom of the box is off-screen, with no way to scroll to it. (This is running 1280x800 resolution with Firefox fully maximized.) Fortunately, if I F11 to full screen view, the whole thing just barely fits on the screen. Otherwise, I'd be stuck.
 
-\[caption id="attachment\_1527" align="alignnone" width="300" caption="Edit Feed window"\][![Edit Feed window](http://www.chrishubbs.com/wordpress/wp-content/uploads/2009/06/edit-feed-window-300x150.png "edit-feed-window")](http://www.chrishubbs.com/wordpress/wp-content/uploads/2009/06/edit-feed-window.png)\[/caption\]
-
-The other general gripe is the mechanism for sorting feeds into groups. As I said earlier, I had a _lot_ (50?) of categories defined in my OPML file, so I decided I'd consolidate things a bit. Creating a new group is easy; picking the feeds for it is less so. Once you decide to edit a group, you are given a scroll box with your entire list of feeds. It's a multi-select box, which means you better make sure you hold down the Control key while you scroll through and select the ones you want - otherwise you'll be starting over. Ugh. Suggestion for Mr. Inman: use check boxes. Or even better, figure out a way to drag-and-drop. Update [in the comments below](http://www.chrishubbs.com/2009/06/17/a-first-look-at-shaun-inmans-fever/comment-page-1/#comment-12971): there _is_ drag-and-drop support to move feeds into groups. Sweet!
-
-\[caption id="attachment\_1528" align="alignnone" width="183" caption="Edit Group window"\][![Edit Group window](http://www.chrishubbs.com/wordpress/wp-content/uploads/2009/06/edit-group-window-183x300.png "edit-group-window")](http://www.chrishubbs.com/wordpress/wp-content/uploads/2009/06/edit-group-window.png)\[/caption\]
+The other general gripe is the mechanism for sorting feeds into groups. As I said earlier, I had a _lot_ (50?) of categories defined in my OPML file, so I decided I'd consolidate things a bit. Creating a new group is easy; picking the feeds for it is less so. Once you decide to edit a group, you are given a scroll box with your entire list of feeds. It's a multi-select box, which means you better make sure you hold down the Control key while you scroll through and select the ones you want - otherwise you'll be starting over. Ugh. Suggestion for Mr. Inman: use check boxes. Or even better, figure out a way to drag-and-drop. 
 
 As a general note, there is an iPhone/iPod Touch interface built in for Fever. To this point, though, it's not liking my Fever login... not sure why. Gotta keep trying.
 

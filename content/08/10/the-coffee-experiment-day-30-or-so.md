@@ -1,8 +1,7 @@
 ---
 title: "The Coffee Experiment, Day 30 or so"
-date: "2008-10-18T14:03:35.000"
-tags: 
-  - "coffee"
+date: 2008-10-18T14:03:35.000
+tags: ['coffee']
 ---
 
 I have just about finished up the bag of Starbucks dark roast that we had here at home, what to get next? Well, I came home from work yesterday to find that my beautiful wife had picked up a pound of Columbian Orange Bourbon light roast from [Brewed Awakenings](http://www.brewedawakeningscr.com), and a coffee grinder to go with it. What a great surprise!

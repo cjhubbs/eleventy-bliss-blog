@@ -1,9 +1,7 @@
 ---
 title: "Listening"
-date: "2008-10-09T18:54:39.000"
-tags: 
-  - "listening"
-  - "relationships"
+date: 2008-10-09T18:54:39.000
+tags: ['self-reflection']
 ---
 
 Thoughts from multiple discussions over the last week:

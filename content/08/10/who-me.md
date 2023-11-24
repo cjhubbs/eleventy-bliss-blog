@@ -1,10 +1,7 @@
 ---
 title: "Who, Me?"
-date: "2008-10-15T17:38:57.000"
-tags: 
-  - "election-2008"
-  - "guest-blogger"
-  - "politics"
+date: 2008-10-15T17:38:57.000
+tags: ['politics']
 ---
 
 My brother Ryan has been working full-time as an Obama campaign volunteer for the past few weeks, and likely will until the election. He wrote this op-ed and asked if I'd want to post it here. So here ya go, bro.

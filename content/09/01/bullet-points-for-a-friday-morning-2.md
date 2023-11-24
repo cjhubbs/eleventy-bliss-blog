@@ -1,9 +1,7 @@
 ---
 title: 'Bullet Points for a Friday Morning #2'
-date: '2009-01-23T15:08:31.000'
-tags:
-  - 'bullet-points'
-  - 'life'
+date: 2009-01-23T15:08:31.000
+tags: ['bullet-points']
 ---
 
 I've been neglecting this blog for the past few weeks, so it's time for an update of sorts. So... bullet points!

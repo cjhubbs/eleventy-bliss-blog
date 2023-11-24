@@ -1,15 +1,12 @@
 ---
 title: "An end-times deal-breaker"
-date: "2008-10-20T13:09:10.000"
-tags: 
-  - "church-search"
-  - "end-times"
-  - "theology"
+date: 2008-10-20T13:09:10.000
+tags: ['church-search','theology']
 ---
 
-So [yesterday afternoon I noted](http://www.chrishubbs.com/2008/10/19/the-church-search-week-2/) that the next church on our short list for visiting during the Church Search was probably [Cedar Valley Bible Church](http://www.cedarvalley.org). I know a few folks there, including the couple that has brought Andrew Peterson and company to town twice for concerts. I've been to a wedding there, too, and my overall impression was that the church might be a little further over into the conservative homeschooling culture than I'd be comfortable with, but then, it might be OK.
+So [yesterday afternoon I noted](/08/10/the-church-search-week-2/) that the next church on our short list for visiting during the Church Search was probably [Cedar Valley Bible Church](http://www.cedarvalley.org). I know a few folks there, including the couple that has brought Andrew Peterson and company to town twice for concerts. I've been to a wedding there, too, and my overall impression was that the church might be a little further over into the conservative homeschooling culture than I'd be comfortable with, but then, it might be OK.
 
-The only other [note I'd made](http://www.chrishubbs.com/2008/09/26/beginning-the-church-search/) about Cedar Valley thus far was when perusing their [Doctrinal Statement](http://cedarvalley.org/doctrinalstatement.shtml) online, it seemed to me that they had a far more detailed and lengthy statement on the End Times than do most doctrinal statements I've read. A very literal, pre-trib, dispensational sort of end times view. Still, as of yesterday, the church was still on my short list.
+The only other [note I'd made](/08/09/beginning-the-church-search/) about Cedar Valley thus far was when perusing their [Doctrinal Statement](http://cedarvalley.org/doctrinalstatement.shtml) online, it seemed to me that they had a far more detailed and lengthy statement on the End Times than do most doctrinal statements I've read. A very literal, pre-trib, dispensational sort of end times view. Still, as of yesterday, the church was still on my short list.
 
 Then last night I cruised on over to the Cedar Valley website again to check out Sunday morning service times, and I noted this link on the sidebar: "[2008 Second Coming Conference](http://cedarvalley.org/secondcomingconference.shtml)". That's right, in November Cedar Valley Bible will be bringing in a special speaker from [Friends of Israel](http://www.foi.org/) to speak three times over two days. The topics:
 

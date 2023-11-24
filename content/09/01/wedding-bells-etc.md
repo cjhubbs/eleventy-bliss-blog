@@ -1,9 +1,7 @@
 ---
 title: "Wedding bells, etc"
-date: "2009-01-03T15:13:57.000"
-tags: 
-  - "christmas"
-  - "family"
+date: 2009-01-03T15:13:57.000
+tags: ['christmas','family']
 ---
 
 I've taken plenty of pictures the past few days, but the dial-up internet connection here at the folks' house isn't up to uploading them, so they'll wait until we get home on Sunday. (To be quite fair, my folks aren't Luddites in the least when it comes to the internet; they simply live so far out that their only options are dial-up or ridiculously-expensive satellite. But I digress.)

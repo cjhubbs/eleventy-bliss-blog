@@ -1,9 +1,7 @@
 ---
 title: "Everybody's Working for the Weekend"
-date: "2008-12-05T19:28:36.000"
-tags: 
-  - "life"
-  - "truly-random"
+date: 2008-12-05T19:28:36.000
+tags: ['life','bullet-points']
 ---
 
 Yes, we have a weekend coming up. Unfortunately, we'll be heading into the weekend with a house full of sickies - Becky, both girls, and I are all fighting colds, coughs, and sore throats. Ick. So, here's my list of guesses of things we'll do this weekend.

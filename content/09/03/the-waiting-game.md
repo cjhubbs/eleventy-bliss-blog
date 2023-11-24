@@ -1,10 +1,7 @@
 ---
 title: "The Waiting Game"
-date: "2009-03-16T12:35:40.000"
-tags: 
-  - "kids"
-  - "life"
-  - "patience"
+date: 2009-03-16T12:35:40.000
+tags: ['kids']
 ---
 
 We've gotten to that point in Becky's pregnancy now where it's just a waiting game. The calendar is clear; the in-laws are here (and planning to stay until after the baby is born), the bags are packed. Heck, we even made a trial run to the hospital on Thursday morning when we had a bit of a false alarm. So now we wait.

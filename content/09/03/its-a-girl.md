@@ -1,10 +1,7 @@
 ---
 title: "It's a girl!"
 date: "2009-03-20T23:45:29.000"
-tags: 
-  - "announcements"
-  - "kids"
-  - "photos"
+tags: ['kids']
 ---
 
 Katherine (Katie) Paige Hubbs born March 20, 2009 at 11:22 am 7 lbs, 13.5 oz 20.5" long.

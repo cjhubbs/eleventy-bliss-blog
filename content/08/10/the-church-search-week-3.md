@@ -1,8 +1,7 @@
 ---
 title: "The Church Search, Week 3"
-date: "2008-10-26T14:17:22.000"
-tags: 
-  - "church-search"
+date: 2008-10-26T14:17:22.000
+tags: ["church-search"]
 ---
 
 After deciding early in the week that Cedar Valley Bible was off our short list, we spent a lot of time talking about where we might go next. We know the other place we definitely want to try out is [Maranatha Bible Church](http://www.maranathabible.org), so we tentatively decided last night that we'd head there this morning.

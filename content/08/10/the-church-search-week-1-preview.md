@@ -1,8 +1,7 @@
 ---
 title: "The Church Search, Week 1 Preview"
-date: "2008-10-11T21:05:15.000"
-tags: 
-  - "church-search"
+date: 2008-10-11T21:05:15.000
+tags: ['church-search']
 ---
 
 Well, tomorrow morning we officially begin our look for a new church here in the Cedar Rapids area. We're starting at a church called [Stonebridge](http://www.stonebridgesite.com/), a medium-sized Evangelical Free church on the southwest side of town. They're just on their second week in a new building, which actually didn't affect our decision to try them out... if anything we're tentative, figuring that it'll take them a few weeks in the new building to hit stride and get the kinks worked out.

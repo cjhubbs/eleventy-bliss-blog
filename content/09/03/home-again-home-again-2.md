@@ -1,9 +1,7 @@
 ---
 title: 'Home again, home again... (new baby edition)'
-date: '2009-03-24T00:33:45.000'
-tags:
-  - 'kids'
-  - 'photos'
+date: 2009-03-24T00:33:45.000
+tags: ['kids']
 ---
 
 As a friend noted the other day, it's a bit of a weird feeling to know that you're driving only two to the hospital, but when you come home there will be three. But it's a great feeling, too, to finally leave the hospital and bring folks home. Becky and Katie were discharged on Sunday morning and came home to two excited sisters and two grandparents.

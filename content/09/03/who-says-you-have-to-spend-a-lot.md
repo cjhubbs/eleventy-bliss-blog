@@ -1,8 +1,7 @@
 ---
 title: "Who says you have to spend a lot?"
-date: "2009-03-17T14:42:37.000"
-tags: 
-  - "life"
+date: 2009-03-17T14:42:37.000
+tags: ["life"]
 ---
 
 Back in college, [Dr. Batts](http://www.letu.edu/opencms/opencms/_Academics/Arts-Science/english/faculty/batts.html) suggested a cheap date: a trip to Walmart. His rationale? First, go through the food side of the store and eat the free samples, then, go back to the electronics department and watch whatever movie is playing on the TVs.

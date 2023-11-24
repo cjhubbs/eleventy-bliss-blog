@@ -1,9 +1,7 @@
 ---
 title: "Buffalo Chicken Dip recipe"
-date: "2008-10-20T18:08:30.000"
-tags: 
-  - "food"
-  - "recipes"
+date: 2008-10-20T18:08:30.000
+tags: ['food']
 ---
 
 [Lydia](http://lrpresley.wordpress.com) asked for it, so here it is...

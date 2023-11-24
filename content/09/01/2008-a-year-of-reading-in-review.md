@@ -1,12 +1,10 @@
 ---
 title: "2008: A Year of Reading in Review"
-date: "2009-01-06T00:27:22.000"
-tags: 
-  - "books"
-  - "recommended-reading"
+date: 2009-01-06T00:27:22.000
+tags: ['books','reading','year-in-review']
 ---
 
-This the only year-end post I'll write; just a summary of [my book reading list from 2008](http://www.chrishubbs.com/books-i-read-in-2008/).
+This the only year-end post I'll write; just a summary of [my book reading list from 2008](/books-i-read-in-2008/).
 
 Some quick details:
 
@@ -26,7 +24,7 @@ Runner up: [_The Time Traveler's Wife_](http://www.amazon.com/Time-Travelers-Wif
 - [_Newjack: Guarding Sing Sing_](http://www.amazon.com/Newjack-Guarding-Sing-Ted-Conover/dp/0375726624%3FSubscriptionId%3D02E5W5871AJF7PMMMS82%26tag%3Dscifirev-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0375726624) by Ted Conover. An inside look at the correctional officers who run Sing Sing prison.
 - _[A Case for Amillennialism](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FCase-Amillennialism-Understanding-End-Times%2Fdp%2F080106435X%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1215282338%26sr%3D8-1&tag=scifirev-20&linkCode=ur2&camp=1789&creative=9325)_ by Kim Riddlebarger. Quite helpful.
 
-**Worst book of the year:** [_How Would Jesus Vote?_](http://www.amazon.com/How-Would-Jesus-Vote-Perspective/dp/1400074061%3FSubscriptionId%3D02E5W5871AJF7PMMMS82%26tag%3Dscifirev-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1400074061) by the late D. James Kennedy and Jerry Newcombe. I thought [my blog review](http://www.chrishubbs.com/2008/10/30/book-review-how-would-jesus-vote-by-d-james-kennedy/) of it was bad until I read [Ron's review](http://www.moreron.com/2008/10/31/book-review-how-would-jesus-vote/). He said, in short:
+**Worst book of the year:** [_How Would Jesus Vote?_](http://www.amazon.com/How-Would-Jesus-Vote-Perspective/dp/1400074061%3FSubscriptionId%3D02E5W5871AJF7PMMMS82%26tag%3Dscifirev-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1400074061) by the late D. James Kennedy and Jerry Newcombe. I thought [my blog review](/08/10/book-review-how-would-jesus-vote-by-d-james-kennedy/) of it was bad until I read [Ron's review](http://www.moreron.com/2008/10/31/book-review-how-would-jesus-vote/). He said, in short:
 
 > The book is awful. Simply awful. I can’t stress to you how amazingly awful this book is. Do not buy, read, or borrow this book. I will likely use my copy for kindling in the fireplace this winter.
 

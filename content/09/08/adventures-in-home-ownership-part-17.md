@@ -1,11 +1,10 @@
 ---
 title: "Adventures in Home Ownership, Part 17"
-date: "2009-08-04T14:40:24.000"
-tags: 
-  - "life"
+date: 2009-08-04T14:40:24.000
+tags: ['house']
 ---
 
-As [my Twitter stream](http://twitter.com/cjhubbs) revealed over the weekend, it turned out to be a busy weekend, but not quite in the ways we had anticipated.
+As my Twitter stream revealed over the weekend, it turned out to be a busy weekend, but not quite in the ways we had anticipated.
 
 Becky has been wishing for a new refrigerator for a while now - something newer, bigger, and, well, if it had ice and water in the door, that'd be awesome. So Friday afternoon someone at work posted a fridge for sale that seemed to fit the bill. Lightly used, newer, 40% bigger than our current one, and yeah, ice and water in the door. At a good price.
 

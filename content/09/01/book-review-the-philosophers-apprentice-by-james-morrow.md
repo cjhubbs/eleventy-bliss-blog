@@ -1,9 +1,7 @@
 ---
 title: "Book Review: <em>The Philosopher's Apprentice</em> by James Morrow"
-date: "2009-01-26T00:55:54.000"
-tags: 
-  - "2009-reading"
-  - "reviews"
+date: 2009-01-26T00:55:54.000
+tags: ['books']
 ---
 
 I picked up _The Philosopher's Apprentice_ on a whim from the library. And what a whim. The flyleaf gave a thumbnail description of a philosophy doctoral student who takes a job becoming the tutor for a teenage girl who was in an accident and lost her sense of morality. OK, sounds interesting as far as that goes. But that's just the beginning of the story.

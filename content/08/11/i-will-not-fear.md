@@ -1,10 +1,7 @@
 ---
 title: "I will not fear"
-date: "2008-11-04T14:17:36.000"
-tags: 
-  - "election-2008"
-  - "politics"
-  - "theology"
+date: 2008-11-04T14:17:36.000
+tags: ['politics']
 ---
 
 On an internal discussion board at my workplace today, a co-worker (who is a Christian, though a bit of the far-right cynical type) posted this:

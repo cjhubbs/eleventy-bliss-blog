@@ -1,14 +1,10 @@
 ---
 title: "Book Review: <em>How Would Jesus Vote?</em> by D. James Kennedy"
-date: "2008-10-30T12:00:51.000"
-tags: 
-  - "books"
-  - "election-2008"
-  - "politics"
-  - "reviews"
+date: 2008-10-30T12:00:51.000
+tags: ['books','reviews','politics'] 
 ---
 
-![cover art](http://www.chrishubbs.com/wordpress/wp-content/uploads/2008/10/image001.jpg "How Would Jesus Vote? cover art")Have you heard that there's an election coming up soon? So has WaterBrook Publishing, apparently, because they timed this blog review giveaway to fall just before the 2008 presidential election. Which brings me today to review _How Would Jesus Vote? A Christian Perspective on the Issues_, written by the late Dr. D. James Kennedy and Jerry Newcombe. Kennedy was the senior minister at Coral Ridge Presbyterian Church in Ft. Lauderdale, FL, and Newcombe is a television producer for Coral Ridge and a frequent co-author. I will admit to being skeptical about the book when I was invited to do the review; in general I feel that the "Religious Right" has done far more harm to the name of Christ than it has accomplished with its political machinations over the past 20 years. But I figured it was worth a read.
+Have you heard that there's an election coming up soon? So has WaterBrook Publishing, apparently, because they timed this blog review giveaway to fall just before the 2008 presidential election. Which brings me today to review _How Would Jesus Vote? A Christian Perspective on the Issues_, written by the late Dr. D. James Kennedy and Jerry Newcombe. Kennedy was the senior minister at Coral Ridge Presbyterian Church in Ft. Lauderdale, FL, and Newcombe is a television producer for Coral Ridge and a frequent co-author. I will admit to being skeptical about the book when I was invited to do the review; in general I feel that the "Religious Right" has done far more harm to the name of Christ than it has accomplished with its political machinations over the past 20 years. But I figured it was worth a read.
 
 Chapter One of _HWJV?_ asks, appropriately enough, would Jesus even have His followers vote at all? Unsurprisingly, it concludes that yes, He would, based primarily on the "render unto Caesar" command in Luke 20. Taking it even a step further, the authors claim that it is primarily _the Christians'_ fault that America's morality has taken a downturn in the past century; if only Christians had been more involved politically, they say, and been more effective at "legislating our morality", things would be much different today.
 
@@ -39,8 +35,8 @@ One of the most disturbing things to be in _HWJV?_ was the way the authors mangl
 
 I want to explore that a little bit more. Matthew 23 is a chapter in which Jesus chastises the Pharisees and religious leaders for their pride, ambition, and hypocrisy. In context:
 
-> 8"But you are not to be called 'Rabbi,' for you have only one Master and you are all brothers. 9And do not call anyone on earth 'father,' for you have one Father, and he is in heaven. 10Nor are you to be called 'teacher,' for you have one Teacher, the Christ.\[b\] 11The greatest among you will be your servant. 12For whoever exalts himself will be humbled, and whoever humbles himself will be exalted.
-> 
+> 8"But you are not to be called 'Rabbi,' for you have only one Master and you are all brothers. 9And do not call anyone on earth 'father,' for you have one Father, and he is in heaven. 10Nor are you to be called 'teacher,' for you have one Teacher, the Christ.\[b\] 11The greatest among you will be your servant. 12For whoever exalts himself will be humbled, and whoever humbles himself will be exalted.  
+> <br/>
 > \- Matt 23:8-12, NIV
 
 That's right, the authors picked a single verse from a chapter in which Jesus is telling us that the values of the kingdom are inverted, that status and position don't matter, but that humility and servanthood do... and they use that single verse to try to prove that God would have us reduce taxes on "big business", because those rich are doing us all a service. Did they completely miss the irony here?

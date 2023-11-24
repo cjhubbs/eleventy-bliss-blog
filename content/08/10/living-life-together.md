@@ -1,14 +1,10 @@
 ---
 title: "Living Life Together"
-date: "2008-10-17T14:32:18.000"
-tags: 
-  - "church"
-  - "church-search"
-  - "community"
-  - "thoughts"
+date: 2008-10-17T14:32:18.000
+tags: ['church','church-search']
 ---
 
-It is becoming more and more clear to me lately how we are created for community, and how much we need that community to live our lives. When we [announced a month ago](http://www.chrishubbs.com/2008/09/13/changes-coming/) (though it seems like it has been much longer) that we were leaving [Imago Christi Church](http://www.imagochristicp.org), the primary reasons were a need to recalibrate and reprioritize. What I have started to see in the past month is how much the need for community played into our busyness and weariness.
+It is becoming more and more clear to me lately how we are created for community, and how much we need that community to live our lives. When we [announced a month ago](/08/09/changes-coming/) (though it seems like it has been much longer) that we were leaving [Imago Christi Church](http://www.imagochristicp.org), the primary reasons were a need to recalibrate and reprioritize. What I have started to see in the past month is how much the need for community played into our busyness and weariness.
 
 Let me back up just a bit. While it was by no means the beginning of the issue, Becky and I had a long discussion on the way home from an [Andy Osenga](http://www.andyosenga.com) concert earlier this summer. (I'm stunned that I didn't blog about it at the time, but I did [post pictures to Flickr](http://flickr.com/photos/chrishubbs/sets/72157607289171826/).) Andy introduced his song ["Hold the Light"](http://caedmonscall.net/song-vault/overdressed/hold-the-light/), as usual, by telling the story about his small group. They have gathered in somebody's backyard every week for a couple of years, sharing life stories, praying, encouraging, and living life together. It's a powerful song, and a powerful story. On the long drive home I found myself getting jealous of my friend Andy. How I would love to have a group of folks like that.
 

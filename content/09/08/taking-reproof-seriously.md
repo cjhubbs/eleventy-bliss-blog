@@ -1,12 +1,10 @@
 ---
 title: "Taking Reproof Seriously"
-date: "2009-08-16T01:25:56.000"
-tags: 
-  - "church"
-  - "retrospective"
+date: 2009-08-16T01:25:56.000
+tags: ['church']
 ---
 
-Nearly a week ago [I wrote a piece here](http://www.chrishubbs.com/2009/08/09/taking-worship-seriously/) wrestling with some concerns I've had about Sunday morning worship. That post went past with relatively few comments, but this morning I had a conversation with a brother from Stonebridge who, without regard to the content of my concerns, asked why I hadn't just come to folks at church directly with my thoughts before publishing them on my blog. Furthermore, he let me know that there were feelings hurt by what I wrote.
+Nearly a week ago [I wrote a piece here](/09/08/taking-worship-seriously/) wrestling with some concerns I've had about Sunday morning worship. That post went past with relatively few comments, but this morning I had a conversation with a brother from Stonebridge who, without regard to the content of my concerns, asked why I hadn't just come to folks at church directly with my thoughts before publishing them on my blog. Furthermore, he let me know that there were feelings hurt by what I wrote.
 
 We had a good conversation, one with which I've been wrestling for the rest of the day. And while I don't feel like this was a situation where someone had wronged me and I should've been following Matthew 18, in hindsight (don't you hate that word, hindsight? just its presence indicates that something was screwed up) I can understand that there could be folks who were hurt by what came across, despite my best intentions, as public criticism of them and their service at church.
 

@@ -1,8 +1,7 @@
 ---
 title: "Fever° Version 1.01"
-date: "2009-06-22T13:25:59.000"
-tags: 
-  - "feedafever"
+date: 2009-06-22T13:25:59.000
+tags: ['tech']
 ---
 
 This morning Shaun Inman pushed out (with [notice via Twitter](http://twitter.com/shauninman/statuses/2278304910)) version 1.01 of the [Fever° feed reader](http://feedafever.com). First of all, major kudos to Shaun for the auto-updater built in to Fever°. (Yes, I'll go ahead and conform to the official naming of this tool, adding the little degree symbol to the end.) Once Shaun pushes the update out, Fever° will auto-update within 24 hours. Or, you can do an instant update from the menu. Very cool, very very simple. (Here's the [changelog for V1.01](http://feedafever.com/todone.txt).)

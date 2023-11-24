@@ -1,9 +1,7 @@
 ---
 title: "They are soon gone, and we fly away"
-date: "2008-10-28T13:22:35.000"
-tags: 
-  - "death"
-  - "life"
+date: 2008-10-28T13:22:35.000
+tags: ['life']
 ---
 
 It always seems to be the bitter, cold, rainy days. Yesterday morning I took my familiar perch behind the piano at Noelridge as an aging group of family and friends gathered to remember the life of a dear lady who passed away last week. Save for a few grandchildren present, at age 31 I was easily the youngest person in the room, and my position at the piano gave me forty minutes' opportunity to study the faces of those assembled.

@@ -1,10 +1,7 @@
 ---
 title: "Canadian Travels and Weird Internet Friends"
-date: "2009-05-15T13:03:30.000"
-tags: 
-  - "friends"
-  - "photos"
-  - "travel"
+date: 2009-05-15T13:03:30.000
+tags: ['friends','travel']
 ---
 
 This week business took me on my second-ever cross-the-border trip, once again to Canada, though this time to a part of Canada (Toronto) that felt much less alien then last time (Montreal). Something about them still speaking English in Ontario makes it a little more comfortable.
@@ -13,11 +10,11 @@ Anyhow, there wasn't much time for sight-seeing as we sandwiched a day of custom
 
 Dan and Laura:
 
-![dan_and_laura](http://www.chrishubbs.com/wordpress/wp-content/uploads/2009/05/dan_and_laura.jpg "dan_and_laura")
+![dan_and_laura](/images/2009/dan_and_laura.jpg)
 
 Wally, Dan, and me:
 
-![the_guys](http://www.chrishubbs.com/wordpress/wp-content/uploads/2009/05/the_guys.jpg "the_guys")
+![the_guys](/images/2009/wally-dan-chris.jpeg)
 
 It should come as no real surprise by now to anyone that reads this blog that I have a group of "weird internet friends". We've had some visit in our home, and met up with others in Minneapolis, Nashville, Lincoln, and Charlotte. Each time I've found them to be decent, enjoyable people, and we've had great times visiting. I had a little extra anticipation this time, though; Dan and I had hit it off so well online that I figured our in-person meeting would either be brilliant or amazingly awkward.
 

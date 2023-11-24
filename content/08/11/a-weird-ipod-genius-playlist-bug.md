@@ -1,10 +1,7 @@
 ---
 title: "A weird iPod Genius playlist bug"
-date: "2008-11-17T13:36:36.000"
-tags: 
-  - "bugs"
-  - "music"
-  - "nerdy"
+date: 2008-11-17T13:36:36.000
+tags: ['tech']
 ---
 
 Discovered this one last night: when I tapped the Genius icon to create a Genius playlist out of the currently-playing song, the playlist it created began with a different version of that song. It was repeatable, happened twice.

@@ -1,9 +1,7 @@
 ---
 title: "Election Eve"
-date: "2008-11-03T14:26:13.000"
-tags: 
-  - "election-2008"
-  - "politics"
+date: 2008-11-03T14:26:13.000
+tags: ['politis']
 ---
 
 It seems like this election cycle started a LONG time ago. We had our caucuses in Iowa back in January, and even at that point it seemed like the campaign was getting long. By tomorrow night, though, (Lord willing,) it'll all be over except for the mopping up.

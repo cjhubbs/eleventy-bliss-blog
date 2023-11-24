@@ -1,9 +1,7 @@
 ---
 title: 'Happy Birthday, Mom (2008 edition)!'
-date: '2008-11-07T15:03:39.000'
-tags:
-  - 'birthdays'
-  - 'family'
+date: 2008-11-07T15:03:39.000
+tags: ['family']
 ---
 
 It's my mother's birthday today, and out of respect for her (a respect that I wasn't prone to show in my younger years, but that's another story) I won't mention her age.

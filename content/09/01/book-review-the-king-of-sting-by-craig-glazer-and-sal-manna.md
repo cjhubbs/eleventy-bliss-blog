@@ -1,10 +1,7 @@
 ---
 title: "Book Review: <em>The King of Sting</em> by Craig Glazer and Sal Manna"
-date: "2009-01-11T17:48:29.000"
-tags: 
-  - "2009-reading"
-  - "books"
-  - "reviews"
+date: 2009-01-11T17:48:29.000
+tags: ['books']
 ---
 
 Sometimes, real life is even better than the stories. [_The King of Sting_](http://www.amazon.com/King-Sting-Amazing-Modern-American/dp/1602392498%3FSubscriptionId%3D02E5W5871AJF7PMMMS82%26tag%3Dscifirev-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1602392498) details the adventures of its author, Craig Glazer, as a twenty-something college student in the early 1970's. Glazer was inspired by a movie "sting" - a scene where a team of shady characters pretend to be police in order to steal from criminals - and, with the help of a few friends, became a master sting artist himself.

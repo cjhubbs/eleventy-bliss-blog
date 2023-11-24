@@ -1,11 +1,7 @@
 ---
 title: "Book Review: <em>Jesus and the Victory of God</em> by N. T. Wright"
-date: "2009-01-27T13:47:12.000"
-tags: 
-  - "2009-reading"
-  - "n-t-wright"
-  - "reviews"
-  - "theology"
+date: 2009-01-27T13:47:12.000
+tags: ['books','n-t-wright']
 ---
 
 I should say this up front: the idea that I'm going to be able to intelligently "review" Wright's massive _[Jesus and the Victory of God](http://www.amazon.com/Jesus-Victory-Christian-Origins-Question/dp/0800626826%3FSubscriptionId%3D02E5W5871AJF7PMMMS82%26tag%3Dscifirev-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0800626826)_ in a 250-word blog post is ridiculous at best, and insane at worst. But I'm posting individual reviews for each book I finish this year, so here goes.

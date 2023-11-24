@@ -1,8 +1,7 @@
 ---
 title: "The Church Search, Week 2"
-date: "2008-10-19T22:36:22.000"
-tags: 
-  - "church-search"
+date: 2008-10-19T22:36:22.000
+tags: ["church-search"]
 ---
 
 Week 2 of the Church Search took us back to [Stonebridge Church](http://www.stonebridgesite.com) for the second week in a row. (We kinda figure it'll take at least a few weeks at any given place to really be able to make some sort of reasonable judgment on things.) We got out the door five minutes earlier this morning, leaving at 8:30 for a 9:00 service. We were there in 15 minutes, but the child check-in desk was quite a bit crazy this morning, so we still ended up not getting in to the sanctuary until the worship band had just about finished the opening song. Hopefully they'll get the check-in stuff figured out soon.

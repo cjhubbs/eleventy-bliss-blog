@@ -1,11 +1,10 @@
 ---
 title: "The Church Search, Week 5"
-date: "2008-11-09T20:57:51.000"
-tags: 
-  - "church-search"
+date: 2008-11-09T20:57:51.000
+tags: ['church-search']
 ---
 
-This morning [we got up off our behinds](http://www.chrishubbs.com/2008/11/05/good-friends-say-things-like-this/) and visited the next church on our short list: [Maranatha Bible Church](http://www.maranathabible.org). Maranatha has been around for nearly 30 years in Cedar Rapids, sitting on 25th Street near Mount Mercy College. We were familiar with some of the people before we visited; we've known Pastor Aaron Telecky and his family for several years, Youth Pastor Thad Joyce and his family live just a few blocks up from us here in Hiawatha, and several other faces in the church were familiar from many years of church league softball. It's a bit interesting giving my update on Maranatha this afternoon since I know Aaron reads this blog. Aaron, feel free to comment if you want to.
+This morning [we got up off our behinds](/08/11/good-friends-say-things-like-this/) and visited the next church on our short list: [Maranatha Bible Church](http://www.maranathabible.org). Maranatha has been around for nearly 30 years in Cedar Rapids, sitting on 25th Street near Mount Mercy College. We were familiar with some of the people before we visited; we've known Pastor Aaron Telecky and his family for several years, Youth Pastor Thad Joyce and his family live just a few blocks up from us here in Hiawatha, and several other faces in the church were familiar from many years of church league softball. It's a bit interesting giving my update on Maranatha this afternoon since I know Aaron reads this blog. Aaron, feel free to comment if you want to.
 
 **First Impressions**
 
@@ -31,7 +30,7 @@ This morning [we got up off our behinds](http://www.chrishubbs.com/2008/11/05/go
 - Pastor Aaron is on a sermon series through the book of Isaiah. This week was chapter 32. At a chapter a week he has another 7 or so months to go.
 - The sermon was maybe 40 - 45 minutes long, but good, solid stuff. Pastor Aaron seems to pretty much have one speed, but it's energetic and not hard to listen to.
 - The Gospel was clearly present in the message, as was a reminder of the hope that we have in God's kingdom that will be established for eternity.
-- After [avoiding one church on our list](http://www.chrishubbs.com/2008/10/20/an-end-times-deal-breaker/) because of their strident insistence on a particular sort of end-times views, it was good to hear from the pulpit (and I paraphrase here) that 'a lot of Bible-believing people have come up with a lot of Bible-believing ideas about how the end times will happen, but in reality we don't really know for certain.
+- After [avoiding one church on our list](/08/10/an-end-times-deal-breaker/) because of their strident insistence on a particular sort of end-times views, it was good to hear from the pulpit (and I paraphrase here) that 'a lot of Bible-believing people have come up with a lot of Bible-believing ideas about how the end times will happen, but in reality we don't really know for certain.
 
 **People**
 

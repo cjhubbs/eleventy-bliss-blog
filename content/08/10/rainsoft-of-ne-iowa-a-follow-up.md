@@ -1,11 +1,10 @@
 ---
 title: "Rainsoft of NE Iowa: A follow-up"
-date: "2008-10-13T20:50:24.000"
-tags: 
-  - "rants"
+date: 2008-10-13T20:50:24.000
+tags: ["rants"]
 ---
 
-A few weeks ago [I wrote about a bad experience](http://www.chrishubbs.com/2008/09/15/why-i-dislike-salespeople-or-at-least-their-tactics/) we had with an in-home sales call from [Rainsoft of NE Iowa](http://www.rainsoftneiowa.com/). I wrote the rant, emailed it to every Rainsoft of NE Iowa email address I could find, and that was that. Both of the email addresses I found for Rainsoft of NE Iowa bounced, and Rainsoft corporate doesn't list an email address on their website, so I figured that was the end of it.
+A few weeks ago [I wrote about a bad experience](/08/09/why-i-dislike-salespeople-or-at-least-their-tactics/) we had with an in-home sales call from [Rainsoft of NE Iowa](http://www.rainsoftneiowa.com/). I wrote the rant, emailed it to every Rainsoft of NE Iowa email address I could find, and that was that. Both of the email addresses I found for Rainsoft of NE Iowa bounced, and Rainsoft corporate doesn't list an email address on their website, so I figured that was the end of it.
 
 Then last week I got a phone call from Terry Bonik, who owns Rainsoft of NE IA. He had been notified of my blog post earlier that day, apparently by someone from Rainsoft corporate. In summary, he expressed these details:
 

@@ -1,10 +1,7 @@
 ---
 title: "Book Review: <em>The Anglo Files: A Field Guide to the British</em> by Sarah Lyall"
-date: "2009-02-04T13:22:10.000"
-tags: 
-  - "2009-reading"
-  - "books"
-  - "reviews"
+date: 2009-02-04T13:22:10.000
+tags: ['books']
 ---
 
 Every culture has its quirks, but to really notice them and appreciate them you need to be able to look from the perspective of an outsider. When you can then write about those quirks with wit, humor, and insight, then you're approaching what author Sarah Lyall has achieved with _[The Anglo Files](http://www.amazon.com/Anglo-Files-Field-Guide-British/dp/0393058468%3FSubscriptionId%3D02E5W5871AJF7PMMMS82%26tag%3Dscifirev-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0393058468)_. Lyall, a correspondent for the _New York Times_, was posted to Britain some ten years ago, married a Britisher, and now raises two children there in London whilst still writing for the _Times_.

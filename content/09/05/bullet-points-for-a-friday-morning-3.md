@@ -1,9 +1,7 @@
 ---
 title: 'Bullet Points for a Friday Morning #3'
-date: '2009-05-01T12:19:56.000'
-tags:
-  - 'bullet-points'
-  - 'life'
+date: 2009-05-01T12:19:56.000
+tags: ['bullet-points']
 ---
 
 - Monday road trip to Nashville was awesome. Saw some friends, made some new ones, saw a great concert. (Geof recorded it and you can [download MP3s](http://tinyurl.com/ao-20090427-mp3s).)

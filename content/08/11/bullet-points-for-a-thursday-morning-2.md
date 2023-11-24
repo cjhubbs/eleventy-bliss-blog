@@ -1,9 +1,7 @@
 ---
 title: 'Bullet Points for a Thursday Morning #2'
-date: '2008-11-13T17:11:13.000'
-tags:
-  - 'bullet-points'
-  - 'life'
+date: 2008-11-13T17:11:13.000
+tags: ['bullet-points']
 ---
 
 It's been a crazy week so I'm reduced to one of these play-by-play lists. Sorry.

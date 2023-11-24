@@ -1,13 +1,8 @@
 ---
 title: "Do you want to play with me?"
-date: "2008-11-19T14:58:00.000"
-tags: 
-  - "kids"
-  - "lessons"
-  - "life"
+date: 2008-11-19T14:58:00.000
+tags: ['kids']
 ---
-
-[![DSC_6649](http://farm4.static.flickr.com/3235/2666217991_a57e76b229_m.jpg)](http://www.flickr.com/photos/chrishubbs/2666217991/ "DSC_6649 by chrishubbs, on Flickr")
 
 Children have ways of saying things that just cut you to the quick. They don't realize it, but you hear the words, and, _whammo_, they've got you. Today's example: my four-year-old daughter Laura.
 

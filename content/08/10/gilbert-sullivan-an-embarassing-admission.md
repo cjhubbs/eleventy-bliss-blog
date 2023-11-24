@@ -1,9 +1,7 @@
 ---
 title: "Gilbert & Sullivan & an embarassing admission"
-date: "2008-10-29T14:04:24.000"
-tags: 
-  - "music"
-  - "video"
+date: 2008-10-29T14:04:24.000
+tags: ['music']
 ---
 
 During an online conversation with [Lydia](http://lrpresley.wordpress.com) this morning I was chiding for her unfamiliarity with Gilbert & Sullivan's "Three Little Maids from School Are We". Just to get everyone on the same page, here it is:
@@ -15,5 +13,3 @@ In _Chariots of Fire_, as I recall, one of the main characters is interested in 
 In _The Simpsons_, the villain Sideshow Bob tracks down the Simpson family (who were living on a houseboat in a witness relocation program), ties up the parents, and is just about to kill Bart. Bart stalls Sideshow Bob by challenging him to sing the entire score of _The Pirates of Penzance H.M.S. Pinafore (thanks for the correction, Jamie!)_. Bob can't resist the challenge and so sings and sings and sings while the boat floats down the river, into town, and to the authorities.
 
 I really should take some time to become more familiar with these guys.
-
-_\[Edit: I found a good version of the Simpsons' scene.\]_

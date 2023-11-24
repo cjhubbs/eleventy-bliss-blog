@@ -1,9 +1,7 @@
 ---
 title: "A College Football Playoff Proposal"
-date: "2008-12-04T01:25:17.000"
-tags: 
-  - "football"
-  - "sports"
+date: 2008-12-04T01:25:17.000
+tags: ['football','sports']
 ---
 
 OK, so can we just agree that the BCS really stinks, and there must be a better way to do college football playoffs? Every year there's whining because some team deserves a shot and doesn't get it, and some other team may not be as deserving, but the computers seem to like them... it's just never good. So here's my proposal for moving Division 1-A NCAA football to a playoff system.

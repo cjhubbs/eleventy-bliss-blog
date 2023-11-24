@@ -1,10 +1,7 @@
 ---
 title: "Observations from the weekend"
-date: "2008-10-27T18:09:02.000"
-tags: 
-  - "community"
-  - "friends"
-  - "life"
+date: 2008-10-27T18:09:02.000
+tags: ['bullet-points']
 ---
 
 - Your house doesn't have to be amazingly clean to invite friends over.

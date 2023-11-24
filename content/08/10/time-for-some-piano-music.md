@@ -1,11 +1,7 @@
 ---
 title: "Time for some piano music"
-date: "2008-10-23T12:40:51.000"
-tags: 
-  - "chopin"
-  - "music"
-  - "piano"
-  - "rachmaninoff"
+date: 2008-10-23T12:40:51.000
+tags: ['music','piano']
 ---
 
 I switched over from my usual podcasts and indie rock this morning to give some iPod love to a genre I've ignored far too much as of late: classical piano. To be more specific: Bach and Chopin. What a fantastic way to start the morning.

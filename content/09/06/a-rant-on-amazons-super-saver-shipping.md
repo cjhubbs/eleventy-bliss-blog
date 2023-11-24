@@ -1,8 +1,7 @@
 ---
 title: "A Rant on Amazon's Super Saver Shipping"
-date: "2009-06-22T17:44:30.000"
-tags: 
-  - "rants"
+date: 2009-06-22T17:44:30.000
+tags: ['rants']
 ---
 
 Mostly to save my Tweeps from a half-dozen tweets venting my frustration.

@@ -1,9 +1,7 @@
 ---
 title: "More busy than a one-legged man at a butt-kicking contest"
-date: "2009-04-10T14:10:14.000"
-tags: 
-  - "life"
-  - "work"
+date: 2009-04-10T14:10:14.000
+tags: ['work']
 ---
 
 That's the way my friend Steve used to describe it, and this week has been one of those weeks. Half my calendar at work has been meetings; each meeting seems to generate more tasks for me; the remaining non-meeting time doesn't seem to be sufficient to complete the tasks at a rate that will bring me anywhere close to keeping up.

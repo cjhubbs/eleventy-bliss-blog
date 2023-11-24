@@ -1,8 +1,7 @@
 ---
 title: "What's this place about, anyway?"
-date: "2009-01-13T13:18:09.000"
-tags: 
-  - "blogging"
+date: 2009-01-13T13:18:09.000
+tags: ['blogging']
 ---
 
 I've watched with interest the transformation of an internet acquaintance's blog over the past several months. In past years his blog has been, in many ways, similar to mine - intermittent family updates, pictures of the kids, occasional rants on music or politics, etc. I subscribed to the blog and enjoyed the occasional updates.

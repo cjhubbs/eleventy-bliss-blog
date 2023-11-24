@@ -1,11 +1,10 @@
 ---
 title: "The Church Search, Week 7"
-date: "2008-11-24T16:54:07.000"
-tags: 
-  - "church-search"
+date: 2008-11-24T16:54:07.000
+tags: ["church-search"]
 ---
 
-There was no post for week 6 last week since we were out of town for the weekend. So now we come to week 7. Yesterday we visited [Maranatha Bible Church](http://www.maranathabible.org) for the second time. I gave quite a bit of detail [when we last visited](http://www.chrishubbs.com/2008/11/09/the-church-search-week-5/), I'll just note a few updates here.
+There was no post for week 6 last week since we were out of town for the weekend. So now we come to week 7. Yesterday we visited [Maranatha Bible Church](http://www.maranathabible.org) for the second time. I gave quite a bit of detail [when we last visited](/08/11/the-church-search-week-5/), I'll just note a few updates here.
 
 **First Impressions**
 

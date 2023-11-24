@@ -1,10 +1,7 @@
 ---
 title: "How do you select/appoint elders?"
-date: "2008-11-25T13:40:07.000"
-tags: 
-  - "church"
-  - "elder"
-  - "leadership"
+date: 2008-11-25T13:40:07.000
+tags: ['church']
 ---
 
 When we visited [Maranatha](http://www.maranathabible.org) on Sunday, one of the inserts in their bulletin was a full page giving the testimonies of each of their elder candidates. That got me to wondering what sort of selection and vetting process different churches use for choosing elders.

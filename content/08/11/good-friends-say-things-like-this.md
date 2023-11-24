@@ -1,9 +1,7 @@
 ---
 title: "Good friends say things like this"
-date: "2008-11-05T17:41:18.000"
-tags: 
-  - "church-search"
-  - "friends"
+date: 2008-11-05T17:41:18.000
+tags: ['church-search','friends']
 ---
 
 Good friends aren't afraid to say hard things.

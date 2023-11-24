@@ -1,12 +1,7 @@
 ---
 title: "How much experience have presidential and VP candidates had?"
-date: "2008-09-03T17:18:38.000"
-categories: 
-  - "random"
-tags: 
-  - "election-2008"
-  - "nerdy"
-  - "politics"
+date: 2008-09-03T17:18:38.000
+tags: ['politics']
 ---
 
 A warning to my casual readers: this post is going to get more than a wee bit nerdy, and probably a bit political, too.
@@ -41,7 +36,7 @@ The tricky part, then, is how you choose to sum these up; let's just agree that,
 
 So, for example, George H. W. Bush, in 1984, had 4 years of college, 4 years in the military, 5 years in government service, 4 years in congress, and 4 years as VP. That gives him a score of ((4\*0.25)+(4\*0.25)+(5\*0.5)+(4\*0.75)+(4\*1.0)) = 11.50.
 
-With those multipliers in place it was easy enough to get Excel to do some sums and give me some totals. (You can [download my spreadsheet](http://www.chrishubbs.com/wordpress/wp-content/uploads/2008/09/presidential_experience.xls) here if you want to.)
+With those multipliers in place it was easy enough to get Excel to do some sums and give me some totals. 
 
 What I found was fairly interesting.
 

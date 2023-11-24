@@ -1,10 +1,7 @@
 ---
 title: "The Coffee Experiment, Day 4"
-date: "2008-09-22T13:02:59.000"
-categories: 
-  - "random"
-tags: 
-  - "coffee"
+date: 2008-09-22T13:02:59.000
+tags: ["coffee"]
 ---
 
 I'm not sure whether to call this Day 4 or Day 6 of The Coffee Experiment. Do I count the weekend where I didn't drink coffee? I guess I'll be conservative and call this Day 4.

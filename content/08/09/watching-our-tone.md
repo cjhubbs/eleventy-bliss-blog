@@ -1,16 +1,12 @@
 ---
 title: "Watching our tone"
-date: "2008-09-05T12:52:44.000"
-categories: 
-  - "random"
-tags: 
-  - "christian-living"
-  - "politics"
+date: 2008-09-05T12:52:44.000
+tags: ['politics']
 ---
 
 Over the past two weeks' political conventions I have watched most of the major speeches and then headed to my computer to check Twitter, the blogs, news sites, and online forum that I frequent. What has astonished me these past two weeks is the amount of bitter, vitriolic tone that has come not from the politicians (where I expect it) but from supporters of both sides.
 
-Now, I'm not talking about people complaining bitterly about the other side misrepresenting their candidate's positions (which both sides do). I'm not talking about people finding creative ways to describe their opponents' apparent inexperience or lack of qualifications. (Both sides do it, and [both have their share of inexperience](http://www.chrishubbs.com/2008/09/03/how-much-experience-have-presidential-and-vp-candidates-had/).)
+Now, I'm not talking about people complaining bitterly about the other side misrepresenting their candidate's positions (which both sides do). I'm not talking about people finding creative ways to describe their opponents' apparent inexperience or lack of qualifications. (Both sides do it, and [both have their share of inexperience](/08/09/how-much-experience-have-presidential-and-vp-candidates-had/).)
 
 I'm not talking about people you'd expect the worst from, people like Hannity and Limbaugh on the right and The Huffington Post and The Daily Kos on the left. I've done my best to tune all of them out for a while now.
 
@@ -32,8 +28,8 @@ If it would be sinfully unloving to deride the parent of an unwed teenage mother
 
 Why do we think that because there's a presidential election on that we're suddenly exempt from 1 Peter 3?
 
-> Finally, all of you, live in harmony with one another; be sympathetic, love as brothers, be compassionate and humble. Do not repay evil with evil or insult with insult, but with blessing, because to this you were called so that you may inherit a blessing. For,
-> 
+> Finally, all of you, live in harmony with one another; be sympathetic, love as brothers, be compassionate and humble. Do not repay evil with evil or insult with insult, but with blessing, because to this you were called so that you may inherit a blessing. For,  
+> <br/>
 > "Whoever would love life and see good days must keep his tongue from evil and his lips from deceitful speech. He must turn from evil and do good; he must seek peace and pursue it. For the eyes of the Lord are on the righteous and his ears are attentive to their prayer, but the face of the Lord is against those who do evil."
 
 I'm not calling for the end of all political debate. I'm not saying that Christians shouldn't have strong political views, or endorse candidates, or argue the issues.

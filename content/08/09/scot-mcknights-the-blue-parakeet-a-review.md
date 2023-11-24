@@ -1,11 +1,7 @@
 ---
 title: "Scot McKnight's \"The Blue Parakeet\" - a review"
-date: "2008-09-22T22:54:40.000"
-categories: 
-  - "random"
-tags: 
-  - "books"
-  - "reviews"
+date: 2008-09-22T22:54:40.000
+tags: ['books']
 ---
 
 ![Blue Parakeet cover](http://ecx.images-amazon.com/images/I/41AO7cKK8nL._SL500_AA240_.jpg)When Zondervan offered up free early copies of Dr. Scot McKnight's _[The Blue Parakeet](http://www.amazon.com/Blue-Parakeet-Rethinking-Read-Bible/dp/0310284880%3FSubscriptionId%3D02E5W5871AJF7PMMMS82%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0310284880)_ for bloggers to review, I knew I wanted to get in on the action. I've enjoyed reading Scot's (he won't mind if I use his first name here, I think) [blog](http://www.jesuscreed.org) for some time now, and while I knew he typically inhabits a spectrum of belief a little more emergent than I find myself, I looked forward to reading his thoughts on the Bible, or, as the subtitle of the book says, "Rethinking How You Read the Bible". (Dr. McKnight is a professor of religious studies at North Park College in Chicago. He also wrote a volume on _Galatians_ in the NIV Application Commentary series.)

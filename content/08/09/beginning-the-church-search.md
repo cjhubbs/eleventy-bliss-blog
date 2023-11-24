@@ -1,10 +1,7 @@
 ---
 title: "Beginning the church search"
-date: "2008-09-26T16:24:24.000"
-tags: 
-  - "church"
-  - "church-search"
-  - "life"
+date: 2008-09-26T16:24:24.000
+tags: ['church','church-search']
 ---
 
 After making the decision to leave [Imago Christi](http://www.imagochristicp.org) at the end of the month, we find ourselves in an unfamiliar position: starting the church search. My church history is fairly short and doesn't include much searching: while growing up we attended a C&MA church, a small Berean church, and then a [small Bible church](http://www.gracebiblegranbury.com). When I went to college I floated around for my first semester until Becky invited me to her [medium-sized Bible church](http://www.longviewfbc.com), which we then attended for the next 3.5 years. When we moved to Iowa, we were recommended to a church up here, and after about three weeks of visiting other churches decided to stick there where we had been recommended, at [Noelridge](http://www.noelridge.org). We were at Noelridge for 8.5 years before leaving to plant Imago, and we were at Imago for the better part of a year. So my total church searching experience is a few months of aimless wandering in college and a few weeks after moving to Iowa. That ain't much.

@@ -1,11 +1,7 @@
 ---
 title: "The Coffee Experiment, Day 2"
-date: "2008-09-18T19:33:00.000"
-categories: 
-  - "random"
-tags: 
-  - "coffee"
-  - "life"
+date: 2008-09-18T19:33:00.000
+tags: ['coffee']
 ---
 
 For 31 years I have professed to very much dislike coffee. If in need of caffeine to keep me going, I will resort to a diet pop of some sort, or, in extreme cases, Red Bull. However, my Diet Pepsi consumption levels have been high for the past month, and given the cost of Diet Pepsi and the knowledge that even diet pop has been shown to be not-so-good for you in studies, I figured it was time to give the coffee a shot. We've got a communal coffee pot here in the office where Folgers is brewed for donations.

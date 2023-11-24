@@ -1,13 +1,10 @@
 ---
 title: "Why I dislike salespeople - or at least their tactics"
-date: "2008-09-16T02:52:14.000"
-categories: 
-  - "random"
-tags: 
-  - "rants"
+date: 2008-09-16T02:52:14.000
+tags: ["rants"]
 ---
 
-_Update: [I received a response from Rainsoft of NE Iowa that very much helped to resolve the situation. Click here to read about it.](http://www.chrishubbs.com/2008/10/13/rainsoft-of-ne-iowa-a-follow-up/)_
+_Update: [I received a response from Rainsoft of NE Iowa that very much helped to resolve the situation. Click here to read about it.](/08/10/rainsoft-of-ne-iowa-a-follow-up/)_
 
 Last week while shopping at Home Depot, a nice lady struck up a conversation with us, and proceeded to ask if we'd ever had our water tested before. Would we be interested? It'd take about an hour, and Home Depot would give us a $20 gift card for our trouble.
 

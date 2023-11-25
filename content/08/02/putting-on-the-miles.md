@@ -1,7 +1,7 @@
 ---
 title: "Putting on the miles"
 date: 2008-02-11T13:17:34.000
-tags: ['music','travel,'concerts']
+tags: ['music','travel','concerts']
 ---
 
 The lengths I will go to hear a concert? Well, this weekend the length was 300 miles, each way. Lincoln, Nebraska ends up being, with short stops, about a five-hour drive. Well worth it to see Caedmon's Call in concert again. First I should extend thanks to my mom for coming down to watch the girls for a couple of days. They had lots and lots of fun with Grandma, and it was sure a blessing for Becky and I to be able to get away.

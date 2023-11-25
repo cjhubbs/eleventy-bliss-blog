@@ -2,7 +2,6 @@
 title: "An AP Concert Weekend"
 date: 2006-12-04T16:44:51.000
 tags: ['music','concerts','andrew-peterson']
-  - "music"
 ---
 
 Last Friday Becky and I headed out to Omaha, NE to see [Andrew Peterson's](http://www.andrew-peterson.com) _Behold the Lamb of God_ tour. (OK, so it was officially in Elkorn, NE, but that's just suburban Omaha these days.) My mom graciously agreed to come down and stay with the girls for a couple of days, so we got up Friday morning and headed west. A four-hour drive later we arrived in Omaha, checked into our hotel, ate some lunch, wandered around a mall, etc. Then we headed over to the church for the concert.

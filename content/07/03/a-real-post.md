@@ -1,10 +1,7 @@
 ---
 title: "A real post"
-date: "2007-03-28T12:18:55.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2007-03-28T12:18:55.000
+tags: ['personal']
 ---
 
 This place has been full of links lately and very short on actual posts. Partly that's been due to some network difficulties, partly that's just been due to my own laziness. So finally I've got my blog reconfigured so I can get to it all the time, and now it's time to write something.

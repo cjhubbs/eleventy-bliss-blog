@@ -1,10 +1,7 @@
 ---
 title: 'Odds and Ends Feb 2007'
-date: '2007-02-07T14:04:02.000'
-categories:
-  - 'random'
-tags:
-  - 'life'
+date: 2007-02-07T14:04:02.000
+tags: ['personal']
 ---
 
 I'm sure I've used that title before, but oh well. Seems like this place has been filled up with book reviews lately and not much else. Let's see, what else should I talk about? The cold? The temperature display on my PC at the moment says it's -9 degrees F outside. We're supposed to get a heat wave by the weekend, though - up into the 20's!

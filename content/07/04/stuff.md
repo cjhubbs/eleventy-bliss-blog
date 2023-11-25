@@ -1,10 +1,7 @@
 ---
 title: "Stuff"
-date: "2007-04-12T13:50:49.000"
-categories: 
-  - "random"
-tags: 
-  - "truly-random"
+date: 2007-04-12T13:50:49.000
+tags: ['bullet-points']
 ---
 
 Life has been crazy this week, keeping me from writing much in the way of a thoughtful post about anything. I will inadequately attempt to make up for this by providing some random bullets from my week.

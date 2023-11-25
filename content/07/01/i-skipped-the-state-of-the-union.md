@@ -1,11 +1,7 @@
 ---
 title: "I skipped the State of the Union"
-date: "2007-01-25T15:46:04.000"
-categories: 
-  - "random"
-tags: 
-  - "politics"
-  - "riffs"
+date: 2007-01-25T15:46:04.000
+tags: ['politids']
 ---
 
 I understand from reading the news that President Bush gave the State of the Union address back on Tuesday night. I skipped it. I actually even avoided it - when I turned the TV on, it was in progress. I flipped to ESPN. This is a departure for me. I have long held great interest in State of the Union (let's just call them SOTU for short) speeches. When I was in high school I used my boom box to record them off the radio onto a cassette so I could listen to them again later. In past years I have sat with rapt attention to the network of my choice and had a thrill of excitement as the Sergeant-at-Arms would walk in and declare, "Mister Speaker, the President of the United States!". But not this year.

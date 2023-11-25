@@ -1,10 +1,7 @@
 ---
 title: "Blue Man!"
-date: "2007-06-28T12:14:38.000"
-categories: 
-  - "random"
-tags: 
-  - "review"
+date: 2007-06-28T12:14:38.000
+tags: ['reviews']
 ---
 
 Last night Becky and I went to see [Blue Man Group](http://blueman.com/) over at Universal Orlando. BMG is one of those acts that's very hard to describe to folks who haven't heard of them before. "Well, it's three guys. And they're all blue. And they do stuff with drums... and paint..." You see? That makes no sense at all, does it?

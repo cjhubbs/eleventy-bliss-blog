@@ -1,8 +1,7 @@
 ---
 title: "Pick Chris's Reading List: Hell's Best Kept Secret"
-date: "2007-02-04T18:23:50.000"
-categories: 
-  - "random"
+date: 2007-02-04T18:23:50.000
+tags: ['books','reviews']
 ---
 
 My dad loaned me _Hell's Best Kept Secret_ by Ray Comfort back at Thanksgiving, and sadly it had set by my night table since then, still waiting to be read. Dad reminded me about it the other day, so I picked it up last night and read through it. It's a short little book, maybe 150 pages in paperback, but contains a lot of good stuff.
@@ -19,6 +18,6 @@ I think Dr. Tim Keller hit it right on back at the Desiring God 2006 conference 
 
 Number 2 is the one that I think hits it - for many people these days, there is a lot to establish philosophically before we can get to the idea of an absolute standard and guilt before God. Now, I think most of them have an inner understanding of guilt but won't admit it; they have been convinced that there is no absolute truth, no God to whom they are accountable, and thus their feelings of guilt are a product of some bad thinking on their part. So when we start the discussion, we may not be able to start with "do you understand that you're guilty before God?", we may have to start with "what is truth?" and go from there.
 
-[I wrote over a year ago](http://www.chrishubbs.com/2005/11/29/things-arent-right/) that the place that makes sense for me to start the story is with this phrase: "Things aren't right." There is a statement we can all pretty much agree on. Yes, some hardcore types may want to argue that there is no "right", so how can things not be right... but as C. S. Lewis argues in _Mere Christianity_, you only have to do something bad to that person to get them to start appealing to a universal moral standard. :-) Then we can talk about why things are wrong, and how God has a plan to set them right again.
+[I wrote over a year ago](/05/11/things-arent-right/) that the place that makes sense for me to start the story is with this phrase: "Things aren't right." There is a statement we can all pretty much agree on. Yes, some hardcore types may want to argue that there is no "right", so how can things not be right... but as C. S. Lewis argues in _Mere Christianity_, you only have to do something bad to that person to get them to start appealing to a universal moral standard. :-) Then we can talk about why things are wrong, and how God has a plan to set them right again.
 
 I have over the past few years started tending towards the Calvinist side of Gospel presentation. Not that I'm going over into full five-point Calvinism; that's a topic for another post. But it seems to me that we are called to proclaim the Gospel to everyone. Even as believers, we need to be reminded of the Gospel, of the good news that God has provided a way for us to be redeemed and to become a part of His kingdom. Non-believers need to hear it, too; how far back in the story we have to start will largely depend on where they are philosophically. For those who still have a Judeo-Christian mindset, we can probably start with Mr. Comfort's approach and talk about our guilt before God. For those firmly entrenched in postmodernism, we'll probably have to back up a few steps. Either way, we have good news to share, and we need to share it.

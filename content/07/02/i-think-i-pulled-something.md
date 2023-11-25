@@ -1,10 +1,7 @@
 ---
 title: "I think I pulled something..."
-date: "2007-02-09T14:01:10.000"
-categories: 
-  - "random"
-tags: 
-  - "music"
+date: 2007-02-09T14:01:10.000
+tags: ['music']
 ---
 
 So last night I had the chance to do some practice on the pipe organ at Central Park Presbyterian Church in preparation for the talent show coming up a week from Sunday. I showed up at 6:45 and the kind man had already turned on the lights and turned up the heat so I could practice. I pulled out my copy of _Tocatta and Fugue in D-Minor_ and got right to it.

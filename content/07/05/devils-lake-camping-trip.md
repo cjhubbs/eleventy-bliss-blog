@@ -1,14 +1,10 @@
 ---
 title: "Devil's Lake Camping Trip"
-date: "2007-05-14T13:42:45.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "photos"
+date: 2007-05-14T13:42:45.000
+tags: ['personal','family','travel']
 ---
 
-Yes, [as promised](http://www.chrishubbs.com/2007/05/10/camping/), we went camping last weekend up at [Devil's Lake State Park](http://www.devilslakewisconsin.com/) in Wisconsin. My brother Andrew pretty much organized the whole thing; his girlfriend Heather is visiting and it was good to get to see everybody. Some thoughts from the weekend:
+Yes, [as promised](/07/05/camping/), we went camping last weekend up at [Devil's Lake State Park](http://www.devilslakewisconsin.com/) in Wisconsin. My brother Andrew pretty much organized the whole thing; his girlfriend Heather is visiting and it was good to get to see everybody. Some thoughts from the weekend:
 
 - Devil's Lake is a beautiful park. Dave, if you read this, yeah, it's worth going for a day trip or an overnight. Lots of nice hiking, the water is beautiful and crystal-clear.
 - What the park service considers "paved, flat, and level" in a hiking trail isn't so much what I'd consider "paved, flat, and level". It scares me a little bit what one of their "difficult" trails would look like. :-)

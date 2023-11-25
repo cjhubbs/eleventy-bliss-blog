@@ -1,10 +1,7 @@
 ---
 title: "Camping!"
-date: "2007-05-10T12:54:21.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2007-05-10T12:54:21.000
+tags: ['personal','travel']
 ---
 
 When I was a kid, we went camping as a family all the time. I think some of my siblings enjoyed the out-of-doors more than I did, but still, it was a good time for the whole family and a cost-effective way to go on vacation. :-) After we got married, Becky and I went camping a few times; most notably we were in Colorado camping when 9/11 happened... but that's a different story.

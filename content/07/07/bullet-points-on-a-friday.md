@@ -1,11 +1,7 @@
 ---
 title: "Bullet Points on a Friday"
-date: "2007-07-20T14:43:32.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "truly-random"
+date: 2007-07-20T14:43:32.000
+tags: ['bullet-points']
 ---
 
 - We had three neighbors over for supper last night. It was quite a good time. And the pork loin that Becky did in the broiler was _delicious_.

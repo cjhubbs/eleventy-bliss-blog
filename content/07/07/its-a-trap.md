@@ -1,10 +1,7 @@
 ---
 title: "It's a trap!"
-date: "2007-07-12T17:37:21.000"
-categories: 
-  - "random"
-tags: 
-  - "truly-random"
+date: 2007-07-12T17:37:21.000
+tags: ['random']
 ---
 
 Last week I bought a bottle of Diet Pepsi from a vending machine. I opened it up, and woohoo! The cap was a winner - buy one 20 oz bottle, get one free.

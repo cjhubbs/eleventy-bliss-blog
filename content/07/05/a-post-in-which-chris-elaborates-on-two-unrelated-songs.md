@@ -1,10 +1,7 @@
 ---
 title: "A Post In Which Chris Elaborates On Two Unrelated Songs"
-date: "2007-05-17T17:56:00.000"
-categories: 
-  - "random"
-tags: 
-  - "music"
+date: 2007-05-17T17:56:00.00
+tags: ['music']
 ---
 
 I've had two songs running pretty much on repeat today. This happens to me on frequent occasion; I get stuck on some song and I will just loop it over and over. It usually takes a day or two for the compulsion to go away.

@@ -1,10 +1,7 @@
 ---
 title: "Playing the Waiting Game"
-date: "2007-06-05T12:55:13.000"
-categories: 
-  - "random"
-tags: 
-  - "thoughts"
+date: 2007-06-05T12:55:13.000
+tags: ['personal']
 ---
 
 I _hate_ waiting. I really do. I'm impatient. It's not a quality I'm proud of; it's a fault that needs corrected. ("Lord, give me patience... and please hurry!")

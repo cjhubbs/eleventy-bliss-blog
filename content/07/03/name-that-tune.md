@@ -1,8 +1,7 @@
 ---
 title: "Name That Tune"
-date: "2007-03-28T14:16:23.000"
-categories: 
-  - "random"
+date: 2007-03-28T14:16:23.000
+tags: ['memes']
 ---
 
 _\[Meme fearlessly stolen from [CJ](http://rmfo-blogs.com/dixiemedley/archives/2007/03/26/name-that-tune/)\]._

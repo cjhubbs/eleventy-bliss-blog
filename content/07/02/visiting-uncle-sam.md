@@ -1,10 +1,7 @@
 ---
 title: "Visiting Uncle Sam"
-date: "2007-02-27T13:30:20.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
+date: 2007-02-27T13:30:20.000
+tags: ['travel','work']
 ---
 
 This week is time for my first business trip in a while, and yesterday found me heading out of Cedar Rapids for Washington, DC.  While here I'll be participating on an industry committee that will be [developing guidance](http://rtca.org/comm/Committee.cfm?id=68) for Synthetic Vision and Enhanced Vision Systems for aircraft.   While I'm not in meetings, I'm hoping to do some sightseeing, since this is my first visit to Washington.  Most of the museums and stuff are closed after 5 pm, but at least I'll be able to walk the Mall and see the memorials and such.

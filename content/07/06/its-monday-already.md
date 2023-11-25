@@ -1,10 +1,7 @@
 ---
 title: "Sheesh, It's Monday already?!?"
-date: '2007-06-18T12:45:49.000'
-categories:
-  - 'random'
-tags:
-  - 'life'
+date: 2007-06-18T12:45:49.000
+tags: ['personal']
 ---
 
 So for it being a weekend, it was a busy one. A synopsis:

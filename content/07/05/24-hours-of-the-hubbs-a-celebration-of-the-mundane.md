@@ -1,10 +1,7 @@
 ---
 title: "24 Hours of the Hubbs: A Celebration of the Mundane"
-date: "2007-05-07T12:09:53.000"
-categories: 
-  - "random"
-tags: 
-  - "photos"
+date: 2007-05-07T12:09:53.000
+tags: ['family']
 ---
 
 When I decided to do 24 hours of Flickr, I wasn't really sure what my Saturday would entail. Nonetheless, I gave it a go. As Saturdays go, it was fairly basic. We went to some neighborhood garage sales, cleaned out the garage, went shopping, and watched a movie. So while some of the pictures are cute, none of them are particularly artsy or profound. Oh well.

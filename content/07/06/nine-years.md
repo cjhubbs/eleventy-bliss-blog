@@ -1,12 +1,7 @@
 ---
 title: "Nine Years"
-date: "2007-06-27T03:00:50.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
-  - "life"
-  - "travel"
+date: 2007-06-27T03:00:50.000
+tags: ['travel','family']
 ---
 
 Hard to believe it's been that long already. Nine years ago tonight, on a hot, sticky night in Charlotte, NC, Becky and I exchanged our vows and became Mr. and Mrs. Chris Hubbs. (Our first stop after the wedding was in a Home Depot parking lot that had an available dumpster, but that's a different story.) God has blessed us greatly, and it's been a wonderful nine years.

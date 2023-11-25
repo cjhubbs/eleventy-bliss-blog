@@ -1,10 +1,7 @@
 ---
 title: "Off to the market to buy a fat pig..."
-date: "2007-03-02T17:51:01.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
+date: 2007-03-02T17:51:01.000
+tags: ['travel']
 ---
 
 ...home again, home again, jiggety jig.

@@ -1,11 +1,7 @@
 ---
 title: "Sunday Sermon"
-date: "2007-04-16T00:59:10.000"
-categories: 
-  - "random"
-tags: 
-  - "church"
-  - "sermon"
+date: 2007-04-16T00:59:10.000
+tags: ['church']
 ---
 
 This morning I had the privilege to preach at the Noelridge Sunday morning services. My text was Exodus 18, entitled "A Father-In-Law's Lesson" - based on the lesson that Jethro had for Moses. I think it went pretty well, I was excited to have the chance to preach again. For those of you interested, you can [download the sermon (mp3, 7.1 MB)](http://noelridge.org/dl.aspx?file=20070415.mp3) or [stream it here](http://www.noelridge.org/downloads/20070415.m3u).

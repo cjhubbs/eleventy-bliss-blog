@@ -1,10 +1,7 @@
 ---
 title: "A good time was had by all..."
-date: "2007-03-12T18:06:10.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
+date: 2007-03-12T18:06:10.000
+tags: ['family']
 ---
 
 This weekend we had very nearly my whole family over to visit.   My sister is still in Panama, but otherwise, my parents and all my brothers came in on Friday and got to stay through Sunday afternoon.

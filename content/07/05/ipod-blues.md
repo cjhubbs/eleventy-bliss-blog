@@ -1,11 +1,7 @@
 ---
 title: "iPod Blues"
-date: "2007-05-26T17:49:16.000"
-categories: 
-  - "random"
-tags: 
-  - "geek"
-  - "life"
+date: 2007-05-26T17:49:16.000
+tags: ['tech']
 ---
 
 I've had my 3G 20GB iPod for two and a half years now, so it's no surprise that the battery was about due to go.  Well, it pretty well happened last week; I could charge it overnight and still not get more than about 30 minutes worth of play out of it.  :-(

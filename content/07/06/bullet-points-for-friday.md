@@ -1,10 +1,7 @@
 ---
 title: "Bullet Points for Friday"
-date: "2007-06-15T12:24:25.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2007-06-15T12:24:25.000
+tags: ['bullet-points']
 ---
 
 - Still no iPod. I'm hoping for today, but I'm just about tired of hoping.

@@ -1,10 +1,7 @@
 ---
 title: "Which comes first: committment or vision?"
-date: "2007-03-19T12:58:04.000"
-categories: 
-  - "random"
-tags: 
-  - "thoughts"
+date: 2007-03-19T12:58:04.000
+tags: ['church']
 ---
 
 In the midst of a church meeting last night discussing our church's future plans, a question came up that I imagine we will be wrestling with in future weeks.  I'm not entirely sure what I think the answer is yet, so I'll post it here to see if any of you have comments.

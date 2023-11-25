@@ -1,11 +1,7 @@
 ---
 title: "Back home...  at least for a day"
-date: "2007-04-05T14:01:59.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "travel"
+date: 2007-04-05T14:01:59.000
+tags: ['travel','work']
 ---
 
 Got home last night from a quick business trip to Salt Lake City. I haven't been to SLC since a family trip many years ago. It's a beautiful place, and the weather was fresh and warming to spring. My co-worker and I spent 2 days in meetings before flying home. All in all, a good, worthwhile trip, uneventful flights, not bad at all. It was sure good to be home and see Becky and the girls again.

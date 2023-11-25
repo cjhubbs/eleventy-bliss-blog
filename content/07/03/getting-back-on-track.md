@@ -1,10 +1,7 @@
 ---
 title: "Getting back on track"
-date: "2007-03-05T13:10:44.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2007-03-05T13:10:44.000
+tags: ['personal']
 ---
 
 It's been a disorienting past ten days  or so; last weekend (10 days ago) we had the big storm, which meant church was canceled, which always really throws me off.  Then last week I was on travel, only in the office for a few hours on Friday.  So by Saturday night I had no real idea what day it was...  fortunately Becky reminded me that we would be going to church the next morning.

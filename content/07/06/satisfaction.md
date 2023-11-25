@@ -1,11 +1,7 @@
 ---
 title: "Satisfaction"
-date: "2007-06-17T02:43:13.000"
-categories: 
-  - "random"
-tags: 
-  - "geek"
-  - "life"
+date: 2007-06-17T02:43:13.000
+tags: ['tech']
 ---
 
 Well if I'm gonna gripe when I think things have gone wrongly, it is only right that I applaud when I feel that justice has been done.  :-)

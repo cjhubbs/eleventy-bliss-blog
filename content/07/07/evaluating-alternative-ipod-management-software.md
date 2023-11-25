@@ -1,12 +1,7 @@
 ---
 title: "Evaluating alternative iPod management software"
-date: "2007-07-10T17:28:35.000"
-categories: 
-  - "random"
-tags: 
-  - "geek"
-  - "ipod"
-  - "music"
+date: 2007-07-10T17:28:35.000
+tags: ['tech']
 ---
 
 Yesterday [SimpleHelp.net](http://simplehelp.net) posted [10 Alternatives to iTunes for managing your iPod](http://www.simplehelp.net/2007/07/08/10-alternatives-to-itunes-for-managing-your-ipod/). (They have since [been dugg](http://digg.com/software/10_Alternatives_to_iTunes_for_managing_your_iPod) and their website is down. Bummer. You can still see the guts of the article from the [Google cache](http://72.14.209.104/search?hs=sUq&hl=en&lr=&c2coff=1&q=cache%3Ahttp%3A%2F%2Fwww.simplehelp.net%2F2007%2F07%2F08%2F10-alternatives-to-itunes-for-managing-your-ipod%2F&btnG=Search).)

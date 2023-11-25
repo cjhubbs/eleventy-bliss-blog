@@ -1,10 +1,7 @@
 ---
 title: "A much-needed improvement..."
-date: "2007-05-03T03:22:20.000"
-categories: 
-  - "random"
-tags: 
-  - "geek"
+date: 2007-05-03T03:22:20.000
+tags: ['tech']
 ---
 
 I've been using Google Reader for some time now as my feed reader, and one of the more frustrating things has been its really bad email feature. When you find a blog post that you want to share with a friend, the email feature should make it easy, right? Unfortunately, Google Reader ended up dumping a bunch (but not all) of the text from the post in a horribly-formatted email. If I were Google I would've been embarrassed that it was even an option. It was that bad.

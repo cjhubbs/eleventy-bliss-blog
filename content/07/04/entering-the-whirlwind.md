@@ -1,12 +1,7 @@
 ---
 title: "Entering the Whirlwind"
-date: "2007-04-02T12:10:27.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "osenga"
-  - "travel"
+date: 2007-04-02T12:10:27.000
+tags: ['travel','music','concerts','andy-osenga']
 ---
 
 I feel like I've been in it for a few days already, but I know there's still more to come this week.

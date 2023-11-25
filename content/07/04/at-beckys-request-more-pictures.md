@@ -1,10 +1,7 @@
 ---
 title: "At Becky's request...  more pictures!"
-date: "2007-04-23T13:08:29.000"
-categories: 
-  - "random"
-tags: 
-  - "photos"
+date: 2007-04-23T13:08:29.000
+tags: ['photos']
 ---
 
 No, this place isn't turning into a photoblog. But when you have a new toy... :-)

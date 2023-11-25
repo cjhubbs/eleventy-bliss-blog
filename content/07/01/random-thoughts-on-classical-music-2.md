@@ -1,10 +1,7 @@
 ---
 title: 'Random Thoughts on...   Classical Music, Second Edition'
-date: '2007-01-12T20:11:21.000'
-categories:
-  - 'random'
-tags:
-  - 'music'
+date: 2007-01-12T20:11:21.000
+tags: ['music']
 ---
 
 Classical music has had a big influence in my life. My parents are both lovers of classical music. (Probably my dad more than my mom, but I'm not too sure there.) It was pretty much all we had on at home growing up. Lots of ::wikipedia("Bach"):: and ::wikipedia("Beethoven"):: all the way through ::wikipedia("Rimsky_Korsakov","Rimsky-Korsakov"):: and ::wikipedia("Igor_Stravinsky","Stravinsky")::. I started playing the piano at age 7 and thus entered a bunch more classical music. I played lots of Bach, [Chopin](http://en.wikipedia.org/wiki/Frederic_Chopin), Beethoven, [Debussy](http://en.wikipedia.org/wiki/Claude_Debussy), and [Grieg](http://en.wikipedia.org/wiki/Edvard_Grieg). I really enjoyed it. I was the nerdy kid who at age 12 listened to a NPR program where they compared two new recordings of [Rachmaninoff's](http://en.wikipedia.org/wiki/Sergei_Rachmaninoff) _[Vespers](http://en.wikipedia.org/wiki/All-Night_Vigil)_, and enjoyed it. But I digress.

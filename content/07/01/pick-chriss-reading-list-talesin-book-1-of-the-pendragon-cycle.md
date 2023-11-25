@@ -1,13 +1,10 @@
 ---
 title: "Pick Chris's Reading List: Taliesin  (Book 1 of the Pendragon Cycle)"
-date: "2007-01-05T13:40:15.000"
-categories: 
-  - "random"
-tags: 
-  - "books"
+date: 2007-01-05T13:40:15.000
+tags: ['books','reading']
 ---
 
-On to a book [recommended](http://www.chrishubbs.com/2006/11/14/pick-chriss-reading-list/#comment-5930) by [Nate Downey](http://www.constancy.blogspot.com/): _[Taliesin](http://www.amazon.com/gp/redirect.html%3FASIN=038070613X%26tag=caedmonscalln-20%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/038070613X%253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "View product details at Amazon")_ by Stephen Lawhead, which is book one of five books in Lawhead's _Pendragon Cycle_.
+On to a book recommended by Nate Downey: _[Taliesin](http://www.amazon.com/gp/redirect.html%3FASIN=038070613X%26tag=caedmonscalln-20%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/038070613X%253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "View product details at Amazon")_ by Stephen Lawhead, which is book one of five books in Lawhead's _Pendragon Cycle_.
 
 I read _Taliesin_ over Christmas break. My first surprise was when I looked at the publisher's page in the front of the book and saw it was published by CrossWay Books, which is a Christian publishing house. "UhOh", I thought... "I hope this isn't going to be some silly Christian novel trying to masquerade as fantasy." But I had faith in Nate's selection, so I read on. And I was not let down.
 

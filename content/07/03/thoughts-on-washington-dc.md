@@ -1,11 +1,7 @@
 ---
 title: "Thoughts on Washington DC"
-date: "2007-03-08T14:24:18.000"
-categories: 
-  - "random"
-tags: 
-  - "thoughts"
-  - "travel"
+date: 2007-03-08T14:24:18.000
+tags: ['travel']
 ---
 
 Last week I traveled for business to Washington, DC. While my original plans left me little time for sight-seeing, I still managed to take a long evening walk and see the memorials along the National Mall. Then old man winter intervened and pushed my flights around, giving me an unexpected whole day to visit museums. Now, I could give you a step-by-step itinerary of my trip, but it would likely bore you to death. (Now I've set myself up to have to write something non-boring. Uh oh.) What I'd rather talk about, though, is the overall experience I had.

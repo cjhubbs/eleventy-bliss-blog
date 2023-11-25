@@ -1,8 +1,7 @@
 ---
 title: "The Great New Year's Eve Flood of Aught-Six"
-date: "2007-01-01T16:06:37.000"
-categories: 
-  - "random"
+date: 2007-01-01T16:06:37.000
+tags: ['homeownership']
 ---
 
 Let me tell the tale of the Great New Year's Eve Flood of Aught-Six. You won't hear it from anyone else. As most calamities begin, so began this one; not with a single odd event, but with the convergence of multiple odd events. In this case there were two:

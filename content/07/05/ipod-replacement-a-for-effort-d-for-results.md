@@ -1,13 +1,10 @@
 ---
 title: "iPod Replacement: A for Effort, D for Results"
-date: "2007-05-31T12:06:45.000"
-categories: 
-  - "random"
-tags: 
-  - "geek"
+date: 2007-05-31T12:06:45.000
+tags: ['tech','rants']
 ---
 
-My [refurbished iPod](http://www.chrishubbs.com/2007/05/28/ipod-the-continuing-saga/) showed up via UPS late yesterday afternoon. I have to give Best Buy full marks for sending a quick replacement; they said 3 - 5 business days, and it ended up being only two. They sent an iPod identical to the one I had before (20 GB 4G, white), though they had obviously cleaned this one up, buffed out the scratches, etc. It looked good.
+My [refurbished iPod](/07/05/ipod-the-continuing-saga/) showed up via UPS late yesterday afternoon. I have to give Best Buy full marks for sending a quick replacement; they said 3 - 5 business days, and it ended up being only two. They sent an iPod identical to the one I had before (20 GB 4G, white), though they had obviously cleaned this one up, buffed out the scratches, etc. It looked good.
 
 So last night I hooked it up to the laptop to reload the 4100 songs that belong on my iPod. The first time I tried a sync I got a weird Windows delayed write error. Strange, I thought; maybe I just jiggled the cord at the wrong time or something. So I tried again. The second time, it managed to sync about 2 GB worth of music, then stopped syncing. When I disconnected it and tried to play the music from the iPod, uh oh. The iPod didn't show any music on it at all. When I reconnected it to the PC, it gave me a nasty error and told me that I would need to re-download the iPod firmware and reset it.
 

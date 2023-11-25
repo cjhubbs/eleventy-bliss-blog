@@ -1,10 +1,7 @@
 ---
 title: "Ready for a break"
-date: "2007-06-22T12:13:23.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2007-06-22T12:13:23.000
+tags: ['personal']
 ---
 
 Today is my last day in the office for a week or so, and I am definitely ready for the break. A synopsis of next week's events:

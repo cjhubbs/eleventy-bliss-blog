@@ -1,11 +1,10 @@
 ---
 title: 'Softball 2007'
-date: '2007-05-01T12:17:48.000'
-categories:
-  - 'random'
+date: 2007-05-01T12:17:48.000
+tags: ['softball']
 ---
 
-One of my [very first posts](http://www.chrishubbs.com/2005/04/13/softball/) on my blog was about softball; hard to believe that's been two years ago. But yesterday night we started up the church softball season for another year. It was a beautiful night; the day was hot (at least, hot for April in Iowa) - it got close to 90 degrees in the afternoon. But by evening the breeze was blowing and the temps had cooled; what a great night for softball!
+One of my [very first posts](/05/04/softball/) on my blog was about softball; hard to believe that's been two years ago. But yesterday night we started up the church softball season for another year. It was a beautiful night; the day was hot (at least, hot for April in Iowa) - it got close to 90 degrees in the afternoon. But by evening the breeze was blowing and the temps had cooled; what a great night for softball!
 
 The first game of the year is always a bit of an adventure, seeing who will show up and how the team will fill out. To be sure, we have some regulars in their places; Nate at shortstop, Becky pitching, me at third, Shaun in left. But there's always a new guy or two you pick up who really help you out. This year it looks like we've got two of them: Joel out in center field, and Nick at first. (It does this infielder's heart good to have a tall, left-handed first-baseman to throw to.)
 

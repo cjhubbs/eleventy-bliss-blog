@@ -1,11 +1,10 @@
 ---
 title: "Pick Chris's Reading List: Velvet Elvis"
-date: "2007-01-29T15:48:13.000"
-categories: 
-  - "random"
+date: 2007-01-29T15:48:13.000
+tags: ['books','reviews']
 ---
 
-Finally I complete another entry on my [reader-suggested reading list](http://thehubbs.net/chris/my-reading-list/): _Velvet Elvis_ by Rob Bell. Thanks Heather for the recommendation!
+Finally I complete another entry on my reader-suggested reading list: _Velvet Elvis_ by Rob Bell. Thanks Heather for the recommendation!
 
 I'm having a harder time writing a review for this book than I have for any of the previous ones I've read. I'm not too sure what my conclusion is yet. Some general observations are in order, though.
 

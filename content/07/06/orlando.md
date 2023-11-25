@@ -1,10 +1,7 @@
 ---
 title: "Orlando"
-date: "2007-06-25T02:56:11.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
+date: 2007-06-25T02:56:11.000
+tags: ['travel']
 ---
 
 Made it with no serious travel glitches to Orlando about 7:30 pm local time. Gotta say this - that iPod with video capability is pretty great. I loaded Season One of Battlestar Galactica on it and made it through the first two episodes before my ears got sore from the headphones. You can bet I'll watch some more this week. Good stuff.

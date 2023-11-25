@@ -1,11 +1,7 @@
 ---
 title: "Chapter 11: In which Chris hears a familiar song in the unlikliest of places."
-date: "2007-05-18T12:16:43.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "music"
+date: 2007-05-18T12:16:43.000
+tags: ['music']
 ---
 
 Last night was a date night for Becky and me. We dropped the girls off with some friends for a couple of hours and headed to Casa Las Glorias for the Mexican food I'd been craving all week. Darn tasty stuff. (What's this white stuff on my nachos? (Sorry, square peg joke. Carry on.)) Unexpectedly, they had a musician strolling the aisles at the restaurant, singing and playing the guitar. He was singing what I'd consider to be typical Mexican restaurant music, and doing a good job of it.

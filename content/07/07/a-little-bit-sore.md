@@ -1,10 +1,7 @@
 ---
 title: "A little bit sore"
-date: "2007-07-10T12:57:30.000"
-categories: 
-  - "random"
-tags: 
-  - "exercise"
+date: 2007-07-10T12:57:30.000
+tags: ['exercise']
 ---
 
 Yesterday morning I was awake early so I went to the gym and hit the treadmill and the weight machines. I have been doing at least a bit of running, so the treadmill part wasn't bad; however, I haven't hit the weights in two or three months, so this morning I find myself pretty sore. It's a good kind of soreness, though - feels good to know that I actually did something.

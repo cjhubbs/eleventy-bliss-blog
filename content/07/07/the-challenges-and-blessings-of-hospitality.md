@@ -1,11 +1,7 @@
 ---
 title: "The Challenges and Blessings of Hospitality"
-date: "2007-07-16T13:47:05.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "thoughts"
+date: 2007-07-16T13:47:05.000
+tags: ['personal']
 ---
 
 Last week Becky and I had a discussion about, well, a bunch of things, but the one thing that came out of it was an agreement that we needed to be inviting people over more. We enjoy having folks over to share a meal, play games, and hang out, but we do it far too rarely. So we discussed for a while what day would work best for us, (if we want to be consistent, we're gonna have to pick a day and stick to it), and came up with Sunday evenings. We don't have any Sunday evening church activities, and, we concluded, but 5 PM on Sunday we're usually bored anyway and looking for something to do, so why not have folks over for supper? Having thus planned, we invited two couples (+ kids) over, and started preparing for Sunday night.

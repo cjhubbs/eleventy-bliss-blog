@@ -1,16 +1,13 @@
 ---
 title: "Billboards from God"
-date: "2007-03-16T13:03:48.000"
-categories: 
-  - "random"
-tags: 
-  - "thoughts"
+date: 2007-03-16T13:03:48.000
+tags: ['rants']
 ---
 
 On my way home from work every day I pass a billboard that frustrates me. It's a simple message, white text on a black background. It's designed to look like a written note. The words:
 
-> One nation under Me.
-> 
+> One nation under Me.  
+> <br/>
 > \--God
 
 Undoubtedly this billboard was purchased by some well-meaning evangelical wanting to make a point about their beliefs that American was a Christian country, should continue to be a Christian country, etc, and remind us about the battle over the Pledge of Allegiance. I don't want to debate those points at all. Not that I necessarily agree with them exactly, but there are people in my congregation that would wholeheartedly agree with them, and I don't have time to write a full, thoughtful response to the ideas; nor do I want to offend them by giving a less than thoughtful answer. So let's leave that particular question alone.

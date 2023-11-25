@@ -1,10 +1,7 @@
 ---
 title: "Bullet Points from the Weekend"
-date: "2007-06-04T12:51:46.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2007-06-04T12:51:46.000
+tags: ['bullet-points']
 ---
 
 - We got 3 tons of sand dumped on our driveway Friday afternoon; my back is now sore from moving two of those tons back to the girls' sandbox in the backyard with a wheelbarrow. The third ton was apparently unnecessary; sounds like the garden center gave us a bad number on how much sand was required. Still trying to decide what to do with the sand in the driveway. Anybody need a ton of sand?

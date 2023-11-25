@@ -1,14 +1,10 @@
 ---
 title: "The trip to Best Buy, or, why you should think when you design a computer system."
-date: "2007-06-13T01:16:07.000"
-categories: 
-  - "random"
-tags: 
-  - "geek"
-  - "rants"
+date: 2007-06-13T01:16:07.000
+tags: ['tech','rants']
 ---
 
-So, [as planned](http://www.chrishubbs.com/2007/06/12/i-just-want-my-ipod-back/), tonight I went to Best Buy to find out what was up with my iPod replacement. Long story short, I took my original one in for repair, they sent me a refurb which was also dead, so I took it back, and they were going to send me another one. Two weeks elapse. We pick up on the story tonight as I talk to a member of the "Geek Squad" at our local Cedar Rapids Best Buy.
+So, [as planned](/2007/06/i-just-want-my-ipod-back/), tonight I went to Best Buy to find out what was up with my iPod replacement. Long story short, I took my original one in for repair, they sent me a refurb which was also dead, so I took it back, and they were going to send me another one. Two weeks elapse. We pick up on the story tonight as I talk to a member of the "Geek Squad" at our local Cedar Rapids Best Buy.
 
 I explain my story. I brought in the refurb for the second return 12 days ago. The guy wasn't able to enter it into the system yet, but assured me the system would let him enter it by the end of the day, so 3 - 5 business days and I should get a new one. 8 business days later, I'm back. I talked to them last Friday on the phone and they said yeah, the service tag just closed, so expect the iPod in a couple of days. Three days later, still nada.
 

@@ -1,10 +1,7 @@
 ---
 title: "You'd think I'd learn..."
-date: "2007-01-26T13:57:46.000"
-categories: 
-  - "random"
-tags: 
-  - "books"
+date: 2007-01-26T13:57:46.000
+tags: ['books','reading']
 ---
 
 I stopped at the library yesterday afternoon to pick up a book I had reserved. (_Velvet Elvis_ by Rob Bell, yes, Heather, I'm finally getting around to reading it.) And of course, even with my book backlog, I couldn't stop with just that one book - I had to pick up two more while I was at it. My book pile next to my bed has gotten large. Very large. From memory, here's what's sitting there waiting to be read:
@@ -21,6 +18,6 @@ I stopped at the library yesterday afternoon to pick up a book I had reserved. (
 - _Lectures to my Students_ - Spurgeon - Bought at the DG2006 conference, read the first few chapters, it's still sitting there.
 - _Looking Unto Jesus_ - Isaac Ambrose - my dad gave me this one a couple of years ago - I have started on it several times and never finished. Slow going, but good stuff.
 
-There may be a few others, that's just all I can think of for now. If you haven't seen it already, I'm keeping [a list of all the books I finish this year](http://thehubbs.net/chris/books-ive-read-in-2007/). The link is on my sidebar, too.
+There may be a few others, that's just all I can think of for now. 
 
 \[Checked tonight when I got home - found I'd missed a couple: _What I Saw At The Revolution_ by Peggy Noonan and _Case Closed_ by Gerald Posner. I guess I've got even \*more\* reading to do. :sigh:

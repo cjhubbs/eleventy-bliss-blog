@@ -1,11 +1,7 @@
 ---
 title: "Drying out"
-date: "2007-07-19T13:18:01.000"
-categories: 
-  - "random"
-tags: 
-  - "house"
-  - "life"
+date: 2007-07-19T13:18:01.000
+tags: ['homeownership']
 ---
 
 It's been a bit of a wet week here in eastern Iowa. We had storms starting Monday night through Tuesday, then again Wednesday morning and evening. My neighbor Jim told me yesterday that he measured something like 5 inches after the Monday/Tuesday storm. No big damage; the neighbors lost a small branch from their tree, that's about it. However, the split in our tree in the front yard is much more noticeable now than it was a couple of weeks ago, so we're gonna have a tree service come out and look at it to see what our options are. If the south side of the tree splits off, it'll fall on the house, right on Laura's room. Not good. So we will see. I'd hate to lose that tree, though.

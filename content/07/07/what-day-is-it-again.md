@@ -1,10 +1,7 @@
 ---
 title: "What day is it again?"
-date: "2007-07-05T12:20:19.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2007-07-05T12:20:19.000
+tags: ['personal']
 ---
 
 Having a day off from work in the middle of the week has totally thrown me off. Yesterday seemed like Saturday all day, which meant that I kept going into a panic about not being ready for church the next day... no music picked, Sunday School lesson not prepared... I had to keep reminding myself, wait, Chris, tomorrow is only Thursday... you still have time. So last night I picked the music. The Sunday School lesson is still waiting.

@@ -1,12 +1,7 @@
 ---
 title: "Bullet Points for a Friday"
-date: "2007-07-27T15:36:36.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
-  - "life"
-  - "travel"
+date: 2007-07-27T15:36:36.000
+tags: ['bullet-points']
 ---
 
 \[Once again, thanks to [dan](http://rmfo-blogs.com/daniel/) for creating a good format to rip off.\]

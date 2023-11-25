@@ -1,13 +1,10 @@
 ---
 title: "In Praise of Good Customer Service"
-date: "2007-03-09T02:01:46.000"
-categories: 
-  - "random"
-tags: 
-  - "thoughts"
+date: 2007-03-09T02:01:46.000
+tags: ['personal']
 ---
 
-I've complained enough about bad customer service here on the blog (see: the [OfficeMax debacle](http://thehubbs.net/chris/category/specific-topics/officemax/) of a couple years ago) that I want to make sure I say something about really good service when it happens.
+I've complained enough about bad customer service here on the blog (see: the OfficeMax debacle of a couple years ago) that I want to make sure I say something about really good service when it happens.
 
 When I was in DC last week, I hit a shopping mall one night to wander around and pick up something for the girls. While I was in there, I ran across [Paradise Pens](http://www.paradisepen.com), a neat little store specializing in, well, pens. They had everything from basic ballpoint to pens costing nearly $2000. I wandered in and struck up a conversation with a very friendly store manager. I mentioned an interest in fountain pens (I've often been curious, but never been to a store that sold them), and she took 20 minutes and showed me some different pens, let me try them out, answered my questions. Excellent service. I ended up buying a low-end fountain pen, cost about $40.
 

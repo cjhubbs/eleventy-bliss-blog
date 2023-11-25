@@ -1,10 +1,7 @@
 ---
 title: "Fun with Family"
-date: "2007-05-28T19:07:34.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
+date: 2007-05-28T19:07:34.000
+tags: ['family']
 ---
 
 We had the whole clan over this weekend - well, almost the whole clan. Ryan came in from Chicago, Aaron and the folks from Wisconsin, Andrew from his job in Illinois. Becky's folks were already here visiting. We were only missing Rebecca, who is finishing up her six-month DTS in Panama. She'll be home in about 10 days - sure looking forward to seeing her.

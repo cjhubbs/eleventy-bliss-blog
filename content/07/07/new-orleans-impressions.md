@@ -1,10 +1,7 @@
 ---
 title: "New Orleans Impressions"
-date: "2007-07-30T16:35:26.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
+date: 2007-07-30T16:35:26.000
+tags: ['travel']
 ---
 
 Got back from last week's trip to New Orleans early on Friday morning. This was my first time in New Orleans, so it was interesting to see an area that I had heretofore only read about and seen on TV. I had a mix of impressions from the city.

@@ -1,13 +1,10 @@
 ---
 title: "It happened again."
-date: "2007-07-18T17:44:01.000"
-categories: 
-  - "random"
-tags: 
-  - "truly-random"
+date: 2007-07-18T17:44:01.000
+tags: ['random']
 ---
 
-[Yep.](http://www.chrishubbs.com/2007/07/12/its-a-trap/) Four in a row now. What are the odds?
+[Yep.](/07/07/its-a-trap/) Four in a row now. What are the odds?
 
 Dang, I had to ask that. Now I'm gonna have to calculate them.
 

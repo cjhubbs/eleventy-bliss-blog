@@ -1,10 +1,7 @@
 ---
 title: "Not again!"
-date: "2007-06-16T03:17:11.000"
-categories: 
-  - "random"
-tags: 
-  - "rants"
+date: 2007-06-16T03:17:11.000
+tags: ['tech','rants']
 ---
 
 UPS dutifully delivered my second refurbished iPod this afternoon. The battery was pretty well dead, so I hooked it up to the wall charger for a few hours until it said it was all charged up. Then I hooked it up to the laptop, setup iTunes to sync 18 GB of music, and crossed my fingers. Would this one work?

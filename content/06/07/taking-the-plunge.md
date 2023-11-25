@@ -1,10 +1,7 @@
 ---
 title: "Taking the Plunge"
-date: "2006-07-31T13:35:51.000"
-categories: 
-  - "random"
-tags: 
-  - "exercise"
+date: 2006-07-31T13:35:51.000
+tags: ['running']
 ---
 
 This weekend I signed up for a 5K run. I've never done something like this before. I've not been a big runner in past years, but with 30 approaching and too many pounds around my waistline, it is time to get more serious about it. I have increased motivation to run; finding time is still the difficulty.

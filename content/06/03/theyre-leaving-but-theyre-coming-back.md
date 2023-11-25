@@ -1,8 +1,7 @@
 ---
 title: "they're leaving...  but they're coming back."
-date: "2006-03-22T20:11:36.000"
-categories: 
-  - "random"
+date: 2006-03-22T20:11:36.000
+tags: ['family','travel']
 ---
 
 By late this evening I'll be the only member of my immediate family still present in North America. My folks, sister, and brother are heading down to Panama to visit my two brothers who are already there. Actually, I'm not sure if Ryan is going down today or sometime shortly later... but that'll leave me as the only one back here in the good ol' US of A. This is a big trip for all of them, but especially for my folks, who haven't been on a trip like this in many, many years. Dad just got his passport done last-minute, but fortunately it got done. So they're off, for a 10-day trip.

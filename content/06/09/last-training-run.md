@@ -1,11 +1,7 @@
 ---
 title: "Last training run"
-date: "2006-09-14T13:56:37.000"
-categories: 
-  - "random"
-tags: 
-  - "2006-solon-fund-run"
-  - "exercise"
+date: 2006-09-14T13:56:37.000
+tags: ['running']
 ---
 
 Well, my last training run before the Solon 5K on Saturday. I woke up before my alarm this morning (no small feat when the alarm is set for 5:10 am!) and headed out on my usual 3.2 mile course. It was a beautiful early morning, chilly and brisk, the sky bright, clear, and full of stars.

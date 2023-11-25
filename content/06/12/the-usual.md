@@ -1,10 +1,7 @@
 ---
 title: "The Usual?"
-date: "2006-12-13T21:40:30.000"
-categories: 
-  - "random"
-tags: 
-  - "thoughts"
+date: 2006-12-13T21:40:30.000
+tags: ['personal']
 ---
 
 "The usual?"

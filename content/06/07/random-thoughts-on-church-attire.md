@@ -1,13 +1,10 @@
 ---
 title: "Random Thoughts on Church Attire"
-date: "2006-07-20T19:05:53.000"
-categories: 
-  - "random"
-tags: 
-  - "church"
+date: 2006-07-20T19:05:53.000
+tags: ['church']
 ---
 
-OK, so [Dan](http://rmfo-blogs.com/daniel/) [put me up to this](http://www.chrishubbs.com/2006/07/20/bits-and-pieces/#comments). Pick a topic, and just start writing. So this topic came to mind. How did it come to mind, you ask? Well, I was thinking about our church's service in the park this Sunday. And how much I enjoy it. And how one of the reasons I enjoy it so much is because it's appropriate to wear a t-shirt, shorts, and sandals, even when leading the music. And that led me to thinking about church attire in general.
+OK, so [Dan](http://rmfo-blogs.com/daniel/) put me up to this. Pick a topic, and just start writing. So this topic came to mind. How did it come to mind, you ask? Well, I was thinking about our church's service in the park this Sunday. And how much I enjoy it. And how one of the reasons I enjoy it so much is because it's appropriate to wear a t-shirt, shorts, and sandals, even when leading the music. And that led me to thinking about church attire in general.
 
 So what do you wear to church? I'm talking about Sunday morning, when you attend the regular weekly service. At [Noelridge](http://www.noelridge.org), I usually wear a pair of khaki pants and some sort of collared shirt. If I'm feeling sloppy I'll wear jeans with the collared shirt. One time I even left the shirt untucked. But usually it's khakis and a collared shirt.
 

@@ -1,8 +1,7 @@
 ---
 title: "youth time"
-date: "2006-04-10T14:00:23.000"
-categories: 
-  - "random"
+date: 2006-04-10T14:00:23.000
+tags: ['personal']
 ---
 
 OK, so my ankle is a little bit sore this morning.

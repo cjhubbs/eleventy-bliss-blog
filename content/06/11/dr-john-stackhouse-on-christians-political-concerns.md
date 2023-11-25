@@ -1,11 +1,7 @@
 ---
 title: "Dr. John Stackhouse on Christians' Political Concerns"
-date: "2006-11-02T20:14:49.000"
-categories: 
-  - "random"
-tags: 
-  - "politics"
-  - "thoughts"
+date: 2006-11-02T20:14:49.000
+tags: ['politics','theology']
 ---
 
 Dr. John Stackhouse of [Regent College](http://www.regent-college.edu/) in Vancouver, BC, is in Cedar Rapids this weekend speaking. He'll be at [Coe College](http://www.coe.edu) tonight, First Lutheran Church tomorrow night, and then at [Noelridge](http://www.noelridge.org) and First Lutheran on Sunday morning. (Visit [recminusa.org](http://www.recminusa.org) for more details.)

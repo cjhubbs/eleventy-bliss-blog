@@ -1,11 +1,7 @@
 ---
 title: "It's Wednesday, but Saturday's coming"
-date: "2006-09-13T16:04:54.000"
-categories: 
-  - "random"
-tags: 
-  - "2006-solon-fund-run"
-  - "life"
+date: 2006-09-13T16:04:54.000
+tags: ['running']
 ---
 
 I told myself that I should run a good three times this week in preparation for the Solon 5K on Saturday. After all, I didn't get much running in last week while we were on vacation. I was good on Monday, ran 2 miles, felt decent. I intended to run again this morning, but after not getting to sleep until around midnight, 5 AM for running was just too early. Maybe this afternoon or tonight. I'm thinking today, maybe tomorrow, and then take Friday off to rest. We'll see how it goes.

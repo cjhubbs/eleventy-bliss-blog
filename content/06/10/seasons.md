@@ -1,10 +1,7 @@
 ---
 title: "Seasons"
-date: "2006-10-25T02:46:24.000"
-categories: 
-  - "random"
-tags: 
-  - "thoughts"
+date: 2006-10-25T02:46:24.000
+tags: ['personal']
 ---
 
 Yard work isn't my favorite task; it's one of those things that gets done because it needs to be done, not because I really want to do it. But there is something increasingly pleasant about the pattern of life as I see it develop year after year. This will be our third autumn in this house, and so the third season of cold afternoons raking until dark, brisk Saturdays cleaning out gutters, and warm cups of tea waiting for me back in the house. When the raking gets long I will take comfort in the knowledge that in just a few weeks all the leaves will have fallen, the bags will have been collected, and all that will remain in this year's outdoor maintenance is to prepare the snowblower for its season of work.

@@ -1,8 +1,7 @@
 ---
 title: "Springtime!"
-date: "2006-04-11T18:49:29.000"
-categories: 
-  - "random"
+date: 2006-04-11T18:49:29.000
+tags: ['personal']
 ---
 
 This week has finally brought spring-like weather to our little piece of Iowa. Temps will be in the 70's all week. I love it.

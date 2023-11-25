@@ -1,11 +1,7 @@
 ---
 title: "Follow-up on the technology saga"
-date: "2006-05-12T18:42:26.000"
-categories: 
-  - "nerdy"
-  - "random"
-tags: 
-  - "geek"
+date: 2006-05-12T18:42:26.000
+tags: ['tech']
 ---
 
 Yesterday my PDA totally locked up, just froze with the backlight on and nothing on screen. Finally last night the battery gave out. But apparently there is happy news! My dear wife reports from home today that when she plugged it in to the charger, it came back up and appears to be working correctly. Let's hope that it keeps it up - I don't like my choices for replacing it, even if I could afford them:

@@ -1,8 +1,7 @@
 ---
 title: "The Joy of Friends and Fellowship"
-date: "2006-04-09T17:40:33.000"
-categories: 
-  - "personal"
+date: 2006-04-09T17:40:33.000
+tags: ['personal']
 ---
 
 Yesterday was the annual Eggstreme Easter Egg Hunt out at the Berberich's home in Stone City. This is I think the fifth year that we've had a hunt at their place. It's a beautiful venue, out in the country with acres of clear lawn and then miles of trails through the woods. This is the first year that we haven't had a big hand in actually organizing and preparing for the hunt; we just showed up. It was nice. :-)

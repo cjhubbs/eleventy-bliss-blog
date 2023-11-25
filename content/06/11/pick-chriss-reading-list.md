@@ -1,10 +1,7 @@
 ---
 title: "Pick Chris's Reading List"
-date: "2006-11-14T14:14:08.000"
-categories: 
-  - "random"
-tags: 
-  - "books"
+date: 2006-11-14T14:14:08.000
+tags: ['books','reading']
 ---
 
 Those of you who know me know that I am a voracious reader. (Those of you who don't know me just found out.) Every night for many years I have spent my last waking hour in bed reading some book or another. (If the book is too interesting, I spend a few of my last waking hours in bed... and often end up short on sleep as a result.) I enjoy many genres, but find myself most drawn to history, theology, science fiction (but not the fantasy branch of sci-fi so much), and then military/adventure novels. I was big into Tom Clancy as a kid, and branched out to similar authors when Clancy's pen dried up.

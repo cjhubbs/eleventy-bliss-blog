@@ -1,11 +1,7 @@
 ---
 title: "Atlanta: Impressions"
-date: "2006-06-28T19:52:49.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "travel"
+date: 2006-06-28T19:52:49.000
+tags: ['travel','work']
 ---
 
 This is the first time I’ve ever visited Atlanta. I’ve driven through a few times, but that doesn’t count. I’ve driven around the north end of Atlanta for a while the past few days, and there are things that stick out. There are churches everywhere. I didn’t think that Iowa was that godless, but I can’t believe how many more churches it seems like there are here. And BIG churches. Wowza. There’s also a lot of Chick-fil-a restaurants. We have one in Cedar Rapids, but I think there’s one on every corner here in Atlanta. But all the signs still say “Closed Sunday”, though, so that’s cool.

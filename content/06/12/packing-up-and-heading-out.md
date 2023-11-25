@@ -1,10 +1,7 @@
 ---
 title: "Packing Up and Heading Out"
-date: "2006-12-19T17:16:03.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
+date: 2006-12-19T17:16:03.000
+tags: ['travel']
 ---
 
 The long-awaited Christmas break is finally here! Tonight we're loading the van, and tomorrow morning we head out bright and early for our Christmas visit to see Becky's family in Tennessee and North Carolina.

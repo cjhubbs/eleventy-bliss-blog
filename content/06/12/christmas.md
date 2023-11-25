@@ -1,10 +1,7 @@
 ---
 title: "Christmas!"
-date: "2006-12-27T17:28:57.000"
-categories: 
-  - "random"
-tags: 
-  - "christmas-2006"
+date: 2006-12-27T17:28:57.000
+tags: ['family','travel']
 ---
 
 Christmas morning dawned and we packed up four adults, two small children, and lots of presents and luggage into the folks' Suburban and headed up to Faith and Ernie's home in Conover, NC. It was just about a 2-hour drive from Waxhaw - not bad at all. This gave Laura the first chance to meet her cousin Brandi, and oh, did they ever have fun. Brandi is almost 5. Faith and Ernie adopted her from China 3 years ago. She is a sweetie.

@@ -1,8 +1,7 @@
 ---
 title: 'odds and ends March 2006'
-date: '2006-03-20T17:50:23.000'
-categories:
-  - 'random'
+date: 2006-03-20T17:50:23.000
+tags: ['tech','personal']
 ---
 
 The server has been down for the last few days, so I haven't been able to update. But now it's back and running, so here goes. Actually, there isn't a whole lot to update about.

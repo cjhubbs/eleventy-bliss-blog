@@ -1,15 +1,10 @@
 ---
 title: "Swearing on the Koran"
-date: "2006-12-05T03:11:03.000"
-categories: 
-  - "random"
-tags: 
-  - "politics"
-  - "religion"
-  - "thoughts"
+date: 2006-12-05T03:11:03.000
+tags: ['politics','religion']
 ---
 
-[My mother-in-law asked the other day](http://www.chrishubbs.com/2006/12/01/links-for-2006-12-01/#comment-6121) what I thought about [this recent news story](http://www.washtimes.com/upi/20061202-075343-6941r.htm). In brief: Newly elected to the House of Representatives, Minnesota Democrat Keith Ellison has declared that when he is sworn in on January 4th, he will take the oath of office with his hand on a Koran instead of a Bible. Ellison is the first Muslim ever elected to Congress.
+My mother-in-law asked the other day what I thought about this recent news story. In brief: Newly elected to the House of Representatives, Minnesota Democrat Keith Ellison has declared that when he is sworn in on January 4th, he will take the oath of office with his hand on a Koran instead of a Bible. Ellison is the first Muslim ever elected to Congress.
 
 There have been varying reactions to Ellison's decision. The loudest has been [Dennis Prager on townhall.com](http://www.townhall.com/Columnists/DennisPrager/2006/11/28/america,_not_keith_ellison,_decides_what_book_a_congressman_takes_his_oath_on), who declares that Ellison "...should not be allowed to do so -- not because of any American hostility to the Koran, but because the act undermines American civilization." A little more:
 
@@ -17,8 +12,8 @@ There have been varying reactions to Ellison's decision. The loudest has been [D
 
 Yesterday I was forwarded an email from the [American Family Association](http://www.afa.net/aa112806_2.asp) that quoted the Prager column and then asked all the readers to
 
-> 1\. Send an email asking your U.S. Representative and Senators to pass a law making the Bible the book used in the swearing-in ceremony of Representatives and Senators.
-> 
+> 1\. Send an email asking your U.S. Representative and Senators to pass a law making the Bible the book used in the swearing-in ceremony of Representatives and Senators.  
+> <br/>
 > 2\. Forward this email to your friends and family today!
 
 So what is my reaction to all this?

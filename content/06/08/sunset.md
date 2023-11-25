@@ -1,11 +1,7 @@
 ---
 title: "Sunset"
-date: "2006-08-21T19:35:58.000"
-categories: 
-  - "random"
-tags: 
-  - "retrospective"
-  - "thoughts"
+date: 2006-08-21T19:35:58.000
+tags: ['personal']
 ---
 
 There's something about sunsets that make me nostalgic. I'm not sure what it is about them, but give me the chance to look to the horizon as the last light of the day streaks across the landscape, and I'm entranced.

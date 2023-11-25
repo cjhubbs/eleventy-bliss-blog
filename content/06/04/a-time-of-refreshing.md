@@ -1,11 +1,7 @@
 ---
 title: "a time of refreshing"
-date: "2006-04-19T16:30:27.000"
-categories: 
-  - "personal"
-tags: 
-  - "church"
-  - "thoughts"
+date: 2006-04-19T16:30:27.000
+tags: ['church','personal']
 ---
 
 I hadn't realized how burned-out I was getting. When I step back and look at it now, it should've been obvious. I've been leading worship at Noelridge for the last 5 years or so, and have never taken off more than about 4 weeks a year. And those weeks were even more work than the weeks that I just led it myself. It wasn't the leading so much; it was the preparation. Planning the service, writing instrumental parts for our various musicians (some need chords! some need notes! some can transpose... some can't!), practicing beforehand, then leading. First it was one service per week, since last September it's two services. I was getting to the point where I didn't even want to do worship team.

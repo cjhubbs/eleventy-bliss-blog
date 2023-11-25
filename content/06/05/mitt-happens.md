@@ -1,10 +1,7 @@
 ---
 title: "Mitt Happens"
-date: "2006-05-09T14:22:59.000"
-categories: 
-  - "political"
-tags: 
-  - "politics"
+date: 2006-05-09T14:22:59.000
+tags: ['politics']
 ---
 
 I met Mitt Romney yesterday. Well, if you can consider shaking his hand and saying hello "meeting" him. Mr. Romney is the governor of Massachusetts and a probable candidate for President in 2008. As with all presidential campaigns, the early path has to run through Iowa. And so Governor Romney found his way to Cedar Rapids to give the commencement address at [Coe College](http://www.coe.edu) on Sunday and then meet with various political groups yesterday. One of the groups he was meeting was our Christian Action group here in Linn County. Since the head of that group is also one of our elders at [Noelridge](http://www.noelridge.org), they held the meeting there at our little church. So for half an hour or so, I sat back and ran sound while Governor Romney answered questions brought by our local people.

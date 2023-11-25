@@ -1,11 +1,7 @@
 ---
 title: "Desiring God 2006 National Conference"
-date: "2006-10-02T00:37:14.000"
-categories: 
-  - "random"
-tags: 
-  - "desiring-god-2006-national-conference"
-  - "friends"
+date: 2006-10-02T00:37:14.000
+tags: ["desiring-god-2006-national-conference"]
 ---
 
 I got home about 2:30 this morning from two days in Minneapolis at the [Desiring God 06 National Conference](http://www.desiringgod.org/Events/NationalConferences/Archives/2006/). Richard and I got up there Friday afternoon, and after a tasty dinner at [Brit's Pub](http://www.britspub.com/index.php), we perused the massive book sale before heading in for session one.

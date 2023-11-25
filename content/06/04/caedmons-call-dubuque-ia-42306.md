@@ -1,12 +1,7 @@
 ---
 title: "Caedmon's Call, Dubuque, IA, 4/23/06"
-date: "2006-04-23T17:16:36.000"
-categories: 
-  - "music"
-  - "reviews"
-tags: 
-  - "music"
-  - "review"
+date: 2006-04-23T17:16:36.000
+tags: ['music','concerts','caedmons-call']
 ---
 
 Last night I had the opportunity to see Caedmon's Call play in concert at the Five Flags Center in Dubuque, IA. It was a great time. The night started off nicely when I was able to find the venue just fine, and found free parking on the street only two parking places away from the arena. Amazing.

@@ -1,10 +1,7 @@
 ---
 title: "An Update"
-date: "2006-12-11T14:17:55.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2006-12-11T14:17:55.000
+tags: ['personal']
 ---
 
 It's been far too long since I've written much here on the blog; it's been a busy week or two. While not a full remedy, a brief update will at least catch you up to speed on Chris's life in December of 2006.

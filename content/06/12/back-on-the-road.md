@@ -1,10 +1,7 @@
 ---
 title: "Back on the Road"
-date: "2006-12-23T22:02:32.000"
-categories: 
-  - "random"
-tags: 
-  - "christmas-2006"
+date: 2006-12-23T22:02:32.000
+tags: ['travel']
 ---
 
 Day 3 was another travel day; Nashville, TN to Waxhaw, NC. It doesn't look that long on the map, but it winds through the mountains a good bit, which makes it longer. It's a very pretty drive.

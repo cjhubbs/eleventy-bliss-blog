@@ -1,8 +1,7 @@
 ---
 title: "so nice to be busy again..."
-date: "2006-03-02T15:05:15.000"
-categories: 
-  - "random"
+date: 2006-03-02T15:05:15.000
+tags: ['work']
 ---
 
 Things had been a little bit slow at work for the past couple of weeks; I was winding up one project and in a holding pattern waiting for some critical decisions to be made so I could start the next project. Work is amazingly long and excruciating when you're bored.

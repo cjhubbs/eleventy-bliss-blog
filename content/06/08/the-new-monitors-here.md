@@ -1,10 +1,7 @@
 ---
 title: "The new monitor's here!"
-date: "2006-08-09T14:41:18.000"
-categories: 
-  - "random"
-tags: 
-  - "work"
+date: 2006-08-09T14:41:18.000
+tags: ['work']
 ---
 
 A trusty IT guy came by this morning to deliver a new Dell 19" LCD monitor. He was also good enough to haul away the old 21" CRT behemoth. Amazing how my 19" CRT now looks fuzzy and crappy in comparison.

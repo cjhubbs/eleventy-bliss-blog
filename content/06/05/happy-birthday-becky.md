@@ -1,10 +1,7 @@
 ---
 title: "Happy Birthday, Becky!"
-date: "2006-05-25T12:23:52.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
+date: 2006-05-25T12:23:52.000
+tags: ['family']
 ---
 
 Only the best birthday wishes to my beautiful wife who turns 29 today. She is a faithful partner, dear friend, and loving mother to our girls. I am truly blessed.

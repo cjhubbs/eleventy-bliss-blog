@@ -1,8 +1,7 @@
 ---
 title: "opening day"
-date: "2006-04-03T18:55:54.000"
-categories: 
-  - "random"
+date: 2006-04-03T18:55:54.000
+tags: ['baseball']
 ---
 
 It's opening day for major league baseball, and what a way to start: the Cubs scored 5 runs in the top of the first inning.

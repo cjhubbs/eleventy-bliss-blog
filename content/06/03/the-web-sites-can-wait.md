@@ -1,8 +1,7 @@
 ---
 title: "the web sites can wait"
-date: "2006-03-14T22:47:49.000"
-categories: 
-  - "personal"
+date: 2006-03-14T22:47:49.000
+tags: ['personal']
 ---
 
 It's Tuesday afternoon, and I'm sitting on the couch in a darkened hospital room. There's a little bit of hazy sunlight filtering through the miniblinds behind me, and a muted television sits ignored across the room. My wife is napping, my older daughter is at a friend's house, my newborn daughter is asleep in the bassinette, and I have had a few minutes of precious quiet. Sure, the nurse interrupted it a few minutes ago to check temperatures and pulses, but she is forgiven.

@@ -1,10 +1,7 @@
 ---
 title: "It's Monday already..."
-date: '2006-06-05T14:50:19.000'
-categories:
-  - 'random'
-tags:
-  - 'life'
+date: 2006-06-05T14:50:19.000
+tags: ['personal']
 ---
 
 That's actually not a bad thing, just a statement of fact. Had a nice weekend; installed a screen door on the side entrance to our house. It went pretty easily, but I ran down the batteries in my drill and had to wait until Sunday for them to charge up so I could finish the job. _Note to self: pick up a cheap electric (plug-in) drill sometime so that doesn't happen again._

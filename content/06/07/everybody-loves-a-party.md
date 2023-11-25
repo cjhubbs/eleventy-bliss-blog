@@ -1,10 +1,7 @@
 ---
 title: "Everybody loves a party!"
-date: "2006-07-28T12:56:33.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
+date: 2006-07-28T12:56:33.000
+tags: ['family']
 ---
 
 Yesterday was Laura's second birthday. So, we invited a bunch of friends over to celebrate. Actually, this was her second birthday party this year; we had one with my family on Saturday, and now one with friends. Two years old, two parties. Don't get any ideas about next year, kiddo!

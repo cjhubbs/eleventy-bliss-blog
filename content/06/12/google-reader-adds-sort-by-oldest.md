@@ -1,10 +1,7 @@
 ---
 title: "Google Reader adds \"sort by oldest\""
-date: "2006-12-15T13:45:00.000"
-categories: 
-  - "random"
-tags: 
-  - "geek"
+date: 2006-12-15T13:45:00.000
+tags: ['tech']
 ---
 
 Finally! This was my biggest gripe with Google Reader up until now; the only chronological sort option was newest-to-oldest. But I don't want to read that way; especially on the conversational blogs that I'm subscribed to, I want to read the conversation in order the way it happened - oldest-to-newest.

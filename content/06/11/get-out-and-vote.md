@@ -1,10 +1,7 @@
 ---
 title: "Get out and vote!"
-date: "2006-11-07T13:43:03.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2006-11-07T13:43:03.000
+tags: ['politics']
 ---
 
 Yep, it's election day. I can't say I'm too excited about any of the slate of candidates I have to vote for here in Iowa; some of the locals are probably alright, but even at the state level they've been slinging mud for so many weeks now I have a bad taste in my mouth - something akin to that nasty pastiness you get when sleeping with your mouth open all night when your nose is clogged. Yecch.

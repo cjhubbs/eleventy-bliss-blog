@@ -1,11 +1,7 @@
 ---
 title: "The road goes ever on and on..."
-date: "2006-12-22T04:36:34.000"
-categories: 
-  - "random"
-tags: 
-  - "christmas-2006"
-  - "travel"
+date: 2006-12-22T04:36:34.000
+tags: ['travel']
 ---
 
 At least it sure feels that way.

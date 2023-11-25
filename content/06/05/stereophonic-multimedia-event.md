@@ -1,11 +1,7 @@
 ---
 title: "Stereophonic Multimedia Event"
-date: "2006-05-10T16:48:37.000"
-categories: 
-  - "random"
-tags: 
-  - "geek"
-  - "life"
+date: 2006-05-10T16:48:37.000
+tags: ['tech']
 ---
 
 No, not the blog. My entertainment center, usually. But last weekend for some reason the LCD display of my Onkyo HTS-650 reciever bit the dust. The amp still works, but you can't see the display, so you can't tell what source is selected, or what options, or anything like that. This isn't the first thing to break on this receiver; it totally died a couple of years ago when it was still under warranty. Back then, two trips to the authorized repair shop in Coralville were enough to get it fixed. It's no longer under warranty now, though.

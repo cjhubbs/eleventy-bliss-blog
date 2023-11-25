@@ -1,14 +1,10 @@
 ---
 title: "It's time for a break..."
-date: "2006-08-10T15:56:17.000"
-categories: 
-  - "random"
-tags: 
-  - "church"
-  - "thoughts"
+date: 2006-08-10T15:56:17.000
+tags: ['church']
 ---
 
-I was reading back through some of my old blog posts this morning, tagging them appropriately, (100 down, 300 still to go...) when I found [this post](http://www.chrishubbs.com/2006/04/19/a-time-of-refreshing/) that I'd written back in April about burning out and refreshing. In that post I talk about getting burned out with worship team, and how nice it was to get at least one week a month off.
+I was reading back through some of my old blog posts this morning, tagging them appropriately, (100 down, 300 still to go...) when I found [this post](/06/04/a-time-of-refreshing/) that I'd written back in April about burning out and refreshing. In that post I talk about getting burned out with worship team, and how nice it was to get at least one week a month off.
 
 That was in April. That week that I had off in April was the last Sunday that I've had off since then. Basically, for 4 months. My usual substitute leaders and musicians have been gone on vacations and with family issues and illnesses, and the end result is that when you're the leader, you're stuck with it if nobody else is available. And I feel like I'm starting to fray around the edges.
 

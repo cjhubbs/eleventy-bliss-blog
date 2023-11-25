@@ -1,12 +1,7 @@
 ---
 title: "This 'n' that"
-date: "2006-09-18T15:09:49.000"
-categories: 
-  - "random"
-tags: 
-  - "2006-solon-fund-run"
-  - "life"
-  - "travel"
+date: 2006-09-18T15:09:49.000
+tags: ['running','travel']
 ---
 
 This weekend wasn't too busy, but I wasn't on the computer, so no blog updates.

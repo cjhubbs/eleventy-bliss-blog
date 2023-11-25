@@ -1,10 +1,7 @@
 ---
 title: "Random Thoughts on Classical Music"
-date: "2006-07-26T13:15:32.000"
-categories: 
-  - "random"
-tags: 
-  - "music"
+date: 2006-07-26T13:15:32.000
+tags: ['music']
 ---
 
 For those of you brave enough to read past the title, congratulations! Now instead of me talking about music by people my age, you get to hear me talk about music written by dead people. Well, they weren't dead when they wrote it... but let's not confuse the issue.

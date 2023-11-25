@@ -1,17 +1,12 @@
 ---
 title: "Nashville"
-date: "2006-12-23T21:32:12.000"
-categories: 
-  - "random"
-tags: 
-  - "christmas-2006"
+date: 2006-12-23T21:32:12.000
+tags: ['travel']
 ---
 
 Day 2 of our Christmas trip landed us in Nashville. Becky's brother Bob and his wife Holly and daughter Taylor live just south of town. Holly works for Gaylord Entertainment, which operates the massive [Opryland Resort](http://www.gaylordhotels.com/gaylordopryland/) there in northeast Nashville. As such, she gets a phenomenal discount rate for rooms in the hotel, and we took full advantage of that to stay there for two nights.
 
-[![img_4283.JPG](http://www.chrishubbs.com/wordpress/wp-content/uploads/2006/12/img_4283.thumbnail.JPG)](http://www.chrishubbs.com/wordpress/wp-content/uploads/2006/12/img_4283.JPG "img_4283.JPG")We slept in (a necessity after staying up 'til midnight) and then went with Bobby and Taylor to a local Cracker Barrel for breakfast. Then it was back to the resort and we started walking around. The place is amazing. They have two domed areas with multiple levels of attractions, shows, shops, and gardens. One has an indoor river with boat tours! Bob had lined up a boat tour for us and off we went. This picture does little justice to the size of just one of the domes.
-
-[![img_4315.JPG](http://www.chrishubbs.com/wordpress/wp-content/uploads/2006/12/img_4315.thumbnail.JPG)](http://www.chrishubbs.com/wordpress/wp-content/uploads/2006/12/img_4315.JPG "img_4315.JPG")
+We slept in (a necessity after staying up 'til midnight) and then went with Bobby and Taylor to a local Cracker Barrel for breakfast. Then it was back to the resort and we started walking around. The place is amazing. They have two domed areas with multiple levels of attractions, shows, shops, and gardens. One has an indoor river with boat tours! Bob had lined up a boat tour for us and off we went. 
 
 At lunchtime I was able to get together with [Andy Osenga](http://www.andrewosenga.com) to grab lunch. He was getting ready to record some background vocals for another guy that afternoon, and they were heading out for lunch first. I joined them for lunch at a local Irish pub-type establishment (I call it that knowing that Ryan would be happy to tell me how different a _true_ Irish pub is from that place!), then went back to the studio and hung out for a while while Andy recorded. Mitch Dean (who has worked on albums for Jars of Clay, among others) was doing the recording, and it was an education for me to see just how the process works. It was difficult, if not impossible, to resist the geek appeal of all that sound recording and editing gear, and that doesn't even begin to address the enjoyment I had as a musician seeing how songs get sculpted into a finished product.
 

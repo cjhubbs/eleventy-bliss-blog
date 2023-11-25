@@ -1,10 +1,7 @@
 ---
 title: "Heading Home"
-date: "2006-12-30T03:31:07.000"
-categories: 
-  - "random"
-tags: 
-  - "christmas-2006"
+date: 2006-12-30T03:31:07.000
+tags: ['travel']
 ---
 
 So I'm finally caught up with my trip posts. It's 10:20 PM and we're in a hotel room in Dayton, Ohio. We traveled from Waxhaw this morning, picked up my sunglasses from the Cozart's where I'd left them last night, then headed up through NC, Virginia, West Virginia, and most of the way through Ohio. It was actually a pretty good drive, not too tough, went pretty quickly.

@@ -1,11 +1,7 @@
 ---
 title: "Chance Meetings with Friends"
-date: "2006-07-06T12:52:19.000"
-categories: 
-  - "random"
-tags: 
-  - "friends"
-  - "life"
+date: 2006-07-06T12:52:19.000
+tags: ['friends']
 ---
 
 It has been a nice morning thus far. I got up at my usual early hour, got motivated enough to go run (woohoo! it feels good.) and then decided somewhat on a whim (and also influenced by the absence of any milk in the house for my cereal) to go grab a light breakfast at the little restaurant in the Hy-Vee grocery store. I took my Bible along to read a little, and figured it'd be a nice way to get the morning started.

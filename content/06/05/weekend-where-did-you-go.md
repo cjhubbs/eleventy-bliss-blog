@@ -1,11 +1,7 @@
 ---
 title: "weekend, where did you go?"
-date: "2006-05-30T17:37:42.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
-  - "life"
+date: 2006-05-30T17:37:42.000
+tags: ['family']
 ---
 
 Well it's long past time for a weekend update.

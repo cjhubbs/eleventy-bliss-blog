@@ -1,11 +1,7 @@
 ---
 title: 'Odds and Ends August 2006'
-date: '2006-08-15T12:36:07.000'
-categories:
-  - 'random'
-tags:
-  - 'exercise'
-  - 'family'
+date: 2006-08-15T12:36:07.000
+tags: ['running','family']
 ---
 
 **Odd**: 13, the number of runs we had last night in our softball game. Also the number of runs our opponents had. After 7 innings it was just too dark to continue to play (8:30 pm or so), so we called it a draw. It was a beautiful night, and a fun game.

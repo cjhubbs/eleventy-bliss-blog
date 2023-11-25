@@ -1,10 +1,7 @@
 ---
 title: "I'm sore...  but I think it feels good."
-date: "2006-06-09T12:50:31.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2006-06-09T12:50:31.000
+tags: ['personal']
 ---
 
 Having been disgusted with my lack of exercise for a while, and having been challenged by my wife's initiative to start swimming on a regular basis, I bit the bullet yesterday and set my alarm back an extra half-hour so I could get up and run to start the morning. Yesterday morning wasn't too bad - I was ready to get up at 5:15, I did about 2 miles in 20 minutes, and felt pretty good. Woohoo!

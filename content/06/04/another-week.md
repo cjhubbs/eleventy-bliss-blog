@@ -1,8 +1,7 @@
 ---
 title: "another week"
-date: "2006-04-17T18:09:58.000"
-categories: 
-  - "random"
+date: 2006-04-17T18:09:58.000
+tags: ['personal']
 ---
 
 Give me a three-day weekend, and do I post any? Nooooo. But it was a very nice weekend.

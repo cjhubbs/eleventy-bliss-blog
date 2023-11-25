@@ -1,10 +1,7 @@
 ---
 title: "Bits and Pieces"
-date: "2006-07-20T13:57:53.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2006-07-20T13:57:53.000
+tags: ['personal']
 ---
 
 I wait far too long between blog posts, and then I find myself searching for interesting things to write about. I guess my life, if not boring, is at a minimum mundane.

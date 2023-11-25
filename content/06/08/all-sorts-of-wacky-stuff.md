@@ -1,12 +1,7 @@
 ---
 title: "All sorts of wacky stuff"
-date: "2006-08-22T13:51:13.000"
-categories: 
-  - "random"
-tags: 
-  - "exercise"
-  - "life"
-  - "square-peg"
+date: 2006-08-22T13:51:13.000
+tags: ['bullet-points','running']
 ---
 
 Or at least what counts for wacky in my world. I realize my life is pretty calm compared to some of the rest of you.

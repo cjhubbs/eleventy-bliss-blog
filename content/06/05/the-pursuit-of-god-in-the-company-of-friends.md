@@ -1,10 +1,7 @@
 ---
 title: "The Pursuit of God in the Company of Friends"
-date: "2006-05-04T18:40:14.000"
-categories: 
-  - "random"
-tags: 
-  - "thoughts"
+date: 2006-05-04T18:40:14.000
+tags: ['quotes']
 ---
 
 [Dick Staub](http://www.dickstaub.com) on the Staublog (which needs to move to some software that supports RSS in an awful way) [today notes a phrase](http://dickstaub.com/culturewatch.php?record_id=1007) that caught my ear:

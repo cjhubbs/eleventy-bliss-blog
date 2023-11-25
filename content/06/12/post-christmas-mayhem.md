@@ -1,10 +1,7 @@
 ---
 title: "Post-Christmas Mayhem"
-date: "2006-12-28T02:13:21.000"
-categories: 
-  - "random"
-tags: 
-  - "christmas-2006"
+date: 2006-12-28T02:13:21.000
+tags: ['family']
 ---
 
 The day after Christmas found us trying to sleep off all that food we ate the day before. :-) We enjoyed leftovers for breakfast and lunch, again ate too much food. We played Upwards for the first time. It's like Scrabble, but gives you the opportunity to stack letters on top of other letters to make new words... kinda fun.

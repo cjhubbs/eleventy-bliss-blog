@@ -1,10 +1,7 @@
 ---
 title: "Sonic is coming!"
-date: "2006-08-17T13:36:03.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2006-08-17T13:36:03.000
+tags: ['personal']
 ---
 
 Back in Texas, Sonic was a favorite fast food place of ours. Who can top the Route 44 Cherry Limeade? When we moved to Iowa, we had to kick the habit; there's only one Sonic in Iowa, and it's two hours away in Des Moines.

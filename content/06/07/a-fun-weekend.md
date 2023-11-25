@@ -1,10 +1,7 @@
 ---
 title: "A fun weekend..."
-date: "2006-07-24T13:00:52.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
+date: 2006-07-24T13:00:52.000
+tags: ['family']
 ---
 
 It was busy busy busy, but it was fun. My brother Andrew is now officially a resident of Cedar Rapids. He'll be down here at least for the fall, working at Menards and taking a couple of classes at Kirkwood. So he was/is in town.

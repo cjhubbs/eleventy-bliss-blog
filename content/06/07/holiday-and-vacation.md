@@ -1,11 +1,7 @@
 ---
 title: "Holiday and Vacation"
-date: "2006-07-03T16:35:06.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
-  - "life"
+date: 2006-07-03T16:35:06.000
+tags: ['family']
 ---
 
 It's now been 10 days since I've actually set foot in my office. Last week was the conference to Atlanta, and then I took Friday off. Now it's Monday, and I get today and then tomorrow off for Independence Day. It's gonna feel weird to actually go back to work... but there will be a lot to be done.

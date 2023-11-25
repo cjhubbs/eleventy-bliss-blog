@@ -1,10 +1,7 @@
 ---
 title: "Gotta run..."
-date: "2006-10-11T14:02:58.000"
-categories: 
-  - "random"
-tags: 
-  - "exercise"
+date: 2006-10-11T14:02:58.000
+tags: ['running']
 ---
 
 I got out for a run yesterday afternoon - probably the first time in 2 weeks that I've run. It feels good to be a little bit sore this morning. It's going to be hard to get too motivated to run these next few days - it's gonna be cold and windy. But we just got a membership to the MAC (a local gym) so I'll be using it instead.

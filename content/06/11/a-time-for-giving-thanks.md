@@ -1,10 +1,7 @@
 ---
 title: "A Time for Giving Thanks"
-date: "2006-11-22T15:53:52.000"
-categories: 
-  - "random"
-tags: 
-  - "thoughts"
+date: 2006-11-22T15:53:52.000
+tags: ['personal']
 ---
 
 With Thanksgiving being tomorrow, I thought I'd list a few things I'm thankful for. I encourage you to think about it and make your own list!

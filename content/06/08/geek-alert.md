@@ -1,10 +1,7 @@
 ---
 title: "geek alert"
-date: "2006-08-07T14:05:20.000"
-categories: 
-  - "random"
-tags: 
-  - "geek"
+date: 2006-08-07T14:05:20.000
+tags: ['tech']
 ---
 
 The title is just a warning that some of your eyes might glaze over whilst reading this post. Others of you will find it interesting. Still others of you might have good advice to offer me...

@@ -1,10 +1,7 @@
 ---
 title: "Goodbye FeedLounge, Hello, Google Reader!"
-date: "2006-10-06T13:44:00.000"
-categories: 
-  - "random"
-tags: 
-  - "geek"
+date: 2006-10-06T13:44:00.000
+tags: ['tech']
 ---
 
 I've been using [FeedLounge](http://www.feedlounge.com) for several months now (ever since they came out of beta!) as my online feed reader. It has, without a doubt, the nicest UI (user interface, for my non-geek readers) of any feed reader, online or off, that I've ever come across. At the time I signed up, none of the other online feed readers were much good; Bloglines was the best of the bunch, but still not great. So I ponied up my $5/month and felt like it was an OK deal.

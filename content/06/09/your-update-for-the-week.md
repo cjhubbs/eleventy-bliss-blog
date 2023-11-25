@@ -1,10 +1,7 @@
 ---
 title: "Your update for the week"
-date: "2006-09-05T13:33:00.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
+date: 2006-09-05T13:33:00.000
+tags: ['personal']
 ---
 
 It's gonna be a slow week here on my blog. I'm in town today, but tomorrow we're leaving town for a few days of much-needed vacation. We'll be leaving the kiddos with my folks and then heading to Wisconsin Dells for two nights. It will be glorious.

@@ -1,9 +1,7 @@
 ---
 title: "An AP Concert Weekend"
-date: "2006-12-04T16:44:51.000"
-categories: 
-  - "random"
-tags: 
+date: 2006-12-04T16:44:51.000
+tags: ['music','concerts','andrew-peterson']
   - "music"
 ---
 

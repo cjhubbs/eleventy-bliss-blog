@@ -1,11 +1,7 @@
 ---
 title: "Early in the Morning"
-date: "2006-11-28T13:40:35.000"
-categories: 
-  - "random"
-tags: 
-  - "exercise"
-  - "life"
+date: 2006-11-28T13:40:35.000
+tags: ['exercise']
 ---
 
 The past two mornings Laura has decided there was a need to wake up about ten minutes to five; both times she had lost her pacifier and couldn't get back to sleep. (We need to find the little attachment device for it again.) Both days this has been about 20 minutes before my alarm was set to go off anyway. Amazingly I'm not too tired yet from the lack of sleep.

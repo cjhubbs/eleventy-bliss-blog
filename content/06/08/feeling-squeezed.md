@@ -1,11 +1,7 @@
 ---
 title: "Feeling Squeezed"
-date: "2006-08-08T18:40:23.000"
-categories: 
-  - "random"
-tags: 
-  - "geek"
-  - "work"
+date: 2006-08-08T18:40:23.000
+tags: ['tech','work']
 ---
 
 Yesterday I was sitting at my desk working away when suddenly, bzzt! and one of my monitors went dark. I have been using two monitors for the past couple of years; I have two CRTs on my desk; one 21" behemoth and one 19" behemoth's-younger-brother. My desk panel that they sit on is bowed down in the middle by about an inch because of the weight. I've been wishing for LCD monitors for a while (hey, the new folks have them!) but the company's policy is that we'll only replace them when they die.

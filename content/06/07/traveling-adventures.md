@@ -1,11 +1,7 @@
 ---
 title: "Traveling Adventures"
-date: "2006-07-15T14:05:27.000"
-categories: 
-  - "random"
-tags: 
-  - "travel"
-  - "work"
+date: 2006-07-15T14:05:27.000
+tags: ['travel','work']
 ---
 
 Tuesday through Thursday of this week took my on my first trip ever to Seattle, WA. Several of us from work were headed out to talk to the big airplane manufacturer from that area. And hey, Seattle was nice. Very nice. The trip there, however... well, it was an adventure.

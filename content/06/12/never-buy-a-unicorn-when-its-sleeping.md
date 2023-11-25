@@ -1,10 +1,7 @@
 ---
 title: "Never buy a Unicorn when it's Sleeping."
-date: "2006-12-24T21:14:10.000"
-categories: 
-  - "random"
-tags: 
-  - "christmas-2006"
+date: 2006-12-24T21:14:10.000
+tags: ['family','travel']
 ---
 
 Day 4 of our trip (Saturday the 23rd) was a nice day to catch up. After sleeping in, we had a late breakfast with Becky's folks. Or, I should say rather _at_ Becky's folks' place; I'm sure they had eaten hours before we got there. :-) The girls had some time to play with toys, and we helped prepare some food for Christmas dinner. Then in early afternoon while the girls were taking naps, Becky and I headed in to Charlotte to do a little shopping.

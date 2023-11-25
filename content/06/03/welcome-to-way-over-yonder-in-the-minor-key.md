@@ -1,8 +1,7 @@
 ---
 title: "Welcome to Way Over Yonder in the Minor Key!"
-date: "2006-03-01T04:07:02.000"
-categories: 
-  - "random"
+date: 2006-03-01T04:07:02.000
+tags: ['blogging']
 ---
 
 House of Cakeboy had about run its course, so after reflection the new blog title, as you can obviously see above, is "Way Over Yonder in the Minor Key". This wonderfully picturesque phrase is the title of a song from the album _Mermaid Avenue_, with lyrics by Woodie Guthrie and music by Billy Bragg & Wilco.

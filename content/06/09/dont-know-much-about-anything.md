@@ -1,10 +1,7 @@
 ---
 title: "Don't know much about...  anything!"
-date: "2006-09-19T12:56:44.000"
-categories: 
-  - "random"
-tags: 
-  - "thoughts"
+date: 2006-09-19T12:56:44.000
+tags: ['theology']
 ---
 
 Last night I took the opportunity to visit [Conversation Cafe](http://cafe.recminusa.org), a discussion group at [a local coffeehouse](http://www.brewedawakeningscr.com) that is led by my pastor. The guest speaker for the night was Rick, the minister from the local Unitarian Universalist (UU) church. It was, to say the least, an interesting night.

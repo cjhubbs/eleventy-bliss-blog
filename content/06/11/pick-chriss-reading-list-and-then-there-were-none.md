@@ -1,13 +1,10 @@
 ---
 title: "Pick Chris's Reading List: And Then There Were None"
-date: "2006-11-30T14:03:52.000"
-categories: 
-  - "random"
-tags: 
-  - "books"
+date: 2006-11-30T14:03:52.000
+tags: ['books','reviews']
 ---
 
-I've completed the first book off of [my user-suggested reading list](http://thehubbs.net/chris/my-reading-list/): _[And Then There Were None](http://www.amazon.com/gp/redirect.html%3FASIN=0312979479%26tag=caedmonscalln-20%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/0312979479%253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "View product details at Amazon")_ by Agatha Christie. Thanks to Heather for the recommendation!
+I've completed the first book off of my user-suggested reading list: _[And Then There Were None](http://www.amazon.com/gp/redirect.html%3FASIN=0312979479%26tag=caedmonscalln-20%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/0312979479%253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "View product details at Amazon")_ by Agatha Christie. Thanks to Heather for the recommendation!
 
 This was my first time reading anything by Agatha Christie. My only previous exposure to her work was when I watched the movie adaption of _Murder on the Orient Express_. That seems to have been a good preparation; much of the style in the plot development seems similar between the two. The formula: introduce the characters, put them in a tightly-defined scenario. Provide a character to narrate and work the reader through the logical options in the whodunit. Get to the end of the story with no good answer. Then provide an epilogue that reveals the twist that makes it all clear. Formulaic or not, it works - it kept me up a ways past my bedtime to finish it last night.
 

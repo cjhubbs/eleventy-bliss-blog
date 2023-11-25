@@ -1,10 +1,7 @@
 ---
 title: "The Penguin, and New Friends"
-date: "2006-12-30T03:19:49.000"
-categories: 
-  - "random"
-tags: 
-  - "christmas-2006"
+date: 2006-12-30T03:19:49.000
+tags: ['family','travel']
 ---
 
 Thursday was get-ready-to-head-home day. We picked up a cartop carrier that Ernie had salvaged for us. It is in excellent shape, and with all the post-Christmas shopping Becky did, it's a good thing we have it! There's no way we'd have fit all the stuff into the van. Then we started packing up to go home. Can't believe we brought so much stuff along. Seriously, we took the back seat out of the Caravan, and it's still packed up nearly to the ceiling, then we have the cartop carrier almost full, too. Goodness.

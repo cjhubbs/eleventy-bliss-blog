@@ -1,11 +1,7 @@
 ---
 title: "Best-laid plans... don't always work out."
-date: "2006-10-17T12:28:18.000"
-categories: 
-  - "random"
-tags: 
-  - "family"
-  - "life"
+date: 2006-10-17T12:28:18.000
+tags: ['family']
 ---
 
 Last night I was headed to bed at a relatively early hour, and as I prepared to go to sleep I decided I'd get up and run this morning. I haven't run much lately, and I need to. This morning was going to be relatively warm, good for running.

@@ -1,11 +1,7 @@
 ---
 title: 'more odds and ends for May 2006'
-date: '2006-05-03T01:48:49.000'
-categories:
-  - 'random'
-tags:
-  - 'family'
-  - 'life'
+date: 2006-05-03T01:48:49.000
+tags: ['family']
 ---
 
 Wow, so it's been far too long since I posted. What's been happening? Last weekend Mom and Dad and [Reba](http://thehubbs.net/rebecca/) came down to visit. We had a good time. Saturday we did a little bit of garage saleing and Reba looked at an apartment. She's planning on moving down here in June. That should be interesting. She's going to [Kirkwood](http://www.kirkwood.edu) in the fall. They came down Friday night, left Sunday afternoon. It was good to see them again.

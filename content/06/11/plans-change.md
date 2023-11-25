@@ -1,11 +1,7 @@
 ---
 title: "Plans Change"
-date: "2006-11-11T16:01:22.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "music"
+date: 2006-11-11T16:01:22.000
+tags: ['music']
 ---
 
 Well, that Happy Meal hasn't materialized in Laura's future yet. Becky got sick with a nasty fever and such on Thursday, so she had to cancel her trip to Chicago for this weekend. I know she was very disappointed, but what can you do?

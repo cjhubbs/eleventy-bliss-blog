@@ -1,10 +1,7 @@
 ---
 title: "Enough DaVinci, already!"
-date: "2006-05-19T16:34:42.000"
-categories: 
-  - "may-i-refer-you-to"
-tags: 
-  - "religion"
+date: 2006-05-19T16:34:42.000
+tags: ['church']
 ---
 
 I've heard just about enough about The DaVinci Code by now.

@@ -1,16 +1,12 @@
 ---
 title: "Today's lesson: Air Conditioner drain lines"
-date: "2006-08-24T13:20:02.000"
-categories: 
-  - "random"
-tags: 
-  - "life"
-  - "projects"
+date: 2006-08-24T13:20:02.000
+tags: ['homeownership']
 ---
 
 I may be reasonably intelligent, but sometimes I miss the obvious. I have known since we bought our house that there is tubing running from the furnace across the floor and under a wall into a drain below the bathroom sink, but it never dawned on me why it was there.
 
-Yesterday morning it became clear. I went downstairs for a shower and found the bath mat sopping wet. And more water standing on the floor. My initial reaction was to think that the sewer pipe had gotten clogged again; I've had to snake it out twice in the last 3 years. But no, my mother-in-law wasn't here, so that couldn't be it. \[1\] I cleaned up the water as best I could and then headed to work, but not before mentioning it to Becky who was up early with Addison.
+Yesterday morning it became clear. I went downstairs for a shower and found the bath mat sopping wet. And more water standing on the floor. My initial reaction was to think that the sewer pipe had gotten clogged again; I've had to snake it out twice in the last 3 years. But no, my mother-in-law wasn't here, so that couldn't be it. I cleaned up the water as best I could and then headed to work, but not before mentioning it to Becky who was up early with Addison.
 
 Becky investigated further and found that the water was coming from that drain line. And that drain line carries the condensation that builds up on the air conditioner coils which are inside the blower there in the furnace. It ended up that the drain line had gotten totally clogged up, and finally the water had started leaking. So she turned off the air conditioner, cleaned up the rest of the mess, read up on the topic on the internet, and then called me to discuss the issue.
 
@@ -22,4 +18,3 @@ By 9:30 last night I had it all fixed and the mess mostly cleaned up. I checked 
 
 Oh, and I watched the water drain after I turned the a/c on last night. Five gallons per day is an understatement.
 
-_\[1\] The two times we've had serious water in the basement my mother-in-law has been here visiting. Both times._

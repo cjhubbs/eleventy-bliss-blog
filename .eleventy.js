@@ -47,6 +47,8 @@ module.exports = function (eleventyConfig) {
     console.log(value);
   });
 
+
+
   // --- Shortcodes
 
   Object.values(shortcodes).forEach(({ name, body }) => {
@@ -66,6 +68,13 @@ module.exports = function (eleventyConfig) {
       eleventyConfig.on('eleventy.after', afterBuildEvent);
     });
   }
+
+  const searchFilter = require("./src/filters/searchFilter");
+  eleventyConfig.addFilter("search", searchFilter);
+  eleventyConfig.addCollection("posts", collection => {
+    return [...collection.getFilteredByGlob("./content/**/*.md")];
+  });
+
 
   // --- Consolidating everything under content folder
 

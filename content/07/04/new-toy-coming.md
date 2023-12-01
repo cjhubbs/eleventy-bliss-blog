@@ -6,7 +6,7 @@ tags: ['tech']
 
 Thanks to some unexpected cash influx, I was able to purchase this earlier this week:
 
-![Nikon D70s](/images/2007/nikon-d70s-review-1.jpeg)
+![Nikon D70s](/images/2007/nikon-d70s-review-1.jpg)
 
 It's a Nikon D70s, a quite nice Digital SLR camera. Only 6 megapixels, but that should be plenty for me.
 

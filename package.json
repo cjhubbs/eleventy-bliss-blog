@@ -3,8 +3,7 @@
   "version": "2.3.4",
   "private": true,
   "scripts": {
-    "prebuild": "npm run clean",
-    "build:eleventy": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy --quiet",
+    "build:eleventy": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy --incremental",
     "build": "npm-run-all build:*",
     "postbuild": "npm run minify:js",
     "clean": "rimraf _site",

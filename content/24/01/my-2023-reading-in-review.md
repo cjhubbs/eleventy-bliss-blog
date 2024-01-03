@@ -90,7 +90,7 @@ I [posted some appreciation for Stewart](/23/10/in-praise-of-humble-gentle-men/)
 - **_Babel_ by R. F. Kuang**
 - _Translation State_ by Ann Leckie
 - _Average Jones_ by Samuel Hopkins Adams
-- _The Odyssey_ by Homer, trans. Emily
+- _The Odyssey_ by Homer, trans. Emily Wilson
 - _Red Queen_ by Juan Gomez-Jurado
 - _The Left Hand of Darkness_ by Ursula K. Le Guin
 - _The Fifth Season_ by N. K. Jemisin
@@ -105,3 +105,9 @@ I [posted some appreciation for Stewart](/23/10/in-praise-of-humble-gentle-men/)
 - _The Collector_ by Daniel Silva
 
 Schell's epic story following a young man's life growing up in 20th century China is beautiful and tragic and very worth the read.
+
+## Summary
+
+One of my goals from previous years was to read fewer books written by white guys. By my count, 24 of this year's books meet that goal... which isn't as good as I'd hoped it would be. That science section didn't help in that regard. I made a stronger shift this year, though, away from theology and to science. That wasn't super-intentional, but just where my interest was at the time.
+
+On to 2024! I'm nearly halfway through my first book of the year.

@@ -1,6 +1,6 @@
 ---
 title: 'My 2023 Reading in Review'
-date: 2024-01-02
+date: 2024-01-03T10:06:01.10-06:00
 tags: ['books', 'reading', 'year-in-review']
 image:
   src: /images/2024/the-case-against-reality-cover.jpg

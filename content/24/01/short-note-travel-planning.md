@@ -1,5 +1,5 @@
 ---
-title: 'My 2023 Reading in Review'
+title: 'A short note on Travel Planning'
 date: 2024-01-04T15:00:03.15-6:00
 tags: ['personal', 'travel']
 ---
